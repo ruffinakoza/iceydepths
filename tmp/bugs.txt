@@ -1,0 +1,7 @@
+[27150] Erebus: ?
+[10414] Ryokan: warcry doesn't work when bless is already in effect, but bless works when warcry is
+[19109] Ryokan: carvallo's inventory still keeps disappearing when he dies.
+[19070] Ryokan: the standard issue wizard's inventory disappears too.
+[14767] Ryokan: when I drop my bow it displays as an arrow
+[31053] Ryokan: Mitzak the Sage doesn't work.
+[19062] Vantid: the new academy must have gotten rid of the diploma, so now I can't take my existing diploma off

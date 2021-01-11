@@ -1,0 +1,135 @@
+
+Booted Sun Jul  4 04:24:56 1999Area popularity statistics (in char * ticks)
+Groups Helps                                                 0
+Generic Helps                                                0
+Icey Helps                                                   0
+Limbo                                                        93
+Machine Dreams                                               0
+The Museum                                                   0
+In the Air                                                   0
+Zoo of Midgaard                                              0
+Plains                                                       1
+Goblin Stronghold                                            0
+Firetop Mountain                                             0
+Greater Gerighelm                                            0
+New Ofcol                                                    2
+Valhalla                                                     806
+Midgaard                                                     386
+Arachnos                                                     0
+Haon Dor                                                     2
+Elemental Canyon                                             0
+Dylan's Area                                                 0
+The ShadowKing's Lair                                        0
+Chapel                                                       0
+Shire                                                        0
+Dark Continent                                               0
+Dragon Tower                                                 0
+Chessboard of Midgaard                                       30
+Astral Plane                                                 0
+Dwarven Kingdom                                              8
+Drow City                                                    0
+Thalos                                                       1
+Sands of Sorrow                                              0
+Aarakocran City                                              0
+Galaxy                                                       0
+The Keep of the Warlock                                      0
+Yggdrasil                                                    0
+Old Troya                                                    0
+Mirror of Realm                                              72
+Caverns                                                      0
+Valley of the Titans                                         9
+King's Castle                                                0
+Blight                                                       0
+Dragon Spyre                                                 0
+Cannabis                                                     0
+Ciquala's Lair                                               0
+The Village of Anon                                          0
+The City of Anon                                             0
+Kurgan Mount Doom                                            0
+Ghost Town                                                   0
+The Walls of Anon                                            0
+The Unholy Abbey                                             34
+Lich Tower                                                   0
+Arcadia                                                      0
+Divided Souls                                                0
+Drakyri Isle                                                 15
+Armageddon                                                   3
+Tzbrakas Training Academy                                    81
+Dwarven Daycare                                              0
+Newbie Zone                                                  0
+Smurfville                                                   0
+Graveyard                                                    0
+Gnome Village                                                7
+Coliseum of Midgaard                                         778
+Moria                                                        10
+Miden'nir                                                    8
+Mirkwood                                                     0
+Dangerous Neighborhood                                       0
+Holy Grove                                                   0
+Valley of the Elves                                          0
+Mega City One                                                0
+Old Midgaard                                                 1
+Sewers                                                       0
+Goblin Nation                                                0
+Faerie Ring                                                  0
+Troll Den                                                    0
+Marsh                                                        0
+New Thalos                                                   3
+Ofcol                                                        0
+Quifael's                                                    0
+Redferne's                                                   0
+Wyvern's Tower                                               0
+High Tower of Sorcery                                        0
+Mahn-Tor                                                     0
+Solace                                                       0
+Coven                                                        0
+Nirvana                                                      0
+Antharia                                                     0
+Pyramid                                                      0
+Freeport                                                     0
+UnderDark                                                    86
+Camelot                                                      0
+The Abyss                                                    0
+Hell                                                         0
+Lair of Jher                                                 0
+Olympus                                                      0
+Prison                                                       1
+Pirate Isles                                                 8
+Westland                                                     0
+Erebus' Cavern of Wonders                                    81
+Emerald Forest                                               61
+Mausoleum                                                    0
+The Darker Woods                                             0
+Wonderland                                                   0
+Heartwork                                                    0
+Tower                                                        0
+Setepios                                                     0
+Quake Castle                                                 0
+Rising Sun Land                                              0
+Chaos                                                        0
+Valley of Death                                              0
+Castle of Giants                                             0
+Magic Forest                                                 0
+Dying Forest                                                 0
+Elvenhame                                                    0
+BattleRager Clanhall                                         0
+Knight Clanhall                                              0
+Ruler Clanhall                                               0
+Shalafi Clanhall                                             0
+Invader Clanhall                                             0
+Hunter Clanhall                                              0
+Chaos Clanhall                                               0
+Wex'sh city                                                  0
+Setepios II                                                  0
+Sunny Field                                                  0
+Momo's Misc Area                                             0
+Fort Daggworth                                               0
+Dragon Town                                                  0
+Warlock Tower                                                0
+Clan War Grounds                                             0
+Castle Griswold                                              0
+Hrothgar's Misery                                            0
+Oceans of Midgaardia                                         0
+Miette's Area                                                0
+Moors of Doom                                                0
+New area                                                     0

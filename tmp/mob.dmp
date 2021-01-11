@@ -1,0 +1,3069 @@
+
+Mobile Analysis
+---------------
+#3      1 active   0 killed     {WScillarda{x
+#10     0 active   0 killed     the shadow of %s
+#11     0 active   0 killed     the guard
+#12     0 active   0 killed     a bear
+#13     0 active   0 killed     a fiery demon
+#14     0 active   0 killed     A Nightwalker
+#15     0 active   0 killed     the stalker
+#16     0 active   0 killed     the squire
+#17     0 active   0 killed     the mirror
+#18     0 active   0 killed     the undead body of %s
+#19     0 active   0 killed     a lion
+#20     0 active   0 killed     a wolf
+#21     0 active   0 killed     a lesser golem
+#22     0 active   0 killed     a stone golem
+#23     0 active   0 killed     a iron golem
+#24     0 active   0 killed     a adamantite golem
+#25     0 active   0 killed     a lion
+#26     0 active   0 killed     a summoned shadow
+#50     1 active   0 killed     Junkseller
+#101    8 active   0 killed     a smurf
+#102    3 active   0 killed     a smurf
+#103    1 active   0 killed     Brainy Smurf
+#104    1 active   0 killed     Handy Smurf
+#105    1 active   0 killed     Sleepy Smurf
+#106    1 active   0 killed     Hefty Smurf
+#107    1 active   0 killed     Grumpy Smurf
+#108    1 active   0 killed     Jokey Smurf
+#109    1 active   0 killed     Smurfette
+#110    1 active   0 killed     Papa Smurf
+#111    1 active   0 killed     Gargamel
+#112    1 active   0 killed     Azreal
+#201    2 active   0 killed     a dryad
+#202    2 active   0 killed     a nymph
+#203    2 active   0 killed     a pixie
+#204    2 active   0 killed     a sprite
+#205    2 active   0 killed     a brownie
+#206    1 active   0 killed     a ranger
+#207    1 active   0 killed     the Spriggan
+#208    2 active   0 killed     a gremlin
+#209    2 active   0 killed     a fiendish donkey
+#210    1 active   0 killed     the Devil's Huntsman
+#211    2 active   0 killed     the pumpkin man
+#212    1 active   0 killed     the Ancient Ranger Guildmaster
+#213    1 active   0 killed     the Ancient Ranger Lord
+#214    1 active   0 killed     the ancient ranger bear
+#215    1 active   0 killed     the Grand Pooh-Ba
+#216    1 active   0 killed     Aude
+#217    1 active   0 killed     Gertrude
+#218    1 active   0 killed     Hela
+#219    1 active   0 killed     Young Jim
+#220    3 active   0 killed     Happy Farmer
+#221    3 active   0 killed     Young HotBlood
+#222    1 active   0 killed     Maddie the local beauty
+#223    1 active   0 killed     Sheeka Trilquill
+#224    2 active   0 killed     a good wife
+#225    1 active   0 killed     the village idiot
+#226    1 active   0 killed     a Knight
+#227    1 active   0 killed     a Sylph
+#228    1 active   0 killed     Irin
+#229    1 active   0 killed     the marmalade cat
+#230    1 active   0 killed     Kortho
+#231    1 active   0 killed     Sir Sorrow
+#232    1 active   0 killed     Yun Fei Yang
+#233    1 active   0 killed     farmer
+#234    1 active   0 killed     a hellHound
+#235    1 active   0 killed     the mountain boogum
+#236    1 active   0 killed     an Apparition
+#237    1 active   0 killed     Demon-Elf
+#238    1 active   0 killed     Imbessar
+#239    1 active   0 killed     Marisa
+#240    2 active   0 killed     a lady ranger
+#241    2 active   0 killed     a pixie
+#242    2 active   0 killed     a pixie
+#243    2 active   0 killed     a pixie
+#244    2 active   0 killed     a pixie
+#245    2 active   0 killed     a brownie
+#246    2 active   0 killed     a brownie
+#247    2 active   0 killed     a brownie
+#248    2 active   0 killed     a brownie
+#249    2 active   0 killed     a brownie
+#250    2 active   0 killed     a sprite
+#251    2 active   0 killed     a sprite
+#252    2 active   0 killed     a sprite
+#253    2 active   0 killed     a sprite
+#254    2 active   0 killed     a dryad
+#255    2 active   0 killed     a dryad
+#256    2 active   0 killed     a dryad
+#257    2 active   0 killed     a dryad
+#258    2 active   0 killed     a nymph
+#259    2 active   0 killed     a nymph
+#260    2 active   0 killed     a nymph
+#261    2 active   0 killed     a nymph
+#262    2 active   0 killed     a lady ranger
+#263    1 active   0 killed     a lady ranger
+#264    1 active   0 killed     a ranger
+#265    1 active   0 killed     a ranger
+#266    1 active   0 killed     a ranger
+#267    1 active   0 killed     a ranger
+#268    1 active   0 killed     a gremlin
+#269    1 active   0 killed     a gremlin
+#270    1 active   0 killed     a gremlin
+#271    1 active   0 killed     a gremlin
+#272    1 active   0 killed     the pumpkin man
+#273    1 active   0 killed     the pumpkin man
+#274    1 active   0 killed     the pumpkin man
+#275    1 active   0 killed     the pumpkin man
+#276    1 active   0 killed     a fiendish donkey
+#277    1 active   0 killed     a fiendish donkey
+#278    1 active   0 killed     a fiendish donkey
+#279    1 active   0 killed     a fiendish donkey
+#280    1 active   0 killed     a hellHound
+#281    1 active   0 killed     a hellHound
+#282    1 active   0 killed     a hellHound
+#283    1 active   0 killed     the Devil's Huntsman
+#284    1 active   0 killed     the Devil's Huntsman
+#285    1 active   0 killed     the Devil's Huntsman
+#286    1 active   0 killed     the Devil's Huntsman
+#287    3 active   0 killed     a nymph
+#288    1 active   0 killed     a ranger
+#289    1 active   0 killed     a ranger
+#290    1 active   0 killed     a ranger
+#291    1 active   0 killed     the Devil Lieutenant
+#300    1 active   0 killed     Aruncus the Druid
+#301    1 active   0 killed     Sorbus the Hermit
+#303    2 active   0 killed     the citizen
+#304    2 active   0 killed     the citizen
+#305    1 active   0 killed     Shudde-M'ell
+#306    1 active   0 killed     Luxan
+#308    1 active   0 killed     the Innkeeper
+#309    5 active   0 killed     the cute rabbit
+#350    1 active   0 killed     the pet dragon
+#400    1 active   0 killed     ameoba
+#401    1 active   0 killed     A gorilla
+#402    1 active   0 killed     A pubic lice
+#403    1 active   0 killed     John the shopkeeper
+#404    1 active   0 killed     a shark
+#405    1 active   0 killed     A Man-of-War
+#406    1 active   0 killed     a child
+#407    1 active   0 killed     Your teacher
+#408    1 active   0 killed     A gorilla
+#409    1 active   0 killed     A janitor
+#410    1 active   0 killed     an emu
+#500    0 active   0 killed     a small, fluffy white puppy
+#600    8 active   0 killed     the Ofcol cityguard
+#601    1 active   0 killed     Marshall Diana
+#602    1 active   0 killed     Captain Derrick
+#603    1 active   0 killed     Captain Jacklyn
+#604    1 active   0 killed     Jim the Blacksmith
+#605    1 active   0 killed     Sam
+#606    1 active   0 killed     Madam Tracy
+#607    1 active   0 killed     Marty
+#608    1 active   0 killed     Farmer Elizabeth
+#609    1 active   0 killed     Granny Jenkins
+#610    1 active   0 killed     Jack
+#611    1 active   0 killed     Farmer Sara
+#612    4 active   0 killed     a hen
+#613    3 active   0 killed     the cow
+#614    2 active   0 killed     the cow
+#615    4 active   0 killed     the young horse
+#616    4 active   0 killed     the pig
+#617    3 active   0 killed     the citizen
+#618    3 active   0 killed     the citizen
+#619    2 active   0 killed     the boy
+#620    2 active   0 killed     the girl
+#621    3 active   0 killed     the maid
+#622    1 active   0 killed     Nyles the Bartender
+#623    3 active   0 killed     the Ofcol cityguard
+#624    1 active   0 killed     a bard
+#625    2 active   0 killed     a servant
+#626    2 active   0 killed     a squire
+#627    1 active   0 killed     a page
+#628    1 active   0 killed     the Priestess of Ofcol
+#629    1 active   0 killed     Chaplain Jerrold
+#630    3 active   0 killed     a Dragonlord
+#631    1 active   0 killed     The Ancient Gold Dragon
+#632    2 active   0 killed     an attendant of the dragon
+#633    3 active   0 killed     a Dragonknight
+#634    3 active   0 killed     the Ofcol cityguard
+#635    1 active   0 killed     the Old Man
+#901    1 active   0 killed     Zeus
+#902    1 active   0 killed     Prometheus
+#903    1 active   0 killed     Hermes
+#904    1 active   0 killed     Poseidon
+#905    1 active   0 killed     Apollo
+#906    1 active   0 killed     Ares
+#907    1 active   0 killed     Athena
+#908    1 active   0 killed     Hephaestus
+#909    2 active   0 killed     A Golden Maiden
+#910    2 active   0 killed     A Soldier
+#911    2 active   0 killed     an apprentice musician
+#912    2 active   0 killed     A serving boy
+#913    3 active   0 killed     A hound of war
+#914    1 active   0 killed     Odin
+#915    1 active   0 killed     Julius the Green Grocer
+#916    1 active   0 killed     the Alchemist
+#917    1 active   0 killed     Clive the Weapons Master
+#918    1 active   0 killed     Samuel the Armourer
+#919    1 active   0 killed     Ra the Sun God
+#920    2 active   0 killed     a chimera
+#921    1 active   0 killed     Hera
+#922    2 active   0 killed     a roc
+#923    7 active   0 killed     A citizen
+#924    2 active   0 killed     a pegasus
+#925    2 active   0 killed     A Cook
+#926    1 active   0 killed     The Jailer
+#1000   3 active   0 killed     A fairy dragon
+#1001   1 active   0 killed     A griffin
+#1100   1 active   0 killed     the Elven Wizard
+#1101   1 active   0 killed     the Keeper of the Ring
+#1102   1 active   0 killed     Farmer Gamgee
+#1103   6 active   0 killed     a toddler
+#1104   2 active   0 killed     a nursemaid
+#1105   3 active   0 killed     a cow
+#1106   5 active   0 killed     a pig
+#1107   6 active   0 killed     a chicken
+#1108   1 active   0 killed     a bull
+#1109   4 active   0 killed     a horse
+#1110   8 active   0 killed     a shiriff
+#1111   4 active   0 killed     a shiriff
+#1112   1 active   0 killed     the Thain
+#1113   1 active   0 killed     the Innkeeper
+#1114   1 active   0 killed     the Miller
+#1115   6 active   0 killed     the mill worker
+#1116   1 active   0 killed     the elven warrior
+#1117   1 active   0 killed     the dwarven prince
+#1118   1 active   0 killed     the shopkeeper
+#1119   1 active   0 killed     the grocer
+#1120   1 active   0 killed     the blacksmith
+#1121   1 active   0 killed     the battle master
+#1122   9 active   0 killed     a halfling youth
+#1123   5 active   0 killed     a seasoned adventurer
+#1124   2 active   0 killed     a local gossip
+#1125   1 active   0 killed     a halfling beauty
+#1126   3 active   0 killed     a trainee
+#1127   7 active   0 killed     a chic urbanite
+#1128   4 active   0 killed     a country bumpkin
+#1130   1 active   0 killed     the Innkeeper
+#1131   1 active   0 killed     the receptionist
+#1132   0 active   0 killed     a shiriff
+#1200   1 active   0 killed     Heimdall
+#1300   5 active   0 killed     a shadow guardian
+#1301   1 active   0 killed     a lost adventurer
+#1302   1 active   0 killed     Edgar
+#1303   1 active   0 killed     the golem
+#1304   6 active   0 killed     a mage
+#1305   1 active   0 killed     Strick the bartender
+#1306   1 active   0 killed     Tatorious
+#1307   1 active   0 killed     Ezmerelda
+#1308   1 active   0 killed     The cook's assistant
+#1309   1 active   0 killed     The prisoner
+#1310   1 active   0 killed     the Jailor
+#1311   2 active   0 killed     a broom
+#1312   7 active   0 killed     a pair of disembodied hands
+#1313   5 active   0 killed     a pair of disembodied eyes
+#1314   1 active   0 killed     the mage
+#1315   2 active   0 killed     a young apprentice magic user
+#1316   2 active   0 killed     a young apprentice
+#1317   2 active   0 killed     a young apprentice
+#1318   3 active   0 killed     A young apprentice
+#1319   1 active   0 killed     a small kitten
+#1320   4 active   0 killed     a student
+#1321   1 active   0 killed     an instructor of magic
+#1322   4 active   0 killed     a student of spells
+#1323   1 active   0 killed     a spell teacher
+#1324   3 active   0 killed     a student of spells
+#1325   1 active   0 killed     a wizard
+#1326   3 active   0 killed     a young mage
+#1327   1 active   0 killed     the battle mistress
+#1328   1 active   0 killed     a spell teacher
+#1329   1 active   0 killed     an aged wizard
+#1330   1 active   0 killed     a scribe
+#1331   2 active   0 killed     a scribe
+#1332   1 active   0 killed     the master scribe
+#1333   1 active   0 killed     the scribe's assistant
+#1334   1 active   0 killed     the Enchanter
+#1335   1 active   0 killed     a dancing sword
+#1336   1 active   0 killed     the Mad Alchemist
+#1337   1 active   0 killed     the master summoner
+#1338   1 active   0 killed     the master charmer
+#1339   5 active   0 killed     a wooden golem
+#1340   1 active   0 killed     the master spell binder
+#1341   1 active   0 killed     the golem maker
+#1342   1 active   0 killed     a granite golem
+#1343   1 active   0 killed     a bronze golem
+#1344   1 active   0 killed     a flesh golem
+#1345   1 active   0 killed     a cloth golem
+#1346   1 active   0 killed     an adamantite golem
+#1347   1 active   0 killed     a clay golem
+#1348   1 active   0 killed     the master of illusions
+#1349   1 active   0 killed     the Necromancer
+#1350   2 active   0 killed     an animated skeleton
+#1351   1 active   0 killed     an undead giant
+#1352   3 active   0 killed     an ugly witch
+#1353   1 active   0 killed     the Librarian
+#1354   1 active   0 killed     the master's apprentice
+#1355   1 active   0 killed     a grey cat
+#1356   1 active   0 killed     the master of Neutrality
+#1357   1 active   0 killed     a black robed apprentice
+#1358   1 active   0 killed     a black cat
+#1359   1 active   0 killed     the master of the black robes
+#1360   1 active   0 killed     a white robed apprentice
+#1361   1 active   0 killed     a white cat
+#1362   1 active   0 killed     The master of goodness
+#1363   1 active   0 killed     A calico cat
+#1364   1 active   0 killed     The Grand Mistress
+#1365   0 active   0 killed     a wizard
+#1500   3 active   0 killed     a gnome child
+#1501   3 active   0 killed     a gnome woman
+#1502   3 active   0 killed     a gnome man
+#1503   3 active   0 killed     a gnome scientist
+#1504   5 active   0 killed     a gnome guard
+#1505   1 active   0 killed     the chief gnome
+#1507   1 active   0 killed     a small troll
+#1508   2 active   0 killed     a field mouse
+#1509   1 active   0 killed     a rat
+#1510   1 active   0 killed     a large rat
+#1511   1 active   0 killed     a giant rat
+#1512   1 active   0 killed     the troll
+#1513   5 active   0 killed     a black bat
+#1514   5 active   0 killed     the zombie gnome
+#1515   1 active   0 killed     the fire bat
+#1516   0 active   0 killed     the hobgoblin guard
+#1517  12 active   0 killed     the hobgoblin soldier
+#1518   5 active   0 killed     the hobgoblin bodyguard
+#1519   1 active   0 killed     the king of the hobgoblins
+#1520   3 active   0 killed     a hobgoblin miner
+#1521   1 active   0 killed     the treasurer
+#1522   3 active   0 killed     a gnome prisoner
+#1523   2 active   0 killed     a human prisoner
+#1524   1 active   0 killed     a hermit
+#1526   1 active   0 killed     the cook
+#1601   4 active   0 killed     a killer frog
+#1602   6 active   0 killed     the stone gargoyle
+#1603   3 active   0 killed     an angry gargoyle
+#1604   4 active   0 killed     the elite gargoyle
+#1605   1 active   0 killed     the gargoyle shaman
+#1606   1 active   0 killed     a carnivorous plant
+#1607   1 active   0 killed     a gruesome ogre
+#1608   1 active   0 killed     a shadow
+#1609   1 active   0 killed     an evil wight
+#1610   2 active   0 killed     A burly minotaur
+#1612   1 active   0 killed     the savage minotaur
+#1613   1 active   0 killed     the captain
+#1614   1 active   0 killed     the black pudding
+#1615   1 active   0 killed     a lesser golem
+#1616   1 active   0 killed     the ancient wyvern
+#1617   1 active   0 killed     the spectre
+#1702   2 active   0 killed     a trapper
+#1704   2 active   0 killed     a hunter
+#1706   1 active   0 killed     a ranger
+#1707   0 active   0 killed     a ranger leader
+#1708   0 active   0 killed     the Lord of the Rangers
+#1710   3 active   0 killed     a centaur
+#1711   2 active   0 killed     a centaur
+#1712   3 active   0 killed     an old centaur
+#1714   3 active   0 killed     an elder centaur
+#1715   2 active   0 killed     a centaur guard
+#1716   1 active   0 killed     the centaur chief
+#1720   0 active   0 killed     a displacer beast
+#1801   6 active   0 killed     a white unicorn
+#1802   7 active   0 killed     a white unicorn
+#1803   1 active   0 killed     a black panther
+#1804   1 active   0 killed     a young girl with a lovely voice
+#1805   1 active   0 killed     the silver unicorn
+#1806   1 active   0 killed     the golden unicorn
+#1807   1 active   0 killed     the platinum unicorn
+#1808   1 active   0 killed     the copper unicorn
+#1809   1 active   0 killed     the chromatic unicorn
+#1810   1 active   0 killed     the brass unicorn
+#1811   7 active   0 killed     a mushroom as tall as a giant's knee
+#1812   1 active   0 killed     a shadow dragon
+#1813   1 active   0 killed     the red witch
+#1814   1 active   0 killed     the orange witch
+#1815   1 active   0 killed     the yellow witch
+#1816   1 active   0 killed     the green witch
+#1817   1 active   0 killed     the blue witch
+#1818   1 active   0 killed     the indigo witch
+#1819   1 active   0 killed     the violet witch
+#1820   1 active   0 killed     the red warlock
+#1821   1 active   0 killed     the orange warlock
+#1822   1 active   0 killed     the yellow warlock
+#1823   1 active   0 killed     the green warlock
+#1824   1 active   0 killed     the blue warlock
+#1825   1 active   0 killed     the indigo warlock
+#1826   1 active   0 killed     the violet warlock
+#1827   1 active   0 killed     the ranger shopkeeper
+#1828   1 active   0 killed     the ranger guildmaster
+#1829   1 active   0 killed     the ebony unicorn
+#1830  27 active   0 killed     a grey squirrel
+#1831  10 active   0 killed     a tiny butterfly
+#1832  11 active   0 killed     a small cardinal
+#1833   6 active   0 killed     a bluebird
+#1834   5 active   0 killed     a blue bird
+#1835  11 active   0 killed     a goldfinch
+#1836   5 active   0 killed     a red-eyed vireo
+#1837   9 active   0 killed     a tiny hummingbird
+#1838   1 active   0 killed     the black warlock
+#1839  13 active   0 killed     a small white bunny
+#1840  14 active   0 killed     a fallow deer
+#2001   3 active   0 killed     a bat
+#2002   8 active   0 killed     a templar page
+#2003   2 active   0 killed     a spelunker
+#2004   4 active   0 killed     a graverobber
+#2005   9 active   0 killed     some mist
+#2006   7 active   0 killed     It
+#2007   4 active   0 killed     a skeleton
+#2008  12 active   0 killed     a templar
+#2009   2 active   0 killed     a mysterious wraith
+#2010   5 active   0 killed     the templar officer
+#2011   4 active   0 killed     zombie
+#2012   1 active   0 killed     the shadow
+#2013   1 active   0 killed     The vampire
+#2014   1 active   0 killed     the evil necromancer
+#2015   1 active   0 killed     the grand templar
+#2016   1 active   0 killed     the prism dragon
+#2017   1 active   0 killed     The DarkenBeast
+#2101  25 active   0 killed     a troll gang member
+#2102  25 active   0 killed     an ogre gang member
+#2103   1 active   0 killed     the Troll gang leader
+#2104   5 active   0 killed     a bruiser
+#2105   5 active   0 killed     a doll
+#2106  10 active   0 killed     a patrolman
+#2107   3 active   0 killed     a vandal
+#2108   8 active   0 killed     a pitbull
+#2109   3 active   0 killed     a punk
+#2110   1 active   0 killed     the Ogre gang leader
+#2111   5 active   0 killed     a thug
+#2200  12 active   0 killed     the dragon hatchling
+#2201   5 active   0 killed     the Draconian
+#2202   1 active   0 killed     the dragon master
+#2203   1 active   0 killed     a powerful mage
+#2204   1 active   0 killed     the holy Draconian
+#2205   1 active   0 killed     the Draconian King
+#2206   4 active   0 killed     a concubine
+#2207   6 active   0 killed     A bodyguard
+#2220   1 active   0 killed     Tiamat
+#2221   1 active   0 killed     the Great Red Dragon
+#2222   1 active   0 killed     the Great Black Dragon
+#2223   1 active   0 killed     the Great White Dragon
+#2225   1 active   0 killed     the Ancient Green Dragon
+#2226   1 active   0 killed     a large hydra
+#2227   3 active   0 killed     A human slave
+#2240   8 active   0 killed     a Draconian zombie
+#2241   1 active   0 killed     the phase dragon
+#2242   3 active   0 killed     the draconian fool
+#2243   1 active   0 killed     the Draconian Queen
+#2300   1 active   0 killed     the Dark Ethereal Knight
+#2301   1 active   0 killed     the Old Treant
+#2302   1 active   0 killed     the Cave Dweller
+#2303   4 active   0 killed     the Rock Toad
+#2304   1 active   0 killed     the Weeping Willow
+#2305   3 active   0 killed     the Mistling
+#2306   1 active   0 killed     the Swamp Wraith
+#2307   5 active   0 killed     the Ogre Villager
+#2308   4 active   0 killed     the Ogre Warrior
+#2309   4 active   0 killed     the Ogre Guard
+#2310   1 active   0 killed     The Ogre Shaman
+#2311   1 active   0 killed     the Ogre Chieftain
+#2312   3 active   0 killed     the Plains Barbarian
+#2313   3 active   0 killed     the White Yeti
+#2314   3 active   0 killed     the Ice Worm
+#2315   5 active   0 killed     the Minotaur Citizen
+#2316   3 active   0 killed     the Minotaur Guard
+#2317   3 active   0 killed     the Minotaur Warrior
+#2318   1 active   0 killed     the Minotaur Gatekeeper
+#2319   2 active   0 killed     the High Minotaur Guard
+#2320   2 active   0 killed     the Royal Minotaur Guard
+#2321   2 active   0 killed     the Elite Minotaur Guard
+#2322   5 active   0 killed     the Harem Girl
+#2323   1 active   0 killed     the Minotaur Butler
+#2324   1 active   0 killed     the Minotaur Ring-Keeper
+#2325   1 active   0 killed     Gorak
+#2326   1 active   0 killed     Darkoth
+#2327   1 active   0 killed     Tyrgoth
+#2328   1 active   0 killed     Amyrok
+#2329   1 active   0 killed     Sumaron
+#2330   1 active   0 killed     Nasturn
+#2331   1 active   0 killed     Belrak
+#2332   1 active   0 killed     Dorgar
+#2333   1 active   0 killed     Mahn-Tor
+#2400   1 active   0 killed     The Copper Dragon
+#2401   1 active   0 killed     The White Dragon
+#2402  11 active   0 killed     A Pixie
+#2403   1 active   0 killed     The Spirit of the Time Dragon
+#2404   1 active   0 killed     The Spirit of the Ice Dragon
+#2405   1 active   0 killed     The Pixie King
+#2406   1 active   0 killed     The GateKeeper
+#2407   1 active   0 killed     The Eternity Dragon
+#2408   2 active   0 killed     A Pixie Guard
+#2409   1 active   0 killed     The Master Pixie Mage
+#2410   2 active   0 killed     A Pixie Guard
+#2411  10 active   0 killed     A Pixie
+#2412   1 active   0 killed     A Keeper
+#2413   1 active   0 killed     Fireflash
+#2414  12 active   0 killed     A Pixie
+#2800   2 active   0 killed     the guardian beast
+#2801   2 active   0 killed     the young troll
+#2802   1 active   0 killed     the medium troll
+#2803   4 active   0 killed     a baby troll
+#2804   1 active   0 killed     the giant troll
+#2805   1 active   0 killed     the large female troll
+#2806   5 active   0 killed     a fat worm
+#2807   1 active   0 killed     the roving beast
+#2808   1 active   0 killed     the medium troll
+#2900   1 active   0 killed     a Hollyphant
+#2901   1 active   0 killed     a planetar
+#2902   2 active   0 killed     a Shedu
+#2903   1 active   0 killed     a dretch
+#2904   1 active   0 killed     a chasme
+#2905   1 active   0 killed     a babau
+#2906   1 active   0 killed     a yagnodemon
+#2907   1 active   0 killed     Kostchtchie
+#2908   1 active   0 killed     a nabassu
+#2909   1 active   0 killed     a cloud dragon
+#2910   1 active   0 killed     a solar
+#2911   2 active   0 killed     a wemic
+#2912   2 active   0 killed     a frost giant
+#2913   1 active   0 killed     a gorgimera
+#2914   1 active   0 killed     Ratatosk
+#3000   1 active   0 killed     the wizard
+#3001   1 active   0 killed     the baker
+#3002   1 active   0 killed     the grocer
+#3003   1 active   0 killed     the weaponsmith
+#3004   1 active   0 killed     the armorer
+#3005   2 active   0 killed     the thief
+#3006   1 active   0 killed     the captain
+#3007   1 active   0 killed     the sailor
+#3008   1 active   0 killed     the pet shop boy
+#3009   1 active   0 killed     the jeweller
+#3010   1 active   0 killed     the leather worker
+#3011   1 active   0 killed     Questor
+#3012   1 active   0 killed     Aedar the healer
+#3020   1 active   0 killed     the witch guildmaster
+#3021   1 active   0 killed     the cleric guildmaster
+#3022   1 active   0 killed     the thieves' guildmaster
+#3023   1 active   0 killed     the warrior guildmaster
+#3024   1 active   0 killed     the witch guildguard
+#3025   1 active   0 killed     the knight templar
+#3026   1 active   0 killed     the assassin
+#3027   1 active   0 killed     the knight
+#3040   1 active   0 killed     the bartender
+#3041   0 active   0 killed     the waiter
+#3042   1 active   0 killed     the waitress
+#3043   1 active   0 killed     the waiter
+#3044   1 active   0 killed     the duergar bartender
+#3045   1 active   0 killed     the satyr waiter
+#3046   1 active   0 killed     Filthy
+#3047   1 active   0 killed     a tall samurai warrior
+#3048   1 active   0 killed     a young paladin
+#3049   0 active   0 killed     the knight templar
+#3050   1 active   0 killed     a drunken sailor
+#3051   1 active   0 killed     a stone gargoyle
+#3052   1 active   0 killed     the anti-paladin guildguard
+#3053   1 active   0 killed     a desk clerk
+#3054   0 active   0 killed     
+#3055   1 active   0 killed     the bartender
+#3060  11 active   0 killed     the cityguard
+#3061   1 active   0 killed     the janitor
+#3062   4 active   0 killed     the beastly fido
+#3063   3 active   0 killed     the vagabond
+#3064   1 active   0 killed     the drunk
+#3065   2 active   0 killed     the beggar
+#3066   1 active   0 killed     an alley cat
+#3067   2 active   0 killed     the cityguard
+#3068   2 active   0 killed     the cityguard
+#3069   4 active   0 killed     the cityguard
+#3070   1 active   0 killed     An old man
+#3071   2 active   0 killed     the cityguard
+#3072   1 active   0 killed     the cityguard
+#3090   1 active   0 killed     the kitten
+#3091   1 active   0 killed     the puppy
+#3092   1 active   0 killed     the beagle
+#3093   1 active   0 killed     the rottweiler
+#3094   1 active   0 killed     the wolf
+#3095   0 active   0 killed     the eagle
+#3096   0 active   0 killed     the lion
+#3097   0 active   0 killed     the tiger
+#3100   1 active   0 killed     the maid
+#3120   1 active   0 killed     the sexton
+#3121   1 active   0 killed     the swan
+#3122   1 active   0 killed     the duckling
+#3123   1 active   0 killed     the sparrow
+#3124   2 active   0 killed     the duck
+#3140   1 active   0 killed     the captain
+#3141   4 active   0 killed     the cityguard
+#3142   1 active   0 killed     the secretary
+#3143   1 active   0 killed     the mayor
+#3144   1 active   0 killed     the town crier
+#3150   1 active   0 killed     Esme
+#3160   1 active   0 killed     Melancholy
+#3161   1 active   0 killed     Lister
+#3162   1 active   0 killed     Otho the Changer
+#3163   1 active   0 killed     the thief
+#3164   1 active   0 killed     the butcher
+#3165   1 active   0 killed     the weaponsmith's apprentice
+#3166   1 active   0 killed     Nacya
+#3167   1 active   0 killed     the paladin guildmaster
+#3168   1 active   0 killed     the ninja master
+#3169   1 active   0 killed     the anti-paladin guildmaster
+#3170   1 active   0 killed     the warlock guildmaster
+#3171   1 active   0 killed     the samurai guildmaster
+#3172   1 active   0 killed     the templeman
+#3299   1 active   0 killed     Maldrennlin
+#3300   1 active   0 killed     the banker
+#3400   4 active   0 killed     the bony skeleton
+#3401   7 active   0 killed     the undead zombie
+#3402   5 active   0 killed     The ghoul
+#3403   1 active   0 killed     The wraith
+#3404   1 active   0 killed     The guardian vampire
+#3405   1 active   0 killed     the priest
+#3406   3 active   0 killed     the Mi-Go
+#3407   4 active   0 killed     The nightgaunt
+#3408   1 active   0 killed     The hunting horror
+#3409   4 active   0 killed     some cave weeds
+#3410   1 active   0 killed     Snapper Joe
+#3411   1 active   0 killed     The X-ist flesh eater
+#3412   1 active   0 killed     the spirit of King Crotus
+#3413   5 active   0 killed     the rock slug
+#3414   1 active   0 killed     The mad etcher
+#3415   1 active   0 killed     The spectral etcher's wife
+#3416   4 active   0 killed     The half-decomposed body
+#3500   2 active   0 killed     the wyvern
+#3501   6 active   0 killed     the goblin
+#3502   1 active   0 killed     the small boy
+#3503   1 active   0 killed     the Innkeeper
+#3504   1 active   0 killed     the bard
+#3505   2 active   0 killed     the dark horseman
+#3506   2 active   0 killed     the goblin lieutenant
+#3507   1 active   0 killed     the goblin leader
+#3600   1 active   0 killed     Henry the Gardener
+#3601   1 active   0 killed     the rotting zombie
+#3602   1 active   0 killed     the ghastly ghoul
+#3603   4 active   0 killed     a dusty skeleton
+#3604   4 active   0 killed     a dusty skeleton
+#3605   3 active   0 killed     the rotting zombie
+#3700   1 active   0 killed     Tzbrakas
+#3701   1 active   0 killed     an ugly troll
+#3702   1 active   0 killed     a cooshee
+#3703   1 active   0 killed     a tall elven guard
+#3704   1 active   0 killed     an ogre
+#3705   1 active   0 killed     a shifty lizardman
+#3706   1 active   0 killed     a stone gargoyle
+#3707   0 active   0 killed     the cleric teacher
+#3708   1 active   0 killed     a spirit of mercy
+#3709   4 active   0 killed     the rabbit
+#3710   3 active   0 killed     the lizard
+#3711   3 active   0 killed     the boar
+#3712   3 active   0 killed     the fox
+#3713   5 active   0 killed     the snail
+#3714   1 active   0 killed     the beast
+#3715   2 active   0 killed     the bear
+#3716   2 active   0 killed     the wolf
+#3717   1 active   0 killed     the academy shopkeeper
+#3718   1 active   0 killed     A wraith
+#3719   1 active   0 killed     An adept
+#3720   1 active   0 killed     a firedrake
+#3721  27 active   0 killed     a grinning kobold
+#3722   1 active   0 killed     {Rthe ruby guardian{x
+#3723   1 active   0 killed     {Gthe emerald guardian{x
+#3724   1 active   0 killed     {Bthe sapphire guardian{x
+#3725   1 active   0 killed     {Ythe citrine guardian{x
+#3726   1 active   0 killed     {Mthe amethyst guardian{x
+#3727   1 active   0 killed     {Cthe topaz guardian{x
+#3728   1 active   0 killed     Meldrake
+#3729   1 active   0 killed     Belarius
+#3730   1 active   0 killed     a small boy
+#3731   1 active   0 killed     Leomund
+#3732   1 active   0 killed     a dwarven blacksmith
+#3733   1 active   0 killed     a spirit of mercy
+#3734   0 active   0 killed     an elven guard
+#3735   0 active   0 killed     an elven guard
+#3736  14 active   0 killed     a cloth practice dummy
+#3737  16 active   0 killed     a straw practice dummy
+#3738   8 active   0 killed     a leather practice dummy
+#3739   3 active   0 killed     a vampire bat
+#3740   1 active   0 killed     a tired gnome
+#3741   1 active   0 killed     a tired young satyr
+#3742   1 active   0 killed     {wthe diamond statue{x
+#3743   1 active   0 killed     the head of the guard
+#3744   1 active   0 killed     an elven guard
+#3745   2 active   0 killed     a young dwarven adventurer
+#3746   1 active   0 killed     a grumpy dwarf
+#3747   2 active   0 killed     a young satyr adventurer
+#3748   2 active   0 killed     a young gnome adventurer
+#3749   1 active   0 killed     a janitor
+#3750   1 active   0 killed     a friendly little fido
+#3751   1 active   0 killed     an evil fire giant
+#4000   1 active   0 killed     the huge python
+#4001   2 active   0 killed     the garter snake
+#4002   3 active   0 killed     the centipede
+#4003   3 active   0 killed     the kobold
+#4004   2 active   0 killed     the orc
+#4005   1 active   0 killed     the large orc
+#4050   1 active   0 killed     the warrior
+#4051   4 active   0 killed     the warrior
+#4052   3 active   0 killed     the hobgoblin
+#4053   2 active   0 killed     the snake
+#4054   3 active   0 killed     the centipede
+#4055   2 active   0 killed     the large hobgoblin
+#4056   2 active   0 killed     the orc
+#4057   1 active   0 killed     the mountain lion
+#4058   1 active   0 killed     the hill giant
+#4100   1 active   0 killed     the Mage
+#4101   1 active   0 killed     the troll
+#4102   2 active   0 killed     the guardian snake
+#4103   1 active   0 killed     the thief
+#4104   1 active   0 killed     the orc
+#4105   1 active   0 killed     a centipede
+#4106   1 active   0 killed     the Warrior
+#4107   1 active   0 killed     the green kobold
+#4150   2 active   0 killed     the blue bat
+#4151   2 active   0 killed     the red bat
+#4152   2 active   0 killed     the green bat
+#4153   2 active   0 killed     the white bat
+#4154   2 active   0 killed     the black bat
+#4155   1 active   0 killed     the thief
+#4156   1 active   0 killed     the troll
+#4157   2 active   0 killed     the Mage
+#4158   2 active   0 killed     the snake
+#4159   2 active   0 killed     the small troll
+#4160   2 active   0 killed     the orc
+#4200   8 active   0 killed     the Pawn of the Black Court
+#4201   8 active   0 killed     the Pawn of the White Court
+#4202   2 active   0 killed     the Black Rook
+#4203   2 active   0 killed     the White Rook
+#4204   2 active   0 killed     the Black Knight
+#4205   2 active   0 killed     the White Knight
+#4206   2 active   0 killed     the Black Bishop
+#4207   2 active   0 killed     the White Bishop
+#4208   1 active   0 killed     the Black Queen
+#4209   1 active   0 killed     the White Queen
+#4210   1 active   0 killed     the Black King
+#4211   1 active   0 killed     the White King
+#4212   1 active   0 killed     the Ghost of Caliph Omar
+#4600  18 active   0 killed     a disgusting, rotting Zombie
+#4601   7 active   0 killed     the Juju zombie
+#4602   2 active   0 killed     a young vampire
+#4603   1 active   0 killed     Kharzandra, the Dark-elf Vampire
+#4604   1 active   0 killed     the Vampire, Shadar Lunn
+#4605  10 active   0 killed     a hungry ghoul
+#4606   0 active   0 killed     the hell hound
+#4608   0 active   0 killed     the vampire bat
+#4609   1 active   0 killed     the demon familiar
+#4610   0 active   0 killed     the great Dracolich
+#4611   1 active   0 killed     the dark priest vampire
+#4612   1 active   0 killed     the dark spectre
+#4700   1 active   0 killed     the draconian janitor.
+#4701   1 active   0 killed     a Drakon cityguard
+#4702   1 active   0 killed     a draconian merchant
+#4703   0 active   0 killed     Zane the armourer
+#4704   1 active   0 killed     a servant of the Dragon Lord
+#4705   0 active   0 killed     a Receptionist
+#4706   1 active   0 killed     a draconian healer
+#4707   0 active   0 killed     the mighty DragonLord
+#4708   1 active   0 killed     Tobin the Bar Keeper
+#4709   1 active   0 killed     The Ancient Gold Dragon
+#4710   1 active   0 killed     Justin the Mapseller
+#4711   0 active   0 killed     a giant blob
+#5000   3 active   0 killed     The dervish
+#5001   1 active   0 killed     The dervish
+#5002   1 active   0 killed     The coral snake
+#5003   1 active   0 killed     The small scorpion
+#5004   1 active   0 killed     The giant, purple sand worm
+#5005   1 active   0 killed     the brass dragon
+#5006   1 active   0 killed     The nomad leader
+#5007   1 active   0 killed     The nomad commander
+#5008   1 active   0 killed     The nomad warrior
+#5009   1 active   0 killed     The slave
+#5010   1 active   0 killed     The dracolich
+#5011   1 active   0 killed     The drider
+#5012   1 active   0 killed     The dark dwarf
+#5013   1 active   0 killed     the myconoid
+#5014   1 active   0 killed     The myconoid shaman
+#5015   4 active   0 killed     The dustdigger
+#5017   1 active   0 killed     The rabid camel
+#5100   1 active   0 killed     the goblin slave
+#5101   2 active   0 killed     the drow commoner
+#5102   4 active   0 killed     the drow warrior noble
+#5103   4 active   0 killed     the drow mage noble
+#5104   4 active   0 killed     the drow priestess
+#5105   3 active   0 killed     The drow master
+#5106   2 active   0 killed     The weapons master
+#5107   3 active   0 killed     the matron mother
+#5108   1 active   0 killed     the matron mother
+#5109   1 active   0 killed     the yochlol
+#5110   2 active   0 killed     the drow guard
+#5111   2 active   0 killed     the drow scout
+#5200   1 active   0 killed     The mighty beholder
+#5201  12 active   0 killed     The lamia
+#5202   1 active   0 killed     The mimic
+#5203   1 active   0 killed     The mimic
+#5204   1 active   0 killed     The mimic
+#5205   1 active   0 killed     The mimic
+#5206   1 active   0 killed     The mimic
+#5207   4 active   0 killed     The horned lizard
+#5208   4 active   0 killed     The stone golem
+#5300   1 active   0 killed     the baby beholder
+#5301  20 active   0 killed     the pet lamia
+#5302   9 active   0 killed     a citizen of Thalos
+#5303  11 active   0 killed     an imperial cityguard
+#5304   9 active   0 killed     a female citizen of Thalos
+#5305   1 active   0 killed     Gordon the Brave
+#5306   1 active   0 killed     the fanatic priest
+#5307   1 active   0 killed     the priest of Thalos
+#5308   4 active   0 killed     the stone golem
+#5309   1 active   0 killed     the mayor of Thalos
+#5310   1 active   0 killed     Dan the Barkeep
+#5311   1 active   0 killed     George the Butcher
+#5312   1 active   0 killed     Farmer Betty
+#5313   1 active   0 killed     Thaellor the dwarf
+#5314   1 active   0 killed     Ben the Smith
+#5315   1 active   0 killed     the librarian
+#5316   1 active   0 killed     a young scholar
+#5317   1 active   0 killed     an old wizard
+#5318   1 active   0 killed     a beautiful masseuse
+#5319   1 active   0 killed     a man
+#5320   3 active   0 killed     An imperial cityguard
+#5321   2 active   0 killed     an imperial cityguard
+#5322   1 active   0 killed     a doe
+#5323   2 active   0 killed     a deer
+#5324   1 active   0 killed     a stag
+#5325   1 active   0 killed     a small bunny
+#5326   2 active   0 killed     a harmless snake
+#5327   2 active   0 killed     a druid
+#5328   2 active   0 killed     a druidess
+#5329   2 active   0 killed     bard of Thalos
+#5330   1 active   0 killed     bard of Thalos
+#5331   1 active   0 killed     the cityguard
+#5332   1 active   0 killed     the janitor
+#5333   1 active   0 killed     the beastly fido
+#5334   1 active   0 killed     the cityguard
+#5335   1 active   0 killed     the wizard
+#5336   1 active   0 killed     the baker
+#5337   1 active   0 killed     the grocer
+#5338   1 active   0 killed     the weaponsmith
+#5339   1 active   0 killed     the armourer
+#5340   1 active   0 killed     the jeweller
+#5341   1 active   0 killed     Questor
+#5342   1 active   0 killed     the healer
+#5343   1 active   0 killed     the guildmaster
+#5344   1 active   0 killed     the guildmaster
+#5345   1 active   0 killed     the templeman
+#5346   0 active   0 killed     Junkseller
+#5600   2 active   0 killed     the food vendor
+#5601   1 active   0 killed     delicacy vendor bird
+#5602   1 active   0 killed     the trinket vendor
+#5603   5 active   0 killed     the child
+#5604   4 active   0 killed     the child
+#5605   0 active   0 killed     The taxidermist
+#5606   1 active   0 killed     Taxidermist
+#5608   1 active   0 killed     a lame aarakocra
+#5609   1 active   0 killed     the humming military commander
+#5610   1 active   0 killed     the glowing commander
+#5611   8 active   0 killed     the fierce warrior
+#5612   2 active   0 killed     the stalwart guard
+#5613   1 active   0 killed     the aarakocran revolutionary
+#5614   1 active   0 killed     the junk dealer
+#5615   6 active   0 killed     the merchant
+#5616   2 active   0 killed     the matron
+#5617   4 active   0 killed     the clansman
+#5618   1 active   0 killed     the captain
+#5619   1 active   0 killed     the secretary
+#5620   1 active   0 killed     the weapons vendor
+#5621   1 active   0 killed     the armorer
+#5622   1 active   0 killed     the holy aarakocran guildmaster
+#5623   1 active   0 killed     the sneaky aarakocran guildmaster
+#5624   1 active   0 killed     the strong aarakocran guildmaster
+#5625   2 active   0 killed     the cityguard
+#5626   2 active   0 killed     the cityguard
+#5627   1 active   0 killed     the cityguard
+#5628   1 active   0 killed     the small bat
+#5629   1 active   0 killed     the kobold
+#5735   1 active   0 killed     an Orc sentry
+#5736   1 active   0 killed     a sleeping Orc
+#5737   1 active   0 killed     a small snake
+#5738   1 active   0 killed     a drunken Orc
+#5739   1 active   0 killed     an Orcish chieftain
+#5740   1 active   0 killed     an orcish servant
+#5741   1 active   0 killed     an eating Orc
+#5742   1 active   0 killed     A deranged prisoner
+#5743   1 active   0 killed     a Goblin torturer
+#5744   1 active   0 killed     an iron Cyclops
+#5745   1 active   0 killed     an insane Barbarian
+#5746   1 active   0 killed     an old man
+#5747   1 active   0 killed     an old man who is a Wererat
+#5748   1 active   0 killed     A lumbering Neanderthal
+#5749   1 active   0 killed     a giant Bat
+#5750   1 active   0 killed     a giant Spider
+#5751   1 active   0 killed     an Ogre
+#5752   1 active   0 killed     a Troll
+#5753   1 active   0 killed     a giant Rat
+#5754   1 active   0 killed     a burly Giant
+#5755   1 active   0 killed     a vicious Piranha
+#5756   1 active   0 killed     a giant Sandworm
+#5757   1 active   0 killed     a Skeleton worker
+#5758   1 active   0 killed     a Wight
+#5759   1 active   0 killed     a Zombie
+#5760   1 active   0 killed     a Guard Dog
+#5761   1 active   0 killed     a Werewolf
+#5762   1 active   0 killed     a Ghoul
+#5763   1 active   0 killed     an evil Vampire
+#5764   1 active   0 killed     a Dwarf
+#5765   1 active   0 killed     a mighty Minotaur
+#5766   1 active   0 killed     an enormous Red Dragon
+#5767   1 active   0 killed     the Warlock of Firetop Mountain
+#5768   1 active   0 killed     a hand
+#5769   1 active   0 killed     a crocodile
+#5770   1 active   0 killed     a gas beast
+#6000   1 active   0 killed     John the Lumberjack
+#6002   1 active   0 killed     the brown bear
+#6003   0 active   0 killed     the ferocious rabbit
+#6004   1 active   0 killed     the fallow deer
+#6005   1 active   0 killed     the brown fox
+#6100   2 active   0 killed     the vicious warg
+#6101   2 active   0 killed     the ferocious warg
+#6102   4 active   0 killed     the large, grey wolf
+#6103   4 active   0 killed     the large, black wolf
+#6112   1 active   0 killed     the huge, green dragon
+#6115   1 active   0 killed     Shargugh
+#6116   1 active   0 killed     the elder druid
+#6117   1 active   0 killed     the guildmaster
+#6301   4 active   0 killed     the young spider
+#6302   1 active   0 killed     Yevaud
+#6303   1 active   0 killed     the Wolf Spider
+#6304   1 active   0 killed     the orc
+#6305   1 active   0 killed     the Queen Wasp
+#6306   3 active   0 killed     the drone spider
+#6307   2 active   0 killed     the ethereal spider
+#6308   5 active   0 killed     the slave of Arachnos
+#6309   1 active   0 killed     the quasit
+#6310   1 active   0 killed     the Bird Spider
+#6311   1 active   0 killed     the Hermit
+#6312   1 active   0 killed     the Donjonkeeper
+#6313   1 active   0 killed     The guardian
+#6314   1 active   0 killed     Arachnos
+#6315   1 active   0 killed     the Ki-Rin
+#6316   1 active   0 killed     the young dragon wormkin
+#6317   1 active   0 killed     the medium dragon wormkin
+#6318   3 active   0 killed     the huge, poisonous spider
+#6319   1 active   0 killed     the Queen Spider
+#6500  10 active   0 killed     the dwarven guard
+#6501   3 active   0 killed     the dwarven worker
+#6502   2 active   0 killed     the wraith
+#6503   1 active   0 killed     the storekeeper
+#6504   1 active   0 killed     the baker
+#6505   2 active   0 killed     the giant lizard
+#6506   1 active   0 killed     the giant
+#6507   3 active   0 killed     the dwarven miner
+#6508   1 active   0 killed     the dwarven mine leader
+#6509   1 active   0 killed     the dwarven doctor
+#6510   2 active   0 killed     the dwarven peon
+#6511   6 active   0 killed     the dwarf
+#6512   2 active   0 killed     the unwanted son
+#6513   2 active   0 killed     the unwanted daughter
+#6514   2 active   0 killed     the barracks guard
+#6515   2 active   0 killed     the man in waiting
+#6516   1 active   0 killed     the mazekeeper
+#6517   2 active   0 killed     the giant snake
+#6518   1 active   0 killed     the dwarven worker
+#6600   7 active   0 killed     the dwarven youth
+#6601   2 active   0 killed     a teddy bear
+#6602   2 active   0 killed     a raggedy anne doll
+#6603   4 active   0 killed     a toy soldier
+#6604   2 active   0 killed     the ugly bear
+#6605   3 active   0 killed     an old doll
+#6606   2 active   0 killed     the nanny
+#6607   1 active   0 killed     the armed guard
+#6608   1 active   0 killed     the spoiled brat
+#6700   1 active   0 killed     A alarm
+#6701   1 active   0 killed     Receptionist
+#6830   9 active   0 killed     fort guard
+#6831   0 active   0 killed     A Troop of Some Very Great Army
+#6869   0 active   0 killed     Dats' chic
+#7000   6 active   0 killed     the horrifying mudmonster
+#7001   4 active   0 killed     the small bat
+#7002   4 active   0 killed     the great sewer rat
+#7003   6 active   0 killed     the small spider
+#7004   1 active   0 killed     the giant earth beetle
+#7005   3 active   0 killed     the maggot
+#7006   3 active   0 killed     the slithering snake
+#7007   1 active   0 killed     the evil wanderer
+#7008   1 active   0 killed     the homonculus
+#7010   1 active   0 killed     the evil chreffn
+#7011   1 active   0 killed     the shadowy morkoth
+#7013   3 active   0 killed     the horrifying mudmonster
+#7040   1 active   0 killed     the red dragon
+#7041   1 active   0 killed     the sea hag
+#7042   1 active   0 killed     the guardian naga
+#7043   1 active   0 killed     the scaled basilisk
+#7044   1 active   0 killed     the lemure blob
+#7045   1 active   0 killed     Jones
+#7046   1 active   0 killed     Herald
+#7200   1 active   0 killed     the master mindflayer
+#7201   1 active   0 killed     the senior mindflayer
+#7202   2 active   0 killed     the junior mindflayer
+#7203   9 active   0 killed     the ugly wererat
+#7204   1 active   0 killed     the gigantic rat
+#7500   5 active   0 killed     a little squirrel
+#7501   2 active   0 killed     a tiny chipmunk
+#7502   3 active   0 killed     a small green snake
+#7503   4 active   0 killed     a swallow
+#7504   2 active   0 killed     an African Swallow
+#7505   3 active   0 killed     a brown and black raccoon
+#7506   4 active   0 killed     a ground-hog
+#7507   3 active   0 killed     a field mouse
+#7508   4 active   0 killed     a flying squirrel
+#7509   4 active   0 killed     a starry eyed lover
+#7510   4 active   0 killed     a starry eyed lover
+#7511   2 active   0 killed     a herbalists helper
+#7512   0 active   0 killed     water snake
+#7513   1 active   0 killed     a small fish with pointy teeth
+#7514   1 active   0 killed     a medium fish will pointy teeth
+#7515   1 active   0 killed     a large fish with pointy teeth
+#7516   1 active   0 killed     a goldfish
+#7517   1 active   0 killed     a guppy
+#7518   1 active   0 killed     a fish with blunted teeth
+#7519   2 active   0 killed     a bugbear
+#7520   1 active   0 killed     a cleaner worm
+#7521   1 active   0 killed     a citizen of Gerighelm
+#7522   1 active   0 killed     a citizen of Gerighelm
+#7523  20 active   0 killed     a troubadour
+#7524   4 active   0 killed     an old biddy
+#7525   4 active   0 killed     an old coot
+#7526   5 active   0 killed     a little boy
+#7527   5 active   0 killed     a little girl
+#7528   1 active   0 killed     a junior guard
+#7529   0 active   0 killed     a young woman
+#7530   2 active   0 killed     a Gerighelm cityguard
+#7531   3 active   0 killed     a Gerighelm cityguard
+#7532   3 active   0 killed     a Gerighelm cityguard
+#7533   1 active   0 killed     the ale-conner
+#7534   1 active   0 killed     a Defender of Gerighelm
+#7535   6 active   0 killed     a Defender of Gerighelm
+#7536   4 active   0 killed     a palace guard
+#7537   0 active   0 killed     a palace guard
+#7538   1 active   0 killed     the cook
+#7539   1 active   0 killed     the palace mage
+#7540   1 active   0 killed     the palace priest
+#7550   1 active   0 killed     the head of the guard
+#7551   1 active   0 killed     the palace gardener
+#7552   1 active   0 killed     a bodyguard
+#7553   1 active   0 killed     a bodyguard
+#7554   1 active   0 killed     the Duke of Gerighelm
+#7555   1 active   0 killed     the Duchess of Gerighelm
+#7590   6 active   0 killed     a servant
+#7591   0 active   0 killed     a cutpurse
+#7592   1 active   0 killed     a baker
+#7593   1 active   0 killed     the blacksmith Vendy
+#7594   1 active   0 killed     the mage
+#7595   1 active   0 killed     the pawn shop owner
+#7597   3 active   0 killed     the merchant
+#7604   1 active   0 killed     the herbalist
+#7609   1 active   0 killed     the animal man
+#7610   1 active   0 killed     the old witch
+#7698   1 active   0 killed     a hawk
+#7699   1 active   0 killed     the Death
+#7700   1 active   0 killed     The Astral Guardian
+#7701   2 active   0 killed     A pitch-black nightmare
+#7702   1 active   0 killed     An evil night hag
+#7703   4 active   0 killed     An invisible stalker
+#7704  10 active   0 killed     A poor soulless being
+#7705   4 active   0 killed     A githyanki hunter
+#7706   2 active   0 killed     A githyanki warrior
+#7707   4 active   0 killed     A githyanki guardian
+#7708   2 active   0 killed     A githyanki knight
+#7709   2 active   0 killed     A githyanki protector
+#7710   2 active   0 killed     An evil gish
+#7711   6 active   0 killed     An evil gish
+#7712   4 active   0 killed     A warlock of the Gith
+#7713   1 active   0 killed     The lich-queen
+#7714   1 active   0 killed     Lord Gith
+#7715   3 active   0 killed     An insubstantial ghost
+#7716   1 active   0 killed     An imprisoned githzerai
+#7717   1 active   0 killed     A tortured mindflayer prisoner
+#7718   1 active   0 killed     The enslaved red dragon
+#7719   6 active   0 killed     A massive blast of fire
+#7800   6 active   0 killed     a cooshee
+#7801   6 active   0 killed     a valley elf
+#7802   6 active   0 killed     a valley elf
+#7803   3 active   0 killed     a valley elf sentry
+#7804   4 active   0 killed     a valley elf sentry
+#7805   5 active   0 killed     a valley elf scout
+#7806   5 active   0 killed     a valley elf
+#7807   1 active   0 killed     a valley elf elder
+#7808   1 active   0 killed     a valley elf elder
+#7809   1 active   0 killed     the pyrohydra
+#7810   1 active   0 killed     an old hermit
+#7811   1 active   0 killed     Talemon
+#7812   1 active   0 killed     the guardian daemon
+#7813   3 active   0 killed     a wolf
+#7814   3 active   0 killed     an antelope
+#7900   1 active   0 killed     the Grand Knight of paladins
+#7901   1 active   0 killed     the Grand Paladin of Solamnia
+#8000   4 active   0 killed     a juve
+#8001   3 active   0 killed     a punk
+#8002   2 active   0 killed     a Futsie
+#8003   2 active   0 killed     a Citi-Def Militiaman
+#8004   3 active   0 killed     a dunk
+#8005   3 active   0 killed     a tap
+#8006   3 active   0 killed     a rookie judge
+#8007   1 active   0 killed     Wallaby Gleep
+#8008   1 active   0 killed     Pinkerton Throt
+#8009   1 active   0 killed     Ernie Ramirez
+#8010   1 active   0 killed     Judge Eckersely
+#8011   1 active   0 killed     Judge Beddows
+#8012   2 active   0 killed     a bite fighter
+#8100   2 active   0 killed     a spectre
+#8101   2 active   0 killed     a wraith
+#8102   1 active   0 killed     a wight
+#8103   6 active   0 killed     a ghost
+#8104   2 active   0 killed     a vampire
+#8105   1 active   0 killed     a lich
+#8106   2 active   0 killed     a lesser demon
+#8107   1 active   0 killed     a revenant
+#8108   1 active   0 killed     a haunt
+#8109   1 active   0 killed     a crypt thing
+#8110   1 active   0 killed     a greater demon
+#8111   1 active   0 killed     an undead dragon
+#8112   3 active   0 killed     an undead monster
+#8113   5 active   0 killed     a giant rat
+#8114   5 active   0 killed     a giant spider
+#8115   1 active   0 killed     a lurker above
+#8116   1 active   0 killed     a succubus
+#8117   1 active   0 killed     Xantharus
+#8118   3 active   0 killed     a rotting corpse
+#8119   1 active   0 killed     the master
+#8120   1 active   0 killed     a shambling mound
+#8121   1 active   0 killed     a kampflut
+#8122   1 active   0 killed     a black pudding
+#8123   2 active   0 killed     green slime
+#8124   1 active   0 killed     a gray ooze
+#8125   1 active   0 killed     an animated tree
+#8126   1 active   0 killed     a tree spirit
+#8127   1 active   0 killed     a death knight
+#8128   3 active   0 killed     a nightmare
+#8129   1 active   0 killed     a retriever
+#8130   1 active   0 killed     a cambion scout
+#8131   1 active   0 killed     Orcus
+#8132   1 active   0 killed     a water weird
+#8133   1 active   0 killed     a giant spider
+#8134   1 active   0 killed     a baron vampire
+#8200   1 active   0 killed     Giles
+#8201   1 active   0 killed     the zookeeper
+#8202   1 active   0 killed     a giant leech
+#8203   1 active   0 killed     the tiger
+#8204   1 active   0 killed     a dolphin
+#8205   1 active   0 killed     the unicorn
+#8206   1 active   0 killed     a crocodile
+#8207   1 active   0 killed     the bear
+#8208   1 active   0 killed     the baby dragon
+#8209   1 active   0 killed     the elephant
+#8210   1 active   0 killed     the gorilla
+#8211   1 active   0 killed     the zoo assistant
+#8230   1 active   0 killed     a pig
+#8231   2 active   0 killed     a small bird
+#8232   1 active   0 killed     a baby goat
+#8233   1 active   0 killed     a mother goat
+#8234   1 active   0 killed     a father goat
+#8235   1 active   0 killed     a donkey
+#8236   1 active   0 killed     an old horse
+#8237   1 active   0 killed     Harvey the parrot
+#8301   2 active   0 killed     a swamp troll
+#8302   3 active   0 killed     a green troll
+#8303   3 active   0 killed     an ogre
+#8304   1 active   0 killed     the Swamp Thing
+#8305   1 active   0 killed     a gnoll
+#8306   2 active   0 killed     a huge hairy beast
+#8307   2 active   0 killed     a rather small beast
+#8308   1 active   0 killed     the Will-O-Wisp
+#8309   2 active   0 killed     the monstrous snake
+#8310   2 active   0 killed     a large snake
+#8312   2 active   0 killed     the Marsh Hag
+#8313   1 active   0 killed     a Death Slaad
+#8314   6 active   0 killed     a marsh wolf
+#8318   2 active   0 killed     a shambling mound
+#8319   0 active   0 killed     the orc shaman
+#8320   5 active   0 killed     a marsh giant
+#8321   2 active   0 killed     a gargoyle
+#8600   1 active   0 killed     the keeper
+#8700   4 active   0 killed     A horrible asp
+#8701   2 active   0 killed     A hooded cobra snake
+#8702   3 active   0 killed     A wily little mongoose
+#8703   6 active   0 killed     A pyramid watcher
+#8704   6 active   0 killed     A tomb thief
+#8705   1 active   0 killed     Ali Baba
+#8706   1 active   0 killed     The magic carpet
+#8707   4 active   0 killed     A mummy
+#8708   4 active   0 killed     A sandman
+#8709   1 active   0 killed     The efreeti
+#8710   1 active   0 killed     A caryatid
+#8711   1 active   0 killed     The djinn
+#8712   3 active   0 killed     A hieracosphinx
+#8713   2 active   0 killed     A gynosphinx
+#8714   2 active   0 killed     A criosphinx
+#8715   1 active   0 killed     An androsphinx
+#8716   1 active   0 killed     The great sphinx
+#8717   1 active   0 killed     Ramses the Damned
+#8718   1 active   0 killed     A caryatid
+#8800   2 active   0 killed     a sylvan elf scout
+#8801   1 active   0 killed     a sylvan elf warrior
+#8802   1 active   0 killed     an orc scout
+#8803   1 active   0 killed     an orc warrior
+#8804   2 active   0 killed     a wood elf guard
+#8805   1 active   0 killed     the chief of the guard
+#8806   1 active   0 killed     Galion the butler
+#8807   1 active   0 killed     Thranduil, king of the Wood Elves
+#8808   1 active   0 killed     a male wood elf
+#8809   1 active   0 killed     a female wood elf
+#8810   1 active   0 killed     the turnkey
+#8811   1 active   0 killed     Thorin Oakenshield
+#8900   1 active   0 killed     The Hierophant
+#8901   1 active   0 killed     The Hierophant
+#8902   1 active   0 killed     an elder druid
+#8903   1 active   0 killed     an elder druidess
+#8904   1 active   0 killed     a doe
+#8905   1 active   0 killed     a deer
+#8906   1 active   0 killed     a stag
+#8907   2 active   0 killed     a small bunny
+#8908   1 active   0 killed     a harmless snake
+#8909   2 active   0 killed     a druid
+#8910   2 active   0 killed     a druidess
+#9000   5 active   0 killed     the tridrone
+#9001   3 active   0 killed     the quadrone
+#9002   6 active   0 killed     the pentadrone
+#9003   1 active   0 killed     the decaton
+#9004   1 active   0 killed     the nonaton
+#9005   4 active   0 killed     the octon
+#9006   2 active   0 killed     the septon
+#9007   8 active   0 killed     the hexton
+#9008   4 active   0 killed     the quinton
+#9009   4 active   0 killed     the tertian
+#9010   4 active   0 killed     secundus
+#9011   1 active   0 killed     Primus
+#9101  35 active   0 killed     the screaming, filthy harpy
+#9102   2 active   0 killed     the screaming harpy leader
+#9103   5 active   0 killed     the ghostly air elemental
+#9104   2 active   0 killed     the mysterious efreeti
+#9105   1 active   0 killed     the gigantic roc
+#9106   1 active   0 killed     the gigantic roc
+#9107   1 active   0 killed     the ugly, wicked witch
+#9201   3 active   0 killed     the mountain climber
+#9202   0 active   0 killed     the cyclops
+#9203   7 active   0 killed     a tiny elemental
+#9204   1 active   0 killed     the elemental guardian
+#9205   6 active   0 killed     a small elemental
+#9206   4 active   0 killed     a medium elemental
+#9207   5 active   0 killed     a large elemental
+#9208   1 active   0 killed     the Earth Ruler
+#9209   1 active   0 killed     the Fire Ruler
+#9210   1 active   0 killed     The Air Ruler
+#9211   1 active   0 killed     The Lightning Ruler
+#9212   1 active   0 killed     The Water Ruler
+#9214   8 active   0 killed     a puddle
+#9215   6 active   0 killed     a flame
+#9216   4 active   0 killed     a small snowflake
+#9217   8 active   0 killed     a small rock
+#9218   8 active   0 killed     a small spark
+#9219   4 active   0 killed     a small blob of acid
+#9220   4 active   0 killed     a lava beast
+#9221   4 active   0 killed     a mud monster
+#9222   4 active   0 killed     an elemental mist
+#9223   4 active   0 killed     a particle
+#9224   4 active   0 killed     a dust cloud
+#9225   8 active   0 killed     an eddie
+#9226   1 active   0 killed     the Blue Flame
+#9227   1 active   0 killed     the Magneto
+#9228   1 active   0 killed     the Ice Bandit
+#9229   1 active   0 killed     the Rock Monster
+#9230   1 active   0 killed     the Hurricane
+#9231   2 active   0 killed     an elemental magician
+#9232   2 active   0 killed     a rainbow warrior
+#9233   3 active   0 killed     an illusionist
+#9234   2 active   0 killed     an alchemist
+#9235   2 active   0 killed     a baby rainbow dragon
+#9236   7 active   0 killed     a little imp
+#9237   0 active   0 killed     a HUGE elemental
+#9238   1 active   0 killed     the elixir vendor
+#9239   1 active   0 killed     The Combat Magician
+#9301   3 active   0 killed     a poor mudder
+#9302   9 active   0 killed     a beautiful star
+#9303   5 active   0 killed     a young nebula
+#9304   4 active   0 killed     a speedy comet
+#9305   4 active   0 killed     a red supergiant
+#9306   3 active   0 killed     a white dwarf
+#9307   1 active   0 killed     a horsehead nebula
+#9308   1 active   0 killed     poor Andromeda
+#9309   1 active   0 killed     the mighty Hercules
+#9310   1 active   0 killed     the wild Pegasus
+#9311   1 active   0 killed     Orion the hunter
+#9312   7 active   0 killed     the Pleiades
+#9313   1 active   0 killed     the Head of Draco
+#9314   2 active   0 killed     a baby draco
+#9315   1 active   0 killed     Aries
+#9316   1 active   0 killed     Taurus
+#9317   1 active   0 killed     Gemini
+#9318   1 active   0 killed     Gemini
+#9319   1 active   0 killed     Cancer
+#9320   1 active   0 killed     Leo
+#9321   1 active   0 killed     Virgo
+#9322   1 active   0 killed     Libra
+#9323   1 active   0 killed     Scorpio
+#9324   1 active   0 killed     Sagittarius
+#9325   1 active   0 killed     Capricorn
+#9326   1 active   0 killed     Aquarius
+#9327   1 active   0 killed     Pisces the mermaid
+#9328   1 active   0 killed     Pisces the fish
+#9329   1 active   0 killed     Ursa Major the bear
+#9330   1 active   0 killed     Cassiopeia the Queen
+#9331   1 active   0 killed     Cepheus the King
+#9332   1 active   0 killed     Polaris, the polar star
+#9401   5 active   0 killed     A Small Squire
+#9402   0 active   0 killed     Foreman Floyd
+#9403   7 active   0 killed     A Strong Young Warrior
+#9404   2 active   0 killed     A Weak Drunk
+#9405   7 active   0 killed     A Practice Dummy
+#9406   8 active   0 killed     A Young Warrior
+#9407   3 active   0 killed     A Young Warrior
+#9500   1 active   0 killed     the guildmaster
+#9501   1 active   0 killed     the guildmaster
+#9502   1 active   0 killed     the guildmaster
+#9503   1 active   0 killed     the guildmaster
+#9504   1 active   0 killed     the receptionist
+#9505   1 active   0 killed     the withered mage/bartender
+#9506   1 active   0 killed     Brother John
+#9507   1 active   0 killed     a panhandler
+#9508   1 active   0 killed     a panhandler
+#9509   1 active   0 killed     a beggar
+#9510   1 active   0 killed     the baker
+#9511   1 active   0 killed     the shopkeeper
+#9512   0 active   0 killed     Nabil
+#9513   1 active   0 killed     Ahkeem the tailor
+#9514   1 active   0 killed     Vera the veggie lady
+#9515   1 active   0 killed     Butch the meatcutter
+#9516   1 active   0 killed     Abdul the armorer
+#9517   1 active   0 killed     Igor the weaponsmith
+#9518   1 active   0 killed     Cassandra
+#9519   1 active   0 killed     the foreman
+#9520   2 active   0 killed     a construction worker
+#9521   1 active   0 killed     the statue of Nati
+#9522   1 active   0 killed     the statue of Alander
+#9523   1 active   0 killed     the statue of Zump
+#9524   1 active   0 killed     the statue of Nightshade
+#9525   1 active   0 killed     the statue of Satin
+#9526   1 active   0 killed     the statue of Shandra
+#9527   1 active   0 killed     the statue of Furey
+#9528   1 active   0 killed     the statue of Landru
+#9529   1 active   0 killed     Aziz
+#9530   1 active   0 killed     Mustafah
+#9531   1 active   0 killed     Fatima
+#9532   1 active   0 killed     Kareem
+#9533   6 active   0 killed     a nomad merchant
+#9534   0 active   0 killed     A bodyguard
+#9535   3 active   0 killed     the skinny kid
+#9536   7 active   0 killed     the dockworker
+#9537   1 active   0 killed     the tax collector
+#9538   1 active   0 killed     Gord
+#9539   1 active   0 killed     Caramon
+#9540   1 active   0 killed     Raistlin
+#9541   1 active   0 killed     Curley GreenLeaf
+#9542   7 active   0 killed     the wandering prophet
+#9543   6 active   0 killed     the alley cat
+#9544  13 active   0 killed     the vulture
+#9545   2 active   0 killed     the old man
+#9546   0 active   0 killed     Conan the Librarian
+#9547   1 active   0 killed     the dirt devil
+#9548   1 active   0 killed     the lamia
+#9549   1 active   0 killed     the raggety dervish
+#9550   1 active   0 killed     The Sultan
+#9551   8 active   0 killed     a harem girl
+#9552   1 active   0 killed     the jailer
+#9553   4 active   0 killed     a eunuch
+#9554   1 active   0 killed     Nichole, the sultan's favorite
+#9555   0 active   0 killed     GOD
+#9556   1 active   0 killed     the guildguard
+#9557   1 active   0 killed     the guildguard
+#9558   1 active   0 killed     the guildguard
+#9559   1 active   0 killed     the guildguard
+#9560   2 active   0 killed     a servant boy
+#9561  12 active   0 killed     the sultan's guard
+#9562   8 active   0 killed     the sultans guard
+#9563   0 active   0 killed     The chief guard
+#9564   1 active   0 killed     the mercenary
+#9565   1 active   0 killed     the shipwright
+#9566   1 active   0 killed     the blacksmith
+#9567   6 active   0 killed     a horse
+#9568   2 active   0 killed     a tourist
+#9569   1 active   0 killed     Shelbye
+#9570   1 active   0 killed     the cryohydra
+#9571   1 active   0 killed     the minotaur lizard
+#9572   5 active   0 killed     the death dog
+#9573   1 active   0 killed     the spotted lion
+#9574   1 active   0 killed     the behir
+#9575   1 active   0 killed     the chimera
+#9576   1 active   0 killed     the couatl
+#9577   1 active   0 killed     the giant hornet
+#9578   1 active   0 killed     the pegasus
+#9579   1 active   0 killed     Elvira
+#9580   1 active   0 killed     Braheem
+#9581   1 active   0 killed     the high priest
+#9582   8 active   0 killed     The Royal Guard
+#9583   1 active   0 killed     Patch the bartender
+#9584   1 active   0 killed     Stitch, the leather dude.
+#9585   1 active   0 killed     the gardener
+#9586   1 active   0 killed     the nightmare
+#9587   1 active   0 killed     the wolverine
+#9588   1 active   0 killed     the mimic
+#9589   1 active   0 killed     the mayor
+#9590   1 active   0 killed     the chef
+#9591   1 active   0 killed     the Ixitxachitl
+#9592   9 active   0 killed     the bodyguard
+#9593   1 active   0 killed     the healer
+#9594   1 active   0 killed     The Samurai Weaponsmaster
+#9901   1 active   0 killed     the Villager
+#9902   3 active   0 killed     the Eyeless Dwarf
+#9903   3 active   0 killed     the Deranged Elf
+#9904   3 active   0 killed     the Confused Human
+#9905   7 active   0 killed     the Goblin child
+#9906   5 active   0 killed     the Male Goblin
+#9907   5 active   0 killed     the Female Goblin
+#9908   4 active   0 killed     the Goblin Guard
+#9909   4 active   0 killed     the Goblin Shaman
+#9910   5 active   0 killed     the Goblin Warrior
+#10001   2 active   0 killed     A long-tailed gar
+#10002   2 active   0 killed     a long-tailed gar
+#10003   1 active   0 killed     a long-tailed gar
+#10004   3 active   0 killed     a blood fly
+#10005   1 active   0 killed     a quad assassin
+#10006   1 active   0 killed     a quad assassin
+#10007   1 active   0 killed     a young lady
+#10008   1 active   0 killed     a fisherman
+#10009   1 active   0 killed     a little boy
+#10010   2 active   0 killed     a heart hound
+#10011   1 active   0 killed     a speaker
+#10012   1 active   0 killed     a happy villager
+#10013   1 active   0 killed     a healer
+#10014   2 active   0 killed     a boundary warden
+#10015   1 active   0 killed     a thief
+#10016   1 active   0 killed     a beggar
+#10017   1 active   0 killed     the Bone Woman
+#10018   2 active   0 killed     a nasty gripper
+#10019   2 active   0 killed     the {MSCaRy Shadow THing{x
+#10020   1 active   0 killed     the Spirit King
+#10021   1 active   0 killed     Darken Rahl's red dragon
+#10022   2 active   0 killed     an evil shadow person
+#10023   1 active   0 killed     a bar tender
+#10024   1 active   0 killed     a drunken villager
+#10025   1 active   0 killed     A little thief
+#10026   1 active   0 killed     A yellow snake
+#10027   1 active   0 killed     An underworld beast
+#10028   1 active   0 killed     A dopey little cat
+#10029   2 active   0 killed     an evil Mord-Sith
+#10030   2 active   0 killed     a devoter of Darken Rahl
+#10031   1 active   0 killed     Darken Rahl
+#10201   1 active   0 killed     Captain of the Guard
+#10202   1 active   0 killed     Lieutenant Commander
+#10203   1 active   0 killed     Sergeant at Arms
+#10204   1 active   0 killed     Townguard
+#10205   1 active   0 killed     Townguard
+#10206   5 active   0 killed     Citizen of Solace
+#10207   3 active   0 killed     woman
+#10208   1 active   0 killed     Matt the brewmaster
+#10209   1 active   0 killed     the Mcbaker
+#10210   1 active   0 killed     Cookie's Helper
+#10211   1 active   0 killed     Marilyn
+#10212   1 active   0 killed     Ghost of Jander
+#10213   3 active   0 killed     ghost of waiter
+#10214   1 active   0 killed     ghost of a barkeeper
+#10215   1 active   0 killed     Townguard
+#10216   3 active   0 killed     field rat
+#10217   1 active   0 killed     Town Clerk
+#10218   1 active   0 killed     Treasury Guards
+#10219   1 active   0 killed     Jhen the farmer
+#10220   1 active   0 killed     Krista the fruit peddler
+#10221   1 active   0 killed     Janni
+#10222   1 active   0 killed     Nisi the grocer
+#10223   1 active   0 killed     Molin the brewer
+#10224   1 active   0 killed     Rashan the farmer
+#10225   1 active   0 killed     Lexie
+#10226   1 active   0 killed     Croben
+#10227   1 active   0 killed     Otik Sandath
+#10228   1 active   0 killed     Tika the barmaid
+#10229   1 active   0 killed     Thief
+#10230   1 active   0 killed     old man
+#10231   1 active   0 killed     boy
+#10232   1 active   0 killed     bratty boy
+#10233   2 active   0 killed     mage
+#10234   2 active   0 killed     Thief
+#10235   2 active   0 killed     Warrior
+#10236   2 active   0 killed     Cleric
+#10237   1 active   0 killed     Ghost of gambler
+#10238   3 active   0 killed     child
+#10239   1 active   0 killed     rat
+#10240   1 active   0 killed     bat
+#10241   1 active   0 killed     old lady
+#10242   2 active   0 killed     tired adventurer
+#10243   1 active   0 killed     Magnus wizard
+#10244   1 active   0 killed     Lord Doom
+#10245   1 active   0 killed     Foreign Trade Representative
+#10246   1 active   0 killed     bodyguard
+#10247   1 active   0 killed     Secretary
+#10248   1 active   0 killed     Secretary
+#10249   1 active   0 killed     Secretary
+#10250   1 active   0 killed     the macaw
+#10251   1 active   0 killed     the raven
+#10252   1 active   0 killed     the hunting hawk
+#10253   1 active   0 killed     the battle falcon
+#10401   2 active   0 killed     the Guardian of Hell
+#10402   1 active   0 killed     the pile of gold coins
+#10403   1 active   0 killed     the male Dee
+#10404   1 active   0 killed     the female Dee
+#10405   1 active   0 killed     the gold bar
+#10406   1 active   0 killed     a scrumptious chicken pot pie
+#10407   1 active   0 killed     a yummy beef pot pie
+#10408   1 active   0 killed     a yummy vegetable pot pie
+#10409   3 active   0 killed     a damned soul
+#10410   1 active   0 killed     a tortured soul
+#10411   1 active   0 killed     the half-eaten person
+#10412   2 active   0 killed     the living wall
+#10413   2 active   0 killed     skeletal warrior
+#10414   1 active   0 killed     bloody severed arm
+#10415   1 active   0 killed     bloody severed foot
+#10416   1 active   0 killed     bloody severed nose
+#10417   1 active   0 killed     the blood from the fountain
+#10418   2 active   0 killed     the lost soul
+#10419   1 active   0 killed     the crispy critter
+#10420   1 active   0 killed     pile of bones
+#10421   2 active   0 killed     the manes
+#10422   1 active   0 killed     the prisoner Raiden
+#10423   1 active   0 killed     a prisoner in Hell
+#10424   1 active   0 killed     a prisoner in Hell
+#10425   3 active   0 killed     demonguard
+#10426   2 active   0 killed     the burning fool
+#10427   3 active   0 killed     male construction worker
+#10428   3 active   0 killed     the female construction worker
+#10430   1 active   0 killed     the fire devil
+#10431   1 active   0 killed     the wall of fire
+#10432   1 active   0 killed     the hell hound
+#10433   1 active   0 killed     the frozen body
+#10434   1 active   0 killed     the ice devil
+#10435   1 active   0 killed     the trapped soul
+#10436   2 active   0 killed     the half frozen body
+#10437   4 active   0 killed     the killer penguin
+#10438   2 active   0 killed     the I-scream worker
+#10439   1 active   0 killed     the Ice Screamer
+#10440   1 active   0 killed     the Demonic Foreman
+#10441   1 active   0 killed     Secretary of Hell
+#10442   2 active   0 killed     office worker from Hell
+#10443   3 active   0 killed     records worker
+#10444   1 active   0 killed     Santa Claus
+#10445   1 active   0 killed     High Priest of Hell
+#10446   1 active   0 killed     a bowl of blood
+#10447   1 active   0 killed     jury member
+#10448   1 active   0 killed     Judge Whopper
+#10449   1 active   0 killed     Lawyer from Hell
+#10450   1 active   0 killed     Complaints Officer
+#10451   1 active   0 killed     bastard hiramoto
+#10452   3 active   0 killed     maintenance worker
+#10453   4 active   0 killed     weeds
+#10454   1 active   0 killed     Stanley
+#10455   1 active   0 killed     horse carcass
+#10456   1 active   0 killed     stomach dragon
+#10457   1 active   0 killed     rancid turkey leg
+#10458   1 active   0 killed     reactor specialist
+#10459   1 active   0 killed     reactor worker
+#10460   1 active   0 killed     Homer Simpson
+#10461   1 active   0 killed     devil's food cake
+#10462   1 active   0 killed     mad cook
+#10463   3 active   0 killed     frantic lady
+#10464   1 active   0 killed     nuclear technician
+#10465   1 active   0 killed     stray proton
+#10466   2 active   0 killed     radiation
+#10467   1 active   0 killed     the Chief Engineer of Hell
+#10468   1 active   0 killed     the Greater Fire Demon
+#10469   2 active   0 killed     side of frozen beef
+#10470   1 active   0 killed     guard dog
+#10471   1 active   0 killed     juicy steak
+#11600   1 active   0 killed     Sym
+#11601   1 active   0 killed     Roc
+#11602   6 active   0 killed     nightingale
+#11603   1 active   0 killed     the teacher
+#11604   1 active   0 killed     the student
+#11605   1 active   0 killed     a statue of the Mage
+#11606   1 active   0 killed     the Unicorn
+#11607   1 active   0 killed     statue of the Dreamer
+#11608   3 active   0 killed     a White Knight
+#11609   1 active   0 killed     Lady Justice
+#11610   1 active   0 killed     Mad Gardener
+#11611   1 active   0 killed     Babbling Sculptor
+#11612   1 active   0 killed     Denebi
+#11613   1 active   0 killed     the Believer
+#11614   5 active   0 killed     a white rabbit
+#11615   1 active   0 killed     Druid of Peace
+#11616   1 active   0 killed     the crying spirit
+#11617   1 active   0 killed     a bit of faith
+#11618   1 active   0 killed     a stray thought
+#11619   1 active   0 killed     some memories
+#11620   1 active   0 killed     an idea
+#11621   1 active   0 killed     Gabrian
+#11622   1 active   0 killed     Lonari
+#11623   1 active   0 killed     Myrl
+#11624   1 active   0 killed     the hellhawk
+#11625   6 active   0 killed     a silent stalker
+#11626   1 active   0 killed     a Twisted Being
+#11627   1 active   0 killed     a screaming soul
+#11628   1 active   0 killed     Dark Necromancer
+#11629   1 active   0 killed     the Nightmare
+#11630   1 active   0 killed     the Anti-Bishop
+#11631   3 active   0 killed     the Wraith Knight
+#11632   1 active   0 killed     the Bloody Sadist
+#11633   1 active   0 killed     the fanatic cultist
+#11634   1 active   0 killed     the Grinner
+#11635   1 active   0 killed     the Cultist High Priest
+#11636   1 active   0 killed     a patch of Nothingness
+#11637   5 active   0 killed     the furry lemming
+#11638   1 active   0 killed     the Warlord
+#11639   1 active   0 killed     the vampire janitor
+#11640   1 active   0 killed     some lost dreams
+#11641   1 active   0 killed     Tainted knowledge
+#11642   1 active   0 killed     some forgotten lies
+#11643   1 active   0 killed     some lost hopes
+#11644   1 active   0 killed     Daemias
+#11645   1 active   0 killed     Dierek
+#11646   1 active   0 killed     a shadow of Reality
+#11647   1 active   0 killed     a terrified victim
+#11648   1 active   0 killed     a sub gardener
+#11649   1 active   0 killed     a ghostly servant
+#11650   1 active   0 killed     Ykres
+#11651   1 active   0 killed     an assassin
+#11652   1 active   0 killed     the night lynx
+#11653   1 active   0 killed     a figment of your imagination
+#11654   1 active   0 killed     the dark owl
+#11655   1 active   0 killed     the owl hatchling
+#11656   1 active   0 killed     the nightling
+#11657   1 active   0 killed     a sillouhette
+#11658   1 active   0 killed     the nightblade
+#11659   1 active   0 killed     the shadowblade
+#11660   1 active   0 killed     the grey ninja
+#11661   1 active   0 killed     the black ninja
+#11662   1 active   0 killed     the white ninja 
+#11663   1 active   0 killed     the shadow serpent
+#11664   1 active   0 killed     Yllias
+#11665   1 active   0 killed     Reykas
+#11666   1 active   0 killed     Menx
+#11667   1 active   0 killed     the boggled brain
+#11668   1 active   0 killed     the flying pig
+#11669   1 active   0 killed     the mooo cow
+#11670   1 active   0 killed     Stress
+#11671   1 active   0 killed     Insanity
+#11672   1 active   0 killed     the fool
+#11673   1 active   0 killed     the psychiatrist
+#11674   1 active   0 killed     a normal person
+#11675   1 active   0 killed     the toilet monster
+#11676   1 active   0 killed     the mole
+#11677   1 active   0 killed     Xyrist
+#11678   1 active   0 killed     Fax
+#11679   1 active   0 killed     an aerial servant
+#11680   1 active   0 killed     a flying fist
+#11681   1 active   0 killed     a shadowcat
+#11682   1 active   0 killed     a silver lynx
+#11683   1 active   0 killed     a pegasus
+#11684   1 active   0 killed     a firecat
+#11685   1 active   0 killed     an icecat
+#11686   1 active   0 killed     an ethereal panther
+#11687   1 active   0 killed     a t'enarezzi'i demon
+#11688   1 active   0 killed     a devouk demon
+#11689   1 active   0 killed     a chre'zanni demon
+#11690   1 active   0 killed     a rabid hamster
+#11691   1 active   0 killed     a rabid guinea pig
+#11692   1 active   0 killed     a Dzenian blade
+#11693   1 active   0 killed     an ethereal weebie
+#11694   1 active   0 killed     a Z'kare blade
+#11695   1 active   0 killed     the Zeinia representative
+#11696   1 active   0 killed     the Zeinia representative
+#11697   2 active   0 killed     a Zdreni avenger
+#11698   2 active   0 killed     the Zdreni avenger
+#11699   1 active   0 killed     the Zdreni deathmaster
+#11700   2 active   0 killed     the Zdreni shadowmaster
+#11701   2 active   0 killed     the Zdreni blademaster
+#11702   1 active   0 killed     the Zdreni magemaster
+#11703   3 active   0 killed     the Zdreni stalker
+#11704   3 active   0 killed     the Zdreni darkblade
+#11705   3 active   0 killed     the Zdreni venomblade
+#11706   4 active   0 killed     the Zdreni stiletto
+#11707   5 active   0 killed     the Zdreni apprentice
+#11708   1 active   0 killed     the applicant
+#11709   3 active   0 killed     the shadow panther
+#11710   2 active   0 killed     the guardian lynx
+#11711   1 active   0 killed     the Zdreni magemaster
+#11712   1 active   0 killed     the Zdreni apprentice
+#11713   1 active   0 killed     the Zdreni apprentice
+#11714   1 active   0 killed     the Zdreni blademaster
+#11715   1 active   0 killed     the Zdreni apprentice
+#11716   1 active   0 killed     the Zdreni apprentice
+#11717   1 active   0 killed     the Zdreni magemaster
+#11718   1 active   0 killed     the Zdreni venomblade
+#11719   1 active   0 killed     the Zdreni stiletto
+#11720   1 active   0 killed     the Zdreni venomblade
+#11721   1 active   0 killed     the Zdreni venomblade
+#11722   2 active   0 killed     a screaming captive
+#11723   1 active   0 killed     the drow armoursmith
+#11724   1 active   0 killed     the drow weaponsmith
+#11725   1 active   0 killed     a Zdreni avenger
+#11800   1 active   0 killed     Lechandre
+#11801   1 active   0 killed     Noriek
+#11802   1 active   0 killed     Dyrli
+#11803   1 active   0 killed     Roweni
+#11804   1 active   0 killed     Xanil
+#11805   1 active   0 killed     Tyrena
+#11806   1 active   0 killed     Nalyss
+#11807   1 active   0 killed     Daeman
+#11808   1 active   0 killed     Ykandres
+#11809   1 active   0 killed     Zeion
+#11810   1 active   0 killed     the lab assistant
+#11811   4 active   0 killed     a mage in training
+#11812   1 active   0 killed     a writhing form
+#11813   2 active   0 killed     a glyph of warding
+#11814   1 active   0 killed     Dosandre
+#11815   1 active   0 killed     Denylis
+#11816   1 active   0 killed     Kaele
+#11817   1 active   0 killed     Rexena
+#11818   1 active   0 killed     Deis
+#11819   1 active   0 killed     Lyrene
+#11820   1 active   0 killed     Josreke
+#11821   1 active   0 killed     Rodwen
+#11822   4 active   0 killed     a white clad paladin
+#11823   1 active   0 killed     Rachal
+#11824   1 active   0 killed     Toryan
+#11825   1 active   0 killed     Janalis
+#11826   1 active   0 killed     Dreyva
+#11827   1 active   0 killed     Delyrus
+#11828   1 active   0 killed     Kranali
+#11829   1 active   0 killed     Sorina
+#11830   1 active   0 killed     Loryn
+#11831   1 active   0 killed     Chake
+#11832   1 active   0 killed     the hellish guardian
+#11833   1 active   0 killed     a howling beast
+#11834   1 active   0 killed     a demonic figure
+#11835   1 active   0 killed     the necromancer
+#11836   1 active   0 killed     a mass of writhing tentacles
+#11837   1 active   0 killed     a summoned demon
+#11838   1 active   0 killed     Jaena
+#11839   1 active   0 killed     Neraikis
+#11840   1 active   0 killed     Katyre
+#11841   1 active   0 killed     Ryxis
+#11842   1 active   0 killed     Gydeas
+#11843   1 active   0 killed     Dyraena
+#11844   1 active   0 killed     Nyxi
+#11845   1 active   0 killed     Delise
+#11846   1 active   0 killed     a black panther
+#11847   1 active   0 killed     a shadow lynx
+#11848   1 active   0 killed     a night hawk
+#11849   1 active   0 killed     the stalker
+#11850   1 active   0 killed     the hunter
+#11851   1 active   0 killed     Dyana
+#11852   1 active   0 killed     Ryke
+#11853   1 active   0 killed     Nyxil
+#11854   1 active   0 killed     Rakael
+#11855   1 active   0 killed     Yeven
+#11856   1 active   0 killed     Versant
+#11857   1 active   0 killed     Saera
+#11858   1 active   0 killed     the grey lion
+#11859   1 active   0 killed     the white lion
+#11860   2 active   0 killed     a guardian knight
+#11861   2 active   0 killed     a warrior in training
+#11862   2 active   0 killed     a sparring warrior
+#11863   1 active   0 killed     Yxanes
+#11864   1 active   0 killed     Nerael
+#11865   1 active   0 killed     Jorinne
+#11866   1 active   0 killed     Lerylke
+#11867   1 active   0 killed     Nerr
+#11868   1 active   0 killed     Yllyra
+#11869   1 active   0 killed     Dryna
+#11870   1 active   0 killed     Voryl
+#11871   1 active   0 killed     the white cat
+#11872   1 active   0 killed     the grey cat
+#11873   1 active   0 killed     the guardian spirit
+#11874   1 active   0 killed     The Flame
+#11875   1 active   0 killed     The Shield
+#11876   1 active   0 killed     The Claw
+#11877   1 active   0 killed     The Shadow
+#11878   1 active   0 killed     The Fist
+#11879   1 active   0 killed     The Hand
+#11880   1 active   0 killed     the Laerkai Master
+#11881   1 active   0 killed     The Guardian
+#11882   1 active   0 killed     The Mediator
+#11883   6 active   0 killed     a drakyri knight protector
+#11884   7 active   0 killed     a drakyri mage protector
+#11885   5 active   0 killed     a drakyri healer
+#11886   3 active   0 killed     a drakyri assassin
+#11887   1 active   0 killed     a frail old man
+#11888   1 active   0 killed     The Warden
+#12000   1 active   0 killed     Oberon
+#12001   1 active   0 killed     Queen Titania
+#12002   0 active   0 killed     Puck
+#12003   1 active   0 killed     True Thomas
+#12004   1 active   0 killed     Gwyn ap Nudd
+#12005   1 active   0 killed     The Morrigan
+#12006   2 active   0 killed     a sidhe noble
+#12007   1 active   0 killed     a sidhe noble
+#12008   2 active   0 killed     a sidhe noble
+#12009   1 active   0 killed     a sidhe noble
+#12010   3 active   0 killed     a sidhe guard
+#12011   2 active   0 killed     a sidhe guard
+#12012   1 active   0 killed     a noble sidhe knight
+#12013   1 active   0 killed     a noble sidhe knight
+#12014   1 active   0 killed     a noble sidhe knight
+#12015   1 active   0 killed     a noble sidhe knight
+#12016   1 active   0 killed     a noble sidhe knight
+#12017   1 active   0 killed     a noble sidhe knight
+#12018   1 active   0 killed     a noble sidhe knight
+#12019   6 active   0 killed     a troll guard
+#12020   5 active   0 killed     a troll guard
+#12021   1 active   0 killed     a pooka jester
+#12022   2 active   0 killed     a pooka jester
+#12023   3 active   0 killed     a satyr drinker
+#12024   6 active   0 killed     a satyr piper
+#12025   5 active   0 killed     a satyr singer
+#12026   1 active   0 killed     a lusty satyr
+#12027   1 active   0 killed     a boggan craftsman
+#12028   1 active   0 killed     a boggan smith
+#12029   4 active   0 killed     an adventurous eshu
+#12030   3 active   0 killed     an eshu
+#12031   2 active   0 killed     a drunken eshu
+#12032   4 active   0 killed     a savage redcap
+#12033   2 active   0 killed     a murderous redcap
+#12034   6 active   0 killed     a sluagh watcher
+#12035   2 active   0 killed     a sluagh guardian
+#12036  11 active   0 killed     a pixie
+#12037  10 active   0 killed     a sprite
+#12038   5 active   0 killed     a sylph
+#12039   2 active   0 killed     a beautiful nymph
+#12040   5 active   0 killed     a playful dryad
+#12041   2 active   0 killed     an exotic mermaid
+#12042   1 active   0 killed     an strange merman
+#12043   9 active   0 killed     a flower faery
+#12044   6 active   0 killed     an acorn faery
+#12045   1 active   0 killed     A little boy
+#12046   1 active   0 killed     A CuSidhe
+#12047   1 active   0 killed     A BoSidhe
+#12048   1 active   0 killed     A CatSidhe
+#12049   1 active   0 killed     A BranSidhe
+#12300   4 active   0 killed     an Antharian Peace Guard
+#12302   1 active   0 killed     Suretin
+#12303   4 active   0 killed     a sucker fish
+#12309   4 active   0 killed     an Antharian citizen
+#12310   3 active   0 killed     an Antharian citizen
+#12314   1 active   0 killed     an Antharian child
+#12315   1 active   0 killed     an Antharian child
+#12318   4 active   0 killed     an Antharian Knight
+#12323   4 active   0 killed     High Guard of Antharia
+#12340   1 active   0 killed     Zaertses
+#12341   1 active   0 killed     Irghum
+#12344   1 active   0 killed     Ertuvia
+#12345   1 active   0 killed     Heaustf
+#12348   1 active   0 killed     Cyrtpea
+#12360   1 active   0 killed     a human representative
+#12361   1 active   0 killed     a druidic representative
+#12362   1 active   0 killed     a kender representative
+#12363   1 active   0 killed     an antharian representative
+#12364   1 active   0 killed     an elven representative
+#12365   1 active   0 killed     a dwarven representative
+#12370   1 active   0 killed     an illithid representative
+#12371   1 active   0 killed     an avian representative
+#12401   1 active   0 killed     Giacomo
+#12402   1 active   0 killed     Baal Mythra
+#12403   0 active   0 killed     Enrique Dupuy De Lome
+#12404   1 active   0 killed     Paladin
+#12497   0 active   0 killed     A Whore
+#12498   0 active   0 killed     the Texan squirrel
+#12499   1 active   0 killed     Mortican
+#13000  20 active   0 killed     a giant guard
+#13001   1 active   0 killed     Thiulor the Spy
+#13002   1 active   0 killed     the Lord of the Giants
+#13003   1 active   0 killed     Shannon, the Battle Mistress
+#13004   1 active   0 killed     Iupsil, the Master Cleric
+#13005   1 active   0 killed     the Captain of the Castle Guard
+#13006   1 active   0 killed     the elven servant
+#13007  14 active   0 killed     the male giant
+#13008   4 active   0 killed     the dying gnome
+#13009   5 active   0 killed     the weeping elf
+#13010   4 active   0 killed     the weeping elf
+#13011   1 active   0 killed     the librarian
+#13012   1 active   0 killed     the torturer
+#13013   1 active   0 killed     the screaming elf
+#13400   1 active   0 killed     Guardian Lich
+#13401   1 active   0 killed     the vampire lab assistant
+#13402   2 active   0 killed     a warped creature from a nightmare
+#13403   2 active   0 killed     a docile creature
+#13404   2 active   0 killed     the black pudding
+#13405   1 active   0 killed     a gigantic automaton
+#13406   1 active   0 killed     the undead guardian
+#13407   1 active   0 killed     the lurker above
+#13408   1 active   0 killed     a vampire servant
+#13409   1 active   0 killed     the human automaton
+#13410   1 active   0 killed     the human automaton
+#13411   1 active   0 killed     the human automaton
+#13412   1 active   0 killed     the human automaton
+#13413   1 active   0 killed     the torturer lich
+#13414   1 active   0 killed     Ciquala's Undead Dragon
+#13415   1 active   0 killed     the lich Ciquala
+#13416   2 active   0 killed     Lich
+#13417   2 active   0 killed     vampire
+#13418   1 active   0 killed     the vampire lab assistant
+#14001   3 active   0 killed     The giant locust
+#14002   1 active   0 killed     Abaddon
+#14003   1 active   0 killed     Babylon
+#14004   1 active   0 killed     The angel of the waters
+#14005   1 active   0 killed     The angel of the earth
+#14006   1 active   0 killed     The angel of the air
+#14007   1 active   0 killed     The angel with the fiery censer
+#14008   4 active   0 killed     The harvesting angel
+#14009   4 active   0 killed     An army of heaven
+#14010   1 active   0 killed     The white horseman
+#14011   1 active   0 killed     The red horseman
+#14012   1 active   0 killed     The black horseman
+#14013   1 active   0 killed     The pale horseman
+#14014   1 active   0 killed     The archangel Michael
+#14015   1 active   0 killed     The dragon
+#14016   1 active   0 killed     Jezebel the prophetess
+#14017   1 active   0 killed     Balaam the teacher of Balac
+#14018   1 active   0 killed     Balac, disciple of Balaam
+#14019   3 active   0 killed     The unclean spirit
+#14020   1 active   0 killed     The false prophet
+#14021   1 active   0 killed     The woman clothed with the sun
+#14022   1 active   0 killed     The word of God
+#14023   4 active   0 killed     The sealed one
+#14024   4 active   0 killed     The marked one
+#14025   3 active   0 killed     The beast
+#14026   1 active   0 killed     The idolator
+#14027   1 active   0 killed     The whoremonger
+#14028   1 active   0 killed     The murderer
+#14029   1 active   0 killed     The harlot
+#14030   1 active   0 killed     The thief
+#14031   2 active   0 killed     The rich man
+#14032   2 active   0 killed     The mighty man
+#14033   2 active   0 killed     The former king
+#14034   2 active   0 killed     The bondsman
+#14035   2 active   0 killed     The freeman
+#14036   1 active   0 killed     The chief captain
+#14037   1 active   0 killed     He who sits at the throne
+#14038   1 active   0 killed     The lamb
+#14039   1 active   0 killed     Four and twenty elders
+#14040   1 active   0 killed     The lion creature
+#14041   1 active   0 killed     The ox creature
+#14042   1 active   0 killed     The creature with a human face
+#14043   1 active   0 killed     The eagle creature
+#14501   1 active   0 killed     the BIG monkey
+#14502   1 active   0 killed     the Elven Merchant
+#14503   1 active   0 killed     the Dwarven Merchant
+#14504   1 active   0 killed     the Halfdwarf Merchant
+#14505   1 active   0 killed     the Human Merchant
+#14506   1 active   0 killed     Madboy the Adventurer
+#14507   1 active   0 killed     the Bearded Soldier
+#14508   1 active   0 killed     the Alert Soldier
+#14509   1 active   0 killed     the Sleepy Soldier
+#14510   1 active   0 killed     the Watcher
+#14511   1 active   0 killed     the fat pig
+#14512   1 active   0 killed     the dog
+#14513   0 active   0 killed     the chicken
+#14514   1 active   0 killed     the Human Man
+#14515   1 active   0 killed     the Human Woman
+#14516   1 active   0 killed     the Elven Man
+#14517   1 active   0 killed     the Elven Woman
+#14518   1 active   0 killed     the Dwarven Woman
+#14519   1 active   0 killed     the Dwarven Man
+#14520   1 active   0 killed     the Goblin Warrior
+#14700   1 active   0 killed     the Lord Krothgar
+#14701   1 active   0 killed     a death knight
+#14702   1 active   0 killed     an iron golem
+#14703   1 active   0 killed     the demon prince Marmandes
+#14704   1 active   0 killed     axtraxes
+#14705   1 active   0 killed     an evil high priest
+#14706   1 active   0 killed     an elite guard
+#14707   1 active   0 killed     a destrier
+#14708   3 active   0 killed     an evil priest
+#14709   3 active   0 killed     an evil scientist mage
+#14710   3 active   0 killed     a member of the blackguard
+#14711   1 active   0 killed     a red dragon
+#14712   1 active   0 killed     a black dragon
+#14713   1 active   0 killed     a white dragon
+#14714   1 active   0 killed     a blue dragon
+#14715   1 active   0 killed     a green dragon
+#14716   1 active   0 killed     a fire elemental
+#14717   0 active   0 killed     an efreeti
+#14718   1 active   0 killed     a shedu
+#14719   1 active   0 killed     an evil illithid
+#14720   2 active   0 killed     a wretched slave
+#14721   2 active   0 killed     a wretched slave
+#14722   1 active   0 killed     a mutant
+#14723   1 active   0 killed     a twelve-headed hydra
+#14724   0 active   0 killed     a quasit
+#14725   1 active   0 killed     a succubus
+#14726   1 active   0 killed     an earth elemental
+#14727   1 active   0 killed     a water elemental
+#14728   1 active   0 killed     an air elemental
+#14729   4 active   0 killed     a hellhound
+#14730   2 active   0 killed     a fire giant
+#14731   1 active   0 killed     a frost giant
+#14732   4 active   0 killed     a hill giant
+#14733   1 active   0 killed     a cloud giant
+#14734   0 active   0 killed     an ogre servant
+#14735   1 active   0 killed     an ogre mage
+#14736   1 active   0 killed     a troll
+#14737   1 active   0 killed     an ettin
+#14738   1 active   0 killed     the chief assassin
+#14739   2 active   0 killed     an assassin
+#14740   1 active   0 killed     a drow ambassador
+#14741   4 active   0 killed     a warg
+#14742   4 active   0 killed     a bloodthirsty ghoul
+#14743   1 active   0 killed     a vampire
+#14744   1 active   0 killed     an ancient lich
+#14745   1 active   0 killed     a stone golem
+#14746   1 active   0 killed     The keeper of the mutant pit
+#14747   1 active   0 killed     a naga princess
+#15000   1 active   0 killed     the Avatar of Erebus
+#15001   1 active   0 killed     the prisoner
+#15002   1 active   0 killed     cockroach
+#15003   1 active   0 killed     a rat
+#15004   1 active   0 killed     a snoring dwarf
+#15005   1 active   0 killed     A small beholder.
+#15006   1 active   0 killed     a pet sidewinder
+#15007   0 active   0 killed     {RD{De{Rs{Dm{Ro{Dd{Re{Du{Rs{x
+#15010   2 active   0 killed     {Wthe Devil{x
+#15201   1 active   0 killed     King Welmar
+#15202   1 active   0 killed     the horrible ghost
+#15203   1 active   0 killed     Jim the Royal guard
+#15204   1 active   0 killed     Brian
+#15205   1 active   0 killed     Mick
+#15206   1 active   0 killed     Matt the Royal guard
+#15207   1 active   0 killed     Jochem the Royal guard
+#15208   1 active   0 killed     Anne the Royal guard
+#15209   1 active   0 killed     Andrew the Royal guard
+#15210   1 active   0 killed     Bertram the Royal guard
+#15211   1 active   0 killed     Jeanette the Royal guard
+#15212   1 active   0 killed     Peter, the Captain of the Royal guard
+#15213   1 active   0 killed     the Training Master
+#15214   1 active   0 killed     the Royal Herald
+#15215   0 active   0 killed     Ergan the Murderer
+#15216   1 active   0 killed     James the Butler
+#15217   3 active   0 killed     the Cleaning Woman
+#15218   0 active   0 killed     the Cockroach
+#15219   1 active   0 killed     the Astrologer
+#15220   1 active   0 killed     Tim, the King's Lifeguard
+#15221   1 active   0 killed     Tom, the King's Lifeguard
+#15222   1 active   0 killed     the Chef
+#15223   1 active   0 killed     the Cook
+#15224   1 active   0 killed     David
+#15225   1 active   0 killed     Dick
+#15226   1 active   0 killed     Jerry the Royal guard
+#15227   1 active   0 killed     Michael the Royal guard
+#15228   1 active   0 killed     Hans the Royal guard
+#15229   1 active   0 killed     Boris the Royal guard
+#15230   1 active   0 killed     the Executioner
+#15700   1 active   0 killed     the warlock Baragar
+#15701   1 active   0 killed     the witch Alara
+#15702   1 active   0 killed     a demon
+#15703   1 active   0 killed     a cat familiar
+#15704   1 active   0 killed     a hawk familiar
+#15705   3 active   0 killed     a troll guard
+#15706   1 active   0 killed     a flesh golem
+#15707   1 active   0 killed     a fire drake
+#15708   6 active   0 killed     a zombie servant
+#15709   4 active   0 killed     a keep guard
+#15710   1 active   0 killed     an apprentice mage
+#15711   1 active   0 killed     a grell
+#15712   1 active   0 killed     a mimic
+#15713   1 active   0 killed     a hungry crocodile
+#15714   2 active   0 killed     a savage war dog
+#15715   1 active   0 killed     an assassin
+#15716   1 active   0 killed     the assassin Dagar
+#15717   5 active   0 killed     a gnoll slave
+#15718   2 active   0 killed     an ogre slave
+#15719   1 active   0 killed     a flind slave master
+#15720   1 active   0 killed     an otyugh
+#16001  34 active   0 killed     The enforcer eye
+#16002  20 active   0 killed     The floating eye
+#16003   3 active   0 killed     The prisoner
+#16004   2 active   0 killed     The great enforcing eye
+#16005   1 active   0 killed     The huge beholder
+#16006   1 active   0 killed     The beholder
+#16007  16 active   0 killed     The svirfneblin
+#16008  12 active   0 killed     The drow trader
+#16009  16 active   0 killed     The duergar
+#16010   1 active   0 killed     The necromancer
+#16011   1 active   0 killed     The behir
+#16012   1 active   0 killed     The fighter
+#16013   1 active   0 killed     A high priest of Xevior
+#16014  10 active   0 killed     The lizard man
+#16015   1 active   0 killed     The purple worm
+#16016   1 active   0 killed     The huge purple worm
+#16017   3 active   0 killed     The beholder's underling
+#16018   1 active   0 killed     The beholder legionnaire
+#16019   1 active   0 killed     The supreme attendant
+#16020   1 active   0 killed     The grell
+#16021   1 active   0 killed     The Barkeep
+#16022   4 active   0 killed     The duergar patron
+#16023   3 active   0 killed     The drow patron
+#16024   2 active   0 killed     The human patron
+#16025   1 active   0 killed     Caris
+#16026   1 active   0 killed     Antryg
+#16027   7 active   0 killed     The gremlin
+#16028   2 active   0 killed     The slime creature
+#16029   5 active   0 killed     The huge rat
+#16030   5 active   0 killed     The jinxkin
+#16031   5 active   0 killed     The jermlaine
+#16032   1 active   0 killed     The bodak
+#16033   1 active   0 killed     The mage
+#16034   3 active   0 killed     The iron golem
+#16035   4 active   0 killed     The stone golem
+#16036   1 active   0 killed     Itreres
+#16037   1 active   0 killed     The imp
+#16038   2 active   0 killed     The babau
+#16039   2 active   0 killed     The servant
+#16040   1 active   0 killed     The gibbering mouther
+#16041   3 active   0 killed     The worker of the night
+#16042   2 active   0 killed     A maid of passion
+#16043   1 active   0 killed     A granter of pleasure
+#16044   2 active   0 killed     A preferred customer
+#16045   1 active   0 killed     The pimp
+#16046   3 active   0 killed     The halfling patron
+#16047   3 active   0 killed     The half-orc
+#16048   3 active   0 killed     The svirfneblin patron
+#16049   1 active   0 killed     The inn keeper
+#16050   1 active   0 killed     Limbeck
+#16051   1 active   0 killed     Geg
+#16052   1 active   0 killed     Drevlin
+#16053   1 active   0 killed     Jarre
+#16054   3 active   0 killed     The serving wench
+#16055   1 active   0 killed     The Slave Dealer
+#16056  13 active   0 killed     The slave trader
+#16057  11 active   0 killed     A slaver buyer
+#16058   1 active   0 killed     The orc slave
+#16059   1 active   0 killed     The goblin slave
+#16060   1 active   0 killed     A male human slave
+#16061   1 active   0 killed     the female human slave
+#16062   1 active   0 killed     The kobold
+#16063   1 active   0 killed     The elven slave
+#16064   1 active   0 killed     The dwarven slave
+#16065   1 active   0 killed     The Bar Tender
+#16066   1 active   0 killed     Prax
+#16067   1 active   0 killed     Thespan
+#16068   1 active   0 killed     Endolar
+#16069   1 active   0 killed     Snaromba
+#16070   1 active   0 killed     Anmictes
+#16071   1 active   0 killed     Emba
+#16072   1 active   0 killed     Shillikif
+#16073   1 active   0 killed     Yie'Stei
+#16074   1 active   0 killed     Zae'tres
+#16075   1 active   0 killed     Raesarnt
+#16076   1 active   0 killed     Satori
+#16077   1 active   0 killed     Jiestis
+#16078   2 active   0 killed     The svirfneblin
+#16079   1 active   0 killed     The svirfneblin dignitary
+#16080   1 active   0 killed     The caretaker
+#16081  16 active   0 killed     The footpad
+#16082   5 active   0 killed     The cutpurse
+#16083   5 active   0 killed     The filcher
+#16084   5 active   0 killed     The rogue
+#16085   4 active   0 killed     The sharper
+#16086   3 active   0 killed     The magsman
+#16087   3 active   0 killed     The master thief
+#16088   1 active   0 killed     The head thief
+#16089   1 active   0 killed     Meliadus
+#16090   1 active   0 killed     The trainer
+#16091   6 active   0 killed     The bravo
+#16092   6 active   0 killed     The murderer
+#16093   6 active   0 killed     The thug
+#16094   3 active   0 killed     The killer
+#16095   2 active   0 killed     The assassin
+#16096   3 active   0 killed     The expert assassin
+#16097   2 active   0 killed     The senior assassin
+#16098   2 active   0 killed     The prime assassin
+#16099   1 active   0 killed     The guildmaster
+#16100   1 active   0 killed     The trainer
+#16101   2 active   0 killed     The darken beast
+#16102   1 active   0 killed     The skyzorr'n
+#16103   3 active   0 killed     The dretch
+#16104   4 active   0 killed     The platinum golem
+#16105   1 active   0 killed     Gulthac
+#16106   1 active   0 killed     Eurandus
+#16107   1 active   0 killed     The Keeper
+#16108   1 active   0 killed     The xaren
+#16109   1 active   0 killed     The cloaker
+#16110   1 active   0 killed     Lord Rygar
+#16111   1 active   0 killed     Orak
+#16112   1 active   0 killed     Sabrakarn
+#16113   1 active   0 killed     Hangharid
+#16114   1 active   0 killed     Sifrim
+#16115   1 active   0 killed     Wismarel
+#16116   1 active   0 killed     Methuen
+#16117   1 active   0 killed     Cedrena
+#16118   1 active   0 killed     The inn keep
+#16119   3 active   0 killed     The demon clan member
+#16120   3 active   0 killed     A demon clan mage
+#16121   3 active   0 killed     A demon clan fighter
+#16122   3 active   0 killed     The demon summoner
+#16123   2 active   0 killed     The cambion
+#16124   2 active   0 killed     A noble cambion
+#16125   1 active   0 killed     Irmugar
+#16126   1 active   0 killed     The hezron
+#16127   4 active   0 killed     An eye of fear and flame
+#16128   6 active   0 killed     The revenant
+#16129   7 active   0 killed     The eye killer
+#17011   2 active   0 killed     the pirate guard
+#17012   1 active   0 killed     the shipwright
+#17013   2 active   0 killed     the jungle savage
+#17014   1 active   0 killed     Chief Unga-Bunga
+#17015   1 active   0 killed     the sleepy pirate
+#17016   3 active   0 killed     the drunken pirate
+#17017   1 active   0 killed     Princess Smallbody
+#17018   1 active   0 killed     the navigator
+#17019   1 active   0 killed     One-eye, the pirate lord
+#17020   1 active   0 killed     a bond maiden
+#17021   1 active   0 killed     the kracken
+#17022   1 active   0 killed     the dock guard
+#17023   1 active   0 killed     the black snake
+#17024   1 active   0 killed     the black crab
+#17025   3 active   0 killed     the lava worm
+#17026   2 active   0 killed     the lava lizard
+#17027   3 active   0 killed     the snarling pirate
+#17028   1 active   0 killed     Redbeard
+#17029   1 active   0 killed     Lalila, the Elven Prince
+#17030   1 active   0 killed     Pele, god of fire
+#17031   1 active   0 killed     Mizzenmast
+#17032   1 active   0 killed     Shifty the trader
+#17033   2 active   0 killed     the bandy legged pirate
+#17034   1 active   0 killed     Stiggs, the cabin boy
+#17035   1 active   0 killed     the tiger shark
+#17036   1 active   0 killed     the great white shark
+#17037   2 active   0 killed     the mako shark
+#17038   1 active   0 killed     the hammerhead shark
+#17039   2 active   0 killed     the blue shark
+#17040   1 active   0 killed     Did I say coral? I meant clam
+#17041   1 active   0 killed     the hawkwoman
+#17042   3 active   0 killed     the hawkman
+#17043   1 active   0 killed     the hawklord
+#17044   4 active   0 killed     the terra-kan
+#17045   3 active   0 killed     the gambling pirate
+#17046   1 active   0 killed     the first mate
+#17047   1 active   0 killed     the elite pirate
+#17048   1 active   0 killed     Alindra of Dunkeldorf
+#17049   1 active   0 killed     Mutton the chef
+#17050   1 active   0 killed     Lord Vulture
+#17051   1 active   0 killed     the orca
+#17052   1 active   0 killed     the great northern roc
+#17053   1 active   0 killed     the howling wolf pack
+#17054   1 active   0 killed     the towering cave bear
+#17066   3 active   0 killed     the pirate in fur skins
+#17067   1 active   0 killed     the lurking guard
+#17068   1 active   0 killed     the helmsman
+#17069   1 active   0 killed     Cutter, the 5th Pirate Lord
+#17070   1 active   0 killed     the frozen captive
+#17301   6 active   0 killed     The knight of reknown
+#17302   7 active   0 killed     The squire
+#17303   7 active   0 killed     the knight of quality
+#17304   1 active   0 killed     King Arthur
+#17305   1 active   0 killed     Sir Benlad de Haudtesert (the green knight)
+#17306   1 active   0 killed     Sir Galahad
+#17307   1 active   0 killed     the black knight
+#17308   1 active   0 killed     Sir Gareth
+#17309   1 active   0 killed     Sir Garlon
+#17310   1 active   0 killed     Sir Gawaine
+#17311   1 active   0 killed     Sir Lamorak
+#17312   1 active   0 killed     Sir Lancelot du Lake
+#17313   1 active   0 killed     Merlin
+#17314   1 active   0 killed     Morgan Le Fey
+#17315   1 active   0 killed     King Pellinore
+#17316   1 active   0 killed     the Questing Beast
+#17317   1 active   0 killed     Sir Tristram of Lyoness
+#17318   1 active   0 killed     Mordred
+#17319   5 active   0 killed     Charmed knight of reknown
+#17320   3 active   0 killed     Charmed knight of quality
+#17321   5 active   0 killed     a lady in waiting
+#17322   1 active   0 killed     Queen Gwenivere
+#17323   7 active   0 killed     Charmed Squire
+#17324   1 active   0 killed     Barant Les Apres (King of the Hundred Knights)
+#17325   1 active   0 killed     Dagonet (Arthur's Court Jester)
+#17326   1 active   0 killed     Turquine
+#17327   1 active   0 killed     Perimones (the Red Knight)
+#17328   1 active   0 killed     A damsel in distress
+#17329   1 active   0 killed     A nobleman
+#17330   4 active   0 killed     A serf
+#17331   2 active   0 killed     A merchant
+#17332   2 active   0 killed     A monk
+#17333   1 active   0 killed     A troubadour
+#17334   1 active   0 killed     A bard
+#17335   1 active   0 killed     An entertainer
+#17336   6 active   0 killed     A servant
+#17337   1 active   0 killed     A towering, black scaled demon
+#17338   1 active   0 killed     Iron Jack
+#17339   1 active   0 killed     Stirrup
+#17340   1 active   0 killed     A riding horse
+#17341   1 active   0 killed     A medium warhorse
+#17342   1 active   0 killed     A heavy warhorse
+#17343   1 active   0 killed     A Saxon raider
+#17344   1 active   0 killed     A slave
+#17345   1 active   0 killed     A Saxon chief
+#17346   1 active   0 killed     A northern border guard
+#17347   1 active   0 killed     The northern outpost commander
+#17348   1 active   0 killed     A Scot clansman
+#17349   1 active   0 killed     The Scot clan chief
+#17350   4 active   0 killed     A busy serf
+#17351   1 active   0 killed     An Angle raider
+#17352   1 active   0 killed     The Angle chief
+#17353   1 active   0 killed     The calvary unit
+#17354   1 active   0 killed     The infantry unit
+#17355   1 active   0 killed     The pict hoard
+#17356   1 active   0 killed     The Pict leader
+#17357   1 active   0 killed     Persante of Inde (the blue knight)
+#17358   1 active   0 killed     Dodinas le Savage
+#17359   1 active   0 killed     Lionel
+#17360   1 active   0 killed     Gaheris
+#17361   1 active   0 killed     The southern outpost commander
+#17362   1 active   0 killed     A southern border guard
+#17363   1 active   0 killed     A slave
+#18001  10 active   0 killed     the town guard
+#18002   7 active   0 killed     a poor ally cat
+#18003   1 active   0 killed     the bongo drummer
+#18004   1 active   0 killed     the guitar player of the band
+#18005   1 active   0 killed     the windpipe player of the band
+#18006   1 active   0 killed     the armourer
+#18007   1 active   0 killed     the young pet-shop girl
+#18008   1 active   0 killed     the meat grocer
+#18009   1 active   0 killed     the produce grocer
+#18010   1 active   0 killed     the weaponsmith
+#18011   1 active   0 killed     the librarian
+#18012   1 active   0 killed     the designer
+#18013   1 active   0 killed     the bartender
+#18014   1 active   0 killed     a kind waiter
+#18015   2 active   0 killed     the inn keeper
+#18016   1 active   0 killed     the florist
+#18017   1 active   0 killed     the town sheriff
+#18018   1 active   0 killed     the jail guard
+#18020   2 active   0 killed     a stinky prisoner
+#18021   1 active   0 killed     the chocolate shopkeeper
+#18022   1 active   0 killed     the icecreams vendor
+#18023   1 active   0 killed     the apiarist
+#18024   1 active   0 killed     the baker
+#18025   1 active   0 killed     Zanrich the Shopkeeper
+#18026   1 active   0 killed     the wand making wizard
+#18027   2 active   0 killed     the knight templar
+#18028   4 active   0 killed     a titan citizen
+#18029   1 active   0 killed     the house chef
+#18030   2 active   0 killed     the serf
+#18031   2 active   0 killed     a grubby beggar
+#18032   2 active   0 killed     a patrol guard
+#18033   3 active   0 killed     a happy villager
+#18034   1 active   0 killed     the tournament guard
+#18035   1 active   0 killed     a tournament warrior
+#18036   1 active   0 killed     a tournament anti-paladin
+#18037   1 active   0 killed     a tournament cleric
+#18038   1 active   0 killed     a tournament ranger
+#18039   1 active   0 killed     an evil baby dragon
+#18040   1 active   0 killed     a gloomy evil tree
+#18041   1 active   0 killed     a deadly rain cloud
+#18042   1 active   0 killed     a demon of fire
+#18043   1 active   0 killed     a demon of water
+#18044   1 active   0 killed     a demon of air
+#18045   1 active   0 killed     a demon of earth
+#18046   1 active   0 killed     a demon of wood
+#18047   1 active   0 killed     a demon of stone
+#18048   4 active   0 killed     a Royal Titan guard
+#18049   3 active   0 killed     a small boy titan
+#18050   3 active   0 killed     a titan girl
+#18051   2 active   0 killed     a sleeping patrol guard
+#18052   1 active   0 killed     the first advisor
+#18053   1 active   0 killed     the keeper of the deadly beasts
+#18054   1 active   0 killed     the Visious Black Cougar
+#18055   1 active   0 killed     the Deadly Kraken
+#18056   1 active   0 killed     the Magical Sylph
+#18057   1 active   0 killed     a Spider Monkey
+#18058   1 active   0 killed     a tame lion
+#18059   1 active   0 killed     a large black wolf
+#18060   1 active   0 killed     a Fearsome Java Beast
+#18061   1 active   0 killed     the King Dractax
+#18062   1 active   0 killed     the Queen Crystal
+#18063   1 active   0 killed     an assassin
+#18064   3 active   0 killed     a small rat
+#18065   3 active   0 killed     a happy peasant
+#18066   1 active   0 killed     the guildmaster
+#18067   1 active   0 killed     the guildstudent
+#18068   1 active   0 killed     the guildstudent
+#18069   1 active   0 killed     the guildmaster
+#18070   1 active   0 killed     the guildguard
+#18071   1 active   0 killed     the guildguard
+#18072   1 active   0 killed     the guildguard
+#18073   1 active   0 killed     the guildguard
+#18074   1 active   0 killed     a servant boy
+#18075   1 active   0 killed     a tourist
+#18076   2 active   0 killed     the store aid
+#18077   1 active   0 killed     the leather worker
+#18078   1 active   0 killed     a hard working blacksmith
+#18079   1 active   0 killed     the Titan Lieutenant Commander
+#18080   2 active   0 killed     a Titan Soldier
+#18087   1 active   0 killed     a hard working armourer
+#18090   1 active   0 killed     the Deadly Hydra
+#18097   1 active   0 killed     the court artist
+#18098   1 active   0 killed     the apothecary
+#18099   3 active   0 killed     a happy villager
+#18100   1 active   0 killed     Questor
+#18101   1 active   0 killed     Ghaldresh
+#18601   1 active   0 killed     the pit beast
+#18602   2 active   0 killed     the newbie monster
+#18603   1 active   0 killed     the baby dragon
+#18604   1 active   0 killed     the newbie guard
+#18605   1 active   0 killed     the newbie alchemist
+#18606   3 active   0 killed     the creepy crawler
+#18607   4 active   0 killed     the zombiefied newbie
+#18608   4 active   0 killed     the quasit
+#18609   1 active   0 killed     the massive minotaur
+#18610   1 active   0 killed     the dark spectre
+#18611   1 active   0 killed     the annoying newbie
+#18612   1 active   0 killed     the clueless newbie
+#18613   1 active   0 killed     the talkative newbie
+#18614   1 active   0 killed     the lost newbie
+#18615   1 active   0 killed     the smart newbie
+#19001   1 active   0 killed     the mirror guardian
+#19002   1 active   0 killed     a withered knight
+#19003   1 active   0 killed     King Loranhir
+#19004   1 active   0 killed     Caerlin
+#19005   2 active   0 killed     the young man
+#19006   2 active   0 killed     the woman
+#19007   1 active   0 killed     the unicorne
+#19008   1 active   0 killed     a watchman
+#19009   1 active   0 killed     a watchman
+#19010   1 active   0 killed     a watchman
+#19011   1 active   0 killed     Bear-de-bear
+#19012   1 active   0 killed     a withered knight
+#19013   1 active   0 killed     the Grey Mare
+#19014   1 active   0 killed     the bride
+#19015   1 active   0 killed     the groom
+#19016   1 active   0 killed     the Red Lord
+#19017   1 active   0 killed     the Orange Lord
+#19018   1 active   0 killed     the Yellow Lord
+#19019   1 active   0 killed     the Green Lord
+#19020   1 active   0 killed     the Blue Lord
+#19021   1 active   0 killed     the Violet Lord
+#19022   1 active   0 killed     the gardener
+#19023   1 active   0 killed     Brother Thomas
+#19024   1 active   0 killed     a standard issue wizard
+#19025   1 active   0 killed     the pool player
+#19026   1 active   0 killed     Lauraine the barkeep
+#19027   1 active   0 killed     the waiter
+#19028   1 active   0 killed     Master Dunn
+#19029   1 active   0 killed     the proprietor
+#19030   1 active   0 killed     Mrs. Truxton the Librarian
+#19031   1 active   0 killed     Father Franklin
+#19032   2 active   0 killed     the White Lord
+#19033   1 active   0 killed     the Black Lord
+#19034   1 active   0 killed     Storn the assassin
+#19035   1 active   0 killed     a standard issue wizard
+#19036   1 active   0 killed     the gardener
+#19037   1 active   0 killed     the young boy
+#19038   1 active   0 killed     the fisherman
+#19039   1 active   0 killed     The buck
+#19040   1 active   0 killed     something
+#19041   1 active   0 killed     the mass of red ants
+#19042   1 active   0 killed     the card shark
+#19043   1 active   0 killed     Hepzibah the Barkeep
+#19044   1 active   0 killed     Carvallo
+#19045   1 active   0 killed     the young man
+#19046   1 active   0 killed     the woman
+#19047   1 active   0 killed     the grey fox
+#19048   1 active   0 killed     the moose
+#19049   1 active   0 killed     the bear
+#19050   1 active   0 killed     the waiter
+#19051   0 active   0 killed     the young urchin
+#19052   1 active   0 killed     the lady of ill repute
+#19053   1 active   0 killed     the greasy man
+#19054   1 active   0 killed     the wily little thief (hidden somewhere in the shadows)
+#19055   1 active   0 killed     the Red Master
+#19056   1 active   0 killed     the Amber Master
+#19057   1 active   0 killed     the Green Master
+#19058   1 active   0 killed     the Blue Master
+#19059   1 active   0 killed     the Violet Master
+#19060   1 active   0 killed     the Yellow Master
+#19061   1 active   0 killed     the Master of Light
+#19062   1 active   0 killed     the Phoenix
+#19063   1 active   0 killed     Mandeep the Beekeeper
+#19064   1 active   0 killed     the White Master
+#19065   1 active   0 killed     the White Master
+#19066   1 active   0 killed     the Black Master
+#19067   1 active   0 killed     the Black Master
+#19068   0 active   0 killed     Jerry Garcia
+#19069   1 active   0 killed     Mr. Teece
+#21000   1 active   0 killed     Alice
+#21001   1 active   0 killed     a white rabbit
+#21002   1 active   0 killed     a mouse
+#21003   1 active   0 killed     a duck
+#21004   1 active   0 killed     a dodo
+#21005   1 active   0 killed     a lory
+#21006   1 active   0 killed     an eaglet
+#21007   1 active   0 killed     an elderly magpie
+#21008   1 active   0 killed     an owl
+#21009   1 active   0 killed     an old crab
+#21010   1 active   0 killed     a young crab
+#21011   1 active   0 killed     Bill the lizard
+#21012   1 active   0 killed     a guinea pig
+#21013   1 active   0 killed     a puppy dog
+#21014   1 active   0 killed     the caterpillar
+#21015   1 active   0 killed     a pigeon
+#21016   1 active   0 killed     a fish-footman
+#21017   1 active   0 killed     a frog-footman
+#21018   1 active   0 killed     the Duchess
+#21019   1 active   0 killed     the Duchess' baby
+#21020   1 active   0 killed     the cook
+#21021   1 active   0 killed     a Cheshire Cat
+#21022   1 active   0 killed     the Mad Hatter
+#21023   1 active   0 killed     the March Hare
+#21024   1 active   0 killed     the Dormouse
+#21027   1 active   0 killed     a gardener
+#21028   1 active   0 killed     a gardener
+#21029   1 active   0 killed     a gardener
+#21030   1 active   0 killed     a soldier
+#21031   1 active   0 killed     a courtier
+#21032   1 active   0 killed     a child of the Queen
+#21033   1 active   0 killed     the King of Hearts
+#21034   1 active   0 killed     the Queen of Hearts
+#21035   1 active   0 killed     the Knave of Hearts
+#21036   1 active   0 killed     a flamingo
+#21037   3 active   0 killed     a hedgehog
+#21038   1 active   0 killed     the executioner
+#21039   1 active   0 killed     the Mock Turtle
+#21040   1 active   0 killed     a Gryphon
+#21041   1 active   0 killed     a juror
+#21042   1 active   0 killed     a court officer
+#22002  10 active   0 killed     A Wandering Ghost
+#22003   2 active   0 killed     a Wicked Wraith
+#22004   3 active   0 killed     a spectre
+#22005   5 active   0 killed     a ghoul
+#22006   5 active   0 killed     a lemure
+#22007   5 active   0 killed     a nupperibo
+#22008   5 active   0 killed     a Spinagon
+#22009   1 active   0 killed     the ghoul lord
+#22010   1 active   0 killed     A Deep Dragon
+#22011   1 active   0 killed     an Undead Beast
+#22012   1 active   0 killed     a Holy Cleric
+#22013   1 active   0 killed     A Well Armed Knight
+#22014   1 active   0 killed     A Halfling Thief
+#22015   1 active   0 killed     A Powerful Enchantress
+#23001   6 active   0 killed     The trolloc
+#23002   3 active   0 killed     The Myrddraal
+#23003   1 active   0 killed     The trolloc
+#23004   1 active   0 killed     The trolloc
+#23005   1 active   0 killed     The flock of ravens
+#23006   1 active   0 killed     The trolloc
+#23007   1 active   0 killed     The creature
+#23008   1 active   0 killed     The twisted tree
+#23009   1 active   0 killed     The draghkar
+#23010  10 active   0 killed     The diseased creature
+#23011   2 active   0 killed     The warder
+#23012   1 active   0 killed     the Lord of the Tower
+#23013   1 active   0 killed     the Lord of the Tower
+#23014   7 active   0 killed     The spirit
+#23015   4 active   0 killed     The spirit
+#23016   1 active   0 killed     The twisted tree
+#23017   1 active   0 killed     The twisted tree
+#23018   1 active   0 killed     The twisted tree
+#23019   1 active   0 killed     The Sul'Dam
+#23020   1 active   0 killed     The metallic orb
+#23021   1 active   0 killed     The fox-like humanoid
+#23022   3 active   0 killed     The grolm
+#24100   1 active   0 killed     the village shaman
+#24101   1 active   0 killed     the village flint-knapper
+#24102   1 active   0 killed     a swarthy southern trader
+#24103   1 active   0 killed     a mercenary
+#24104   1 active   0 killed     the village witchdoctor
+#24105   1 active   0 killed     the village wise woman
+#24106   1 active   0 killed     the village beastmaster
+#24107   1 active   0 killed     a northern trader
+#24108   1 active   0 killed     a daughter of the tribe
+#24109   1 active   0 killed     the village brewer
+#24110   1 active   0 killed     the hedgehog
+#24111   1 active   0 killed     the otter
+#24112   1 active   0 killed     the hawk
+#24113   1 active   0 killed     the grizzly bear
+#24114   1 active   0 killed     the aurochs
+#24115   1 active   0 killed     the village champion
+#24116   1 active   0 killed     a hook-nosed merchant
+#24117   1 active   0 killed     the village chieftain
+#24118   2 active   0 killed     a villager
+#24119   2 active   0 killed     a villager
+#24120   1 active   0 killed     a child
+#24121   1 active   0 killed     the village idiot
+#24122   1 active   0 killed     a village drunk
+#24123   1 active   0 killed     a beggar
+#24124   1 active   0 killed     a thief
+#24125   1 active   0 killed     a scrawny wolf
+#24126   1 active   0 killed     a rat
+#24127   1 active   0 killed     a dog
+#24128   3 active   0 killed     a member of the village militia
+#24129   2 active   0 killed     a member of the village militia
+#24130   2 active   0 killed     a member of the village militia
+#24131   1 active   0 killed     minoan mercenary
+#24132   1 active   0 killed     Assyrian mercenary
+#24133   1 active   0 killed     Egyptian mercenary
+#24134   1 active   0 killed     Trojan mercenary
+#24135   1 active   0 killed     nubian Mercenary
+#24136   1 active   0 killed     Mycenaean mercenary
+#24301  18 active   0 killed     a centaur guardian
+#24302   9 active   0 killed     a centaur ranger
+#24303   5 active   0 killed     a centaur captain
+#24304   1 active   0 killed     the Centaur Leader
+#24305  10 active   0 killed     an anti-ranger
+#24306  10 active   0 killed     a greater Forest naga
+#24307   1 active   0 killed     Rimlarker
+#24308   1 active   0 killed     Medagar
+#24309   1 active   0 killed     Belqark
+#24310   1 active   0 killed     Metagar
+#24311   1 active   0 killed     Lethrak
+#24312   7 active   0 killed     a centaur scout
+#24313   7 active   0 killed     a dryad
+#24314  12 active   0 killed     a centaur
+#24315   8 active   0 killed     a dark stalker
+#24316   6 active   0 killed     a marauder troll
+#25000   1 active   0 killed     The Demi-Lich
+#25001   1 active   0 killed     Keftab, the Ancient One
+#25002   1 active   0 killed     A Crimson Death
+#25003   1 active   0 killed     A Mist Daemon
+#25004   2 active   0 killed     a Black Slayer
+#25005   1 active   0 killed     a Lost Soul
+#25006   3 active   0 killed     a Storm Giant
+#25007   1 active   0 killed     a White Gold Manticore
+#25008   4 active   0 killed     an Efreet
+#25009   1 active   0 killed     the Hydra
+#25010   1 active   0 killed     the kraken
+#25011   1 active   0 killed     the Treant
+#25012   1 active   0 killed     a Githyanki
+#25013   1 active   0 killed     Kalas
+#25014   2 active   0 killed     the Death knight
+#25015   1 active   0 killed     the Neo-Otyugh
+#25016   1 active   0 killed     a Shadow Daemon
+#25017   2 active   0 killed     the Gatekeeper
+#25018   1 active   0 killed     The Water Prince
+#25019   1 active   0 killed     The Earth King
+#25020   1 active   0 killed     The Lord of Air
+#25021   1 active   0 killed     The Sultan of Fire
+#25022   0 active   0 killed     The goblin king
+#25023   0 active   0 killed     A goblin cannon
+#25024   0 active   0 killed     A gatling goblin
+#25025   0 active   0 killed     An acid blob
+#25026   0 active   0 killed     A giant acid blob
+#25030   1 active   0 killed     A vrock
+#25031   1 active   0 killed     A hezrou
+#25032   1 active   0 killed     A glabrezu
+#25033   3 active   0 killed     Nalfeshnee
+#25034   1 active   0 killed     Marilith
+#25035   1 active   0 killed     Balor
+#25036   2 active   0 killed     the Gatekeeper
+#25037   1 active   0 killed     a Black Slayer
+#25038   1 active   0 killed     a Black Slayer
+#27000   0 active   0 killed     The apprentice is in excellent condition
+#27301   0 active   0 killed     the kraken
+#27302   0 active   0 killed     a worg
+#27303   0 active   0 killed     a goblin soldier
+#27304   1 active   0 killed     a balor demon
+#27305   1 active   0 killed     the demon's spirit
+#27306   0 active   0 killed     a nonused mob
+#27307   0 active   0 killed     
+#27308   0 active   0 killed     
+#27309   0 active   0 killed     
+#27310   0 active   0 killed     
+#27311   0 active   0 killed     
+#27312   0 active   0 killed     
+#27313   0 active   0 killed     
+#27314   0 active   0 killed     
+#27315   0 active   0 killed     
+#27316   0 active   0 killed     
+#27317   0 active   0 killed     
+#27318   0 active   0 killed     
+#27319   0 active   0 killed     
+#27320   0 active   0 killed     
+#27321   0 active   0 killed     
+#29001   1 active   0 killed     Grumm
+#29002   1 active   0 killed     The goblin shaman
+#29003   1 active   0 killed     Goblin Mage
+#29004   1 active   0 killed     Knarl
+#29005   8 active   0 killed     goblin guard
+#29006   0 active   0 killed     a goblin guard
+#29007  11 active   0 killed     The goblin
+#29008   4 active   0 killed     the goblin prisoner
+#29009   1 active   0 killed     the goblin
+#29010   1 active   0 killed     the goblin
+#29011   1 active   0 killed     The Lesser Demon
+#29012   1 active   0 killed     the dancing girl
+#29013   1 active   0 killed     the goblin jester
+#29101   4 active   0 killed     a giggling pixie
+#29102   3 active   0 killed     a fluttering nixie
+#29103   3 active   0 killed     a dancing sprite
+#29104   2 active   0 killed     a stern brownie
+#29105   1 active   0 killed     Puck
+#29106   1 active   0 killed     the Faerie Queen
+#29107   1 active   0 killed     Lucky
+#29108   1 active   0 killed     a drunken faerie
+#29109   1 active   0 killed     Twinkletoes
+#29120   1 active   0 killed     The ravening beast
+#29121   1 active   0 killed     The hag Gelda
+#29122   1 active   0 killed     The woodsman guard
+#29123   4 active   0 killed     The lumberjack
+#29124   1 active   0 killed     Al the grocer
+#29125   1 active   0 killed     Mark the miller of Dunkeldorf
+#29126   1 active   0 killed     Hans the smith of Dunkeldorf
+#29127   1 active   0 killed     Fritz the innkeeper of the Dunkeldorf inn
+#29128   1 active   0 killed     Libby the halfling trader
+#29129   1 active   0 killed     The giant rock snake
+#29130   1 active   0 killed     The guardian of the white temple
+#29131   5 active   0 killed     The witch
+#29132   1 active   0 killed     The warlock
+#29133   1 active   0 killed     The coven leader
+#29134   1 active   0 killed     The flaming beast from hell
+#29201   1 active   0 killed     the blue-tongued lizard
+#29202   2 active   0 killed     the red-tongued lizard
+#29203   2 active   0 killed     the green-tongued lizard
+#29204   1 active   0 killed     the watchman of Widow's Cape
+#29205   1 active   0 killed     the fisherman
+#29206   4 active   0 killed     the longshoreman
+#29207   1 active   0 killed     the harbormaster
+#29208   5 active   0 killed     the citizen of Freeport
+#29209   2 active   0 killed     the laughing child
+#29210   2 active   0 killed     the sailor's wife
+#29211   1 active   0 killed     the master shipbuilder
+#29212   1 active   0 killed     the apprentice shipbuilder
+#29213   1 active   0 killed     the warehouse overseer
+#29214   3 active   0 killed     the harbor patrolman
+#29215   1 active   0 killed     the teamster
+#29216   1 active   0 killed     Lefty, owner of the Sunken Pirate
+#29217   1 active   0 killed     Anwar, proprietor of the Emporium
+#29218   1 active   0 killed     Raedner the dwarven smith
+#29219   1 active   0 killed     Samantha, witch of the Mystic Eye
+#29220   1 active   0 killed     the apprentice merchant
+#29221   1 active   0 killed     Ceres, merchant of the 3rd chair
+#29222   1 active   0 killed     Elken, banker of Freeport
+#29224   1 active   0 killed     the young cadet
+#29225   1 active   0 killed     Whitecap, 8th Admiral of Freeport
+#29226   1 active   0 killed     Mayor Friendly
+#29227   1 active   0 killed     Midge, the innkeeper of the Crew's Quarters
+#29228   2 active   0 killed     the scruffy pirate
+#29229   2 active   0 killed     the pirate guard
+#29230   0 active   0 killed     Admiral Blacksail
+#29231   1 active   0 killed     Oglethorpe, 1st Master Merchant of Freeport
+#29232   1 active   0 killed     Lord Mourning
+#29233   2 active   0 killed     the drunken sailor
+#29350   4 active   0 killed     A Death Knight
+#29351   1 active   0 killed     The Inquisitor
+#29352   1 active   0 killed     A Minor Demon
+#29353   1 active   0 killed     A Major Demon
+#29354   1 active   0 killed     Myzelak the Lich Lord
+#29355   1 active   0 killed     The Dracolich
+#29356   2 active   0 killed     An Elite Death Knight
+#29500   1 active   0 killed     Ajax
+#29501   1 active   0 killed     Achilles
+#29502   1 active   0 killed     King Odysseus
+#29503   1 active   0 killed     King Agamemnon
+#29504   1 active   0 killed     King Nestor
+#29505   1 active   0 killed     King Menelaus
+#29506   1 active   0 killed     Patroclus
+#29507   1 active   0 killed     Paris
+#29508   1 active   0 killed     Hector
+#29509   1 active   0 killed     King Priam
+#29510   1 active   0 killed     Aeneas
+#29511   1 active   0 killed     Helen
+#29512   0 active   0 killed     Cassandra
+#29513   1 active   0 killed     Andromache
+#29514   1 active   0 killed     Hecabe
+#29515   1 active   0 killed     Automedon
+#29516   1 active   0 killed     Aias
+#29517   1 active   0 killed     Chalcas
+#29518   1 active   0 killed     Chryseis
+#29519   1 active   0 killed     Briseis
+#29520   1 active   0 killed     Antilochus
+#29521   1 active   0 killed     Thrasymedes
+#29522   1 active   0 killed     King Diomedes
+#29523   1 active   0 killed     Eurypylus
+#29524   1 active   0 killed     King Idomeneus
+#29525   1 active   0 killed     Machaon
+#29526   1 active   0 killed     Menestheus
+#29527   1 active   0 killed     Meriones
+#29528   1 active   0 killed     Sthenelus
+#29529   1 active   0 killed     Talthybius
+#29530   1 active   0 killed     the greater Aias
+#29531   1 active   0 killed     Thersites
+#29532   1 active   0 killed     Tleopolemus
+#29533   1 active   0 killed     Antenor
+#29534   1 active   0 killed     Deiphobus
+#29535   1 active   0 killed     Glaucus
+#29536   1 active   0 killed     Helenus
+#29537   1 active   0 killed     Neoptolemus
+#29538   1 active   0 killed     Idaeus
+#29539   1 active   0 killed     Pandarus
+#29540   1 active   0 killed     Polydamas
+#29541   1 active   0 killed     King Sarpedon
+#29542   4 active   0 killed     an Achaean soldier
+#29543   4 active   0 killed     a Trojan soldier
+#29544   3 active   0 killed     a Trojan citizen
+#29545   3 active   0 killed     a Trojan citizen
+#30232   1 active   0 killed     Cannabis Sativa
+#30233   1 active   0 killed     Cannabis Indica
+#30234   1 active   0 killed     A Small Joint
+#30235   1 active   0 killed     A Blunt
+#30236   1 active   0 killed     A Bowlful of Resinated Bud
+#30237   1 active   0 killed     The DEA Agent
+#30238   1 active   0 killed     The Smuggler
+#30239   1 active   0 killed     The Munchies
+#30240   1 active   0 killed     Tom Petty
+#30800   4 active   0 killed     an evil monk
+#30801   7 active   0 killed     a clay golem
+#30802   4 active   0 killed     a master
+#30803   3 active   0 killed     a necromancer
+#30804   1 active   0 killed     the abbot
+#30805   2 active   0 killed     a wight
+#30806   1 active   0 killed     a bone devil
+#30807   1 active   0 killed     an elven virgin
+#30808   1 active   0 killed     a dwarven slave
+#30809   1 active   0 killed     an ogre slavemaster
+#30810   1 active   0 killed     a paladin
+#30811   1 active   0 killed     a black dragon
+#30812   1 active   0 killed     an old elf
+#30813   1 active   0 killed     a bone golem
+#30814   1 active   0 killed     a wyvern
+#30815   2 active   0 killed     a pit beast
+#31000   1 active   0 killed     Gath the Healer
+#31001   1 active   0 killed     the Dryad Guildmaster
+#31002   1 active   0 killed     Jolob the Blacksmith
+#31003   1 active   0 killed     the Armorer
+#31004   1 active   0 killed     the Weaponsmith
+#31005   1 active   0 killed     the Mercenary Master
+#31006   1 active   0 killed     the Mage
+#31007   1 active   0 killed     Mitzak the Sage
+#31008   1 active   0 killed     the Pet Shop Owner
+#31009   1 active   0 killed     the Elven Guildmaster
+#31010   1 active   0 killed     the Grocer
+#31011   1 active   0 killed     the Baker
+#31012   1 active   0 killed     the Bartender
+#31013   1 active   0 killed     the Dwarven Guildmaster
+#31014   1 active   0 killed     the Kender Guildmaster
+#31015   1 active   0 killed     a Dryad Waiter
+#31016   1 active   0 killed     an Elven Waiter
+#31017   1 active   0 killed     a Dwarven Waiter
+#31018   1 active   0 killed     a Greasy Bartender
+#31019   1 active   0 killed     the mouse
+#31020   1 active   0 killed     the badger
+#31021   1 active   0 killed     the eagle
+#31022   1 active   0 killed     the grizzly bear
+#31023   1 active   0 killed     the elephant
+#31024   1 active   0 killed     Cuervo the headsman
+#31025   1 active   0 killed     Aod the dealer
+#31026   1 active   0 killed     the Illithid Guildmaster
+#31027   1 active   0 killed     the Human Guildmaster
+#31028   1 active   0 killed     the Avian Guildmaster
+#31029   1 active   0 killed     an Illithid Waiter
+#31030   1 active   0 killed     a Human Waiter
+#31031   1 active   0 killed     an Avian Waitress
+#31032   1 active   0 killed     the Castellan of Anon
+#31033   2 active   0 killed     a citizen
+#31034   2 active   0 killed     a citizen
+#31035   1 active   0 killed     a child
+#31036   1 active   0 killed     the janitor
+#31037   1 active   0 killed     a footpad
+#31038   1 active   0 killed     a drunk
+#31039   1 active   0 killed     a beggar
+#31040   1 active   0 killed     a thief
+#31041   1 active   0 killed     a beastly fido
+#31042   1 active   0 killed     a huge sewer rat
+#31043   1 active   0 killed     a cat
+#31044   3 active   0 killed     a City Guard
+#31045   1 active   0 killed     a City Guard
+#31046   1 active   0 killed     a City Guard
+#31047   1 active   0 killed     Hobbit Mercenary
+#31048   1 active   0 killed     Elven Mercenary
+#31049   1 active   0 killed     Dwarven Mercenary
+#31050   1 active   0 killed     Trollish Mercenary
+#31051   1 active   0 killed     Hill Giant Mercenary
+#31052   1 active   0 killed     Half-Dragon Mercenary
+#31053   1 active   0 killed     Salvatore
+#31054   1 active   0 killed     a City Guard
+#31055   1 active   0 killed     the co-owner Tracey
+#31056   1 active   0 killed     Mengrabbazoah
+#31057   1 active   0 killed     Alix the Thaumaturgist
+#31058   1 active   0 killed     Clea the Artificer
+#31059   1 active   0 killed     Xanafax
+#31060   1 active   0 killed     Dwart
+#31061   1 active   0 killed     Thom the Enhancer
+#31062   1 active   0 killed     Pharlas
+#31200   3 active   0 killed     an east wall guard
+#31201   3 active   0 killed     a south wall guard
+#31202   3 active   0 killed     a north wall guard
+#31203   3 active   0 killed     an west wall guard
+#31204   1 active   0 killed     the east wall guard captain
+#31205   1 active   0 killed     the south wall guard captain
+#31206   1 active   0 killed     the north wall guard captain
+#31207   1 active   0 killed     the west wall guard captain
+#31208   1 active   0 killed     a knight
+#31209   1 active   0 killed     an elven battle mage
+#31210   1 active   0 killed     the marshal
+#31211   6 active   0 killed     a crossbowman
+#31212   1 active   0 killed     the guard smith
+#31213   1 active   0 killed     a vile spectre
+#31214   1 active   0 killed     a ghost
+#31215   1 active   0 killed     a priestess of Lenny
+#31216   1 active   0 killed     a burly worker
+#31217   1 active   0 killed     a sailor
+#31218   1 active   0 killed     the dock master
+#32000   1 active   0 killed     the gatekeeper
+#32001  12 active   0 killed     the rat
+#32002   9 active   0 killed     the Prison Guard
+#32003   6 active   0 killed     the Prison Worker
+#32004   2 active   0 killed     the Cell Guard
+#32005  13 active   0 killed     the prisoner
+#32006   3 active   0 killed     the cockroach
+#32007  10 active   0 killed     a flunky
+#32008   2 active   0 killed     the stoned guard
+#32009   4 active   0 killed     the gangster
+#32010   1 active   0 killed     Brad the Warden
+#32011   1 active   0 killed     Trixie the secretary
+#32012   1 active   0 killed     Steve the maintenance man
+#32013   1 active   0 killed     Butch the helper
+#32014   1 active   0 killed     Wendy the Cook
+#32015   2 active   0 killed     A steam monster
+#32016   1 active   0 killed     Larry the armsmaster
+#32017   1 active   0 killed     Thomas the weaponmaster
+#32018   2 active   0 killed     (processed aura) a slice of bologna
+#32019   0 active   0 killed     The Muslim Cleric
+#32020   1 active   0 killed     the towel boy
+#32021   1 active   0 killed     The Executioner
+#32022   1 active   0 killed     The Black thing
+#32023   1 active   0 killed     A huge Bronze Dragon
+#32024   1 active   0 killed     Terry the salesman
+#32700   1 active   0 killed     Jher
+#32701   1 active   0 killed     a young warg
+#32702   1 active   0 killed     Knanath
+#32703   1 active   0 killed     warg mother
+#32704   1 active   0 killed     warg father
+#32705   1 active   0 killed     the young hungry warg
+#32706   1 active   0 killed     the snake
+#32707   0 active   0 killed     Beorn
+#32708   1 active   0 killed     the bat
+#32709   1 active   0 killed     Htrag
+#32710   1 active   0 killed     the female warg
+#32711   1 active   0 killed     the male warg
+#32712   1 active   0 killed     Sapth
+#32713   1 active   0 killed     the guard
+#32714   1 active   0 killed     the guard
+#32715   1 active   0 killed     Shaanh
+#32716   1 active   0 killed     the hideous one-eyed fish
+#32717   1 active   0 killed     A small statue
+#33100   0 active   0 killed     disintegrator
+#33102   0 active   0 killed     wizard
+#33103   1 active   0 killed     professor Preobrazhenskii
+#33104   1 active   0 killed     {rChaos Demon{x
+#33105   1 active   0 killed     Elder Warlock of Chaos
+#33106   0 active   0 killed     Bormental
+#33107   0 active   0 killed     Lord Seth
+#33108   0 active   0 killed     a chaos warrior
+#33200   1 active   0 killed     Bell
+#33201   1 active   0 killed     Diam
+#33300   1 active   0 killed     the dirty spider
+#33301   3 active   0 killed     the melancholy moth
+#33302   8 active   0 killed     the stupid piranha
+#33303   1 active   0 killed     the octopus
+#33304   1 active   0 killed     the fisherman
+#34400   1 active   0 killed     {ysympathetic bear{w
+#34401   0 active   0 killed     {DTank Abrams A1M1{w
+#34403   0 active   0 killed     test
+#35260   1 active   0 killed     Shambler
+#35261   1 active   0 killed     Fiend
+#35262   0 active   0 killed     
+#36200   0 active   0 killed     {YDragon healer.{x
+#38001   1 active   0 killed     Bargan
+#38102   0 active   0 killed     {CFather Frost{x
+#38200   0 active   0 killed     barman
+#38500   1 active   0 killed     war-rawan
+#38510   1 active   0 killed     Ga-nocry
+#40101   1 active   0 killed     the Guildmaster
+#40102   1 active   0 killed     the Guildmaster
+#40103   1 active   0 killed     the Guildmaster
+#40104   1 active   0 killed     the WeaponsMaster
+#40105   1 active   0 killed     the Guildmaster
+#40106   1 active   0 killed     the Guildmaster
+#40107   1 active   0 killed     the Guildmaster
+#40108   1 active   0 killed     the Guildmaster
+#40109   1 active   0 killed     the Guildmaster
+#40110   1 active   0 killed     the Guildmaster
+#40111   1 active   0 killed     the Guildmaster
+#40112   0 active   0 killed     the Guildmaster
+#40113   1 active   0 killed     the President of the Bank
+#40114   1 active   0 killed     the Captain of the City Guard
+#40115  10 active   0 killed     the Cityguard
+#40116  11 active   0 killed     the Cityguard Patroller
+#40117  11 active   0 killed     the Gate Guard
+#40118   2 active   0 killed     the Lieutenant of the Cityguard
+#40119   1 active   0 killed     Blane the Tavernkeeper
+#40120   1 active   0 killed     Ilse the Barmaid
+#40121   1 active   0 killed     Sam the harpsichord player
+#40122   1 active   0 killed     Laslow the gambler
+#40123   1 active   0 killed     Frenschi the gambler
+#40124   1 active   0 killed     Jeaves the seller of servants
+#40125   1 active   0 killed     the kitten
+#40126   1 active   0 killed     the puppy
+#40127   1 active   0 killed     the doberman
+#40128   1 active   0 killed     the falcon
+#40129   1 active   0 killed     the human mercenary
+#40130   1 active   0 killed     the dwarven mercenary
+#40131   1 active   0 killed     the giant mercenary
+#40132   1 active   0 killed     Thedril Saphorson, Mayor of Elvenhame
+#40133   4 active   0 killed     the little kitten
+#40134   5 active   0 killed     the scrawny alleycat
+#40135   3 active   0 killed     the drunk
+#40136   1 active   0 killed     Kal'ille M'Gorn
+#40137   1 active   0 killed     a citizen
+#40138   1 active   0 killed     a citizen
+#40139   1 active   0 killed     the elf child
+#40140   2 active   0 killed     a citizen
+#40141   2 active   0 killed     a citizen
+#40142   4 active   0 killed     the drow child
+#40143   2 active   0 killed     a citizen
+#40144   2 active   0 killed     a citizen
+#40145   3 active   0 killed     the grey-elven child
+#40146   1 active   0 killed     De'Lyron P'Gille the butcher
+#40147   1 active   0 killed     Nech'lir the blacksmith
+#40148   1 active   0 killed     Sarn'otha Vent'Mir the jeweller
+#40149   1 active   0 killed     Gethnir'Rah F'nith the weaponsmith
+#40150   1 active   0 killed     The Healer Adept
+#40151   1 active   0 killed     The Necromancer-Alchemist
+#40200  20 active   0 killed     Wex'sh citizen
+#40201   8 active   0 killed     Wex'sh citizen
+#40202  17 active   0 killed     Wex'sh citizen
+#40203   3 active   0 killed     Wex'sh outlaw
+#40204  10 active   0 killed     Wex'sh cityguard
+#40205   0 active   0 killed     Wex'sh cityguard
+#40206   0 active   0 killed     Wex'sh cityguard
+#40207   0 active   0 killed     outlaw
+#40250   1 active   0 killed     Phran'thea
+#47000   1 active   0 killed     The statue
+#47100   0 active   0 killed     Lothar's warhorse
+#50000   0 active   0 killed     
+#50010   0 active   0 killed     A large wolf-like man.
+#94100   1 active   0 killed     Very HUGE {WWhite {xdragon
+#94101   1 active   0 killed     Druid
+#94102   1 active   0 killed     Tired man
+#95100   1 active   0 killed     the enforcer
+#95101   1 active   0 killed     the lawful healer
+#95200   1 active   0 killed     A healer
+#95201   1 active   0 killed     the protector
+#95202   1 active   0 killed     the stable keeper
+#95203   1 active   0 killed     the grey horse
+#95204   1 active   0 killed     the white horse
+#95205   1 active   0 killed     the great white horse
+#95300   1 active   0 killed     The Seneschal
+#95301   1 active   0 killed     an adept
+#95302   0 active   0 killed     a fiery demon
+#95400   1 active   0 killed     the Powerman
+#95401   1 active   0 killed     Gordall
+#95402   0 active   0 killed     the wiseman
+#95500   1 active   0 killed     a Healer
+#95501   1 active   0 killed     Ivan the guardian of Chaos Realms
+#95600   1 active   0 killed     the invader guardian
+#95601   1 active   0 killed     the evil cleric
+#95700   1 active   0 killed     the guardian
+#95701   1 active   0 killed     the cleric
+#95702   1 active   0 killed     the guardian
+#95800   1 active   0 killed     priest
+#95810   0 active   0 killed     
+#120000   1 active   0 killed     King Leoric
+#120001   1 active   0 killed     The Kings Bodygaurd
+#120002   1 active   0 killed     an elite guard
+#120003   1 active   0 killed     a wizard
