@@ -399,7 +399,6 @@ int init_socket(int port)
 	sa.sin_family   = PF_INET;
 #endif
 	sa.sin_port	= htons(port);
-sa.sin_addr.s_addr = inet_addr( "209.123.65.29" );
 
 	if (bind(fd, (struct sockaddr *) &sa, sizeof(sa)) < 0) {
 		perror("init_socket: bind");
