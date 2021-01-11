@@ -43,7 +43,7 @@
 char BLANK_STRING[] = "{RBUG!!!{x";
 
 struct msg {
-	const char** p;
+	char** p;
 	int sexdep;
 };
 
@@ -407,7 +407,7 @@ load_langfile(int lang, char* fname)
 			if (curr->sexdep)
 				curr->p[ncurr++] = q;
 			else
-				(char*) curr->p = q;
+				curr->p = q;
 		}
 		else {
 			fprintf(stderr, "%s:%d: syntax error\n", fname, line);

@@ -3274,7 +3274,6 @@ void show_affects(CHAR_DATA *ch, BUFFER *output)
 		}
 }
 
-#ifdef WIN32
 void SET_ORG_RACE(CHAR_DATA *ch, int race)
 {
 	if (IS_NPC(ch))
@@ -3282,4 +3281,3 @@ void SET_ORG_RACE(CHAR_DATA *ch, int race)
 	else
 		ch->pcdata->race = race;
 }
-#endif

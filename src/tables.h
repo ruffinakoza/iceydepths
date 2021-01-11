@@ -29,6 +29,8 @@
 #ifndef _TABLES_H_
 #define _TABLES_H_
 
+#include "flag.h"
+
 /* flag tables */
 extern FLAG	slang_table[];
 extern FLAG	size_table[];

@@ -43,6 +43,8 @@
 #ifndef _INTERP_H_
 #define _INTERP_H_
 
+#include "cmd.h"
+
 /* this is a listing of all the commands and command related data */
 
 /* the command table itself */

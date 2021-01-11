@@ -46,6 +46,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <stdarg.h>
+#include <time.h>
 #if !defined (WIN32)
 #include <unistd.h>
 #endif
@@ -844,7 +845,7 @@ void do_goto(CHAR_DATA *ch, const char *argument)
 			char_puts("You are too pumped to pray now.\n", ch);
 			return;
 		}
-#ifdef 0
+#if 0
 		if (!IS_SET(ch->in_room->room_flags, ROOM_PEACE)) {
 			char_puts("You must be in a safe place in order "
 				  "to make a transportation.\n", ch);
@@ -2963,10 +2964,8 @@ break;
 break;
               case CON_PICK_WEAPON:			 st = " Weapon ";
 break;
-			  case CON_READ_IMOTD:			 st = "
-IMOTD  "; 	break;
-			  case CON_BREAK_CONNECT:		 st =
-"LINKDEAD";	break;
+			  case CON_READ_IMOTD:			 st = "IMOTD  "; 	break;
+			  case CON_BREAK_CONNECT:		 st = "LINKDEAD";	break;
               case CON_READ_MOTD:            st = "  MOTD  ";    break;
               default:                       st = "UNKNOWN!";    break;
            }           count++;           

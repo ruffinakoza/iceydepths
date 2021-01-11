@@ -29,6 +29,8 @@
 #ifndef _GSN_H_
 #define _GSN_H_
 
+#include "namedp.h"
+
 extern NAMEDP gsn_table[];
 
 /*

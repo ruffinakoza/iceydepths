@@ -458,7 +458,7 @@ const char *string_lineadd(const char *string, char *newstr, int line)
 }
 
 /* buf queda con la linea sin \n */
-const char *getline(const char *str, char *buf)
+const char *icey_getline(const char *str, char *buf)
 {
 	int tmp = 0;
 	bool found = FALSE;
@@ -493,7 +493,7 @@ char *numlines(const char *string)
 	buf[0] = '\0';
 
 	while (*string) {
-		string = getline(string, tmpb);
+		string = icey_getline(string, tmpb);
 		sprintf(buf2, "%2d. %s\n", cnt++, tmpb);
 		strcat(buf, buf2);
 	}

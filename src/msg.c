@@ -32,6 +32,7 @@
 
 #include <limits.h>
 #include <stdio.h>
+#include <stdlib.h>
 
 #include "const.h"
 #include "typedef.h"

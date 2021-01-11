@@ -1,5 +1,6 @@
 muddy
 core.*
+src/*.o
 src/o/
 src/.depend
 src/startup

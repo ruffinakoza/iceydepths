@@ -3975,15 +3975,13 @@ for (cmd = 0; social_table[cmd].name != NULL; cmd++) {
 
     if ( !IS_NPC(ch) && IS_SET(ch->comm, COMM_NOGOSSIP))
     {
-	send_to_char("But you have the gossip channel turned
-off!\n\r",ch);
+	send_to_char("But you have the gossip channel turned off!\n\r",ch);
 	return;
     }
 
     if ( !IS_NPC(ch) && IS_SET(ch->comm, COMM_NOCHANNELS))
     {
-	send_to_char("The gods have revoked your channel
-priviliges.\n\r",ch);
+	send_to_char("The gods have revoked your channel priviliges.\n\r",ch);
 	return;
     }
 

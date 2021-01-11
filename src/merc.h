@@ -1147,7 +1147,7 @@ enum {
 #define COMM_NOINFO		(ee)
 #define COMM_NONEWBIE		(ff)
 /* IAC replacement if COMM_NOIAC is set */
-/* COMM_NOIAC is useful to map 'Ñ' (IAC) to 'ñ' when using win1251 codepage */
+/* COMM_NOIAC is useful to map 'ï¿½' (IAC) to 'ï¿½' when using win1251 codepage */
 #define IAC_REPL	223
 
 /* WIZnet flags */
@@ -1697,11 +1697,7 @@ struct mpcode
 
 #define ORG_RACE(ch)		(IS_NPC(ch) ? ch->pIndexData->race : ch->pcdata->race)
 
-#if defined(WIN32)
 void SET_ORG_RACE(CHAR_DATA *ch, int race);
-#else
-#	define SET_ORG_RACE(victim, race)	ORG_RACE(victim) = race
-#endif
 
 #define GET_AGE(ch)		((int) (17 + ((ch)->played \
 				    + current_time - (ch)->logon)/72000))
