@@ -125,14 +125,14 @@ void load_hash(const char *file, varr **p)
 	strnzcpy(buf, filename, sizeof(buf));
 	linenum = line_number;
 
-	s = strrchr(filename, PATH_SEPARATOR);
+	s = strrchr(buf, PATH_SEPARATOR);
 	if (s)
 		*(s+1) = '\0';
 	else
-		filename[0] = '\0';
-	db_load_file(filename, file, db_load_words, NULL);
+		buf[0] = '\0';
 
-	strnzcpy(filename, buf, sizeof(buf));
+	db_load_file(buf, file, db_load_words, NULL);
+
 	line_number = linenum;
 }
 
