@@ -1,0 +1,36 @@
+#AREADATA
+Name Tzbrakas Training Grounds~
+Builders erebus~
+VNUMs 27150 27300
+Credits Erebus~
+Security 0
+LevelRange 0 0
+End
+
+#ROOMS
+#27150
+Training School Entrance~
+~
+0 C inside
+S
+#27151
+A Hallway~
+~
+0 0 inside
+D0
+~
+~
+Z 0 27151
+D2
+~
+~
+Z 0 27151
+S
+#27152
+~
+~
+0 C inside
+S
+#0
+
+#$

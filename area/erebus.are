@@ -1,0 +1,817 @@
+#AREADATA
+Name Erebus' Cavern of Wonders~
+VNUMs 15000 15199
+Credits Erebus~
+Security 9
+LevelRange 92 100
+End
+
+#MOBILES
+#15000
+avatar~
+the Avatar of Erebus~
+The Avatar of Erebus is here.
+~
+You see a huge man. He looks very strong and wise. You'd better never mess with him.
+~
+dragon~
+ABGOVXac H 0 0
+1000 0 5d5000+5000 1d1+666 5d3000+1 none
+6 6 66 66
+0 ABDFGIJLMOPQRTXYZ 0 0
+stand stand male 2147483647
+CIK 0 huge unknown
+M random 15000 2~
+M random 15000 1~
+M bribe 15000 1~
+M speech 15001 shadow~
+M speech 15002 demon~
+#15001
+prisoner karabas~
+@eng the prisoner@rus узник~
+@eng Another prisoner is here.
+@rus Другой узник сидит с тобой и не дает тебе скучать...
+~
+@rus Он большой и толстый. лучше не ссорься с ним.
+~
+human~
+A HV 0 0
+200 0 10d10+25000 0d0+0 10d10+1000 none
+-66 -66 -66 -66
+0 AB 0 0
+stand stand male 0
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+M act 15004 is dead!!~
+M delay 15003 100~
+M random 15005 5~
+M bribe 15005 1~
+M fight 1 100~
+#15002
+cockroach~
+@eng cockroach@rus таракан~
+@eng A little cockroach is crawling here.
+@rus Маленький таракан ползает тут.
+~
+@rus Вполне обычный рыжий таракан.
+~
+song bird~
+AZ 0 1000 0
+1 0 1d1+1 0d0+0 1d1+1 bite
+0 0 0 0
+0 B 0 0
+stand stand either 0
+0 0 small unknown
+F aff T
+#15003
+rat~
+a rat~
+@eng An evil rat is here.
+@rus Злобная крыса тут, она хочет покусать тебя.
+~
+@rus Маленькая злобная крыса с острыми зубами.
+~
+human~
+A Z 0 0
+0 0 1d1+1 0d0+0 1d1+1 bite
+0 0 0 0
+FH B 0 S
+stand stand either 0
+G 0 small unknown
+#15004
+dwarf~
+a snoring dwarf~
+A snoring dwarf dozes here.
+~
+A stocky dwarf sleeps here, snoring loudly enough to wake the dead.  You
+wonder how he manages to run a business this way.  You detect the faint odor
+of firebreather as he exhales.  
+~
+dwarf~
+A 0 1000 0
+90 0 500d500+10 0d0+0 0d0+0 none
+-40 -40 -40 -15
+CO BZ 0 0
+sleep stand male 40
+0 0 medium unknown
+#15005
+guardian test room beholder glass~
+A small beholder.~
+A small ball that seems to be one central eye with four smaller eyes on small stalks.
+~
+A small glass ball floats before you, seeming to block every move you
+make to get farther into the room.  As it hovers before you a large eye made
+of glass blinks at you and 4 smaller eyes raise up on small stalks to watch
+you.  
+~
+beholder~
+ABI DFH 0 0
+30 110 10d40+500 30d6+200 2d12+25 magic
+-9 -9 -9 0
+FHT BFHN 0 EIT
+stand stand male 10
+0 0 small unknown
+#15006
+snake rattlesnake sidewinder~
+a pet sidewinder~
+An angry rattlesnake lies here coiled to strike.
+~
+Hissss!
+~
+snake~
+AI 0 0 0
+20 5 5d5+1500 1d1+99 4d4+10 none
+-20 -20 -20 -20
+F 0 0 0
+stand stand none 0
+0 0 medium unknown
+#15007
+dragon silver desmodeus~
+{RD{De{Rs{Dm{Ro{Dd{Re{Du{Rs{x~
+A gargantuan {Dsilver dragon{x waits obediently for Erebus.
+~
+An enormous silver dragon glares back at you through evil reptilian eyes.
+~
+silver dragon~
+ABIZ 0 -1000 0
+95 235 100d125+65000 87d34+23509 55d60+865 claw
+-260 -260 -260 -260
+ACHMO 0 D 0
+stand stand male 0
+0 0 gargantuan unknown
+#15008
+no name~
+~
+~
+~
+human~
+A 0 0 0
+8 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#15009
+no name~
+~
+~
+~
+zombie~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#15010
+devil~
+{Wthe Devil{x~
+{WThe Devil is here to devour your soul.{x
+~
+Evil, pure evil...
+  *shiver*
+~
+pig~
+ABGRTe CDEFGHVZac -1000 0
+150 1000 1d1+10000 1d1+10000 1d1+100 shbite
+-100 -100 -100 -100
+0 ABCEFGHIJKLMNOPQRTXYZ 0 0
+stand stand male 0
+0 0 small unknown
+#0
+
+#OBJECTS
+#15000
+pill strange~
+strange pill~
+Someone has left a strange pill here.~
+unknown~
+pill ABG AQ
+66 'detect invis' 'detect hidden' 'acute vision' 'improved detect'
+1 1 12305 P
+#15001
+food~
+Food~
+food~
+unknown~
+pill AG A
+300 'create food' 'create food' 'create food' 'create food'
+0 0 100 P
+#15002
+blood fountain~
+{Ra fountain of blood{x~
+{RA fountain of warm blood erupts from the ground.{x~
+blood~
+fountain CEIO 0
+0 0 'blood' 0 0
+0 0 0 P
+#15003
+cloak holocaust~
+{Wa holocaust cloak{x~
+{WA holocaust cloak billows in the wind.{x~
+energy~
+container ORYa AK
+10000 0 0 10000 1
+100 0 3508385 P
+A
+17 -2600
+#15004
+token enchant~
+{ran enchant token{x~
+A valuable token lies here.~
+energy~
+treasure GIOTYa AP
+0 0 0 0 0
+1 5 9876987 P
+E
+token enchant~
+This token may be redeemed to Erebus for one weapons or armor enchantment.
+~
+#15005
+basin water dirty~
+a dirty basin of water~
+A dirty basin of water sits in the corner.~
+unknown~
+fountain O 0
+0 0 'water' 0 0
+0 0 0 P
+#15006
+mattress straw worn~
+a worn straw mattress~
+A worn straw mattress is lying up against the wall.~
+unknown~
+furniture EGIOY 0
+ABE ABCDEFGHIJKLMNOPQRSTUVWXYZabcde BEK DFGHIJ DFGHIJ
+0 0 0 P
+#15007
+bottle vodka absolute~
+@eng a bottle of crystal clear vodka@rus литровый пузырь кристалльно чистой водки~
+@eng A bottle of crystal clear vodka has been left here.@rus Темный властелин оставил здесь пузырь водки.~
+glass~
+drink ABCEHJLMORYZ AO
+-1 1000 'vodka' 0 0
+99 1 2500 P
+#15008
+pill third power~
+the third power~
+A tiny glowing yellow pill is lying here.~
+energy~
+pill ABOT A
+45 'enhanced armor' 'protection evil' 'bless' 'sanctuary'
+0 1 10000 P
+#15009
+god hand~
+{Bthe hand of god{x~
+The power of {Bgod{x fills the room.~
+divinity~
+weapon MTYZa AN
+sword 1 46 none I
+1 0 19879872 P
+F
+A 13 1000 T
+F
+A 19 1000 V
+F
+A 18 1000 H
+E
+hand~
+The power of {Bgod{x fills the room.
+~
+#15010
+scroll enchantweapon~
+{Ba scroll of IMMORTAL enchantment{x~
+Erebus' scroll of weapons enchantment lies here.~
+unknown~
+scroll RYa A
+2147483647 'enchant weapon' 'reserved' 'reserved' 'reserved'
+92 0 0 P
+#15011
+enchantarmor scroll~
+{Yan enchant armor scroll{x~
+{YA scroll of IMMORTAL enchantment.{x~
+unknown~
+scroll 0 AEP
+1000000 'enchant armor' 'enchant armor' 'enchant armor' 'enchant armor'
+100 0 0 P
+#15012
+rose~
+@eng {DBlack Rose{x@rus {DЧерная роза{x~
+{DBlack Rose{x~
+unknown~
+trash 0 AOP
+0 0 0 0 0
+99 0 0 P
+#15013
+hoof~
+{DHooves{x~
+{DA pair of demon hooves are lying here.{x~
+unknown~
+armor 0 AGOP
+0 0 0 0 0
+0 0 0 P
+F
+A 0 0 J
+F
+A 18 20 V
+#15014
+mark beast~
+The Mark of the Beast~
+Mark of the Beast is here.~
+darkness~
+treasure ABCEG AS
+0 0 0 0 0
+100 0 0 P
+#15015
+Tiara~
+a shiny tiara~
+A shiny, silver tiara rests here.~
+silver~
+jewelry AGJ E
+0 0 0 0 0
+91 2 20000 P
+#15016
+Dwarven Ale Mug~
+A stout mug of Dwarven Ale~
+A clay mug filled to the brim with a strong smelling beverage.~
+clay~
+drink 0 0
+2 2 'dark ale' 0 0
+5 1 100 P
+#15020
+box~
+{Dящик ворсинского пива{x~
+{DЯщик темного Ворсинского пива дожидается своего хозяина здесь.{x~
+дерево~
+container GRYa AOP
+20 0 0 100 0
+1 0 0 P
+#15021
+bottle~
+{Dбутылка холодного Ворсинского пива{x~
+{DБутылка холодного Ворсинского пива лежит здесь.{x~
+стекло~
+drink CGRYa AOP
+20 20 'beer' 0 0
+1 0 0 P
+#15026
+no name~
+~
+~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#15027
+elephant~
+@eng HUGE elephant@rus ОГРОМНЫЙ СЛОНЯРА~
+@eng HUGE elephant wanders around.@rus ОГРОМНЫЙ СЛОНЯРА бродит тут в поисках хозяина.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 0 P
+#15028
+bell~
+@eng {Wlittle magic bell{x@rus {Wмаленький глиняный колокольчик{x~
+@eng A small little magic bell lies here.@rus Самая прекрасная ведьмочка оставила здесь свой колокольчик.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 0 P
+#15029
+bear~
+@eng teddy bear@rus плюшевый медвежонок~
+@eng Teddy bear lies here, forgotten.@rus Уронили мишку на пол, оторвали мишке лапу...~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 0 P
+#15030
+tron~
+{Gмаленькая удобная кроватка{x~
+{GМаленькая удобная кроватка для ведьмочки Faire стоит тут.{x~
+unknown~
+furniture RYa AP
+AC EIJKN HK CFG CFG
+0 0 0 P
+#15035
+bottle champagne~
+@eng {ga bottle of champagne{x@rus {gбутылка шампанского{x~
+@eng Bottle of champagne is here.@rus Бутылка шампанского оставлена кем-то здесь.~
+стекло~
+drink GRYa AOP
+-1 2147483647 'champagne' 0 0
+0 0 0 P
+#15036
+chocolate sweet~
+@eng {ychocolate sweet{x@rus {yшоколадная конфета{x~
+@eng Chocolate sweet is here.@rus Шоколадная конфета валяется тут.~
+шоколад~
+pill GRYa AOP
+30 'haste' 'frenzy' 'enhanced armor' 'sanctuary'
+0 0 0 P
+#15037
+box~
+@eng {ra box of chocolate sweets{x@rus {rкоробка шоколадных конфет{x~
+@eng Box of chocolate sweets is here.@rus Коробка шоколадных кофет лежит тут.~
+картон~
+container GRYa AOP
+100 0 0 0 0
+0 0 0 P
+#15040
+chair~
+ancient chair~
+The ancient chair is here.~
+unknown~
+furniture FGRTYa AP
+A FHJKPQ H BCEH BCEH
+0 0 0 P
+#15041
+chair~
+ancient chair~
+The ancient chair is here.~
+unknown~
+furniture FGRTYa AP
+A HJKMPTUX H CEFGHI CEFGHI
+0 0 0 P
+#15042
+hammer large~
+a large hammer~
+A large hammer lies here.~
+unknown~
+weapon GITYa ANP
+mace 2 8 none 0
+0 0 0 P
+#15043
+splinter~
+splinter "p"~
+splinter "n" is here.~
+unknown~
+trash GTYa AP
+0 0 0 0 0
+0 0 0 P
+#15044
+splinter~
+splinter "i"~
+splinter "i" is here.~
+unknown~
+trash GTYa AP
+0 0 0 0 0
+0 0 0 P
+#15045
+splinter~
+splinter "r"~
+splinter "l" is here.~
+unknown~
+trash GTYa AP
+0 0 0 0 0
+0 0 0 P
+#15046
+splinter~
+splinter "a"~
+splinter "b" is here.~
+unknown~
+trash GTYa AP
+0 0 0 0 0
+0 0 0 P
+#15047
+splinter~
+splinter "t"~
+splinter "o" is here.~
+unknown~
+trash GTYa AP
+0 0 0 0 0
+0 0 0 P
+#15048
+splinter~
+splinter "e"~
+splinter "g" is here.~
+unknown~
+trash GTYa AP
+0 0 0 0 0
+0 0 0 P
+#15050
+eye~
+eye~
+eye~
+unknown~
+staff EFHMPRTYa AOP
+0 0 0 'reserved' 0
+10 10 0 P
+#15100
+cheburator~
+@eng a dwarven golden ring~
+~
+unknown~
+armor HOTY B
+99 99 99 99 0
+7 1 900000 P
+A
+18 500
+A
+18 500
+A
+19 100
+A
+19 100
+A
+19 100
+A
+19 100
+A
+19 100
+A
+19 100
+A
+19 100
+A
+19 100
+A
+20 -50
+A
+19 100
+#15112
+aenis~
+{W'{CAenis + Leo{W' ring{w~
+{Wmagnificent work ring is here{w~
+{WCrystal{w~
+jewelry AGITYZa ABP
+0 0 0 0 0
+1 0 2147483647 P
+A
+17 -5
+A
+20 -5
+#15113
+bucket rose~
+@eng Bucket full of roses@rus Ведерко для роз~
+@eng A bucket full of roses stands here.@rus Кто-то оставил тут ведерко с розами.~
+brass~
+container Yb AE
+1000 0 0 1000 10
+0 0 0 P
+#0
+
+#ROOMS
+#15000
+Erebus' Planning Room~
+You are standing in Erebus' planning room.
+A large map of the world is tacked onto the north wall.
+~
+0 DP inside
+D0
+~
+~
+Z 0 15001
+D2
+~
+~
+Z 0 15002
+D3
+~
+~
+Z 0 15004
+D4
+~
+~
+Z 0 15003
+S
+#15001
+A Blank Room~
+~
+0 CM city
+D1
+~
+~
+Z 0 15010
+D2
+~
+~
+Z 0 15000
+D3
+~
+~
+Z 0 15100
+S
+#15002
+Cell No. 329808714~
+@eng You are in jail.
+@rus Ты попал в теплую и хорошо освещенную камеру. Здесь чисто, а из пола 
+даже бьет небольшой фонтан с вкусным молоком. Тем не менее, здесь до одури 
+скучно.
+~
+0 CDNSTX inside
+D0
+~
+~
+Z 0 15000
+S
+#15003
+A Testroom~
+As you walk into this room, you find that it's ponderously empty for a
+testing site.  In the corner, you see a stack of OLC manuals scattered
+across the floor.  
+~
+0 AH inside
+D2
+~
+~
+Z 0 15005
+D5
+~
+~
+Z 0 15000
+S
+#15004
+Arquel's Test room~
+A small workroom floats in the middle of a void.  How it came to be here,
+is anyone's guess.  A small table and two chairs seem to be the only
+furnishings.  A glowing portal leads to the east.  
+~
+0 DK noswim
+D1
+~
+~
+Z 0 15000
+S
+#15005
+A Test Petshop~
+~
+0 DM inside
+D0
+~
+~
+Z 0 15003
+S
+#15006
+The Petstoreroom~
+~
+0 C inside
+S
+#15007
+A Second Petstoreroom~
+~
+0 C inside
+S
+#15010
+Death's Chambers~
+~
+0 NPX inside
+D3
+~
+~
+Z 0 15001
+S
+#15100
+A Testing Room~
+The walls are scarred by fire, floods, and lightning.
+This place is a mess.
+~
+0 CDP mountain
+D1
+~
+~
+Z 0 15001
+S
+#0
+
+#SPECIALS
+M 15005 spec_cast_beholder	* A small beholder.
+S
+
+#RESETS
+O 0 15002 0 15000	* {Ra fountain of blood{x (Erebus' Planning Room)
+M 0 15000 1 15001 1	* the Avatar of Erebus (A Blank Room)
+O 0 15005 0 15002	* a dirty basin of water (Cell No. 329808714)
+M 0 15001 1 15002 1	* the prisoner (Cell No. 329808714)
+M 0 15002 1 15002 1	* cockroach (Cell No. 329808714)
+M 0 15003 1 15002 1	* a rat (Cell No. 329808714)
+O 0 15006 0 15002	* a worn straw mattress (Cell No. 329808714)
+M 0 15004 1 15003 1	* a snoring dwarf (A Testroom)
+G 0 15035 0		*	{ga bottle of champagne{x
+G 0 15016 0		*	A stout mug of Dwarven Ale
+M 0 15010 2 15005 1	* {Wthe Devil{x (A Test Petshop)
+M 0 15005 1 15006 1	* A small beholder. (The Petstoreroom)
+M 0 15006 1 15007 1	* a pet sidewinder (A Second Petstoreroom)
+M 0 15010 2 15010 1	* {Wthe Devil{x (Death's Chambers)
+E 0 15010 0 16		*	{Ba scroll of IMMORTAL enchantment{x: wielded
+E 0 15013 0 8		*	{DHooves{x: on the feet
+G 0 15012 0		*	{DBlack Rose{x
+E 0 15011 0 6		*	{Yan enchant armor scroll{x: over the head
+E 0 15014 0 21		*	The Mark of the Beast: clan mark
+S
+
+#SHOPS
+15000 -1 0 0 0 0 100 100 0 23
+15004 17 19 0 0 0 45 100 0 23
+15010 -1 0 0 0 0 100 100 0 23
+0
+
+#OLIMITS
+O 15014 0	* The Mark of the Beast
+O 15015 1	* a shiny tiara
+O 15100 1	* a dwarven golden ring
+S
+
+#MOBPROGS
+#15000
+if mobexists junkseller
+else
+mob mload 50
+endif
+mob vforce 50 mob oload 15000
+mob vforce 50 say I'm very sorry but I must go to other places.....
+mob vforce 50 wave
+mob vforce 50 mob goto 15000
+mob vforce 50 cast 'teleport'
+mob vforce 50 yell Hey! I have some funny junk for you !
+if rand 25
+mob vforce 50 mob oload 15008
+mob vforce 50 drop invader
+endif
+~
+#15001
+cast 'shadowlife' $n
+~
+#15002
+cast 'demon summon'
+~
+#15003
+say ЩАс щас...
+mob transfer $q 15002
+say Ну вот. так просто ты от меня не избавишься.
+~
+#15004
+if ispc $n
+say Умер :(
+mob remember $n
+mob delay 1
+endif
+~
+#15005
+if rand 50
+babble
+end
+endif
+if rand 50 
+say $r, have you ever been here?
+end
+endif
+if rand 50 
+yawn
+end
+endif
+if rand 50
+smile cockroach
+endif
+if rand 50 
+burp
+end
+endif
+if rand 50
+cough
+end
+endif
+if rand 50 
+flex $r
+end
+endif
+~
+#15100
+~
+#0
+
+#HELPS
+1 'HUNTER' 'HUNTERS'~
+Who May Join:
+{c^^^^^^^^^^^^^{x
+Classes: ANY
+Alignment/Ethos: ANY
+
+{c                  +=+=+=+=+=+=+=+=+{x
+
+The HUNTERS are a clan of loners.  They owe allegiance to none, even
+their own.  They are a loosely grouped bunch of bounty hunters, and fortune
+seekers with no formal leadership.  They bow to none, and plot their own
+course in life.  
+
+Note: Those who wish to hire a HUNTER to act as a bounty hunter or assassin
+may do so if the one they wish to hire will accept their terms, however a
+HUNTER is under no obligation to ever comply if they do not wish to.
+ 
+
+Spells/Skills received:
+{c^^^^^^^^^^^^^^^^^^^^^^^{x
+Skill: Hunt (level 13)
+Skill: Path Find (level 13)
+Skill: Armor Use (level 17)
+Spell: Wolf (level 20)
+Skill: Find Object (level 25)
+Skill: World Find (level 53)
+Spell: Take Revenge (level 53)
+~
+-1 $~
+
+#$

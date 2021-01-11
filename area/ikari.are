@@ -1,0 +1,784 @@
+#AREADATA
+Name Dragon Town~
+Builders ikari~
+VNUMs 4700 4799
+Security 1
+LevelRange 0 0
+End
+
+#MOBILES
+#4700
+janitor draconian~
+the draconian janitor.~
+The draconian janitor is here sweeping up some rubbish.
+~
+~
+draconian~
+A Vc 1000 0
+40 3 2000d1+50 200d1+50 7d4+8 none
+0 0 0 0
+FN 0 0 K
+stand stand male 5000
+Z 0 large unknown
+M greet 4700 50~
+#4701
+Drakon Cityguard~
+a Drakon cityguard~
+A Drakon cityguard is here.
+~
+~
+draconian~
+A HJTVa 0 0
+50 20 1000d1+500 500d1+50 20d2+30 none
+0 0 0 0
+0 0 BEH F
+stand stand male 0
+Z PQUVX medium unknown
+M greet 4701 100~
+#4702
+Merchant~
+a draconian merchant~
+A draconian merchant is here selling various items.
+~
+~
+draconian~
+A JT 1000 0
+46 10 2000d1+500 0d0+0 40d4+10 none
+0 0 0 0
+CJKM 0 BEH F
+stand stand male 40000
+Z PQUVX medium unknown
+M greet 4702 75~
+#4703
+Zane~
+Zane the armourer~
+Zane the armourer is here.
+~
+~
+human~
+AV HV 1000 0
+10 60 25000d1+5000 1000d1+500 1000d1+10 pound
+0 0 0 0
+CDEHIJK 0 0 I
+stand stand male 0
+0 0 medium unknown
+#4704
+a servant of Dragon Lord~
+a servant of the Dragon Lord~
+A servant of the Dragon Lord is running here.
+~
+~
+draconian~
+A HJTVc 1000 0
+45 5 5000d1+1000 300d1+50 8d4+10 none
+0 0 0 0
+EFKMP BHKLU BEHI FZ
+stand stand male 23980
+Z PQUVX medium unknown
+M greet 4703 80~
+#4705
+eng Receptionist~
+@eng a Receptionist~
+@eng a Receptionist of Ikari's is reading the lastes issue of Bizarre.
+~
+~
+draconian~
+A 0 0 0
+1000 0 1d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#4706
+eng Drakon heal master~
+a draconian healer~
+A draconian healer is here selling spells.
+~
+~
+draconian~
+ABQVaef DFHJT 1000 0
+200 0 40000d1+5000 1d1+999 1d1+1500 divine
+-50 -50 -50 -10
+FHIK 0 BEH F
+stand stand male 0
+Z PQUVX huge unknown
+#4707
+eng Dragon Lord~
+the mighty DragonLord~
+The mighty DragonLord is here pondering whether to crush you.
+~
+~
+draconian~
+ACGRf HVl 1000 0
+100 50 30000d1+5000 1000d1+1000 20d20+5 bite
+-20 -20 -20 -20
+BCEFHJMN BHK CZ 0
+stand stand none 0
+0 0 huge unknown
+#4708
+barkeeper keeper tobin~
+Tobin the Bar Keeper~
+Tobin the Bar keeper is here mixing drinks and organizing.
+~
+~
+human~
+ABGe c 1000 0
+60 0 5000d1+10 1000d1+50 30d1+10 pound
+-13 -13 -13 -13
+CEFIKN BC GHL I
+stand stand male 20000
+0 0 medium unknown
+#4709
+dragon gold~
+The Ancient Gold Dragon~
+@eng a dusty old statue of a golden dragon is here.
+~
+@eng This statue of a dragon is way taller then you. Its head alone is 
+is taller then you. You turn away and turn back and thoght
+you seen its eyes move!.
+~
+gold dragon~
+ABCGRe HN 1000 0
+48 70 7000d1+0 21d9+900 5d17+34 none
+-54 -54 -54 -34
+EFNR 0 G I
+stand stand male 5000
+Z PQUVX medium unknown
+#4710
+Justin the Maps~
+Justin the Mapseller~
+Justin the mapseller stands here examining a large map.
+~
+~
+human~
+ABe HV 500 0
+80 200 50d55+60000 0d0+0 15d15+250 pound
+-50 -50 -50 -50
+CDFGK AB CD 0
+stand stand male 100000
+0 0 medium unknown
+#4711
+acid blob giant~
+a giant blob~
+a giant blob is here sucking on bits of human flesh.
+~
+He looks like a huge blob of acid
+~
+human~
+AB 0 0 0
+50 10 50d10+4500 499d1+1 5d8+19 punch
+-20 -20 -20 3
+0 0 0 0
+stand stand either 11111
+0 0 giant unknown
+#0
+
+#OBJECTS
+#4700
+destruction armband~
+@eng a {RDestruction{x armband~
+@eng a {RDestruction{x armband is here waiting to be worn.~
+unknown~
+armor BGOY AM
+0 0 0 0 0
+30 0 1000 P
+#4701
+no name~
+~
+~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#4702
+barrel beer~
+a barrel of beer~
+A beer barrel has been left here.~
+wood~
+drink 0 A
+300 300 'beer' 0 0
+0 160 75 P
+#4703
+bottle beer~
+a bottle of beer~
+A beer bottle has been left here.~
+glass~
+drink 0 A
+16 16 'beer' 0 0
+0 10 5 P
+#4704
+bottle beer~
+a bottle of Yaegar (TM) beer~
+A beer bottle has been left here.~
+glass~
+drink 0 A
+4 4 'beer' 0 0
+0 10 20 P
+#4705
+bottle wine bordeau~
+a bottle of Bordeau Wine~
+A crystal clear bottle of wine lies here.~
+glass~
+drink A AO
+40 40 'elvish wine' 0 0
+2 10 140 G
+#4706
+bottle beer~
+a bottle of Yaegar (TM) beer~
+A beer bottle has been left here.~
+glass~
+drink 0 A
+4 4 'beer' 0 0
+0 10 20 P
+#4710
+map parchment drakon~
+a map of Drakon City~
+An ancient yellow parchment lies here gathering dust.~
+papyrus~
+map 0 AO
+0 0 0 0 0
+1 20 1500 P
+E
+map drakon~
+A map of Drakon City reads:
+~
+#0
+
+#ROOMS
+#4700
+@eng Western Gates of Drakon City~
+@eng You are between two large large towers that have been built
+into the city wall and connected with a footbridge across 
+the heavy wooden gate. To the west you can only see darkness
+barely even seeing a pinch of light. To the north you see a
+dusty trail along the city walls.
+~
+0 C inside
+E
+north~
+~
+D0
+~
+~
+Z 0 4701
+D1
+~
+~
+Z 0 4702
+D2
+~
+~
+Z 0 4703
+S
+#4701
+Wall Road~
+@eng You are on a road on the side of the city's walls
+the road looks as if it hasnt been used too much by people
+To the north you see more road ahead, to the south you 
+see the western gates.
+~
+0 0 inside
+D2
+~
+~
+Z 0 4700
+S
+#4702
+Inner Gates of Drakon City~
+@eng You are inside of the Western gates. Welcome to {RDrakon City!
+{x you see dragon janitors, bartenders, guards and
+merchants around, they seem like the typical people
+but much Larger!.
+~
+0 0 inside
+D1
+~
+~
+Z 0 4704
+D3
+~
+~
+Z 0 4700
+S
+#4703
+Road to Temple of Dragons~
+@eng You see a sign reading '{RRoad to Temple of Dragons!'{x
+{BPs{R'Beware if not a dragon you'll be attacked on site!'
+{xTo the distance south you see the the tip of a
+{YHUGE{xtemple.
+~
+0 0 inside
+D0
+~
+~
+Z 0 4700
+S
+#4704
+Main street~
+@eng You are on the Main street crossing throgh Drakon. To the 
+south you see the Jewlers Shop. And to the east continues the
+Main street.
+~
+0 0 inside
+D1
+~
+~
+Z 0 4705
+D2
+~
+~
+Z 0 4710
+D3
+~
+~
+Z 0 4702
+S
+#4705
+Main street~
+@eng You are on Main street crossing through Drakon city.
+The Market square is to the east. To the south you hear 
+the clashing of metals, the south holds the armoury. To the north
+is the grocery.
+~
+0 0 inside
+D0
+~
+~
+Z 0 4712
+D1
+~
+~
+Z 0 4706
+D2
+~
+~
+Z 0 4711
+D3
+~
+~
+Z 0 4704
+S
+#4706
+Market Square~
+@eng You are standing on the Market Square, the Square of Drakon. It 
+seems that a statue of a dragon is here in the middle of the square.
+Roads lead north, to the Temple Square, south to the Common Square
+east and back west.
+~
+0 0 inside
+D0
+~
+~
+Z 0 4708
+D1
+~
+~
+Z 0 4709
+D2
+~
+~
+Z 0 4707
+D3
+~
+~
+Z 0 4705
+S
+#4707
+Commom Square~
+@eng The Commom Square, dragons of all sizes pass you, talking to each
+other. To the west is the Poor Alley and to the east is the Dark
+Alley. To the north is back to the Market Square. To the south
+you can barely see a peek of some sort of mountain.
+~
+0 0 inside
+D0
+~
+~
+Z 0 4706
+S
+#4708
+Temple Square~
+@eng You are in the Temple Square. There is a {RHUGE{x statue of what seems
+looks like a dragon but part human with blue hair. You see something
+ingraved in it. it says '{BThe Mighty Dragon Lord'{x.
+~
+0 0 city
+D0
+~
+~
+Z 0 4717
+D1
+~
+~
+Z 0 4713
+D2
+~
+~
+Z 0 4706
+D3
+~
+~
+Z 0 4716
+O ?~
+S
+#4709
+Main street~
+@eng You are on Main street crossing through Drakon city.
+The Markey sqaure is to the west. To the south you see
+another street going to some sort of museum. To the north
+is Justin's Manic Map Shop.
+~
+0 0 inside
+D0
+~
+~
+Z 0 4725
+D3
+~
+~
+Z 0 4706
+S
+#4710
+Jewlers Shopie~
+~
+0 0 inside
+D0
+~
+~
+Z 0 4704
+S
+#4711
+Zane's Armoury~
+@eng You are in the armoury you see helmets, breast plates, bracers
+and boots of all sizes hanged on the wall, used and newly 
+forged. You see on a sign 'Buy armor's from you and sell them 
+for a good price!'.
+~
+0 0 inside
+D0
+~
+~
+Z 0 4705
+S
+#4712
+Christie's Grocery Shoppie~
+~
+0 0 inside
+D2
+~
+~
+Z 0 4705
+S
+#4713
+@eng Drakon Chapel~
+@eng You are in a chapel, dragon's turn back and look at you, 
+you have distruped a Wedding!:) How nice. The groom
+isnt happy with this, he snarls at you and says to continue
+to the priest. You feel that you have beed releaved. To the 
+west is the Temple Square.
+~
+0 0 inside
+D1
+~
+door~
+ABZ 0 4714
+D3
+~
+~
+Z 0 4708
+S
+#4714
+@eng Dead End~
+@eng You seem to have found a dead end. You seem a vile, odor full
+smell comming from a grate on the ground.
+~
+0 0 inside
+D3
+~
+~
+ABZ 0 4713
+D5
+~
+grate~
+ABZ 0 4715
+S
+#4715
+@eng Under Chapel~
+@eng You are now under the chapel, you still can hear the priest
+doing his thing. But your mind is not focused on that at the 
+moment , its the SMELL! P.U! Smells like rotten eggs! 
+You wish you could just run out of here as fast as you can but
+there might be {YTresure!{x in this horride place.
+~
+0 0 inside
+D1
+~
+~
+Z 0 4718
+D4
+~
+~
+ABZ 0 4714
+S
+#4716
+@eng Tobin's Bar'n Inn~
+@eng You are in the bar of the dragons, you see dragons
+burping and brawling all over. The smell is horride
+its like any other races bar but, you cant quite 
+put your finger on it. 
+~
+0 D inside
+D1
+~
+~
+Z 0 4708
+D2
+~
+~
+Z 0 4708
+S
+#4717
+@eng Drakon City Temple~
+@eng You are by the temple alter in the northern end of the
+ the Temple of Drakon City. A huge alter made from white
+polished marble is standing in front of you and behind 
+it is a ten foot tall siting statue of yet again,
+{R The{B Mighty{R DragonLord{x himself.
+~
+0 CDHWX city
+D0
+~
+~
+Z 0 4719
+D1
+~
+~
+Z 0 4720
+D2
+~
+~
+Z 0 4708
+S
+#4718
+@eng Entrace the Golden Shrine~
+@eng You gasp at what you have found, you are infront an entrance
+to some kind of shrine. Its shining brighty and into your eyes
+as the combination of the gold walls of the shrine and the 
+undieing flames of a perched high above the wall.
+~
+0 D inside
+D3
+~
+~
+Z 0 4715
+S
+#4719
+@eng North of Temple Drakon~
+@eng You are now north of the temple and walking on a white
+gleaming marble path.You see people passing by humans and
+dragons alike, and you wonder why is this marble path so
+clear and clean? To the south is back to the Temple, to the 
+north is the Northern Gate.
+~
+0 0 inside
+D0
+~
+~
+Z 0 4721
+D2
+~
+~
+Z 0 4717
+S
+#4720
+@eng Dark alley~
+@eng You are in a dark alley, rubish piled everywhere. Theives
+may lurk in these places, so you'd better keep your gold 
+in hand, and be quite a fighter!. To the west you see the light
+and action of the city temple, to the east you see nothing
+but darkness.
+~
+0 0 inside
+D1
+~
+~
+Z 0 4722
+D3
+~
+~
+Z 0 4717
+S
+#4721
+@eng Northern Gates of Drakon City~
+@eng Towering in front of you is the Drakon City's Northern
+main gates.You can only describe it as huge! and very strong 
+looking. You'd think nothing could get in this city.. as it
+was like a fortress.
+~
+0 0 inside
+D2
+~
+~
+Z 0 4719
+S
+#4722
+@eng Darker alley~
+@eng You venture further down this dark alley, not knowing
+whats comming up next. What will you see.. The walls are covered 
+with this green slime substance, so is the floor. You smell 
+death heading your way from the east, the smell of blood and death
+To the west is the Dark alley.
+~
+0 0 inside
+D1
+~
+~
+Z 0 4723
+D3
+~
+~
+Z 0 4720
+S
+#4723
+Slime Room~
+C
+  R
+    A
+      C
+        K !!!!!!!
+AHHHHHH!!!!! You've Fallin down a hole, and cant get up!
+You look up and see that its just a shallow hole and think
+what a stupid person you are and climb out of it.
+~
+0 0 inside
+D0
+~
+~
+Z 0 4724
+D3
+~
+~
+Z 0 4722
+S
+#4724
+Giant Blobs Lair~
+This room is filled with skeletons, picked to the bone
+nothing left on them. Right in front of you see a giant blob!
+A fight for survival has begun!.
+~
+0 0 inside
+D2
+~
+~
+Z 0 4723
+S
+#4725
+Justin's Manic Map Shop~
+Now here's a cool fellow, selling maps , and practicing a
+fighting technique that you dont know!.Better not piss him 
+off or he might kill you.All over the walla you see various 
+trinkets he brought back from his travals making him one of
+the best map sellers in the land.
+~
+0 0 inside
+D2
+~
+~
+Z 0 4709
+S
+#0
+
+#SPECIALS
+M 4700 spec_janitor	* the draconian janitor.
+M 4701 spec_guard	* a Drakon cityguard
+M 4706 spec_cast_adept	* a draconian healer
+M 4709 spec_cast_mage	* The Ancient Gold Dragon
+M 4711 spec_breath_acid	* a giant blob
+S
+
+#RESETS
+D 0 4713 1 1	* Drakon Chapel: door to the east: closed
+D 0 4714 3 1	* Dead End: door to the west: closed
+D 0 4714 5 1	* Dead End: door to the down: closed
+D 0 4715 4 1	* Under Chapel: door to the up: closed
+M 0 4701 2 4700 1	* a Drakon cityguard (Western Gates of Drakon City)
+M 0 4704 2 4706 1	* a servant of the Dragon Lord (Market Square)
+M 0 4702 4 4706 1	* a draconian merchant (Market Square)
+O 0 12026 0 4708	* A beautiful crystal fountain (Temple Square)
+M 0 4700 4 4708 1	* the draconian janitor. (Temple Square)
+M 0 4708 1 4716 1	* Tobin the Bar Keeper (Tobin's Bar'n Inn)
+G 0 4702 0		*	a barrel of beer
+G 0 4705 0		*	a bottle of Bordeau Wine
+G 0 4703 0		*	a bottle of beer
+G 0 4706 0		*	a bottle of Yaegar (TM) beer
+M 0 4706 1 4717 1	* a draconian healer (Drakon City Temple)
+M 0 4709 1 4718 1	* The Ancient Gold Dragon (Entrace the Golden Shrine)
+M 0 4710 1 4725 1	* Justin the Mapseller (Justin's Manic Map Shop)
+G 0 4710 0		*	a map of Drakon City
+S
+
+#SHOPS
+4708 17 15 0 0 0 75 125 0 23
+4710 28 0 0 0 0 100 100 0 23
+0
+
+#MOBPROGS
+#4700
+if name $n 'ikari'
+say Hi, Ikari ... how bout a raise? please?
+else 
+say Litter bugs! 
+emote grumble grumble
+say Wish people would have the brains to Not! Litter!
+endiff
+~
+#4701
+if isgood $n
+say Hail to the Mighty Dragonlord!
+emote salute $n
+else
+if isevil $n
+say Begone Infideal! Evil has no place in Drakon.
+mob remember $n
+mob delay 10
+break
+else 
+if isimmort
+emote bow $n
+say Welcome to Drakon City{RImmortal
+endiff
+else
+if isneutral $n
+emote salute $n
+say Welcome to Drakon City. Enjoy your stay.
+~
+#4702
+if ispc $n
+say Hey!  Thats right you! I know what you need! a Diamond ring
+say Come on! I sell cheap
+poke $n 
+say Sure you dont wanna buy?
+isdelay
+ say Ok then!
+yell Come one Come all! Buy from Me the Merchant Dragon!
+endiff
+~
+#4703
+say My God! I'm late!
+say Mr Dragon Lord is gonna fry me! I know it!
+emote screams
+emote fall's over his feet.
+~
+#4704
+say If you want to see Lord Ikari say 'I need Ikari'
+if $n say 'I need Ikari'
+tell Ikari $n wants to see you
+say One Moment please
+if 'Ikari' tells you 'ok'
+say Ikari will now see you
+else
+say Lord Ikari is busy come back later
+~
+#0
+
+#$

@@ -1,0 +1,6684 @@
+#AREADATA
+Name Hrothgar's Misery~
+VNUMs 27300 27999
+Credits Erebus~
+Security 9
+LevelRange 20 55
+End
+
+#MOBILES
+#27301
+kraken ~
+the kraken~
+A huge, dark mass moves swiftly through the water to attack!
+~
+Before you looms one of the largest aquatic creatures that you have ever seen.
+It remotely resembles a giant squid, but it is several times larger than any squid that you have ever encountered.
+Thrashing about in the water, it swims swiftly toward you, its tentacles groping.
+~
+fish~
+ABFG DFHJNOPQV -225 0
+43 35 10d15+3200 5d5+2000 6d4+35 beating
+-18 -18 -18 -4
+ADEHK R BEHL Z
+stand stand either 0
+MSVc BCGHIN gargantuan unknown
+#27302
+worg wolf~
+a worg~
+A shaggy grey wolf crouches here growling softly.
+~
+A large grey worg glares back at you with bloodshot eyes.
+Goblin worgs are trained to track down their prey and tear them to pieces
+if their masters don't reach them first.  Baring its pearly white fangs, the
+worg leaps for your throat.
+~
+human~
+ACFLWZ FPVZs -1000 0
+32 25 5d8+900 5d7+75 5d4+27 bite
+-13 -13 -13 -2
+DFHRU 0 I H
+stand stand female 0
+G QV large unknown
+F for AHMV
+F par BGI
+#27303
+goblin soldier~
+a goblin soldier~
+A goblin soldier scans the forest for his lieutenant.
+~
+A short, muscular goblin peers about in the darkness, searching for his
+lieutenant.  Armed for battle, this goblin was probably part of a war party.
+Unfortunately for him, he has become separated from the rest of his band,
+and like you is lost in the woods.  His eyes glow red in the darkness, and
+you suspect that he will attack you if he catches sight of you.  
+~
+goblin~
+ABFT O -1000 0
+33 27 7d10+950 5d5+35 5d5+32 punch
+-13 -13 -13 -3
+CDEFJKRU 0 0 0
+sit sit male 125
+0 0 medium unknown
+#27304
+demon balor~
+a balor demon~
+A huge balor demon prepares to incinerate you.
+~
+A giant balor demon towers over you, advancing slowly towards you.  A
+malevolent grin contorts its twisted features as it prepares to feast on
+your soul.  
+~
+death knight~
+ABFLT DEFJOVlmst -1000 0
+85 50 10d36+15000 10d10+3500 10d8+150 wrath
+-40 -40 -40 -35
+ACDFGN AH 0 I
+stand stand none 23100
+BD 0 giant unknown
+#27305
+spiritofthedemon~
+the demon's spirit~
+~
+The spirit of a mighty demon...nothing more.
+~
+ghost~
+A 0 -1000 0
+1 0 1d1+0 0d0+0 0d0+0 wrath
+-100 -100 -100 -100
+0 CD 0 0
+stand stand none 0
+0 0 huge unknown
+F res D
+M act 27301 You hear a balor demon's death cry.~
+I 100
+#27306
+magicuser~
+a nonused mob~
+A magicusing mob stands here.
+~
+~
+human~
+AO T 0 0
+100 -50 100d100+20000 100d100+10000 1d1+1 magic
+-100 -100 -100 -100
+0 0 D 0
+stand stand none 0
+0 0 medium unknown
+#27307
+no name~
+~
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#27308
+no name~
+~
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#27309
+no name~
+~
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#27310
+no name~
+~
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#27311
+no name~
+~
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#27312
+no name~
+~
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#27313
+no name~
+~
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#27314
+no name~
+~
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#27315
+no name~
+~
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#27316
+no name~
+~
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#27317
+no name~
+~
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#27318
+no name~
+~
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#27319
+no name~
+~
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#27320
+no name~
+~
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#27321
+no name~
+~
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+#OBJECTS
+#27301
+ship sunken vessel~
+a cavernous hole in the ship's hull~
+An ancient sailing vessel lies partially submerged under the water.~
+wood~
+portal OR 0
+0 A A 27323 0
+0 100000 0 P
+E
+ship vessel sunken~
+A large Viking sailing vessel lies capsized on a sandbar, the hull caved in near the prow.  The rotting wood is green with age, this ship has lain here for a very long time.
+~
+#27302
+spear shaft broken~
+a spear shaft~
+The shaft of a spear lies discarded on the ground, the tip shattered.~
+wood~
+key PSTb A
+0 0 0 0 0
+5 10 7 P
+#27303
+rune warding glyph~
+{mA glyph of warding{x~
+{mEtched into the floor, a rune of warding pulses with power.{x~
+Energy~
+protect ABCEGOR 0
+0 0 0 0 0
+0 0 0 P
+E
+rune warding glyph~
+A glowing pentegram, the symbol of protection, is etched into the solid
+stone floor.  It emits a soft glow as it hums, pulsing with an inner power. 
+
+~
+#27304
+chest ironbound~
+an {Dironbound{x chest~
+A small {Dironbound{x chest lies here gathering dust.~
+iron~
+container ACEGORT 0
+100 AC 0 10 100
+55 250 1800 P
+#27305
+ruby stone~
+a {Rruby{x~
+A beautiful {Rruby{x lies here, humming with an inner power.~
+stone~
+key ABCEFGJQU A
+0 0 0 0 0
+25 5 150500 P
+#27306
+spellbook runed~
+a rune-covered spellbook~
+An ancient leatherbound book lies here, the letters inked in blood.~
+papyrus~
+scroll ABCEJU AO
+60 'sleep' 'confuse' 'blindness' 'charm person'
+25 5 15000 P
+#27307
+table feasting oaken~
+{yan oaken feasting table{x~
+{yA solid oak feasting table, capable of seating several hundred men, stands here. ~
+wood~
+furniture NOR 0
+BEF GJOQRST ADP 0 0
+100 350000 1508032 P
+#27308
+nexus portal gate~
+{YA nexus{x~
+{YA shimmering vortex of energy swirls about a kaleidascope of {Rc{Go{Bl{Yo{Mr{ms{x.~
+energy~
+portal ABCGORT 0
+DFGHIJ K E 0 0
+0 0 238959 P
+#27309
+table wooden~
+a wooden table~
+A solid looking wooden table stands in the corner.~
+wood~
+container R 0
+10000 E 0 10000 50
+50 10000 150 P
+#27310
+signpost wooden~
+a sign~
+{yA weather-beaten wooden sign is driven into the ground.{x~
+wood~
+map OR 0
+0 0 0 0 0
+50 25 150 P
+E
+signpost~
+A weather-beaten wooden sign reads:
+               NORTHWEST - The Crystal Stream
+               WEST - Heorot
+               SOUTHWEST - The Moors
+               EAST - Trail to the Bay of Skulls
+~
+#27311
+hole cavernous~
+a cavernous hole~
+A gaping hole in the ship's hull lies directly overhead.~
+space~
+portal OR 0
+0 A A 27312 0
+0 0 0 P
+E
+hole hull cavernous gaping~
+A gaping hole in the ship's hull leads to the cavern outside.
+~
+#27312
+portal~
+a portal into the unknown~
+A portal to unknown parts leads off here.~
+energy~
+portal R 0
+A D A 3001 0
+0 0 0 P
+#27313
+none~
+none~
+A solid looking wooden table stands in the corner.~
+wood~
+trash R 0
+0 0 0 0 0
+50 10000 150 P
+#27314
+none~
+none~
+{gYour limbs tingle as you approach this glowing symbol of vigilance.{x~
+energy~
+armor 0 0
+25 25 25 25 0
+15 0 315782 P
+#27315
+none~
+none~
+A pill of blindness lies here.~
+energy~
+trash 0 0
+0 0 0 0 0
+5 0 0 P
+#27316
+none~
+none~
+{mYour head reels and your sanity drains from you as you approach the symbol lying here.{x~
+energy~
+armor 0 0
+25 25 25 25 0
+15 0 358978 P
+#27317
+none~
+none~
+{cYour heart begins to fill with avarice as you approach this symbol.{x~
+energy~
+armor 0 0
+25 25 25 25 0
+15 0 32568 P
+#27318
+none~
+none~
+{wA feeling of peace rushes over you as you approach this holy symbol of a cross.{x~
+energy~
+armor 0 0
+25 25 25 25 0
+15 0 358012 P
+#27319
+none~
+none~
+{rBlood stains the floor, an aura of rage surrounding this symbol.{x~
+energy~
+armor 0 0
+25 25 25 25 0
+15 0 359083 P
+#27320
+none~
+none~
+{YRaw energy crackles from this symbol as it pulses rythmically.{x~
+energy~
+armor 0 0
+25 25 25 25 0
+15 0 387306 P
+#27321
+none~
+none~
+A portal to unknown parts leads off here.~
+energy~
+trash R 0
+0 0 0 0 0
+0 0 0 P
+#27322
+none~
+none~
+{BThe ultimate power of the universe fills you with heavenly strength.{x~
+unknown~
+trash 0 0
+0 0 0 0 0
+1 0 0 P
+#27323
+no name~
+~
+~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#27324
+no name~
+~
+~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#27325
+no name~
+~
+~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#27326
+no name~
+~
+~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#27327
+no name~
+~
+~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#27328
+no name~
+~
+~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#27329
+no name~
+~
+~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#27330
+no name~
+~
+~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+#ROOMS
+#27300
+~
+~
+0 C inside
+S
+#27301
+{BA Narrow Cove{x~
+You have entered a narrow sheltered inlet hewn into the solid stone face
+of the cliffs bordering the ocean.  The tunnel is dark, enclosed completely
+by unyielding walls of gray stone.  Barnacles cling to the walls and ceiling
+overhead, evidence that this inlet is often flooded with water.  The
+passageway twists from side to side, forcing you to navigate slowly lest you
+slam into the rocky walls.  
+~
+0 D swim
+D3
+~
+~
+Z 0 27302
+S
+#27302
+{BEntrance to the Bay of Skulls{x~
+You are floating at the entrance to a large saltwater bay.  The water is
+a clear blue, and the sandy floor is visible through the transparent waters
+beneath you.  A small school of brightly colored fish darts by in an attempt
+to evade the gaping jaws of a small nurse shark.  You wonder if there are
+larger sharks to be found in these waters, and scan the clear waters praying
+that there aren't.  
+~
+0 0 swim
+D0
+~
+~
+Z 0 27303
+D1
+~
+~
+Z 0 27301
+D2
+~
+~
+Z 0 27304
+D3
+~
+~
+Z 0 27305
+S
+#27303
+{BThe Bay of Skulls{x~
+The clear water teams with schools of brightly colored fish that twist
+and dart away as they notice your shadow above them.  The bay you are in is
+entirely surrounded by steep cliffs.  The white limestone cliffs off to your
+west contrast starkly with the dark gray of the surrounding cliffs.  The
+water is peaceful and calm, a sanctuary from the raging waters of the
+Marianna.
+~
+0 0 swim
+D2
+~
+~
+Z 0 27302
+D3
+~
+~
+Z 0 27310
+S
+#27304
+{BThe Bay of Skulls{x~
+The clear water teams with schools of brightly colored fish that twist
+and dart away as they notice your shadow above them.  The bay you are in is
+entirely surrounded by steep cliffs.  The white limestone cliffs off to your
+west contrast starkly with the dark gray of the surrounding cliffs.  The
+water is peaceful and calm, a sanctuary from the raging waters of the
+Marinara.  
+~
+0 0 swim
+D0
+~
+~
+Z 0 27302
+D3
+~
+~
+Z 0 27308
+S
+#27305
+{BThe Bay of Skulls{x~
+The clear blue waters beneath you are very calm, and staring into their
+transparent depths you are able to see numerous starfish, urchins, and sea
+anemones on the sandy floor.  The air is clean and fresh, the salty taste of
+the ocean spray lingers faintly on your lips.  The water is surprisingly
+warm, not what you might have expected from a body of water lying directly
+off the northern shores of the icy Marinara.  
+~
+0 0 swim
+D0
+~
+~
+Z 0 27310
+D1
+~
+~
+Z 0 27302
+D2
+~
+~
+Z 0 27308
+D3
+~
+~
+Z 0 27314
+S
+#27306
+{bAn Underwater Cave{x~
+Diving down under the water you instantly realize that you have made a
+grave mistake.  The current near the bottom of the cave is unbelievably
+strong, and the mighty undertow defeats your repeated efforts to swim back
+to the surface.  The current sweeps you along, deeper into the cursed bowels
+of the earth.  
+~
+0 ANc swim
+D2
+~
+~
+Z 0 27318
+D5
+~
+~
+Z 0 27306
+S
+#27307
+{BBefore a Dark Cave{x~
+You are floating in the entryway to a large cave that extends off to the
+north.  Your eyes are unable to pierce the blackness of the cave.  The
+darkness is ominous, forbidding, a presence waiting to devour you.  There
+are no signs of life in here, no fish, urchin, or anemones.  Even the
+barnacles, whose prolific growth you had witnessed at the entrance to the
+bay are missing.  
+~
+0 A swim
+D0
+~
+~
+Z 0 27312
+D3
+~
+~
+Z 0 27309
+S
+#27308
+{BThe Bay of Skulls{x~
+The clear water teams with schools of brightly colored fish that twist
+and dart away as they notice your shadow above them.  The bay you are in is
+entirely surrounded by steep cliffs.  The white limestone cliffs off to your
+west contrast starkly with the dark gray of the surrounding cliffs.  The
+water is peaceful and calm, a sanctuary from the raging waters of the
+Marinara.  
+~
+0 0 swim
+D0
+~
+~
+Z 0 27305
+D1
+~
+~
+Z 0 27304
+S
+#27309
+{BThe Bay of Skulls{x~
+The clear water teams with schools of brightly colored fish that twist
+and dart away as they notice your shadow above them.  The bay you are in is
+entirely surrounded by steep cliffs.  The white limestone cliffs off to your
+west contrast starkly with the dark gray of the surrounding cliffs.  The
+water is peaceful and calm, a sanctuary from the raging waters of the
+Marinara.  
+~
+0 0 swim
+D0
+~
+~
+Z 0 27311
+D1
+~
+~
+Z 0 27307
+D2
+~
+~
+Z 0 27310
+D3
+~
+~
+Z 0 27316
+S
+#27310
+{BThe Bay of Skulls{x~
+The clear blue waters beneath you are very calm, and staring into their
+transparent depths you are able to see numerous starfish, urchins, and sea
+anemones on the sandy floor.  The air is clean and fresh, the salty taste of
+the ocean spray lingers faintly on your lips.  The water is surprisingly
+warm, not what you might have expected from a body of water lying directly
+off the northern shores of the icy Marianna.
+~
+0 0 swim
+D0
+~
+~
+Z 0 27309
+D1
+~
+~
+Z 0 27303
+D2
+~
+~
+Z 0 27305
+D3
+~
+~
+Z 0 27317
+S
+#27311
+{BThe Bay of Skulls{x~
+The clear water teams with schools of brightly colored fish that twist
+and dart away as they notice your shadow above them.  The bay you are in is
+entirely surrounded by steep cliffs.  The white limestone cliffs off to your
+west contrast starkly with the dark gray of the surrounding cliffs.  The
+water is peaceful and calm, a sanctuary from the raging waters of the
+Marinara.  
+~
+0 0 swim
+D2
+~
+~
+Z 0 27309
+D3
+~
+~
+Z 0 27315
+S
+#27312
+{BA Sunken Ship{x~
+Against the left wall, a large sailing vessel lies inverted and beached
+on a wide sandbank, her prow trailing in the sable water.  The aging wood is
+green and rotting, a colossal hole punched in the hull from the impact of a
+large and heavy object.  The water in this channel is deep, and clear of
+obstruction.  You assume that she ran aground a rock in the bay, capsized,
+and drifted in here to become lodged on this sandbar.  
+~
+0 AD desert
+D0
+~
+~
+Z 0 27587
+D2
+~
+~
+Z 0 27307
+S
+#27313
+{BThe Lair of the Kraken{x~
+You have reached the back of the cave.  Beneath you the water churns from
+the powerful subterranean currents.  The smell of ammonia is overpowering,
+you begin to cough and gag from the fumes.  The noise echoes sharply off the
+silent rock walls startling you.  Irritated, you crane your neck, staring
+into the pitch darkness of the cavern.  You hear a sudden rush of water and
+stare in horror as a gargantuan dark mass surges towards you swiftly.  
+~
+0 ADN swim
+D2
+~
+~
+Z 0 27587
+D5
+~
+~
+Z 0 27306
+S
+#27314
+{BAlong the Shoreline{x~
+@eng You are standing on the shoreline of the sandy beach.  The clear blue
+water feels cool and refreshing against your skin as you wade slowly towards
+the shore.  To the west lie the white limestone cliffs that you noticed
+while out in the bay.  Scanning them carefully you search for a means to
+ascend them.  
+~
+0 0 swim
+D0
+~
+~
+Z 0 27317
+D1
+~
+~
+Z 0 27305
+D3
+~
+~
+Z 0 27326
+S
+#27315
+{BAlong the Shoreline{x~
+@eng You are standing on the shoreline of the sandy beach.  The clear blue
+water feels cool and refreshing against your skin as you wade slowly towards
+the shore.  To the west lie the white limestone cliffs that you noticed
+while out in the bay.  Scanning them carefully you search for a means to
+ascend them.  
+~
+0 0 swim
+D0
+~
+~
+Z 0 27350
+D1
+~
+~
+Z 0 27311
+D2
+~
+~
+Z 0 27316
+D3
+~
+~
+Z 0 27327
+S
+#27316
+{BAlong the Shoreline{x~
+@eng You are standing on the shoreline of the sandy beach.  The clear blue
+water feels cool and refreshing against your skin as you wade slowly towards
+the shore.  To the west lie the white limestone cliffs that you noticed
+while out in the bay.  Scanning them carefully you search for a means to
+ascend them.  
+~
+0 0 swim
+D0
+~
+~
+Z 0 27315
+D1
+~
+~
+Z 0 27309
+D2
+~
+~
+Z 0 27317
+D3
+~
+~
+Z 0 27325
+S
+#27317
+{BA Pebble Covered Landing{x~
+@eng Small pebbles cover the sandy floor, reducing errosion, providing the
+perfect landing for a ship.  You wonder whether the ship you had noticed
+outside the bay, is headed towards this landing.  A yellow and blue striped
+fish darts between your legs and zips out into the bay.  From where you are
+standing, the white cliffs to your west vaguely remind you of a grinning
+skull, a rather interesting phenomenon.  
+~
+0 0 swim
+D0
+~
+~
+Z 0 27316
+D1
+~
+~
+Z 0 27310
+D2
+~
+~
+Z 0 27314
+D3
+~
+~
+Z 0 27324
+S
+#27318
+{bA Subterranean River{x~
+Trapped in this dark and water-filled passageway your lungs are bursting
+for air.  The darkness is complete, the light from your torch diffused by
+the murky water.  The merciless current tosses you around like a leaf
+trapped in the eye of a hurricane.  The gods ignore your silent pleas for
+help and with a shock, you realize that you will probably spend the rest of
+your short life trapped in this watery tomb.  
+~
+0 ANc swim
+D2
+~
+~
+Z 0 27588
+S
+#27319
+{bA Subterranean River{x~
+Trapped in this dark and water-filled passageway your lungs are bursting
+for air.  The darkness is complete, the light from your torch diffused by
+the murky water.  The merciless current tosses you around like a leaf
+trapped in the eye of a hurricane.  The gods ignore your silent pleas for
+help and with a start, you realize that you will probably spend the rest of
+your short life trapped in this watery tomb.  
+~
+0 ANc swim
+D2
+~
+~
+Z 0 27320
+S
+#27320
+{bA Subterranean River{x~
+Trapped in this dark and water-filled passageway your lungs are bursting
+for air.  The darkness is complete, the light from your torch diffused by
+the murky water.  The merciless current tosses you around like a leaf
+trapped in the eye of a hurricane.  The gods ignore your silent pleas for
+help and with a start, you realize that you will probably spend the rest of
+your short life trapped in this watery tomb.  
+~
+0 ANc swim
+D3
+~
+~
+Z 0 27321
+S
+#27321
+{bA Subterranean River{x~
+Trapped in this dark and water-filled passageway your lungs are bursting
+for air.  The darkness is complete, the light from your torch diffused by
+the murky water.  The merciless current tosses you around like a leaf
+trapped in the eye of a hurricane.  The gods ignore your silent pleas for
+help and with a start, you realize that you will probably spend the rest of
+your short life trapped in this watery tomb.  
+~
+0 ANc swim
+D2
+~
+~
+Z 0 27589
+S
+#27322
+{bAn Underwater Spring{x~
+With a sudden rush, the current changes direction unexpectedly as it
+meets a fresh underwater spring.  Relief floods through your body as a
+powerful gust of water changes the direction of the current's flow and bears
+you swiftly upwards towards the surface, in the bay.  
+~
+0 Nc swim
+D4
+~
+~
+Z 0 27304
+S
+#27323
+{YInside the Hold{x~
+Clambering through the hole in the hull, you enter the ship's hold. 
+Several empty wooden crates, that may have contained goods at one time, lie
+scattered on the sandbar.  Scanning around for anything of value, a large
+chest catches your eye.  Partially obscured by an empty crate you had almost
+missed it, but now you excitedly rush to examine its contents.  
+~
+0 ACDJ desert
+S
+#27324
+A Rocky Beach~
+Numerous rocks and boulders lie strewn across the sandy beach.  Scanning
+the cliffs carefully you observe a narrow trail cut into the face, that that
+leads up to the top of the island.  Apparently the limestone is a facade,
+overlaying the gray stone underneath.  In places the limestone has erroded
+away, revealing the darker stone.  At a glance, the cliff face is faintly
+reminiscent of a grinning skull.  
+~
+0 0 hills
+D0
+~
+~
+Z 0 27325
+D1
+~
+~
+Z 0 27317
+D2
+~
+~
+Z 0 27326
+D3
+~
+~
+Z 0 27336
+S
+#27325
+{YA Sandy Beach{x~
+@eng You are walking along the sandy beach that runs abreast the limestone
+cliffs.  Miniature fiddler crabs tiptoe lightly across the sand in search of
+food.  Overhead dozens of seagulls wing their way down the shoreline panning
+the waters for dead fish or other edible debris.  The air is fresh and
+clean, and you feel like whistling as you walk along the pleasant shores of
+this sandy beach.  
+~
+0 0 desert
+D0
+~
+~
+Z 0 27327
+D1
+~
+~
+Z 0 27316
+D2
+~
+~
+Z 0 27324
+S
+#27326
+{YA Sandy Beach{x~
+@eng You are walking along the sandy beach that runs abreast the limestone
+cliffs.  Miniature fiddler crabs tiptoe lightly across the sand in search of
+food.  Overhead dozens of seagulls wing their way down the shoreline panning
+the waters for dead fish or other edible debris.  The air is fresh and
+clean, and you feel like whistling as you walk along the pleasant shores of
+this sandy beach.  
+~
+0 0 desert
+D0
+~
+~
+Z 0 27324
+D1
+~
+~
+Z 0 27314
+D2
+~
+~
+Z 0 27328
+S
+#27327
+{YA Sandy Beach{x~
+@eng You are walking along the sandy beach that runs abreast the limestone
+cliffs.  Miniature fiddler crabs tiptoe lightly across the sand in search of
+food.  Overhead dozens of seagulls wing their way down the shoreline panning
+the waters for dead fish or other edible debris.  The air is fresh and
+clean, and you feel like whistling as you walk along the pleasant shores of
+this sandy beach.  
+~
+0 0 desert
+D0
+~
+~
+Z 0 27329
+D1
+~
+~
+Z 0 27315
+D2
+~
+~
+Z 0 27325
+S
+#27328
+{YA Sandy Beach{x~
+@eng The sandy beach runs into a rocky alcove and dead-ends suddenly.  Sheer
+limestone cliffs rise a couple hundred feet to the island above.  A large
+red crab is slowly dragging a dead jellyfish towards a hole, his shiny
+turret-like eyes fixed on you as he creeps along the sand.  Scanning the
+cliffs above, you don't see any means of ascending them.  An attempt to
+climb up their flat, crumbling face would be nothing short of madness.  
+~
+0 0 desert
+D0
+~
+~
+Z 0 27326
+D3
+The smooth outline of a door is visible at the base of the limestone cliffs.
+~
+secret door~
+ABFGJZ 0 27330
+S
+#27329
+{YA Sandy Beach{x~
+@eng You are walking along the sandy beach that runs abreast the limestone
+cliffs.  Miniature fiddler crabs tiptoe lightly across the sand in search of
+food.  Overhead dozens of seagulls wing their way down the shoreline panning
+the waters for dead fish or other edible debris.  The air is fresh and
+clean, and you feel like whistling as you walk along the pleasant shores of
+this sandy beach.  
+~
+0 0 desert
+D1
+~
+~
+Z 0 27350
+D2
+~
+~
+Z 0 27327
+S
+#27330
+A Dark Passageway~
+@eng You have discovered the hidden entrance to a passageway that leads into
+the very heart of the island.  The tunnel ahead of you is dark, the light
+from the entrance dimly illuminates your surroundings.  The floor is covered
+with a thick coating of dust, and the air smells very musty and dank.  It
+looks as though no-one has passed through this tunnel in a very long time.  
+~
+0 0 inside
+D1
+~
+~
+ABFGJZ 0 27328
+D3
+~
+~
+Z 0 27331
+S
+#27331
+A Dark Passageway~
+@eng The tunnel leads off into the darkness, twisting from side to side like a
+serpent.  The height and width of the passageway is fairly uniform and
+progress, though slow, is uneventful.  Save the noise of your footfalls,
+there is complete silence in this tunnel, the still, deathly silence of a
+crypt.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 27332
+D1
+~
+~
+Z 0 27330
+S
+#27332
+A Dark Passageway~
+@eng The tunnel leads off into the darkness, twisting from side to side like a
+serpent.  The height and width of the passageway is fairly uniform and
+progress, though slow, is uneventful.  Save the noise of your footfalls,
+there is complete silence in this tunnel, the still, deathly silence of a
+crypt.  
+~
+0 0 inside
+D2
+~
+~
+Z 0 27331
+D3
+~
+~
+Z 0 27333
+S
+#27333
+A Dead End~
+@eng The tunnel comes to an abrupt end.  Directly in front of you a rusty iron
+ladder descends into a circular hole in the ground.  The ladder, though it's
+a little rusty, looks to be intact and supports your weight without protest.
+
+~
+0 0 inside
+D1
+~
+~
+Z 0 27332
+D5
+~
+~
+Z 0 27334
+S
+#27334
+A Rust Covered Ladder~
+@eng The ladder is firmly rooted in the solid rock, and after a short climb
+you reach the bottom.  The room you are standing in is small, the ceiling
+about 14 feet above you.  The walls are of pure obsidian laced with
+sparkling streaks of quartz.  You sense an evil presence nearby, the feeling
+so intense that you recoil from entering the adjoining room.  
+~
+0 0 inside
+D3
+Steadfastly embedded into the obsidian wall on six large, iron hinges, it
+gives no evidence of yielding to your touch.  The entire metallic surface is
+covered with glowing runes of warding.  In the center of the door, crescent
+shaped indentation the size of a closed is formed.  
+~
+ward door~
+ABCFGJZ 27305 27335
+D4
+~
+~
+Z 0 27333
+S
+#27335
+The Chamber of Holding~
+@eng Stepping past the warded door, you realize that you have made a grave
+mistake.  The chamber you have entered is a 20 foot cubicle, every inch of
+which is covered in ancient runic script, the likes of which you have never
+seen.  In the center of the room stands the largest demon that you have ever
+set eyes upon.  It looks rather pleased to see you.  
+~
+0 ADNTWX inside
+D1
+Steadfastly embedded into the obsidian wall on six large, iron hinges, it
+gives no evidence of yielding to your touch.  The entire metallic surface is
+covered with glowing runes of warding.  In the center of the door, crescent
+shaped indentation the size of a closed is formed.  
+~
+ward door~
+ABCFGJZ 27305 27334
+S
+#27336
+At the Foot of the Cliffs~
+@eng You are standing at the base of the narrow, steep trail that runs up the
+cliff face to the top of the island.  Cut back into the cliffs about 3 feet,
+the trail is barely wide enough for a group of people to climb in single
+file.  You are a little apprehensive as you consider the possibility of a
+misplaced step, and the resulting consequences.  
+~
+0 0 mountain
+D1
+~
+~
+Z 0 27324
+D4
+~
+~
+Z 0 27337
+S
+#27337
+Climbing a Steep Trail~
+@eng The trail leading to the top of the cliffs is steep and fraught with
+danger.  Loose rocks cover its entire narrow surface, forcing you to hug the
+cliff face lest you lose footing and plunge to your death.  A tiny lizard
+clings to the cliff face monitoring your progress with beady black eyes.  As
+particles on your head.  As you pass too close, it scuttles away quickly,
+sending a shower of dust particles raining down on your head.  
+~
+0 0 mountain
+D0
+~
+~
+Z 0 27338
+D5
+~
+~
+Z 0 27336
+S
+#27338
+Climbing a Steep Trail~
+@eng The beach is far below you now, a wide yellow band set against the clear
+blue of the bay.  Seagulls fly past you, screaming their outrage at your
+intrusion into their lofty haven.  You are beginning to feel the first
+twinges of fatigue, and your muscles are becoming sore from the climb.  You
+take heart, though, as you realize that you are over halfway towards the
+top.  
+~
+0 0 mountain
+D0
+~
+~
+Z 0 27339
+D2
+~
+~
+Z 0 27337
+S
+#27339
+Climbing a Steep Trail~
+@eng The climb seems endless.  Perspiration is pouring down your face, and you
+are gasping for breath from the exertion of the climb.  You are nearing the
+top, though, and you wish to gain the safety of stable footing as quickly as
+you can.  
+~
+0 0 mountain
+D2
+~
+~
+Z 0 27338
+D4
+~
+~
+Z 0 27340
+S
+#27340
+The Cliff's Summit~
+@eng You have reached the cliff' summit, and stopping to gaze back down at the
+bay you feel rewarded for your troubles.  The view is panoramic and
+breathtaking.  The brilliant blue waters of the bay spread out below you,
+the light reflecting off the still waters like a sparkling jewel.  From your
+vantage point, you are able to see over the walls of the rocky basin to the
+east and view the endless stretch of the Marinara beyond them.  A wooden
+sign posted here catches your eye.  
+~
+0 0 hills
+D3
+~
+~
+Z 0 27341
+D5
+~
+~
+Z 0 27339
+S
+#27341
+{y A Dusty Path Through the Grass{x~
+@eng Beaten through the grass, this dusty trail leads away from the cliffs to
+the east of you.  A short walk to the west lie the ironbound doors of
+Heorot's eastern entrance.  A sea of brown marram grass covers the ground
+north and south of you, seeming to stretch on forever.  
+~
+0 0 field
+D0
+~
+~
+Z 0 27342
+D1
+~
+~
+Z 0 27340
+D2
+~
+~
+Z 0 27353
+D3
+~
+~
+Z 0 27359
+S
+#27342
+{GThe Tall Grass{x~
+@eng Waist high scraggly marram grass grows all around you, extending off to
+the west for several hundred feet.  To the east the ground drops off
+suddenly, beyond which you can see the blue waters of the bay.  You pull
+your cloak around you more tightly as a cool breeze blows in from the ocean,
+chilling your skin.  
+~
+0 0 field
+D0
+~
+~
+Z 0 27343
+D2
+~
+~
+Z 0 27341
+D3
+~
+~
+Z 0 27383
+S
+#27343
+{GThe Tall Grass{x~
+@eng The scraggly marram grass scratches lightly at your clothing and armor as
+you trek through it.  Travelling at the edge of the cliffs, further progress
+east is impossible.  To your west you notice a small mixed stand of trees,
+while to the northwest you see the brown waters of a reed covered fen.  
+~
+0 0 field
+D0
+~
+~
+Z 0 27344
+D2
+~
+~
+Z 0 27342
+D3
+~
+~
+Z 0 27384
+S
+#27344
+{GThe Tall Grass{x~
+@eng The ground drops away suddenly to the east, the clear blue waters of the
+bay several hundred feet below.  Waist high scraggly marram grass scratches
+at your skin as you wade through it.  Directly to the west lays a reed
+covered fen, the brown waters still.  The chirping of birds greets your ears
+from the reeds growing along the banks, and you notice several wiry grass
+nests suspended among them.  
+~
+0 0 field
+D0
+~
+~
+Z 0 27345
+D2
+~
+~
+Z 0 27343
+D3
+~
+~
+Z 0 27361
+S
+#27345
+{bA Reed Covered Fen{x~
+~
+0 0 swim
+D0
+~
+~
+Z 0 27346
+D1
+~
+~
+Z 0 27348
+D2
+~
+~
+Z 0 27344
+D3
+~
+~
+Z 0 27351
+S
+#27346
+{GThe Tall Grass{x~
+@eng You are wading through dense, waist high marram grass.  A short walk off
+to your west lies a reed covered fen.  The waters are brown and still, but
+there is life in and around it.  Several wiry bird nests hang suspended in
+the midst of the thick reeds, their occupants chirping happily.  On the
+muddy bands, a muskrat is busily excavating the entrance to a new hole,
+ignorant of your passing.  
+~
+0 0 field
+D0
+~
+~
+Z 0 27346
+D1
+~
+~
+Z 0 27349
+D2
+~
+~
+Z 0 27345
+D3
+~
+~
+Z 0 27352
+S
+#27347
+The Tall Grass~
+~
+0 0 inside
+D3
+~
+~
+Z 0 27346
+S
+#27348
+{GThe Tall Grass{x~
+@eng You are standing near the edge of the cliffs, the earth falling away a
+short distance to your east.  To the north the line of cliffs seems to
+continue forever, the dry sandy soil covered with scraggly marram grass.  A
+fairly good sized fen lies to the southwest, it's muddy banks covered with a
+proliferation of tall reeds.  
+~
+0 0 field
+D0
+~
+~
+Z 0 27349
+D3
+~
+~
+Z 0 27345
+S
+#27349
+{GThe Tall Grass{x~
+@eng You are standing near the edge of the cliffs, the earth falling away a
+short distance to your east.  To the north the line of cliffs seems to
+continue forever, the dry sandy soil covered with scraggly marram grass.  A
+fairly good sized fen lies to the southwest, it's muddy banks covered with a
+proliferation of tall reeds.  
+~
+0 0 field
+D0
+~
+~
+Z 0 27349
+D2
+~
+~
+Z 0 27348
+D3
+~
+~
+Z 0 27346
+S
+#27350
+{BBeneath the Cliffs{x~
+@eng You are standing on the shoreline of a sandy beach.  The gray cliffs
+tower above you, seeming to touch the clouds above.  The beach runs
+southward, and in the distance you are able to see where, the sheer cliffs
+barring further progress southwards.  
+~
+0 0 swim
+D2
+~
+~
+Z 0 27315
+D3
+~
+~
+Z 0 27329
+S
+#27351
+{bA Reed Covered Fen{x~
+~
+0 0 swim
+D0
+~
+~
+Z 0 27352
+D1
+~
+~
+Z 0 27345
+D2
+~
+~
+Z 0 27361
+D3
+~
+~
+Z 0 27363
+S
+#27352
+{GThe Tall Grass{x~
+@eng Standing on the northern bank of the fen, you survey your surroundings. 
+To the west lies a dark forest, the giant boles of black oaks glare
+forbiddingly at you from the shadows.  Flat plains covered with scraggly
+marram grass stretch off endlessly to the northeast.  
+~
+0 0 field
+D0
+~
+~
+Z 0 27352
+D1
+~
+~
+Z 0 27346
+D2
+~
+~
+Z 0 27351
+D3
+~
+~
+Z 0 27569
+S
+#27353
+{GThe Tall Grass{x~
+@eng Waist high scraggly marram grass grows in the fields all around you,
+dropping off dropping off without warning as it meets the cliffs to the
+east.  A fox grass rustling as they pass by.  A cold breeze blows in from
+the east, bringing with it the smell of the ocean.  Heorot lies a short walk
+off to your west, and in the distance south of it lies the barren moors. 
+Dashes in front of you in hot pursuit of a small field mouse, the 
+~
+0 0 field
+D0
+~
+~
+Z 0 27341
+D2
+~
+~
+Z 0 27354
+D3
+~
+~
+Z 0 27358
+S
+#27354
+{GThe Tall Grass{x~
+You are trekking through the scraggly marram grass that borders the edge
+of the cliffs.  The clear blue waters of the bay lie far below you to your
+east.  To the northwest stand the walls of Heorot, and south of those an
+endless stretch of moors.  
+~
+0 0 field
+D0
+~
+~
+Z 0 27353
+D2
+~
+~
+Z 0 27355
+D3
+~
+~
+Z 0 27357
+S
+#27355
+{GThe Tall Grass{x~
+The marram grass begins to die out towards the south, the dry soil of the
+moors choking the life out of it.  To the east, the ground falls away down
+the sheer surface of the cliffs, the blue waters of the bay far below them. 
+A cricket chirps noisily, the sound all but drowned out by the cold wind
+gusting in from the east.  
+~
+0 0 field
+D0
+~
+~
+Z 0 27354
+D1
+~
+~
+Z 0 27518
+D2
+~
+~
+Z 0 27391
+D3
+~
+~
+Z 0 27356
+S
+#27356
+The Barren Moors~
+These dusty moors are void of life.  Nothing lives or grows here, and
+most that pass through die.  Not even the resilient marram grass is able to
+survive in the harsh alkaline soil of the moors.  Gusts of wind hurl
+miniature tornadoes of sand and grit into your face, impairing both your
+vision and your ability to breathe.  
+~
+0 0 field
+D0
+~
+~
+Z 0 27357
+D1
+~
+~
+Z 0 27355
+D2
+~
+~
+Z 0 27391
+D3
+~
+~
+Z 0 27393
+S
+#27357
+{MUnder the Eaves of Heorot{x~
+@eng Standing under Heorot's Eaves, you gaze up in wonder at the marvelous
+wooden building before you.  The giant logs used in its construction were
+cut from trees no less than four feet in diameter.  Stacked on top of each
+other, each log is bound to the one above and below it by several broad iron
+bands.  Sticky black pine pitch fills in the gaps between each of the logs,
+forming a watertight seal against the elements.  This building was made to,
+and surely will stand the test of time.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 27358
+D1
+~
+~
+Z 0 27354
+D2
+~
+~
+Z 0 27356
+D3
+~
+~
+Z 0 27386
+S
+#27358
+{MThe Eastern Entrance{x~
+@eng Standing in front of Heorot's eastern entrance, you can't help but wonder
+at the wealth and power of the one responsible for its construction.  A
+giant boar's head glares down at you from above the ironbound oak doors,
+tusks gilded with solid gold.  Above the boar's head, two twelve foot long
+wooden pikes hang crossed over each other, a symbol of defensive readiness. 
+
+~
+0 0 inside
+D0
+~
+~
+Z 0 27359
+D1
+~
+~
+Z 0 27353
+D2
+~
+~
+Z 0 27357
+D3
+~
+~
+ABZ 0 27360
+S
+#27359
+{y A Dusty Path Through the Grass{x~
+@eng Beaten through the grass, this dusty trail leads away from the cliffs to
+the east of you.  A short walk to the southwest lie the ironbound doors of
+Heorot's eastern entrance.  A sea of brown marram grass covers the ground
+north and south of you, seeming to stretch on forever.  
+~
+0 0 field
+D0
+~
+~
+Z 0 27383
+D1
+~
+~
+Z 0 27341
+D2
+~
+~
+Z 0 27358
+D3
+~
+~
+Z 0 27378
+S
+#27360
+{mInside the Eastern Entryway{x~
+@eng You are standing in Heorot's eastern entryway.  The building looks even
+larger on the inside than it did from the outside.  The watchmen posted
+inside the doors glance at you suspiciously, but say nothing, and do not
+prevent you from entering.  A wide corridor runs straight ahead for a couple
+hundred feet before it opens out into a vast brightly lit chamber.  Closed
+wooden doors line either side of the hallway leading to the main hall.  
+~
+0 D inside
+D0
+~
+~
+Z 0 27521
+D1
+~
+~
+ABZ 0 27358
+D2
+~
+~
+Z 0 27525
+D3
+~
+~
+Z 0 27578
+S
+#27361
+{bA Reed Covered Fen{x~
+~
+0 0 swim
+D0
+~
+~
+Z 0 27351
+D1
+~
+~
+Z 0 27344
+D2
+~
+~
+Z 0 27384
+D3
+~
+~
+Z 0 27362
+S
+#27362
+{bA Reed Covered Fen{x~
+~
+0 0 swim
+D0
+~
+~
+Z 0 27363
+D1
+~
+~
+Z 0 27361
+D2
+~
+~
+Z 0 27364
+D3
+~
+~
+Z 0 27365
+S
+#27363
+{bA Reed Covered Fen{x~
+~
+0 0 swim
+D0
+~
+~
+Z 0 27537
+D1
+~
+~
+Z 0 27351
+D2
+~
+~
+Z 0 27362
+D3
+~
+~
+Z 0 27572
+S
+#27364
+{bA Reed Covered Fen{x~
+~
+0 0 swim
+D0
+~
+~
+Z 0 27362
+D1
+~
+~
+Z 0 27384
+D2
+~
+~
+Z 0 27377
+D3
+~
+~
+Z 0 27446
+S
+#27365
+{bOn the {CCrystal{b Stream{x~
+~
+0 0 swim
+D0
+~
+~
+Z 0 27536
+D1
+~
+~
+Z 0 27362
+D2
+~
+~
+Z 0 27533
+D3
+~
+~
+Z 0 27366
+S
+#27366
+{bOn the {CCrystal{b Stream{x~
+~
+0 0 swim
+D0
+~
+~
+Z 0 27367
+D1
+~
+~
+Z 0 27365
+D2
+~
+~
+Z 0 27533
+D3
+~
+~
+Z 0 27557
+S
+#27367
+{bOn the {CCrystal{b Stream{x~
+~
+0 0 swim
+D0
+~
+~
+Z 0 27555
+D1
+~
+~
+Z 0 27536
+D2
+~
+~
+Z 0 27366
+D3
+~
+~
+Z 0 27368
+S
+#27368
+{bOn the {CCrystal{b Stream{x~
+~
+0 0 swim
+D0
+~
+~
+Z 0 27560
+D1
+~
+~
+Z 0 27367
+D2
+~
+~
+Z 0 27533
+D3
+~
+~
+Z 0 27369
+S
+#27369
+{bOn the {CCrystal{b Stream{x~
+~
+0 0 swim
+D0
+~
+~
+Z 0 27537
+D1
+~
+~
+Z 0 27368
+D2
+~
+~
+Z 0 27370
+D3
+~
+~
+Z 0 27557
+S
+#27370
+{bOn the {CCrystal{b Stream{x~
+~
+0 0 swim
+D0
+~
+~
+Z 0 27369
+D1
+~
+~
+Z 0 27533
+D2
+~
+~
+Z 0 27536
+D3
+~
+~
+Z 0 27371
+S
+#27371
+{bOn the {CCrystal{b Stream{x~
+~
+0 0 swim
+D0
+~
+~
+Z 0 27557
+D1
+~
+~
+Z 0 27370
+D2
+~
+~
+Z 0 27535
+D3
+~
+~
+Z 0 27372
+S
+#27372
+{bOn the {CCrystal{b Stream{x~
+~
+0 0 swim
+D0
+~
+~
+Z 0 27373
+D1
+~
+~
+Z 0 27371
+D2
+~
+~
+Z 0 27534
+D3
+~
+~
+Z 0 27474
+S
+#27373
+{bOn the {CCrystal{b Stream{x~
+~
+0 0 swim
+D0
+~
+~
+Z 0 27374
+D1
+~
+~
+Z 0 27557
+D2
+~
+~
+Z 0 27372
+D3
+~
+~
+Z 0 27376
+S
+#27374
+A Mirky Cave~
+~
+0 AD inside
+D0
+~
+~
+Z 0 27375
+D2
+~
+~
+Z 0 27373
+S
+#27375
+The Jabberwocky's Cave~
+~
+0 ADNW mountain
+D2
+~
+~
+Z 0 27374
+S
+#27376
+On the Black Stream~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27463
+D1
+~
+~
+Z 0 27373
+D2
+~
+~
+Z 0 27474
+D3
+~
+~
+Z 0 27459
+S
+#27377
+{GThe Tall Grass{x~
+@eng To your west the grass dwindles and dies as it meets the barren, alkaline
+soil of the moors.  A short walk through the stand of trees to your south
+would bring you to the walls of Heorot.  Directly north of you lie the muddy
+banks of a large fen, the happy chirping of birds reaches your ears from the
+reeds growing along them.  
+~
+0 0 field
+D0
+~
+~
+Z 0 27364
+D1
+~
+~
+Z 0 27383
+D2
+~
+~
+Z 0 27378
+D3
+~
+~
+Z 0 27426
+S
+#27378
+{gA Small Stand of Trees{x~
+You are standing under the eaves of mighty Heorot, in a small grove of
+mixed trees.  Maple and elm trees stretch their leafy boughs over the corner
+of the roof, providing shade from the summer heat, and protection against
+the winter cold.  A gust of wind from the northwest carries with it
+particles of sand and grit from the alkaline stretch of moors.
+~
+0 0 forest
+D0
+~
+~
+Z 0 27377
+D1
+~
+~
+Z 0 27359
+D3
+~
+~
+Z 0 27379
+S
+#27379
+{MUnder the Eaves of Heorot{x~
+@eng Standing under Heorot's Eaves, you gaze up in wonder at the marvelous
+wooden building before you.  The giant logs used in its construction were
+cut from trees no less than four feet in diameter.  Stacked on top of each
+other, each log is bound to the one above and below it by several broad iron
+bands.  Sticky black pine pitch fills in the gaps between each of the logs,
+forming a watertight seal against the elements.  This building was made to,
+and surely will stand the test of time.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 27426
+D1
+~
+~
+Z 0 27378
+D3
+~
+~
+Z 0 27380
+S
+#27380
+{MUnder the Eaves of Heorot{x~
+@eng Standing under Heorot's Eaves, you gaze up in wonder at the marvelous
+wooden building before you.  The giant logs used in its construction were
+cut from trees no less than four feet in diameter.  Stacked on top of each
+other, each log is bound to the one above and below it by several broad iron
+bands.  Sticky black pine pitch fills in the gaps between each of the logs,
+forming a watertight seal against the elements.  This building was made to,
+and surely will stand the test of time.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 27427
+D1
+~
+~
+Z 0 27379
+D3
+~
+~
+Z 0 27381
+S
+#27381
+{MUnder the Eaves of Heorot{x~
+@eng Standing under Heorot's Eaves, you gaze up in wonder at the marvelous
+wooden building before you.  The giant logs used in its construction were
+cut from trees no less than four feet in diameter.  Stacked on top of each
+other, each log is bound to the one above and below it by several broad iron
+bands.  Sticky black pine pitch fills in the gaps between each of the logs,
+forming a watertight seal against the elements.  This building was made to,
+and surely will stand the test of time.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 27428
+D1
+~
+~
+Z 0 27380
+D2
+~
+~
+Z 0 27382
+D3
+~
+~
+Z 0 27422
+S
+#27382
+{MThe Western Entrance{x~
+@eng Standing in front of Heorot's western entrance, you can't help but wonder
+at the wealth and power of the one responsible for its construction.  A
+giant boar's head glares down at you from above the ironbound oak doors,
+tusks gilded with solid gold.  Above the boar's head, two twelve foot long
+wooden pikes hang crossed over each other, a symbol of defensive readiness. 
+
+~
+0 0 inside
+D0
+~
+~
+Z 0 27381
+D1
+~
+~
+ABZ 0 27385
+D2
+~
+~
+Z 0 27389
+D3
+~
+~
+Z 0 27418
+S
+#27383
+{GThe Tall Grass{x~
+@eng You are wading through a stretch of waist high marram grass.  To the
+north you see a shady looking stand of mixed trees, and south a dusty path
+beaten through the tall grass.  
+~
+0 0 field
+D0
+~
+~
+Z 0 27384
+D1
+~
+~
+Z 0 27342
+D2
+~
+~
+Z 0 27359
+D3
+~
+~
+Z 0 27377
+S
+#27384
+{gA Small Stand of Trees{x~
+@eng You have entered a small stand of trees, a mix of pine and spruce with a
+few elm scattered through.  In the branches overhead a squirrel chatters
+excitedly at an imagined threat.  Aside from the squirrel all is quiet.  The
+air is refreshing and clean, smelling faintly of pine needles.  The ground
+The ground is a little muddy, and to the northwest it drops into the brown
+waters of a reed covered fen.  
+~
+0 0 forest
+D0
+~
+~
+Z 0 27361
+D1
+~
+~
+Z 0 27343
+D2
+~
+~
+Z 0 27383
+D3
+~
+~
+Z 0 27364
+S
+#27385
+{mInside the Western Entryway{x~
+~
+0 D inside
+D0
+~
+~
+ABZ 0 27524
+D1
+~
+~
+Z 0 27519
+D2
+~
+~
+ABZ 0 27528
+D3
+~
+~
+ABZ 0 27382
+S
+#27386
+{MUnder the Eaves of Heorot{x~
+@eng Standing under Heorot's Eaves, you gaze up in wonder at the marvelous wooden building before you.
+The giant logs used in its construction were cut from trees no less than four feet in diameter.
+Stacked on top of each other, each log is bound to the one above and below it by several broad iron bands.
+Sticky black pine pitch fills in the gaps between each of the logs, forming a watertight seal against the elements.
+This building was made to, and surely will stand the test of time.
+~
+0 0 inside
+D1
+~
+~
+Z 0 27357
+D2
+~
+~
+Z 0 27393
+D3
+~
+~
+Z 0 27387
+S
+#27387
+{MUnder the Eaves of Heorot{x~
+@eng Standing under Heorot's Eaves, you gaze up in wonder at the marvelous
+wooden building before you.  The giant logs used in its construction were
+cut from trees no less than four feet in diameter.  Stacked on top of each
+other, each log is bound to the one above and below it by several broad iron
+bands.  Sticky black pine pitch fills in the gaps between each of the logs,
+forming a watertight seal against the elements.  This building was made to,
+and surely will stand the test of time.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 27386
+D2
+~
+~
+Z 0 27394
+D3
+~
+~
+Z 0 27388
+S
+#27388
+{gA Large Stand of Trees{x~
+~
+0 0 forest
+D1
+~
+~
+Z 0 27387
+D2
+~
+~
+Z 0 27390
+D3
+~
+~
+Z 0 27389
+S
+#27389
+{gA Large Stand of Trees{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27382
+D1
+~
+~
+Z 0 27388
+D2
+~
+~
+Z 0 27395
+D3
+~
+~
+Z 0 27400
+S
+#27390
+{gA Large Stand of Trees{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27388
+D1
+~
+~
+Z 0 27394
+D2
+~
+~
+Z 0 27451
+D3
+~
+~
+Z 0 27395
+S
+#27391
+The Endless Moors~
+~
+0 0 desert
+D0
+~
+~
+Z 0 27356
+D1
+~
+~
+Z 0 27391
+D2
+~
+~
+Z 0 27391
+D3
+~
+~
+Z 0 27453
+S
+#27392
+Between the Rafters~
+~
+0 ACDLNX inside
+D1
+~
+~
+Z 0 27454
+S
+#27393
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27386
+D1
+~
+~
+Z 0 27356
+D2
+~
+~
+Z 0 27453
+D3
+~
+~
+Z 0 27394
+S
+#27394
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27387
+D1
+~
+~
+Z 0 27393
+D2
+~
+~
+Z 0 27452
+D3
+~
+~
+Z 0 27390
+S
+#27395
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27389
+D1
+~
+~
+Z 0 27390
+D2
+~
+~
+Z 0 27450
+D3
+~
+~
+Z 0 27396
+S
+#27396
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27400
+D1
+~
+~
+Z 0 27395
+D2
+~
+~
+Z 0 27449
+D3
+~
+~
+Z 0 27397
+S
+#27397
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27404
+D1
+~
+~
+Z 0 27396
+D2
+~
+~
+Z 0 27448
+D3
+~
+~
+Z 0 27398
+S
+#27398
+The Endless Moors~
+~
+0 0 desert
+D0
+~
+~
+Z 0 27405
+D1
+~
+~
+Z 0 27397
+D2
+~
+~
+Z 0 27398
+D3
+~
+~
+Z 0 27399
+S
+#27399
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27406
+D1
+~
+~
+Z 0 27398
+D2
+~
+~
+Z 0 27574
+D3
+~
+~
+Z 0 27401
+S
+#27400
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27418
+D1
+~
+~
+Z 0 27389
+D2
+~
+~
+Z 0 27396
+D3
+~
+~
+Z 0 27404
+S
+#27401
+{gA Dense Thicket{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27407
+D1
+~
+~
+Z 0 27399
+D3
+~
+~
+Z 0 27402
+S
+#27402
+{gA Dense Thicket{x~
+~
+0 A forest
+D0
+~
+~
+Z 0 27408
+D1
+~
+~
+Z 0 27401
+D3
+~
+~
+Z 0 27403
+S
+#27403
+{gA Dense Thicket{x~
+~
+0 A forest
+D0
+~
+~
+Z 0 27409
+D1
+~
+~
+Z 0 27402
+S
+#27404
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27417
+D1
+~
+~
+Z 0 27400
+D2
+~
+~
+Z 0 27397
+D3
+~
+~
+Z 0 27405
+S
+#27405
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27416
+D1
+~
+~
+Z 0 27404
+D2
+~
+~
+Z 0 27398
+D3
+~
+~
+Z 0 27406
+S
+#27406
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27415
+D1
+~
+~
+Z 0 27405
+D2
+~
+~
+Z 0 27399
+D3
+~
+~
+Z 0 27407
+S
+#27407
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27414
+D1
+~
+~
+Z 0 27406
+D2
+~
+~
+Z 0 27401
+D3
+~
+~
+Z 0 27408
+S
+#27408
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27413
+D1
+~
+~
+Z 0 27407
+D2
+~
+~
+Z 0 27402
+D3
+~
+~
+Z 0 27409
+S
+#27409
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27412
+D1
+~
+~
+Z 0 27408
+D2
+~
+~
+Z 0 27403
+D3
+~
+~
+Z 0 27410
+S
+#27410
+{gA Dense Thicket{x~
+~
+0 A forest
+D0
+~
+~
+Z 0 27411
+D1
+~
+~
+Z 0 27409
+S
+#27411
+{gA Dense Thicket{x~
+~
+0 A forest
+D1
+~
+~
+Z 0 27412
+D2
+~
+~
+Z 0 27410
+S
+#27412
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27412
+D1
+~
+~
+Z 0 27413
+D2
+~
+~
+Z 0 27409
+D3
+~
+~
+Z 0 27411
+S
+#27413
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27413
+D1
+~
+~
+Z 0 27414
+D2
+~
+~
+Z 0 27408
+D3
+~
+~
+Z 0 27412
+S
+#27414
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27419
+D1
+~
+~
+Z 0 27415
+D2
+~
+~
+Z 0 27407
+D3
+~
+~
+Z 0 27413
+S
+#27415
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27425
+D1
+~
+~
+Z 0 27416
+D2
+~
+~
+Z 0 27406
+D3
+~
+~
+Z 0 27414
+S
+#27416
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27424
+D1
+~
+~
+Z 0 27417
+D2
+~
+~
+Z 0 27405
+D3
+~
+~
+Z 0 27415
+S
+#27417
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27423
+D1
+~
+~
+Z 0 27418
+D2
+~
+~
+Z 0 27404
+D3
+~
+~
+Z 0 27416
+S
+#27418
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27422
+D1
+~
+~
+Z 0 27382
+D2
+~
+~
+Z 0 27400
+D3
+~
+~
+Z 0 27417
+S
+#27419
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27420
+D1
+~
+~
+Z 0 27425
+D2
+~
+~
+Z 0 27414
+D3
+~
+~
+Z 0 27419
+S
+#27420
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27421
+D1
+~
+~
+Z 0 27425
+D2
+~
+~
+Z 0 27419
+D3
+~
+~
+Z 0 27420
+S
+#27421
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27421
+D1
+~
+~
+Z 0 27425
+D2
+~
+~
+Z 0 27420
+D3
+~
+~
+Z 0 27421
+S
+#27422
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27429
+D1
+~
+~
+Z 0 27381
+D2
+~
+~
+Z 0 27418
+D3
+~
+~
+Z 0 27423
+S
+#27423
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27430
+D1
+~
+~
+Z 0 27422
+D2
+~
+~
+Z 0 27417
+D3
+~
+~
+Z 0 27424
+S
+#27424
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27431
+D1
+~
+~
+Z 0 27423
+D2
+~
+~
+Z 0 27416
+D3
+~
+~
+Z 0 27425
+S
+#27425
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27432
+D1
+~
+~
+Z 0 27424
+D2
+~
+~
+Z 0 27415
+D3
+~
+~
+Z 0 27419
+S
+#27426
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27446
+D1
+~
+~
+Z 0 27377
+D2
+~
+~
+Z 0 27379
+D3
+~
+~
+Z 0 27427
+S
+#27427
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27447
+D1
+~
+~
+Z 0 27426
+D2
+~
+~
+Z 0 27380
+D3
+~
+~
+Z 0 27428
+S
+#27428
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27443
+D1
+~
+~
+Z 0 27427
+D2
+~
+~
+Z 0 27381
+D3
+~
+~
+Z 0 27429
+S
+#27429
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27442
+D1
+~
+~
+Z 0 27428
+D2
+~
+~
+Z 0 27422
+D3
+~
+~
+Z 0 27430
+S
+#27430
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27437
+D1
+~
+~
+Z 0 27429
+D2
+~
+~
+Z 0 27423
+D3
+~
+~
+Z 0 27431
+S
+#27431
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27435
+D1
+~
+~
+Z 0 27430
+D2
+~
+~
+Z 0 27424
+D3
+~
+~
+Z 0 27432
+S
+#27432
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27433
+D1
+~
+~
+Z 0 27431
+D2
+~
+~
+Z 0 27425
+D3
+~
+~
+Z 0 27432
+S
+#27433
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27434
+D1
+~
+~
+Z 0 27435
+D2
+~
+~
+Z 0 27432
+D3
+~
+~
+Z 0 27433
+S
+#27434
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27434
+D1
+~
+~
+Z 0 27436
+D2
+~
+~
+Z 0 27433
+D3
+~
+~
+Z 0 27434
+S
+#27435
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27436
+D1
+~
+~
+Z 0 27430
+D2
+~
+~
+Z 0 27431
+D3
+~
+~
+Z 0 27433
+S
+#27436
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27436
+D1
+~
+~
+Z 0 27430
+D2
+~
+~
+Z 0 27435
+D3
+~
+~
+Z 0 27434
+S
+#27437
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27438
+D1
+~
+~
+Z 0 27442
+D2
+~
+~
+Z 0 27430
+D3
+~
+~
+Z 0 27437
+S
+#27438
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27439
+D1
+~
+~
+Z 0 27441
+D2
+~
+~
+Z 0 27437
+D3
+~
+~
+Z 0 27438
+S
+#27439
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27439
+D1
+~
+~
+Z 0 27440
+D2
+~
+~
+Z 0 27438
+D3
+~
+~
+Z 0 27439
+S
+#27440
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27440
+D1
+~
+~
+Z 0 27445
+D2
+~
+~
+Z 0 27441
+D3
+~
+~
+Z 0 27439
+S
+#27441
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27440
+D1
+~
+~
+Z 0 27444
+D2
+~
+~
+Z 0 27442
+D3
+~
+~
+Z 0 27438
+S
+#27442
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27441
+D1
+~
+~
+Z 0 27443
+D2
+~
+~
+Z 0 27429
+D3
+~
+~
+Z 0 27437
+S
+#27443
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27444
+D1
+~
+~
+Z 0 27447
+D2
+~
+~
+Z 0 27428
+D3
+~
+~
+Z 0 27442
+S
+#27444
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27445
+D1
+~
+~
+Z 0 27447
+D2
+~
+~
+Z 0 27443
+D3
+~
+~
+Z 0 27441
+S
+#27445
+{GA Beautiful Deciduous Forest{x~
+~
+0 0 forest
+D0
+~
+~
+Z 0 27445
+D1
+~
+~
+Z 0 27447
+D2
+~
+~
+Z 0 27444
+D3
+~
+~
+Z 0 27440
+S
+#27446
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27439
+D1
+~
+~
+Z 0 27364
+D2
+~
+~
+Z 0 27426
+D3
+~
+~
+Z 0 27447
+S
+#27447
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27439
+D1
+~
+~
+Z 0 27446
+D2
+~
+~
+Z 0 27427
+D3
+~
+~
+Z 0 27443
+S
+#27448
+The Endless Moors~
+~
+0 0 desert
+D0
+~
+~
+Z 0 27397
+D1
+~
+~
+Z 0 27449
+D2
+~
+~
+Z 0 27448
+D3
+~
+~
+Z 0 27448
+S
+#27449
+The Endless Moors~
+~
+0 0 desert
+D0
+~
+~
+Z 0 27396
+D1
+~
+~
+Z 0 27450
+D2
+~
+~
+Z 0 27449
+D3
+~
+~
+Z 0 27448
+S
+#27450
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27395
+D1
+~
+~
+Z 0 27451
+D2
+~
+~
+Z 0 27458
+D3
+~
+~
+Z 0 27449
+S
+#27451
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27390
+D1
+~
+~
+Z 0 27452
+D2
+~
+~
+Z 0 27457
+D3
+~
+~
+Z 0 27450
+S
+#27452
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27394
+D1
+~
+~
+Z 0 27453
+D2
+~
+~
+Z 0 27456
+D3
+~
+~
+Z 0 27451
+S
+#27453
+The Barren Moors~
+~
+0 0 field
+D0
+~
+~
+Z 0 27393
+D1
+~
+~
+Z 0 27391
+D2
+~
+~
+Z 0 27455
+D3
+~
+~
+Z 0 27452
+S
+#27454
+A Tiny Crawlspace~
+~
+0 ACDLNX inside
+D3
+~
+~
+Z 0 27392
+D5
+~
+~
+ABCFGJZ 0 27522
+S
+#27455
+The Endless Moors~
+~
+0 0 desert
+D0
+~
+~
+Z 0 27453
+D1
+~
+~
+Z 0 27455
+D2
+~
+~
+Z 0 27455
+D3
+~
+~
+Z 0 27456
+S
+#27456
+The Endless Moors~
+~
+0 0 desert
+D0
+~
+~
+Z 0 27452
+D1
+~
+~
+Z 0 27455
+D2
+~
+~
+Z 0 27456
+D3
+~
+~
+Z 0 27457
+S
+#27457
+The Endless Moors~
+~
+0 0 desert
+D0
+~
+~
+Z 0 27451
+D1
+~
+~
+Z 0 27456
+D2
+~
+~
+Z 0 27457
+D3
+~
+~
+Z 0 27458
+S
+#27458
+The Endless Moors~
+~
+0 0 desert
+D0
+~
+~
+Z 0 27450
+D1
+~
+~
+Z 0 27457
+D2
+~
+~
+Z 0 27458
+D3
+~
+~
+Z 0 27458
+S
+#27459
+{yThe Deadlands{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27467
+D1
+~
+~
+Z 0 27376
+D2
+~
+~
+Z 0 27475
+D3
+~
+~
+Z 0 27460
+S
+#27460
+{yThe Deadlands{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27468
+D1
+~
+~
+Z 0 27459
+D2
+~
+~
+Z 0 27479
+D3
+~
+~
+Z 0 27461
+S
+#27461
+{yThe Deadlands{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27512
+D1
+~
+~
+Z 0 27460
+D2
+~
+~
+Z 0 27483
+D3
+~
+~
+Z 0 27462
+S
+#27462
+{yThe Deadlands{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27508
+D1
+~
+~
+Z 0 27461
+D2
+~
+~
+Z 0 27490
+D3
+~
+~
+Z 0 27465
+S
+#27463
+On the Black Stream~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27464
+D2
+~
+~
+Z 0 27376
+D3
+~
+~
+Z 0 27467
+S
+#27464
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27507
+D1
+~
+~
+Z 0 27464
+D2
+~
+~
+Z 0 27463
+D3
+~
+~
+Z 0 27510
+S
+#27465
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27506
+D1
+~
+~
+Z 0 27462
+D2
+~
+~
+Z 0 27493
+D3
+~
+~
+Z 0 27466
+S
+#27466
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27503
+D1
+~
+~
+Z 0 27465
+D2
+~
+~
+Z 0 27500
+D3
+~
+~
+Z 0 27466
+S
+#27467
+On the Black Stream~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27510
+D1
+~
+~
+Z 0 27463
+D2
+~
+~
+Z 0 27459
+D3
+~
+~
+Z 0 27468
+S
+#27468
+On the Black Stream~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27469
+D1
+~
+~
+Z 0 27467
+D2
+~
+~
+Z 0 27460
+D3
+~
+~
+Z 0 27512
+S
+#27469
+On the Black Stream~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27470
+D1
+~
+~
+Z 0 27510
+D2
+~
+~
+Z 0 27468
+D3
+~
+~
+Z 0 27472
+S
+#27470
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27470
+D1
+~
+~
+Z 0 27501
+D2
+~
+~
+Z 0 27469
+D3
+~
+~
+Z 0 27471
+S
+#27471
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27471
+D1
+~
+~
+Z 0 27470
+D2
+~
+~
+Z 0 27472
+D3
+~
+~
+Z 0 27511
+S
+#27472
+On the Black Stream~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27471
+D1
+~
+~
+Z 0 27469
+D2
+~
+~
+Z 0 27512
+D3
+~
+~
+Z 0 27509
+S
+#27473
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27473
+D1
+~
+~
+Z 0 27473
+D2
+~
+~
+Z 0 27511
+D3
+~
+~
+Z 0 27473
+S
+#27474
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27474
+D1
+~
+~
+Z 0 27534
+D2
+~
+~
+Z 0 27556
+D3
+~
+~
+Z 0 27547
+S
+#27475
+{yThe Deadlands{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27459
+D1
+~
+~
+Z 0 27474
+D2
+~
+~
+Z 0 27476
+D3
+~
+~
+Z 0 27479
+S
+#27476
+{yThe Deadlands{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27475
+D1
+~
+~
+Z 0 27478
+D2
+~
+~
+Z 0 27477
+D3
+~
+~
+Z 0 27480
+S
+#27477
+{yThe Deadlands{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27476
+D3
+~
+~
+Z 0 27481
+S
+#27478
+{yThe Deadlands{x~
+~
+0 ANX swim
+D3
+~
+~
+Z 0 27476
+S
+#27479
+{yThe Deadlands{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27460
+D1
+~
+~
+Z 0 27475
+D2
+~
+~
+Z 0 27480
+D3
+~
+~
+Z 0 27483
+S
+#27480
+{yThe Deadlands{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27479
+D1
+~
+~
+Z 0 27476
+D2
+~
+~
+Z 0 27481
+D3
+~
+~
+Z 0 27484
+S
+#27481
+{yThe Deadlands{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27480
+D1
+~
+~
+Z 0 27477
+D2
+~
+~
+Z 0 27482
+D3
+~
+~
+Z 0 27485
+S
+#27482
+{yThe Deadlands{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27481
+D3
+~
+~
+Z 0 27486
+S
+#27483
+{yThe Deadlands{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27461
+D1
+~
+~
+Z 0 27479
+D2
+~
+~
+Z 0 27484
+D3
+~
+~
+Z 0 27490
+S
+#27484
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27483
+D1
+~
+~
+Z 0 27480
+D2
+~
+~
+Z 0 27485
+D3
+~
+~
+Z 0 27489
+S
+#27485
+{yThe Deadlands{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27484
+D1
+~
+~
+Z 0 27481
+D2
+~
+~
+Z 0 27486
+D3
+~
+~
+Z 0 27488
+S
+#27486
+{yThe Deadlands{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27485
+D1
+~
+~
+Z 0 27482
+D2
+~
+~
+Z 0 27491
+D3
+~
+~
+Z 0 27487
+S
+#27487
+{yThe Deadlands{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27488
+D1
+~
+~
+Z 0 27486
+D2
+~
+~
+Z 0 27496
+D3
+~
+~
+Z 0 27496
+S
+#27488
+{yThe Deadlands{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27489
+D1
+~
+~
+Z 0 27485
+D2
+~
+~
+Z 0 27487
+D3
+~
+~
+Z 0 27495
+S
+#27489
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27490
+D1
+~
+~
+Z 0 27484
+D2
+~
+~
+Z 0 27488
+D3
+~
+~
+Z 0 27494
+S
+#27490
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27462
+D1
+~
+~
+Z 0 27483
+D2
+~
+~
+Z 0 27489
+D3
+~
+~
+Z 0 27493
+S
+#27491
+{gStanding Atop the Embankment{x~
+~
+0 ANX field
+D0
+~
+~
+Z 0 27486
+D1
+~
+~
+Z 0 27492
+D2
+~
+~
+Z 0 27496
+D3
+~
+~
+Z 0 27496
+S
+#27492
+{bA Small Reservoir{x~
+~
+0 ANX swim
+D3
+~
+~
+Z 0 27491
+S
+#27493
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27465
+D1
+~
+~
+Z 0 27490
+D2
+~
+~
+Z 0 27494
+D3
+~
+~
+Z 0 27500
+S
+#27494
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27493
+D1
+~
+~
+Z 0 27489
+D2
+~
+~
+Z 0 27495
+D3
+~
+~
+Z 0 27499
+S
+#27495
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27494
+D1
+~
+~
+Z 0 27488
+D2
+~
+~
+Z 0 27496
+D3
+~
+~
+Z 0 27498
+S
+#27496
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27495
+D1
+~
+~
+Z 0 27487
+D2
+~
+~
+Z 0 27496
+D3
+~
+~
+Z 0 27497
+S
+#27497
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D1
+~
+~
+Z 0 27496
+D2
+~
+~
+Z 0 27497
+D3
+~
+~
+Z 0 27497
+S
+#27498
+{YA Shimmering Nexus{x~
+~
+0 ANX field
+D0
+~
+~
+Z 0 27499
+D1
+~
+~
+Z 0 27495
+D2
+~
+~
+Z 0 27497
+D3
+~
+~
+Z 0 27502
+S
+#27499
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27500
+D1
+~
+~
+Z 0 27494
+D2
+~
+~
+Z 0 27498
+D3
+~
+~
+Z 0 27499
+S
+#27500
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27466
+D1
+~
+~
+Z 0 27493
+D2
+~
+~
+Z 0 27499
+D3
+~
+~
+Z 0 27500
+S
+#27501
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27501
+D1
+~
+~
+Z 0 27507
+D2
+~
+~
+Z 0 27510
+D3
+~
+~
+Z 0 27470
+S
+#27502
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27502
+D1
+~
+~
+Z 0 27498
+D2
+~
+~
+Z 0 27502
+D3
+~
+~
+Z 0 27502
+S
+#27503
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27504
+D1
+~
+~
+Z 0 27506
+D2
+~
+~
+Z 0 27466
+D3
+~
+~
+Z 0 27503
+S
+#27504
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27504
+D1
+~
+~
+Z 0 27505
+D2
+~
+~
+Z 0 27503
+D3
+~
+~
+Z 0 27504
+S
+#27505
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27505
+D1
+~
+~
+Z 0 27509
+D2
+~
+~
+Z 0 27506
+D3
+~
+~
+Z 0 27504
+S
+#27506
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27505
+D1
+~
+~
+Z 0 27508
+D2
+~
+~
+Z 0 27465
+D3
+~
+~
+Z 0 27503
+S
+#27507
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27507
+D1
+~
+~
+Z 0 27507
+D2
+~
+~
+Z 0 27464
+D3
+~
+~
+Z 0 27501
+S
+#27508
+{yThe Deadlands{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27509
+D1
+~
+~
+Z 0 27512
+D2
+~
+~
+Z 0 27462
+D3
+~
+~
+Z 0 27506
+S
+#27509
+On The Black Stream~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27511
+D1
+~
+~
+Z 0 27472
+D2
+~
+~
+Z 0 27508
+D3
+~
+~
+Z 0 27505
+S
+#27510
+{gThe Poisoned Waste{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27501
+D1
+~
+~
+Z 0 27464
+D2
+~
+~
+Z 0 27467
+D3
+~
+~
+Z 0 27469
+S
+#27511
+{BFloating Above a Sinkhole{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27473
+D1
+~
+~
+Z 0 27471
+D2
+~
+~
+Z 0 27509
+D3
+~
+~
+Z 0 27504
+D5
+~
+~
+Z 0 27513
+S
+#27512
+{yThe Deadlands{x~
+~
+0 ANX swim
+D0
+~
+~
+Z 0 27472
+D1
+~
+~
+Z 0 27468
+D2
+~
+~
+Z 0 27461
+D3
+~
+~
+Z 0 27508
+S
+#27513
+{BInto the Miry Depths{x~
+~
+0 ADNXc swim
+D4
+~
+~
+Z 0 27511
+D5
+~
+~
+Z 0 27514
+S
+#27514
+{BInto the Miry Depths{x~
+~
+0 ADNXc swim
+D4
+~
+~
+Z 0 27513
+D5
+~
+~
+Z 0 27515
+S
+#27515
+{BInto the Miry Depths{x~
+~
+0 ADNXc swim
+D4
+~
+~
+Z 0 27514
+D5
+~
+~
+Z 0 27516
+S
+#27516
+{BInto the Miry Depths{x~
+~
+0 ADNXc swim
+D4
+~
+~
+Z 0 27515
+D5
+~
+~
+Z 0 27517
+S
+#27517
+{BAt the Bottom of the Sinkhole{x~
+~
+0 ADNXc swim
+D1
+~
+~
+Z 0 27529
+D4
+~
+~
+Z 0 27516
+S
+#27518
+{GThe Tall Grass{x~
+You are standing on the edge of the cliffs overlooking the bay.  A
+several hundred foot drop lies north and east where the sheer cliffs fall to
+the beach below.  The barren, dead ground of the moors stretchs away from
+you to the southwest, it's flat surface void of life.  
+~
+0 0 field
+D2
+~
+~
+Z 0 27391
+D3
+~
+~
+Z 0 27355
+S
+#27519
+{mThe Center of a Vast Hall{x~
+~
+0 D inside
+D0
+~
+~
+Z 0 27523
+D1
+~
+~
+Z 0 27520
+D2
+~
+~
+Z 0 27527
+D3
+~
+~
+Z 0 27385
+S
+#27520
+{mThe Hallways of Heorot{x~
+@eng You have reached the end of the hallway.  To the west the hallway leads
+into a vast chamber.  Smoke hangs heavy in the air, billowing from the green
+logs burning in the huge fireplaces.  The strident sound of voices raised in
+argument reaches your ears from the northern part of the chamber.  Directly
+north of you there is a large oak door, locked from the outside.  To the
+south you see two long wooden dining tables that run the full length of the
+back wall.  
+~
+0 D inside
+D0
+~
+~
+ABCZ 0 27522
+D1
+~
+~
+Z 0 27575
+D2
+~
+~
+Z 0 27526
+D3
+~
+~
+Z 0 27519
+S
+#27521
+{mA Sleeping Chamber{x~
+@eng You have entered a large, square room that looks to have been made for
+sleeping.  Against the back wall a fire burns brightly in the stone
+fireplace.  In the back corner a pile of soft and warm looking furs lay
+tossed carelessly in a heap.  A few more furs lie scattered about the room
+rolled out like blankets.  
+~
+0 D inside
+D2
+~
+~
+Z 0 27360
+S
+#27522
+{mThe Treasure Room{x~
+~
+0 D inside
+D2
+~
+~
+ABCZ 0 27520
+D4
+~
+~
+ABCFGJZ 0 27454
+S
+#27523
+{mThe Throne Room{x~
+You have entered the throne room.  A tall bearded man is sitting on a
+large gold covered throne surrounded by several warriors.  They are in the
+midst of a rather heated discussion and fail to notice your arrival.  To the
+south you see the enormous oaken tables of the meadhall.  
+~
+0 D inside
+D2
+~
+~
+Z 0 27519
+S
+#27524
+{mThe Weaponry{x~
+~
+0 D inside
+D2
+~
+~
+ABZ 0 27385
+S
+#27525
+{mA Sleeping Chamber{x~
+@eng You have entered a large, square room that looks to have been made for
+sleeping.  Against the back wall a fire burns brightly in the stone
+fireplace.  In the back corner a pile of soft and warm looking furs lay
+tossed carelessly in a heap.  A few more furs lie scattered about the room
+rolled out like blankets.  
+~
+0 D inside
+D0
+~
+~
+Z 0 27360
+S
+#27526
+{mThe Feasting Table{x~
+The meadhall you have entered was constructed by Hrothgar for his warriors to celebrate their glorious victories in battle.
+~
+0 D inside
+D0
+~
+~
+Z 0 27520
+D3
+~
+~
+Z 0 27527
+S
+#27527
+{mThe Feasting Table{x~
+~
+0 D inside
+D0
+~
+~
+Z 0 27519
+D1
+~
+~
+Z 0 27526
+S
+#27528
+{mThe Armory{x~
+~
+0 D inside
+D0
+~
+~
+ABZ 0 27385
+S
+#27529
+~
+~
+0 ADNXc swim
+D0
+~
+~
+Z 0 27530
+D3
+~
+~
+Z 0 27517
+S
+#27530
+~
+~
+0 ADNXc swim
+D2
+~
+~
+Z 0 27529
+D4
+~
+~
+Z 0 27531
+S
+#27531
+{BFloating Before a Gloomy Cave{x~
+~
+0 ADNX swim
+D1
+~
+~
+Z 0 27532
+D5
+~
+~
+Z 0 27530
+S
+#27532
+Grendel's Hideous Lair~
+~
+0 ADNTX mountain
+D3
+~
+~
+Z 0 27531
+S
+#27533
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27561
+D1
+~
+~
+Z 0 27557
+D2
+~
+~
+Z 0 27533
+D3
+~
+~
+Z 0 27536
+S
+#27534
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27542
+D1
+~
+~
+Z 0 27535
+D2
+~
+~
+Z 0 27555
+D3
+~
+~
+Z 0 27474
+S
+#27535
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27540
+D1
+~
+~
+Z 0 27536
+D2
+~
+~
+Z 0 27533
+D3
+~
+~
+Z 0 27534
+S
+#27536
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27544
+D1
+~
+~
+Z 0 27533
+D2
+~
+~
+Z 0 27566
+D3
+~
+~
+Z 0 27535
+S
+#27537
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27549
+D1
+~
+~
+Z 0 27538
+D2
+~
+~
+Z 0 27557
+D3
+~
+~
+Z 0 27572
+S
+#27538
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27539
+D1
+~
+~
+Z 0 27543
+D2
+~
+~
+Z 0 27534
+D3
+~
+~
+Z 0 27537
+S
+#27539
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27542
+D1
+~
+~
+Z 0 27544
+D2
+~
+~
+Z 0 27538
+D3
+~
+~
+Z 0 27540
+S
+#27540
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27541
+D1
+~
+~
+Z 0 27539
+D2
+~
+~
+Z 0 27565
+D3
+~
+~
+Z 0 27559
+S
+#27541
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27550
+D1
+~
+~
+Z 0 27542
+D2
+~
+~
+Z 0 27540
+D3
+~
+~
+Z 0 27536
+S
+#27542
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27542
+D1
+~
+~
+Z 0 27543
+D2
+~
+~
+Z 0 27539
+D3
+~
+~
+Z 0 27541
+S
+#27543
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27533
+D1
+~
+~
+Z 0 27546
+D2
+~
+~
+Z 0 27544
+D3
+~
+~
+Z 0 27542
+S
+#27544
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27543
+D1
+~
+~
+Z 0 27545
+D2
+~
+~
+Z 0 27544
+D3
+~
+~
+Z 0 27539
+S
+#27545
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27546
+D1
+~
+~
+Z 0 27568
+D2
+~
+~
+Z 0 27547
+D3
+~
+~
+Z 0 27544
+S
+#27546
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27547
+D1
+~
+~
+Z 0 27572
+D2
+~
+~
+Z 0 27545
+D3
+~
+~
+Z 0 27554
+S
+#27547
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27542
+D1
+~
+~
+Z 0 27547
+D2
+~
+~
+Z 0 27546
+D3
+~
+~
+Z 0 27548
+S
+#27548
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27553
+D1
+~
+~
+Z 0 27547
+D2
+~
+~
+Z 0 27543
+D3
+~
+~
+Z 0 27549
+S
+#27549
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27552
+D1
+~
+~
+Z 0 27548
+D2
+~
+~
+Z 0 27565
+D3
+~
+~
+Z 0 27550
+S
+#27550
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27551
+D1
+~
+~
+Z 0 27549
+D2
+~
+~
+Z 0 27571
+D3
+~
+~
+Z 0 27543
+S
+#27551
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27545
+D1
+~
+~
+Z 0 27552
+D2
+~
+~
+Z 0 27550
+D3
+~
+~
+Z 0 27558
+S
+#27552
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27543
+D1
+~
+~
+Z 0 27553
+D2
+~
+~
+Z 0 27552
+D3
+~
+~
+Z 0 27551
+S
+#27553
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27554
+D1
+~
+~
+Z 0 27562
+D2
+~
+~
+Z 0 27548
+D3
+~
+~
+Z 0 27552
+S
+#27554
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27557
+D1
+~
+~
+Z 0 27554
+D2
+~
+~
+Z 0 27553
+D3
+~
+~
+Z 0 27555
+S
+#27555
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27534
+D1
+~
+~
+Z 0 27554
+D2
+~
+~
+Z 0 27552
+D3
+~
+~
+Z 0 27556
+S
+#27556
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27474
+D1
+~
+~
+Z 0 27555
+D2
+~
+~
+Z 0 27551
+D3
+~
+~
+Z 0 27564
+S
+#27557
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27557
+D1
+~
+~
+Z 0 27557
+D2
+~
+~
+Z 0 27558
+D3
+~
+~
+Z 0 27533
+S
+#27558
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27557
+D1
+~
+~
+Z 0 27569
+D2
+~
+~
+Z 0 27559
+D3
+~
+~
+Z 0 27565
+S
+#27559
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27558
+D1
+~
+~
+Z 0 27536
+D2
+~
+~
+Z 0 27560
+D3
+~
+~
+Z 0 27564
+S
+#27560
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27559
+D1
+~
+~
+Z 0 27540
+D2
+~
+~
+Z 0 27561
+D3
+~
+~
+Z 0 27560
+S
+#27561
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27560
+D1
+~
+~
+Z 0 27551
+D2
+~
+~
+Z 0 27561
+D3
+~
+~
+Z 0 27562
+S
+#27562
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27563
+D1
+~
+~
+Z 0 27561
+D2
+~
+~
+Z 0 27570
+D3
+~
+~
+Z 0 27546
+S
+#27563
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27564
+D1
+~
+~
+Z 0 27563
+D2
+~
+~
+Z 0 27562
+D3
+~
+~
+Z 0 27563
+S
+#27564
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27565
+D1
+~
+~
+Z 0 27563
+D2
+~
+~
+Z 0 27563
+D3
+~
+~
+Z 0 27539
+S
+#27565
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27474
+D1
+~
+~
+Z 0 27539
+D2
+~
+~
+Z 0 27564
+D3
+~
+~
+Z 0 27566
+S
+#27566
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27566
+D1
+~
+~
+Z 0 27565
+D2
+~
+~
+Z 0 27567
+D3
+~
+~
+Z 0 27554
+S
+#27567
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27566
+D1
+~
+~
+Z 0 27564
+D2
+~
+~
+Z 0 27568
+D3
+~
+~
+Z 0 27553
+S
+#27568
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27567
+D1
+~
+~
+Z 0 27569
+D2
+~
+~
+Z 0 27571
+D3
+~
+~
+Z 0 27545
+S
+#27569
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27569
+D1
+~
+~
+Z 0 27551
+D2
+~
+~
+Z 0 27570
+D3
+~
+~
+Z 0 27568
+S
+#27570
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27569
+D1
+~
+~
+Z 0 27352
+D2
+~
+~
+Z 0 27363
+D3
+~
+~
+Z 0 27571
+S
+#27571
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27568
+D1
+~
+~
+Z 0 27570
+D2
+~
+~
+Z 0 27556
+D3
+~
+~
+Z 0 27572
+S
+#27572
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27557
+D1
+~
+~
+Z 0 27571
+D2
+~
+~
+Z 0 27368
+D3
+~
+~
+Z 0 27573
+S
+#27573
+{gThe Cursed Glade{x~
+You are wandering aimlessly, hopelessly lost in this cursed forest. 
+Giant black oak trees tower over your head, their leafy branches cutting out
+the sunlight.  Hostile noises echo through the woods, grunts and growls,
+hissing and whining.  Glowing yellow eyes peer at you from the darkness,
+they seem to be all around you.  Cursing your folly at ever setting foot in
+these vile woods, you peer into the blackness, searching for a way out.  
+~
+0 ANX forest
+D0
+~
+~
+Z 0 27544
+D1
+~
+~
+Z 0 27572
+D2
+~
+~
+Z 0 27369
+D3
+~
+~
+Z 0 27546
+S
+#27574
+The Endless Moors~
+~
+0 ACNX desert
+D0
+~
+~
+Z 0 27399
+D1
+~
+~
+Z 0 27448
+D2
+~
+~
+Z 0 27574
+D3
+~
+~
+Z 0 27458
+S
+#27575
+{mThe Hallways of Heorot{x~
+@eng The air in the hallway is a little smokey, but not unpleasantly so.  Your
+footfalls echo noisily on the smooth wooden planks overlaying the floor. 
+Sleeping chambers lie on either side of you, closed wooden doors stand at
+the entrance to each.  The faint murmer of voices reaches your ears from the
+main hall ahead.  It sounds like a heated discussion is taking place.  
+~
+0 D inside
+D0
+~
+~
+Z 0 27579
+D1
+~
+~
+Z 0 27576
+D2
+~
+~
+Z 0 27580
+D3
+~
+~
+Z 0 27520
+S
+#27576
+{mThe Hallways of Heorot{x~
+The air in the hallway is a little smokey, but not unpleasantly so.  Your
+footfalls echo noisily on the smooth wooden planks overlaying the floor. 
+Sleeping chambers lie on either side of you, closed wooden doors stand at
+the entrance to each.  The faint murmer of voices reaches your ears from the
+main hall ahead.
+~
+0 D inside
+D0
+~
+~
+Z 0 27582
+D1
+~
+~
+Z 0 27577
+D2
+~
+~
+Z 0 27581
+D3
+~
+~
+Z 0 27575
+S
+#27577
+{mThe Hallways of Heorot{x~
+The air in the hallway is a little smokey, but not unpleasantly so.  Your
+footfalls echo noisily on the smooth wooden planks overlaying the floor. 
+Sleeping chambers lie on either side of you, closed wooden doors stand at
+the entrance to each.  The faint murmer of voices reaches your ears from the
+main hall ahead.
+~
+0 D inside
+D0
+~
+~
+Z 0 27583
+D1
+~
+~
+Z 0 27578
+D2
+~
+~
+Z 0 27584
+D3
+~
+~
+Z 0 27576
+S
+#27578
+{mThe Hallways of Heorot{x~
+The air in the hallway is a little smokey, but not unpleasantly so.  Your
+footfalls echo noisily on the smooth wooden planks overlaying the floor. 
+Sleeping chambers lie on either side of you, closed wooden doors stand at
+the entrance to each.  The faint murmer of voices reaches your ears from the
+main hall ahead.
+~
+0 D inside
+D0
+~
+~
+Z 0 27585
+D1
+~
+~
+Z 0 27360
+D2
+~
+~
+Z 0 27586
+D3
+~
+~
+Z 0 27577
+S
+#27579
+{mThe Royal Bedchambers{x~
+@eng A woman looks up as you enter the room.  Three young children are seated
+in front of her on a fur rug, two boys and a girl.  Glancing about the room,
+you realize that you have entered the bedchambers of Heorot's royalty.  The
+room is richly furnished with tapestries and paintings of fierce battle and
+hunting scenes.  A lush, red carpet covers the floor deadening your
+footfalls.  Everyone is staring at you now, wondering at your intrusion.  
+~
+0 D inside
+D2
+~
+~
+Z 0 27575
+S
+#27580
+{mA Sleeping Chamber{x~
+@eng You have entered a large, square room that looks to have been made for
+sleeping.  Against the back wall a fire burns brightly in the stone
+fireplace.  In the back corner a pile of soft and warm looking furs lay
+tossed carelessly in a heap.  A few more furs lie scattered about the room
+rolled out like blankets.  
+~
+0 D inside
+D0
+~
+~
+Z 0 27575
+S
+#27581
+{mA Sleeping Chamber{x~
+@eng You have entered a large, square room that looks to have been made for
+sleeping.  Against the back wall a fire burns brightly in the stone
+fireplace.  In the back corner a pile of soft and warm looking furs lay
+tossed carelessly in a heap.  A few more furs lie scattered about the room
+rolled out like blankets.  
+~
+0 D inside
+D0
+~
+~
+Z 0 27576
+S
+#27582
+{mA Sleeping Chamber{x~
+@eng You have entered a large, square room that looks to have been made for
+sleeping.  Against the back wall a fire burns brightly in the stone
+fireplace.  In the back corner a pile of soft and warm looking furs lay
+tossed carelessly in a heap.  A few more furs lie scattered about the room
+rolled out like blankets.  
+~
+0 D inside
+D2
+~
+~
+Z 0 27576
+S
+#27583
+{mA Sleeping Chamber{x~
+@eng You have entered a large, square room that looks to have been made for
+sleeping.  Against the back wall a fire burns brightly in the stone
+fireplace.  In the back corner a pile of soft and warm looking furs lay
+tossed carelessly in a heap.  A few more furs lie scattered about the room
+rolled out like blankets.  
+~
+0 D inside
+D2
+~
+~
+Z 0 27577
+S
+#27584
+{mA Sleeping Chamber{x~
+@eng You have entered a large, square room that looks to have been made for
+sleeping.  Against the back wall a fire burns brightly in the stone
+fireplace.  In the back corner a pile of soft and warm looking furs lay
+tossed carelessly in a heap.  A few more furs lie scattered about the room
+rolled out like blankets.  
+~
+0 D inside
+D0
+~
+~
+Z 0 27577
+S
+#27585
+{mA Sleeping Chamber{x~
+@eng You have entered a large, square room that looks to have been made for
+sleeping.  Against the back wall a fire burns brightly in the stone
+fireplace.  In the back corner a pile of soft and warm looking furs lay
+tossed carelessly in a heap.  A few more furs lie scattered about the room
+rolled out like blankets.  
+~
+0 D inside
+D2
+~
+~
+Z 0 27578
+S
+#27586
+{mA Sleeping Chamber{x~
+@eng You have entered a large, square room that looks to have been made for
+sleeping.  Against the back wall a fire burns brightly in the stone
+fireplace.  In the back corner a pile of soft and warm looking furs lay
+tossed carelessly in a heap.  A few more furs lie scattered about the room
+rolled out like blankets.  
+~
+0 D inside
+D0
+~
+~
+Z 0 27578
+S
+#27587
+{BA Dark Cave{x~
+The inky blackness of the cavern is oppressing, and somewhat unnerving. 
+A strange scent hangs heavily in the air, the powerful fumes of ammonia
+mixed with the briny smell of the ocean.  The smell clings to your and gives
+you a rather unpleasant taste in your mouth.  A presentiment of danger
+irritates your frayed nerves, and you get the feeling that you should turn
+back at once and leave quickly.  
+~
+0 ADN inside
+D0
+~
+~
+Z 0 27313
+D2
+~
+~
+Z 0 27312
+S
+#27588
+{bA Subterranean River{x~
+Trapped in this dark and water-filled passageway your lungs are bursting
+for air.  The darkness is complete, the light from your torch diffused by
+the murky water.  The merciless current tosses you around like a leaf
+trapped in the eye of a hurricane.  The gods ignore your silent pleas for
+help and with a start, you realize that you will probably spend the rest of
+your short life trapped in this watery tomb.  
+~
+0 ANc swim
+D1
+~
+~
+Z 0 27319
+S
+#27589
+{bA Subterranean River{x~
+Trapped in this dark and water-filled passageway your lungs are bursting
+for air.  The darkness is complete, the light from your torch diffused by
+the murky water.  The merciless current tosses you around like a leaf
+trapped in the eye of a hurricane.  The gods ignore your silent pleas for
+help and with a start, you realize that you will probably spend the rest of
+your short life trapped in this watery tomb.  
+~
+0 ANc swim
+D0
+~
+~
+Z 0 27321
+D2
+~
+~
+Z 0 27322
+S
+#0
+
+#SPECIALS
+M 27301 spec_breath_gas	* the kraken
+M 27304 spec_breath_fire	* a balor demon
+M 27305 spec_cast_mage	* the demon's spirit
+M 27306 spec_cast_mage	* a nonused mob
+S
+
+#RESETS
+D 0 27328 3 1	* {YA Sandy Beach{x: door to the west: closed
+D 0 27330 1 1	* A Dark Passageway: door to the east: closed
+D 0 27334 3 2	* A Rust Covered Ladder: door to the west: closed and locked
+D 0 27335 1 2	* The Chamber of Holding: door to the east: closed and locked
+D 0 27358 3 1	* {MThe Eastern Entrance{x: door to the west: closed
+D 0 27360 1 1	* {mInside the Eastern Entryway{x: door to the east: closed
+D 0 27382 1 1	* {MThe Western Entrance{x: door to the east: closed
+D 0 27385 0 1	* {mInside the Western Entryway{x: door to the north: closed
+D 0 27385 2 1	* {mInside the Western Entryway{x: door to the south: closed
+D 0 27385 3 1	* {mInside the Western Entryway{x: door to the west: closed
+D 0 27454 5 2	* A Tiny Crawlspace: door to the down: closed and locked
+D 0 27520 0 2	* {mThe Hallways of Heorot{x: door to the north: closed and locked
+D 0 27522 2 2	* {mThe Treasure Room{x: door to the south: closed and locked
+D 0 27522 4 2	* {mThe Treasure Room{x: door to the up: closed and locked
+D 0 27524 2 1	* {mThe Weaponry{x: door to the south: closed
+D 0 27528 0 1	* {mThe Armory{x: door to the north: closed
+O 0 27301 0 27312	* a cavernous hole in the ship's hull ({BA Sunken Ship{x)
+O 0 27311 0 27323	* a cavernous hole ({YInside the Hold{x)
+M 0 27304 1 27335 1	* a balor demon (The Chamber of Holding)
+O 0 27303 0 27335	* {mA glyph of warding{x (The Chamber of Holding)
+M 0 27305 1 27335 1	* the demon's spirit (The Chamber of Holding)
+O 0 27310 0 27340	* a sign (The Cliff's Summit)
+O 0 27304 0 27392	* an {Dironbound{x chest (Between the Rafters)
+P 0 27306 1 27304 1	* an {Dironbound{x chest: a rune-covered spellbook
+P 0 27305 1 27304 1	* an {Dironbound{x chest: a {Rruby{x
+O 0 27308 0 27498	* {YA nexus{x ({YA Shimmering Nexus{x)
+O 0 27313 0 27524	* none ({mThe Weaponry{x)
+O 0 27302 0 27524	* a spear shaft ({mThe Weaponry{x)
+O 0 27307 0 27526	* {yan oaken feasting table{x ({mThe Feasting Table{x)
+O 0 27307 0 27527	* {yan oaken feasting table{x ({mThe Feasting Table{x)
+S
+
+#MOBPROGS
+#27301
+mob oload 27321
+~
+#27304
+~
+#0
+
+#$

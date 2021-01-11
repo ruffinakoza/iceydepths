@@ -1,0 +1,409 @@
+#AREADATA
+Name Chaos Clanhall~
+VNUMs 95500 95599
+Credits Erebus~
+Security 9
+LevelRange 10 91
+Clan Chaos~
+End
+
+#MOBILES
+#95500
+dulagraen, priest~
+Dulagraen, High Priest of Chaos~
+A tall skeletal figure stands before you.
+~
+The flesh has mostly decayed off the bones of this foul creature.  Eyes
+cast to the stone ceiling, he appears to be in the middle of a ritual of
+some kind.  
+~
+death knight~
+ABQVae DFH 1000 0
+90 0 1d1+18999 1d1+999 10d40+30 divine
+-45 -45 -45 -15
+FHI ABC D 0
+stand stand male 1000
+0 0 medium unknown
+#95501
+gulshtukh dwarf guardian duergar~
+Gulshtukh~
+Gulshtukh, Baron of Chaos, guards the entrance to the Realms.
+~
+A stocky grey-skinned dwarf stands here clad in a black, shiny suit of
+full platemail.  The silk cape flapping about his shoulders is covered with
+strange and horrible symbols, the markings a distinction of his rank as a
+dark baron of the Chaos realms.  Tread lightly around this powerful one, for
+he is unpredictable, and may take your life on a whim.  
+~
+duergar~
+ABKVYef DFHVZlmt -1000 0
+92 50 2d500+25000 1d200+1600 10d40+50 slash
+-70 -70 -70 -30
+ACEFGKNU AB 0 NS
+stand stand male 5000
+0 0 medium unknown
+M grall 95500 100~
+C Chaos~
+#95502
+chaos voices insanity~
+the voices of insanity~
+~
+Your eyes catch the faintest suggestion of a shadow, a whisper of nothingness.
+~
+ghost~
+ABVe DFJNOPVl -1000 0
+100 25 20d20+35000 1d1+4999 11d13+55 magic
+-100 -100 -100 -100
+AHN C 0 0
+stand stand none 6000
+K 0 medium unknown
+F for AMV
+F par ABDEF
+M grall 95501 100~
+#0
+
+#OBJECTS
+#95500
+dagger sacrificial~
+{ra sacrificial {Wdagger{x~
+A long, curved sacrificial dagger lies here.~
+iron~
+key CP AO
+0 0 0 0 0
+60 45 0 P
+#95501
+altar~
+the altar~
+A huge white marble sacrificial altar stands here.~
+marble~
+container OY P
+1000 ABCD 95500 15 100
+60 0 20 P
+E
+white marble altar sacrificial~
+Through the cracks running up the side of the altar, emanates a powerful glow.
+~
+#95502
+skull black~
+{Wa black skull{x~
+{WA ebony colored skull lies here, glowing softly.{x~
+bone~
+treasure AOa AO
+0 0 0 0 0
+60 45 100000 P
+E
+skull black~
+The pale ebony colored surface glows with an unnatural light.
+~
+#95503
+chaos blade~
+a chaos blade~
+A shiny gold dagger is on the ground.~
+gold~
+weapon AIPTW AN
+dagger 6 6 pierce D
+20 200 0 P
+#95504
+aura madness chaos symbol~
+{man aura of {Mm{Ra{Bd{Mn{Re{Bs{Ms{x~
+{mYour head reels and your sanity drains from you as you approach the symbol lying here.{x~
+energy~
+armor ABCGJMORTYZa AS
+25 25 25 25 0
+15 0 358978 P
+A
+13 15
+A
+12 35
+A
+10 3
+A
+26 2
+A
+19 6
+A
+18 4
+A
+24 -4
+A
+21 -4
+A
+5 4
+A
+4 2
+A
+3 3
+#95505
+portal chaos clanhall~
+{Ma portal to the CHAOS clanhall{x~
+A portal leading to the CHAOS clanhall lies here.~
+energy~
+portal ABCOa AP
+0 D AC 95500 0
+20 0 0 P
+#95506
+winds chance tunnel~
+the winds of chance~
+~
+unknown~
+portal O 0
+0 0 E 0 0
+100 0 0 P
+E
+winds chance void nothingness~
+The wind howls as it gusts into the tunnel to disseminate over the lands.
+~
+#95507
+eye world glass~
+the eye of the world~
+~
+unknown~
+portal AGO 0
+0 D AB 3014 0
+100 0 0 P
+E
+eye world glass~
+Peering into the eye, you are amazed that you can see the city of
+Midgaard and many of the surrounding lands.  The eye appears to be focused
+on a busy square in the middle of Midgaard now.  
+~
+#0
+
+#ROOMS
+#95500
+The Entrance to a Cavern~
+The water-filled tunnel ends abruptly and widens into a large cave to the
+east.  The rocky floor of the cavern is damp and slick with moss, and
+footing treacherous.  A shadow rises up from the floor and approaches you at
+a rapid pace.  Chuckling, you dismiss it as your imagination.
+
+  MWUAHAHAHA!!
+ 
+A pair of glowing red eyes appear out of the darkness.  This is no imagination!
+~
+0 ADX inside
+D1
+~
+~
+DZ 0 95501
+D3
+~
+~
+Z 0 9729
+S
+#95501
+At the Back of the Cavern~
+You are standing at the back of a large, unlit cavern.  Walking to the
+edge to peer down, your foot kicks a small rock and sends it spinning into
+space.  You hear it bounce off the walls of the chasm several times, and it
+falls for what seems like an eternity before it clatters noisily onto the
+floor below.  
+~
+0 ADX inside
+D3
+~
+~
+DZ 0 95500
+D5
+~
+~
+Z 0 95509
+S
+#95502
+The Grand Entrance~
+You are standing in a beautifully furnished room.  The green marble floor
+contrasts vividly with the rich purple silk curtains that hang closed over
+several windows along either wall.  Interesting...  Windows underground... 
+Walking over to one, you draw the curtains aside and stare in bewilderment. 
+The wall is blank.  There are no windows, nothing, but a blank wall!?! 
+ Strange indeed.
+~
+0 DX inside
+D3
+~
+~
+Z 0 95503
+S
+#95503
+The Ballroom~
+You have entered what looks to be a ball room.  A chandelier made of
+curious pink crystal juts out of the floor near the center of the room. 
+Walking closer to inspect it, you realize that you are walking on what seems
+to be the ceiling of the room.  You look up to where the ceiling should be
+and see large green marble tiles.  Madness, the mind of madness must have
+created this place, you mutter to yourself.  
+~
+0 DX inside
+D0
+~
+~
+Z 0 95505
+D1
+~
+~
+Z 0 95502
+D2
+~
+~
+Z 0 95506
+D3
+~
+~
+Z 0 95507
+S
+#95504
+The Altar of Chaos~
+You have entered the unholy altar room of the Chaos Realms.  The floor,
+walls and ceiling are constructed of polished jet-black marble.  In the
+center of the room, on a raised dias, stands a huge altar of the purest
+white marble.  
+~
+0 ADX inside
+D1
+~
+~
+Z 0 95508
+M 135 H 135
+S
+#95505
+The Eye of the World~
+You have entered a brightly lit room.  The very walls are glowing and
+pulsing with a magical flux of energy.  Sitting in the middle of the room
+you see a huge glass eye, the surface is wet, and it blinks when you touch
+it.  
+~
+0 CDX inside
+D2
+~
+~
+Z 0 95503
+S
+#95506
+A Narrow Tunnel~
+You have entered the dark, narrow tunnel connected to the ballroom.  Both
+the walls and floor are made of white polished marble.  You think you can
+hear the sound of chanting coming from the west.  
+~
+0 ADX inside
+D0
+~
+~
+Z 0 95503
+D3
+~
+~
+Z 0 95508
+S
+#95507
+The Winds of Chance~
+The light coming from the ballroom to the east fades slowly away as you
+enter this small room.  The room is perfectly cylindrical in shape, and you
+notice a number of paintings placed haphazardly on the walls, ceiling and
+floor.  The back wall has been blasted away by a powerful force, beyond it
+looms a black void of nothingness.  
+~
+0 ADX inside
+D1
+~
+~
+Z 0 95503
+S
+#95508
+A Narrow Tunnel~
+The tunnel widens slightly as you travel west, and the marble floor is
+now gray with faint white streaks, slowly darkening towards the west.  You
+hear the sounds of chanting, intermingled with moans coming from the west. 
+
+~
+0 ADX inside
+D1
+~
+~
+Z 0 95506
+D3
+~
+~
+Z 0 95504
+S
+#95509
+Floating in the Chasm~
+Grateful for your ability to fly, you are able to ascend safely down the
+rocky chasm.  A cold breeze gusts upwards from below, blowing dirty and
+spiderwebs off the rocky walls into your face and mouth.  You claw at the
+grit in your eyes, and succeed in banging your head against a rocky outcrop.
+You absentmindedly wonder what kind of mind it takes to create a sanctuary
+of refuge in such a ridiculous place as this.  
+~
+0 ADX air
+D4
+~
+~
+Z 0 95501
+D5
+~
+~
+Z 0 95502
+S
+#0
+
+#SPECIALS
+M 95500 spec_cast_undead	* Dulagraen, High Priest of Chaos
+M 95501 spec_cast_seneschal	* Gulshtukh
+M 95502 spec_cast_mage	* the voices of insanity
+S
+
+#RESETS
+M 0 95501 1 95500 1	* Gulshtukh (The Entrance to a Cavern)
+E 0 95500 0 17		*	{ra sacrificial {Wdagger{x: held in the hands
+M 0 95502 1 95501 1	* the voices of insanity (At the Back of the Cavern)
+O 0 95501 0 95504	* the altar (The Altar of Chaos)
+P 0 95502 1 95501 1	* the altar: {Wa black skull{x
+M 0 95502 1 95504 1	* the voices of insanity (The Altar of Chaos)
+M 0 95500 1 95504 1	* Dulagraen, High Priest of Chaos (The Altar of Chaos)
+O 0 95507 0 95505	* the eye of the world (The Eye of the World)
+O 0 95506 0 95507	* the winds of chance (The Winds of Chance)
+S
+
+#MOBPROGS
+#95500
+if clan $n Chaos      
+'Welcome to the Realms of Chaos, may you find your stay...unpredictable.
+wink
+end
+endif
+if isimmort $n 
+bow $n
+end
+endif
+if level $n < 10
+mob transfer $n 9786 
+end
+endif
+if ischarm $n 
+say Charmies are not allowed in this place!
+mob transfer $n 9786 
+end
+endif
+if isghost $n
+say Ghosts are not allowed in this place!
+mob slay $n
+end
+clan Brothers, join me in battle, for we are {RATTACKED{x by $n !!
+clan We are attacked by $n, rally forth {BNOW{x !!
+mob attack $n
+~
+#95501
+if affected $n 'fly'
+end
+endif
+if clan $n Chaos
+cast nowait fly $n
+endif
+~
+#0
+
+#PRACTICERS
+M 95501 clan~	* Gulshtukh
+S
+
+#$

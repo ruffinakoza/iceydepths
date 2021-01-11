@@ -1,0 +1,588 @@
+#AREADATA
+Name Erebus' Cavern of Wonders~
+VNUMs 15000 15199
+Credits Erebus~
+Security 9
+LevelRange 92 100
+End
+
+#MOBILES
+#15000
+avatar avatara~
+Avatar of abrazak~
+Avatar of abrazak is here.
+~
+You see a huge man. He looks very strong and wise. You'd better never mess with him.
+~
+dragon~
+ABGOVXac H 0 0
+1000 0 5d5000+5000 1d1+666 5d3000+1 none
+6 6 66 66
+0 ABDFGIJLMOPQRTXYZ 0 0
+stand stand male 2147483647
+CIK 0 huge unknown
+M random 15000 2~
+M random 15000 1~
+M bribe 15000 1~
+M speech 15001 shadow~
+M speech 15002 demon~
+#15001
+prisoner karabas~
+@eng the prisoner@rus узник~
+@eng Another prisoner is here.
+@rus Другой узник сидит с тобой и не дает тебе скучать...
+~
+@rus Он большой и толстый. лучше не ссорься с ним.
+~
+human~
+A HV 0 0
+200 0 10d10+25000 0d0+0 10d10+1000 none
+-66 -66 -66 -66
+0 AB 0 0
+stand stand male 0
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+M act 15004 is dead!!~
+M delay 15003 100~
+M random 15005 5~
+M bribe 15005 1~
+M fight 1 100~
+#15002
+cockroach~
+@eng cockroach@rus таракан~
+@eng A little cockroach is crawling here.
+@rus Маленький таракан ползает тут.
+~
+@rus Вполне обычный рыжий таракан.
+~
+song bird~
+AZ 0 1000 0
+1 0 1d1+1 0d0+0 1d1+1 bite
+0 0 0 0
+0 B 0 0
+stand stand either 0
+0 0 small unknown
+F aff T
+#15003
+rat~
+@eng a rat@rus крыса~
+@eng An evil rat is here.
+@rus Злобная крыса тут, она хочет покусать тебя.
+~
+@rus Маленькая злобная крыса с острыми зубами.
+~
+human~
+A Z 0 0
+0 0 1d1+1 0d0+0 1d1+1 bite
+0 0 0 0
+FH B 0 S
+stand stand either 0
+G 0 small unknown
+#15010
+devil~
+@eng {DDevil{x@rus {DЧерт{x~
+@eng {DDevil{x
+@rus {DЧерт{x
+~
+~
+pig~
+AGRTe CDEFGHVZac -1000 0
+150 1000 1d1+10000 1d1+10000 1d1+100 shbite
+-100 -100 -100 -100
+0 ABCEFGHIJKLMNOPQRTXYZ 0 0
+stand stand male 0
+0 0 small unknown
+#0
+
+#OBJECTS
+#15000
+pill strange~
+strange pill~
+Someone has left a strange pill here.~
+unknown~
+pill ABG AQ
+66 'detect invis' 'detect hidden' 'acute vision' 'improved detect'
+1 1 12305 P
+#15001
+food~
+Food~
+food~
+unknown~
+pill AG A
+300 'create food' 'create food' 'create food' 'create food'
+0 0 100 P
+#15002
+blood fountain~
+a fountain~
+@eng Fountain is here.@rus Фонтан тут.~
+blood~
+fountain ABCEFI 0
+0 0 'blood' 0 0
+0 0 0 P
+#15003
+stats~
+stats~
+stats~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+A
+2 100
+A
+4 100
+A
+5 100
+A
+6 100
+A
+3 100
+A
+1 100
+#15004
+beer barrel~
+@eng a BIG barrel of beer for Mabutu@rus БОЛЬШОЙ бочонок пива для старого негра~
+@eng Mabutu has left here his BIG barrel of beer.@rus Старый негр оставил здесь БОЛЬШОЙ бочонок (barrel) с пивом.~
+unknown~
+drink AGHIOTYZa AOP
+-1 100 'beer' 0 0
+0 0 0 P
+#15005
+fountain~
+@eng a fountain with milk@rus фонтан с молоком~
+@eng Fountain with milk is here.@rus Тут зачем-то еще и фонтан с молоком.~
+unknown~
+fountain O 0
+0 0 'milk' 0 0
+0 0 0 P
+#15006
+bed~
+@eng bed@rus нары~
+@eng A bed is here.@rus Нары здесь.~
+unknown~
+furniture ABCEGIOY 0
+ABE ABCDEFGHIJKLMNOPQRSTUVWXYZabcde BEK DFGHIJ DFGHIJ
+0 0 0 P
+#15007
+bottle vodka absolute~
+@eng a bottle of crystal clear vodka@rus литровый пузырь кристалльно чистой водки~
+@eng A bottle of crystal clear vodka has been left here.@rus Темный властелин оставил здесь пузырь водки.~
+glass~
+drink ABCEHJLMORYZ AO
+-1 1000 'vodka' 0 0
+99 1 2500 P
+#15008
+pill anti invader~
+Anti-invader's pill~
+Someone has left an anti-invader's pill here.~
+energy~
+pill ABOT A
+45 'detect fade' 'protection evil' 'bless' 'sanctuary'
+0 1 10000 P
+#15009
+abrazak mace~
+Abrazak's mace~
+abrazak's mace~
+divinity~
+weapon 0 AN
+mace 2000 2000 stab BCDEGHI
+100 0 0 P
+F
+A 18 10000 HIV
+F
+I 19 10000 CD
+#15010
+scythe~
+@eng {DScythe{x@rus {DКоса{x~
+{DScythe{x~
+unknown~
+weapon RYa ANP
+exotic 10000 10000 none ABCDEGHI
+99 0 0 P
+#15011
+horn~
+@eng {DHorns{x@rus {DРога{x~
+{DHorns{x~
+unknown~
+armor 0 AEP
+-1000 -1000 -1000 -1000 0
+99 0 0 P
+#15012
+rose~
+@eng {DBlack Rose{x@rus {DЧерная роза{x~
+{DBlack Rose{x~
+unknown~
+trash 0 AOP
+0 0 0 0 0
+99 0 0 P
+#15013
+hoof~
+@eng {DHooves{x@rus {DКопыта{x~
+{DHoofs{x~
+unknown~
+armor 0 AGP
+0 0 0 0 0
+0 0 0 P
+#15014
+mark beast~
+The Mark of the Beast~
+Mark of the Beast is here.~
+darkness~
+treasure ABCEG AS
+0 0 0 0 0
+100 0 0 P
+#15020
+box~
+{Dящик ворсинского пива{x~
+{DЯщик темного Ворсинского пива дожидается своего хозяина здесь.{x~
+дерево~
+container GRYa AOP
+20 0 0 100 0
+1 0 0 P
+#15021
+bottle~
+{Dбутылка холодного Ворсинского пива{x~
+{DБутылка холодного Ворсинского пива лежит здесь.{x~
+стекло~
+drink CGRYa AOP
+20 20 'beer' 0 0
+1 0 0 P
+#15026
+no name~
+~
+~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#15027
+elephant~
+@eng HUGE elephant@rus ОГРОМНЫЙ СЛОНЯРА~
+@eng HUGE elephant wanders around.@rus ОГРОМНЫЙ СЛОНЯРА бродит тут в поисках хозяина.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 0 P
+#15028
+bell~
+@eng {Wlittle magic bell{x@rus {Wмаленький глиняный колокольчик{x~
+@eng A small little magic bell lies here.@rus Самая прекрасная ведьмочка оставила здесь свой колокольчик.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 0 P
+#15029
+bear~
+@eng teddy bear@rus плюшевый медвежонок~
+@eng Teddy bear lies here, forgotten.@rus Уронили мишку на пол, оторвали мишке лапу...~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 0 P
+#15030
+tron~
+{Gмаленькая удобная кроватка{x~
+{GМаленькая удобная кроватка для ведьмочки Faire стоит тут.{x~
+unknown~
+furniture RYa AP
+AC EIJKN HK CFG CFG
+0 0 0 P
+#15035
+bottle champagne~
+@eng {ga bottle of champagne{x@rus {gбутылка шампанского{x~
+@eng Bottle of champagne is here.@rus Бутылка шампанского оставлена кем-то здесь.~
+стекло~
+drink GRYa AOP
+-1 2147483647 'champagne' 0 0
+0 0 0 P
+#15036
+chocolate sweet~
+@eng {ychocolate sweet{x@rus {yшоколадная конфета{x~
+@eng Chocolate sweet is here.@rus Шоколадная конфета валяется тут.~
+шоколад~
+pill GRYa AOP
+30 'haste' 'frenzy' 'enhanced armor' 'sanctuary'
+0 0 0 P
+#15037
+box~
+@eng {ra box of chocolate sweets{x@rus {rкоробка шоколадных конфет{x~
+@eng Box of chocolate sweets is here.@rus Коробка шоколадных кофет лежит тут.~
+картон~
+container GRYa AOP
+100 0 0 0 0
+0 0 0 P
+#15040
+chair~
+ancient chair~
+The ancient chair is here.~
+unknown~
+furniture FGRTYa AP
+A FHJKPQ H BCEH BCEH
+0 0 0 P
+#15041
+chair~
+ancient chair~
+The ancient chair is here.~
+unknown~
+furniture FGRTYa AP
+A HJKMPTUX H CEFGHI CEFGHI
+0 0 0 P
+#15042
+gabagaba ring~
+gabagaba ring~
+Gabagaba ring is here.~
+unknown~
+armor GIRTYa ABP
+-20 -20 -20 -20 0
+0 0 0 P
+A
+6 3
+A
+5 3
+A
+3 3
+A
+4 3
+A
+2 3
+A
+1 3
+#15043
+splinter~
+splinter "p"~
+splinter "n" is here.~
+unknown~
+trash GTYa AP
+0 0 0 0 0
+0 0 0 P
+#15044
+splinter~
+splinter "i"~
+splinter "i" is here.~
+unknown~
+trash GTYa AP
+0 0 0 0 0
+0 0 0 P
+#15045
+splinter~
+splinter "r"~
+splinter "l" is here.~
+unknown~
+trash GTYa AP
+0 0 0 0 0
+0 0 0 P
+#15046
+splinter~
+splinter "a"~
+splinter "b" is here.~
+unknown~
+trash GTYa AP
+0 0 0 0 0
+0 0 0 P
+#15047
+splinter~
+splinter "t"~
+splinter "o" is here.~
+unknown~
+trash GTYa AP
+0 0 0 0 0
+0 0 0 P
+#15048
+splinter~
+splinter "e"~
+splinter "g" is here.~
+unknown~
+trash GTYa AP
+0 0 0 0 0
+0 0 0 P
+#15050
+eye~
+eye~
+eye~
+unknown~
+staff EFHMPRTYa AOP
+0 0 0 'reserved' 0
+10 10 0 P
+#15100
+cheburator~
+@eng a dwarven golden ring~
+~
+unknown~
+armor HOTY B
+99 99 99 99 0
+7 1 900000 P
+A
+18 500
+A
+18 500
+A
+19 100
+A
+19 100
+A
+19 100
+A
+19 100
+A
+19 100
+A
+19 100
+A
+19 100
+A
+19 100
+A
+20 -50
+A
+19 100
+#15112
+aenis~
+{W'{CAenis + Leo{W' ring{w~
+{Wmagnificent work ring is here{w~
+{WCrystal{w~
+jewelry AGITYZa ABP
+0 0 0 0 0
+1 0 2147483647 P
+A
+17 -5
+A
+20 -5
+#15113
+bucket rose~
+@eng Bucket full of roses@rus Ведерко для роз~
+@eng A bucket full of roses stands here.@rus Кто-то оставил тут ведерко с розами.~
+brass~
+container Yb AE
+1000 0 0 1000 10
+0 0 0 P
+#0
+
+#ROOMS
+#15000
+@eng Abrazak's Office@rus Офис абразака.~
+@eng You are in Abrazak's office..  Hmmm...  It's very strange place.  
+@rus Ты попал в офис абразака..... Достаточно странное место... 
+~
+0 C forest
+S
+#15001
+~
+~
+0 C inside
+S
+#15002
+@eng Cell@rus Камера~
+@eng You are in jail.
+@rus Ты попал в теплую и хорошо освещенную камеру. Здесь чисто, а из пола 
+даже бьет небольшой фонтан с вкусным молоком. Тем не менее, здесь до одури 
+скучно.
+~
+0 CDNSTX inside
+S
+#15010
+@eng {DThe room of Death{x@rus {DКомната Смерти{x~
+~
+0 CJNX inside
+S
+#15100
+~
+~
+0 C inside
+S
+#0
+
+#RESETS
+M 0 15000 1 15000 1	* Avatar of abrazak (Abrazak's Office)
+M 0 15000 1 15000 1	* Avatar of abrazak (Abrazak's Office)
+O 0 15002 0 15000	* a fountain (Abrazak's Office)
+O 0 15005 0 15002	* a fountain with milk (Cell)
+M 0 15001 1 15002 1	* the prisoner (Cell)
+M 0 15002 1 15002 1	* cockroach (Cell)
+M 0 15003 1 15002 1	* a rat (Cell)
+O 0 15006 0 15002	* bed (Cell)
+M 0 15010 1 15010 1	* {DDevil{x ({DThe room of Death{x)
+S
+
+#OLIMITS
+O 15004 1	* a BIG barrel of beer for Mabutu
+O 15009 0	* Abrazak's mace
+O 15014 0	* The Mark of the Beast
+O 15042 1	* gabagaba ring
+O 15100 1	* a dwarven golden ring
+S
+
+#MOBPROGS
+#15000
+if mobexists junkseller
+else
+mob mload 50
+endif
+mob vforce 50 mob oload 15000
+mob vforce 50 say I'm very sorry but I must go to other places.....
+mob vforce 50 wave
+mob vforce 50 mob goto 15000
+mob vforce 50 cast 'teleport'
+mob vforce 50 yell Hey! I have some funny junk for you !
+if rand 25
+mob vforce 50 mob oload 15008
+mob vforce 50 drop invader
+endif
+~
+#15001
+cast 'shadowlife' $n
+~
+#15002
+cast 'demon summon'
+~
+#15003
+say ЩАс щас...
+mob transfer $q 15002
+say Ну вот. так просто ты от меня не избавишься.
+~
+#15004
+if ispc $n
+say Умер :(
+mob remember $n
+mob delay 1
+endif
+~
+#15005
+if rand 50
+babble
+end
+endif
+if rand 50 
+say $r, have you ever been here?
+end
+endif
+if rand 50 
+yawn
+end
+endif
+if rand 50
+smile cockroach
+endif
+if rand 50 
+burp
+end
+endif
+if rand 50
+cough
+end
+endif
+if rand 50 
+flex $r
+end
+endif
+~
+#15100
+~
+#0
+
+#HELPS
+1 HUNTER HUNTERS~
+~
+-1 $~
+
+#$

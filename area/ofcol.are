@@ -1,0 +1,181 @@
+#AREADATA
+Name Ofcol~
+VNUMs 5500 5599
+Credits Alfa~
+Security 9
+LevelRange 1 100
+End
+
+#ROOMS
+#5550
+Village street~
+You stand at the small village street in Ofcol.
+From here you see small houses and only few people.
+North of here the village street continues up to the small
+square where some people are gathered as always.
+~
+0 0 city
+D0
+You look up the village street noticing nothing special at all.
+~
+~
+Z -1 5551
+D2
+The wide road leads south here towards the T-crossing.
+~
+~
+Z -1 314
+S
+#5551
+Village street~
+You are standing on the village street of Ofcol.
+East from here is a small alley and north you enter the village
+square. Towards the south you can leave Ofcol.
+~
+0 0 city
+D0
+The village square is as usual not overcrowded.
+~
+~
+Z -1 5552
+D1
+The small alley looks relative peaceful.
+~
+~
+Z -1 5553
+D2
+You see the village street eventually becoming the wide road.
+~
+~
+Z -1 5550
+S
+#5552
+Village square~
+The village square is a place where inhabitants of Ofcol gather
+to talk, trade and sell items and just have a good time.
+You see a small shop to the west and the local inn to the north.
+If you leave south you go to village street.
+~
+0 0 city
+D0
+You see a local inn called 'The Ofcol Local Inn'. Looks nice.
+~
+~
+Z -1 5556
+D2
+You see the village street of Ofcol.
+~
+~
+Z -1 5551
+D3
+A small shop with the sign 'Luxan's Mixed goods' hanging in front of it.
+~
+~
+Z -1 5555
+S
+#5553
+The small alley~
+You are in a small, quiet alley.  From here you see the village street
+to the west and a small room lies to the south.
+~
+0 0 city
+D1
+You see a big intersection.
+~
+~
+Z 0 601
+D2
+It looks like the future site of a training room.
+~
+~
+Z -1 5554
+D3
+You notice nothing but the village street.
+~
+~
+Z -1 5551
+S
+#5554
+The future training room~
+This is the future site of a training room.  The only exit is north
+leading to the small alley.
+~
+0 D city
+D0
+You are able to see the small alley, really not very interesting.
+~
+~
+Z -1 5553
+S
+#5555
+Luxan's mixed shop~
+You are standing in a small shop, filled with all kinds of goods.
+Here you might be able to find just the thing you're looking for.
+The only exit is east to village square.
+~
+0 D city
+D1
+The village square is as usual not overcrowded.
+~
+~
+Z -1 5552
+S
+#5556
+The Local Inn~
+You are in the local inn, where the peaceful citizens of Ofcol
+gather to have a drink or 5 if they have dry throats.
+You can't help thinking that Ofcol is a dry city, when you see the
+many people here.
+The only exit is south to the village square.
+~
+0 D city
+D2
+The village square is as usual not overcrowded.
+~
+~
+Z -1 5552
+S
+#5577
+Ravan's hideout~
+This place is a small, cosy place where no one disturbs you all
+the time. The room has little decoration except for some pictures
+on the wall.
+You notice that there are no exits from this room.
+~
+0 C inside
+E
+friend friends~
+The list include such prominent names as : God, Lottie, Kurgan,
+Ezzard, Mike, Sprocket and Stormbringer.
+~
+E
+foe foes enemies~
+There is only one picture yet... Dim.
+It pictures him hanging from a gallow, north of the town.
+It has the letters R.I.P. inscripted underneath.
+~
+E
+pictures picture decoration~
+These pictures show the friend's and foe's of Ravan.
+They are easy to separate, as most of the foe's have the letters
+R.I.P. inscripted underneath them.
+~
+S
+#0
+
+#RESETS
+M 0 303 5 5550 3	* the citizen (Village street)
+M 0 304 5 5552 3	* the citizen (Village square)
+E 0 3020 0 16		*	a dagger: wielded
+M 0 304 5 5553 3	* the citizen (The small alley)
+M 0 306 1 5555 1	* Luxan (Luxan's mixed shop)
+G 0 304 0		*	wild flowers
+G 0 3030 0		*	a torch
+M 0 303 5 5556 3	* the citizen (The Local Inn)
+M 0 308 1 5556 1	* the Innkeeper (The Local Inn)
+G 0 3000 0		*	a barrel of beer
+G 0 3001 0		*	a bottle of beer
+M 0 350 1 5577 1	* the pet dragon (Ravan's hideout)
+S
+
+#$

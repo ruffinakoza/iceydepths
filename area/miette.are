@@ -1,0 +1,362 @@
+#AREADATA
+Name Miette's Area~
+Builders miette~
+VNUMs 500 599
+Credits Miette~
+Security 1
+LevelRange 0 0
+Flags under_construction noquest~
+End
+
+#MOBILES
+#500
+puppy~
+a small, fluffy white puppy~
+A small, fluffy, white puppy wanders around the room.
+~
+This maltese terrier is faithful to Miette.  
+~
+dog~
+AGI NWl 1000 0
+90 1500 200d150+10 150d100+5 140d100+25 none
+-40 -40 -40 -20
+M 0 AEGLR B
+stand stand male 100
+0 Q small unknown
+F par UV
+#501
+dwarf scavenger~
+a small dirty dwarf~
+A small, dirty dwarf rummages through a pile of rubble.
+~
+Looking at this dwarf you start to feel disgusted.  His face is black
+with soot and he reeks of grain alcohol.  As he digs through the rubble, you
+can hear him grunting and muttering to himself.  Noticing your presence, he
+clutches his chunk of rubble tightly in his grip, poised to fight.  
+~
+dwarf~
+ACS P 1000 0
+5 10 20d10+3 10d3+1 5d3+2 crush
+0 1 1 1
+CK 0 0 0
+stand stand male 13
+0 0 small unknown
+#504
+guard~
+a hulking, terse-looking guardian~
+A hulking, terse-looking guardian stands in the corner, watching your every move.
+~
+As you look at him, he begins to stare you down, sending chills down
+your spine.  His shaved head glistens slightly in the light.  Make sure you
+don't piss him off, eh?  
+~
+human~
+AB Va 0 0
+90 65 100d90+10 55d45+20 100d95+11 punch
+40 40 40 20
+CI BD BE L
+stand stand male 100
+0 0 gargantuan unknown
+#0
+
+#OBJECTS
+#500
+a black silk gown~
+a black silk gown~
+A pile of black silk lies here in a rumpled heap.~
+silk~
+clothing GT AD
+0 0 0 0 0
+92 5 10000 P
+#501
+gloves~
+a pair of white arm-length silk gloves~
+A small pile of white satin sits here.~
+silk~
+clothing Ga AH
+0 0 0 0 0
+92 1 50000 P
+#502
+diamond necklace~
+a diamond necklace~
+A Tiffany's diamond necklace glitters in the light.~
+diamond~
+jewelry AGa AC
+0 0 0 0 0
+92 1 40000 P
+#503
+Miette's couch~
+a silken couch~
+A deep, blue silken couch sits here, waiting for you to rest on it.~
+silk~
+furniture RYb P
+AC DHIJM EHK B B
+0 100000 10000 P
+#504
+slippers~
+a pair of black satin ballet slippers~
+A pair of black satin ballet slippers sit here.~
+satin~
+clothing IVa AG
+0 0 0 0 0
+0 2 10000 P
+#505
+ring~
+a diamond solitaire ring~
+A diamond solitaire ring glimmers brightly.~
+diamond~
+jewelry ABG AB
+0 0 0 0 0
+92 1 19900 P
+#506
+cloak~
+a hooded black satin cloak~
+A hooded black satin cloak sits here, absorbing all light.~
+satin~
+armor C AK
+-1000 -1000 -1000 -1000 0
+0 0 0 P
+#507
+chest~
+a small teakwood chest~
+A small teakwood chest containing Miette's belongings sits here.~
+teak~
+container GOY 0
+10000 ABCD 0 100000 19999
+0 100 0 P
+#512
+chair~
+a sturdy oak chair~
+A sturdy oak chair sits around the table.~
+wood~
+furniture M P
+A DFGHIJ E BCDE BCDE
+0 1000 0 P
+#513
+table~
+a large, intricately carved oak table~
+A large, intricately carved oak table rests here.~
+wood~
+furniture R H
+0 0 D 0 0
+0 2999 0 P
+#514
+punch bowl~
+a crystal punch bowl~
+A beautifully cut crystal punch bowl invites you to drink from it.~
+crystal~
+drink 0 0
+100000 100000 'icewine' 0 0
+0 0 0 P
+#515
+coffee table~
+a cherry wood coffee table~
+A cherry wood coffee table glows with a faint, red light.~
+cherry wood~
+furniture 0 P
+0 0 N 0 0
+0 0 0 P
+#516
+platter~
+a large crystal platter~
+A large, crystal platter sits atop the table.~
+crystal~
+container 0 0
+100 E 0 50000 40000
+0 0 0 P
+#517
+cookies~
+one of Miette's freshly baked cookies~
+Miette's freshly baked sugar cookies steam slightly on a platter.~
+unknown~
+food N A
+AC AB 0 0 0
+0 1 0 P
+#518
+glass~
+a delicate glass~
+A delicate elvish glass rests here.~
+crystal~
+drink N AO
+500 0 'icewine' 0 0
+0 2 0 P
+#519
+bowl~
+a small delicately made elven punch bowl~
+A small delicately made elven punch bowl glistens in the light.~
+unknown~
+drink N A
+6000 5999 'orange juice' 0 0
+0 0 0 P
+#0
+
+#ROOMS
+#500
+A Wooded Pathway~
+Darkness shrouds this path, seeming almost inpenetrable by light.  The
+path seems to have been worn into the ground by many a footstep, leaving a
+thin ribbon of dirt for you to follow.  Gnarled, ancient-looking trees line
+either side of the pathway.  A cacophony of sounds can be heard in the
+distance, and you wonder if it's your imagination, or if something is at the
+end of this path.  
+~
+0 ACDW forest
+D0
+~
+~
+Z 0 501
+S
+#501
+A Wooded Pathway~
+Continuing along the path, the darkness grows darker still.  The once
+smooth path is now filled with rocks and pits, that make walking almost
+torturous.  A chill breeze sweeps through the forest, bringing with it the
+sickly, sweet odor of decay.  
+~
+0 ADNW forest
+D0
+~
+~
+Z 0 502
+D2
+~
+~
+Z 0 500
+S
+#502
+A Wooded Pathway~
+Trees still line this pathway.  With the dancing of your light in the
+breeze, the trees look almost like bent, misshapen old men.  You try to
+hurry along your way, but the jagged road beneath you cuts through the soles
+of your boots, nearly piercing the flesh on your feet.  The scent of decay
+still violates your senses, making you almost sick to your stomach.  
+~
+0 CDNW inside
+D0
+~
+~
+Z 0 504
+D2
+~
+~
+Z 0 501
+S
+#503
+Miette's Den O' Evil~
+Entering this room, you become awash in a feeling of calm.  The walls of
+the room are made of a white crystalline substance that gives off a faint
+glow.  There are tables in each corner of the room, with large vases full of
+freshly cut lavender-coloured roses, that fill the air with sweetness.  You
+see a small desk covered with papers and books off to the right, the room's
+only sign of chaos.  In the center of the room, you see a large couch,
+upholstered in a deep blue silken material.  
+~
+0 CDHK inside
+S
+#504
+A Wooded Pathway~
+The chill breeze has grown into a gale-force wind, causing the trees to
+thrash against each other wildly.  The path seems to have widened, but the
+unforgiving pits and stones still remain, making your journey a difficult
+one.  The path continues to both the north and the south.  
+~
+0 DNW inside
+D2
+~
+~
+Z 0 502
+S
+#505
+A Wooded Pathway~
+~
+0 DNWX inside
+D0
+~
+~
+Z 0 505
+D2
+~
+~
+Z 0 505
+S
+#506
+A Forest's Charred Remains~
+The charred remains of trees lay in chaotic piles alongside the path. 
+You wonder if it could have been a careless fire that rendered this area so
+desolate, but then you realize that the trees to the south have been spared
+this fate.  The odor of burned wood hangs heavily in the air, making it
+somewhat difficult to breathe.  Looking around, you notice that there are no
+signs of regrowth amongst the destruction.  To the north, you see faint
+shapes.  Southward, you see the path leading through the forest.  
+~
+0 CWX inside
+S
+#507
+A Land Laid to Waste~
+A slight breeze kicks up some ashes, which swirl around at your feet. 
+Partially burned trees stand at attention all around you.  Piles of wood are
+still smoldering slightly, casting a gauzy veil of haze in your line of
+vision.  Inhaling, you detect something other than smoke assailing your
+nostrils.  Looking at the charred remains of the forest, you see a vaguely
+humanoid lump.  To your horror, you realize that it is a blackened corpse. 
+As you look northward in disgust, you see something faintly structural.  
+~
+0 CTW inside
+S
+#508
+Desolation's Gate~
+Before you stands the remnants of a once mighty and viturally
+impenetrable stone wall.  At one time, the wall stood 27 feet high, the
+product of several years of hard labour by dwarven slaves.  Now the only
+things that remain of it are several piles of blackened rubble and the
+twisted and disfigured iron gates that once stood so majestically, letting
+visitors and dignitaries gain entrance.  Here, the sky remains a steely grey
+colour, never changing no matter what time of day it is.  The smokey haze
+from the fires slinks steathily around you, causing your eyes to sting and
+water slightly.  Here you can try your hand at coaxing the iron gates open,
+so you can investigate the looming towers within the walls or you can turn
+back to the path that heads southward.  
+~
+0 CH forest
+S
+#509
+A Courtyard~
+Mounds of charred stone lie haphazardly around your feet, somewhat
+obscuring the earth beneath you.  Tufts of blackened grass peek out between
+the ruins, crumbling easily as you tread on it.  As you walk, you notice
+relatively large cracks in the ground, forcing you to hop over them to
+safety.  The wind grows a bit stronger, gusting in from the east, bringing
+with it more smoke and more of that horrid stench.  To the south lies the
+gateway.  In all other directions, the courtyard continues.  
+~
+0 CN field
+S
+#510
+A Courtyard~
+Grass as black and dead as night covers the ground, interrupted by large
+fissures and shrapnel from the walls surrounding the courtyard.  It would be
+hard for you to imagine how beautiful this area had once been.  
+~
+0 CN field
+S
+#511
+~
+~
+0 C inside
+S
+#512
+The Spanish Inquisition~
+As you are shuffled into this room, you become filled with a feeling of
+trepdiation.  The room seems rather cold and sterile, devoid of any
+wall-hangings or objects of comfort.  You jump as you hear the door lock
+from the outside, and heavy footsteps clomping away.  In the center of the
+room, you see a large oak table with some chairs seated around it.  A
+blinding, white light streams in from above, nearly scorching your retinas. 
+As you squint to look at it.  A faint, cold breeze seeps in from between the
+cracks in the stone walls.  
+~
+0 CDHKS inside
+S
+#0
+
+#$

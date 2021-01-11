@@ -1,0 +1,206 @@
+#AREADATA
+Name Momo's Misc Area~
+Builders momo~
+VNUMs 6700 6799
+Security 9
+LevelRange 0 0
+Flags under_construction~
+End
+
+#MOBILES
+#6700
+eng Alarm!~
+@eng A alarm~
+@eng An alarm sits here protecting this room.
+~
+~
+human~
+A 0 0 0
+92 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M greet 6700 100~
+I 90
+#6701
+eng Receptionist~
+@eng Receptionist~
+@eng receptionist sits here reading the lastest issue of Glamour.
+~
+~
+human~
+A 0 0 0
+90 0 1d1+10 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M greet 6701 100~
+M speech 6702 i need momo~
+M speech 6703 ok let in~
+M act 6704 leaves north~
+M speech 6705 im busy~
+#0
+
+#OBJECTS
+#6700
+Momo's Leather chair~
+@eng Momo's Leather chair~
+@eng A very comfy Leather chair sits here waiting for momo to sit in it.~
+Leather~
+furniture 0 P
+A ABCFGHIJ F ABFG 0
+0 0 0 P
+#6701
+Momo's Oak Desk~
+@eng Momo's Oak Desk~
+@eng A Oak desk is here collecting dust.~
+unknown~
+container R 0
+0 D 6702 9999 0
+0 0 0 P
+#6702
+Momo's Key~
+@eng Momo's Key~
+@eng A bright shiny gold key with the name 'Momo' engraved on it lies here.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#6703
+Toilet~
+@eng a Toliet~
+@eng A white toilet is here.~
+Porcelin~
+fountain BR 0
+-1 -1 'water' 0 0
+0 0 0 P
+#0
+
+#ROOMS
+#6700
+@eng Momo's Office~
+{BA huge room with mirrors everywhere.  There is a big Oak Desk where
+Momo sits to do his duts.  There are pictures of what seem to be battles.  A
+huge map of Thera sits on a chair in the corner.  There is a sign on the
+wall that reads '{WIf one can not be ones self, then why live.  They may
+take our lives but they shall never take our freedom!  {B'{x 
+~
+0 CDH inside
+D0
+~
+~
+Z 0 6701
+D2
+~
+door~
+ABCFGIZ 6702 6703
+D3
+~
+door~
+ABCFGIZ 6702 6702
+S
+#6701
+Momo's Bathroom~
+@eng {BA very nice and quaint bathroom with a shower. you see toilet where momo can.. Releave himself.{x
+~
+0 0 inside
+D2
+~
+~
+Z 0 6700
+S
+#6702
+@eng Momo's {RSECRET{W weapon room{x~
+@eng {BA very large room with weapons filling the walls.  You see guns knives
+explosives and pretty much anything need to kill someone or something. 
+Maybe even a whole country?  There are markers on the wall that seem to look
+like a Monkey in {RRED{B spray paint.  Could he be with the army of the 12
+monkeys?  
+{x
+~
+0 DHNX inside
+D1
+~
+door~
+ABCFGIZ 6702 6700
+S
+#6703
+@eng Momo's Reception~
+@eng A nice office with flowered wallpaper and some roses in the corner along
+with some other flower.  There is a table with some magazines for you to
+read.  Please speak to the receptionist about seeing Momo.  
+~
+0 DH inside
+D0
+~
+door~
+ABCFGIZ 6702 6700
+D3
+~
+~
+Z 0 3001
+O momo~
+S
+#0
+
+#RESETS
+D 0 6700 2 2	* Momo's Office: door to the south: closed and locked
+D 0 6700 3 2	* Momo's Office: door to the west: closed and locked
+D 0 6702 1 2	* Momo's {RSECRET{W weapon room{x: door to the east: closed and locked
+D 0 6703 0 2	* Momo's Reception: door to the north: closed and locked
+O 0 6700 0 6700	* Momo's Leather chair (Momo's Office)
+O 0 6701 0 6700	* Momo's Oak Desk (Momo's Office)
+O 0 6703 0 6701	* a Toliet (Momo's Bathroom)
+M 0 6700 1 6702 1	* A alarm (Momo's {RSECRET{W weapon room{x)
+O 0 6701 0 6703	* Momo's Oak Desk (Momo's Reception)
+M 0 6701 1 6703 1	* Receptionist (Momo's Reception)
+G 0 6702 0		*	Momo's Key
+S
+
+#MOBPROGS
+#6700
+if name $n 'momo'
+say Heya Momo!
+else
+  tell momo {RALERT!! ALERT!! {W$N{R JUST BROKE INTO WEAPON ROOM!!{x
+tell $n {R***ALERT*** You have tresspassed and will be delt with{x
+mob transfer $n 3001
+endif
+~
+#6701
+if name $n 'momo'
+Say Hello Mr. Momo how are you?
+else
+say If u have an appointment for Mr. Momo, please say "i need momo"
+endif
+~
+#6702
+tell momo {R$N {xneeds to speak with you.
+say Ok, Mr. Momo has been paged please wait.
+~
+#6703
+if name $n 'momo'
+say Ok your allowed to see Mr. Momo now.
+unlock door
+open door
+endif
+~
+#6704
+close door
+lock door
+~
+#6705
+if name $n 'momo'
+say Im sorry Mr. Momo is not available.
+smile
+endif
+~
+#0
+
+#$

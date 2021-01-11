@@ -1,0 +1,1475 @@
+#AREADATA
+Name Fort Daggworth~
+Builders dats~
+VNUMs 6800 6899
+Security 9
+LevelRange 1 100
+ResetMessage @eng The ghost of Dagg sneaks across your thoughts...~
+End
+
+#MOBILES
+#6830
+Fort Guard~
+@eng fort guard~
+@eng A Fort Guard is here, ready to die for the protecton of the fort.
+~
+~
+human~
+A 0 1000 0
+20 18 4d50+300 0d0+0 10d5+10 wrath
+0 0 0 0
+DEFK C 0 0
+stand stand male 1370
+K 0 huge unknown
+F for MV
+F par ACFGHIJK
+#6831
+troop army great~
+@eng A Troop of Some Very Great Army~
+@eng A Troop of Some Very Great Army stands here.
+~
+@eng This man is very strong, and more than likely could kick your ass in
+no time at all. He seem to belong to some amry, and by the look
+of this guy, you figure that the army must be very powerful. You wonder
+which army he might belong to, and why they would bring their Troops here.
+~
+human~
+A DFHNOPUVce 1000 0
+40 100 5d100+500 5d100+500 10d10+100 crush
+0 0 0 0
+CDEFIJKLNQ ABCEFGKLNQR DHIMOPTXYZ 0
+stand stand male 50000
+0 0 medium unknown
+F par EFHIJK
+#6869
+mate~
+@eng Dats' chic~
+@eng Dats' chic stands ready to do as he commands.
+~
+@eng This by far the most beautiful female that anyone has ever seen.
+Its just way to bad that Dats would slay you if you tried anything.
+Oh, but she seems to call out to you to take her.
+~
+human~
+A HT 0 0
+99 50 5d100000+500000 50d10000+500000 5d1000+5000 none
+0 0 0 0
+EFGIN ACEHILNQR 0 0
+stand stand female 0
+0 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+#0
+
+#OBJECTS
+#6800
+Heart Of Dats~
+@eng The Might Heart Of Dats~
+@eng Dats has taken his heart and made it into a weapon of mass destruction~
+Dats~
+weapon ABCKUY AN
+dagger 50 10000 pierce ABGHJ
+1 2 0 P
+A
+13 500
+#6801
+staff of dagg~
+@eng Staff of Dagg~
+@eng The Staff of Dagg glows with amazing brightness, for suck a dark wood.~
+Black Wood~
+light 0 AO
+0 0 -1 0 0
+0 2 1000000 P
+A
+18 50
+#6802
+giant condom~
+@eng giant condom of Dats~
+@eng a super sized condom, must belong to Dats~
+Super Latex~
+container 0 AO
+999999999 0 0 999999 0
+0 3 54863 P
+#6803
+strategy bench~
+@eng The Strategy Bench~
+@eng The Fort Daggworht Strategy Bench.~
+Daggwood~
+furniture GIORS 0
+CE FHIJKL EHK DGH DGH
+0 500 0 P
+#6804
+ruby long sword~
+@eng A Ruby Longsword~
+@eng A Ruby Longsword is here, glowing with passion~
+unknown~
+weapon ABRY ANO
+sword 5 10 slash 0
+13 15 0 P
+#0
+
+#ROOMS
+#6800
+@eng The Temple Of Daggworth~
+@eng You are in the Temple of Daggworth, built in the honour of Dagg.
+Here you are safe from summons, attacks, etc. Take time to get to
+know the town and its people, and remember that the ghost of Dagg
+is watching over you. And have fun. West is the Reading Room, east
+is the Donation Room. To the south is the Temple Square.
+~
+0 CDHKX inside
+D1
+~
+~
+Z 0 6802
+D2
+~
+~
+Z 0 6803
+D3
+~
+~
+Z 0 6801
+S
+#6801
+@eng The Reading Room~
+@eng You see many books covering the walls of this room. It is so
+peaceful here, that you think you might read one. Please use this
+room to relax or think, but hesitate from talking a lot. There
+is an exit to the east, leading to the main Temple.
+~
+0 0 inside
+D1
+~
+~
+Z 0 6800
+S
+#6802
+@eng Daggworth Donation Room~
+@eng To this room, donated items shall be sent. The only exit leads
+west to the Temple of Daggworth.
+~
+0 0 inside
+D3
+~
+~
+Z 0 6800
+S
+#6803
+@eng The Temple Square~
+@eng You stand before the great temple built in honour of Dagg, and
+you relize how great he just might have been. Exits lead north
+to the Temple, down to the Market square, east is Robin Square.
+And to the south, you see the local Bank.
+~
+0 0 city
+D0
+~
+~
+Z 0 6800
+D1
+~
+~
+Z 0 6806
+D2
+~
+~
+Z 0 6808
+D5
+~
+~
+Z 0 6804
+S
+#6804
+@eng The Market Square~
+@eng You stand in the centre of the fort, and you feel as if it is the
+centre of the world. This just might be the most busiest part of
+the fort, or at least you hope as you try to squeeze through the
+crowds. To the west and east, the main street leads out of town.
+Lookin up, the crowd slims as you aproch the Temple, and Central
+leads out of the fort going north and south.
+~
+0 0 inside
+D0
+~
+~
+Z 0 6820
+D1
+~
+~
+Z 0 6814
+D2
+~
+~
+Z 0 6824
+D3
+~
+~
+Z 0 6810
+D4
+~
+~
+Z 0 6803
+S
+#6805
+@eng Dats' Secret Passage~
+~
+0 C city
+S
+#6806
+@eng Robin Square~
+~
+0 0 inside
+D1
+~
+~
+Z 0 6807
+D2
+~
+~
+Z 0 6809
+D3
+~
+~
+Z 0 6803
+S
+#6807
+@eng The Bashing Bear Bar~
+@eng You are standing at the bar. The bar is set up against the western
+wall, across from the door. There are some strange markings on the
+bar, and you think that they may be some ancient language. A fire
+place has been installed into the northern wall. West leads back out
+to Robin square.
+~
+0 0 inside
+D3
+~
+~
+Z 0 6806
+S
+#6808
+@eng Fort Daggworth Bank~
+~
+0 DHKU inside
+D0
+~
+~
+Z 0 6803
+S
+#6809
+@eng Fort Daggworth House of Maps~
+~
+0 0 inside
+D0
+~
+~
+Z 0 6806
+S
+#6810
+@eng West Main Street~
+~
+0 0 city
+D1
+~
+~
+Z 0 6804
+D3
+~
+~
+Z 0 6811
+S
+#6811
+@eng West Main Street~
+~
+0 0 city
+D1
+~
+~
+Z 0 6810
+D3
+~
+~
+Z 0 6812
+S
+#6812
+@eng West Main Street~
+~
+0 0 city
+D1
+~
+~
+Z 0 6811
+D3
+~
+~
+Z 0 6813
+S
+#6813
+@eng Intersection of West Main and 1st Ave~
+~
+0 0 city
+D0
+~
+~
+Z 0 6858
+D1
+~
+~
+Z 0 6812
+D2
+~
+~
+Z 0 6833
+D3
+~
+~
+Z 0 6857
+S
+#6814
+@eng East Main Street~
+~
+0 0 city
+D1
+~
+~
+Z 0 6815
+D3
+~
+~
+Z 0 6804
+S
+#6815
+@eng East Main Street~
+~
+0 0 city
+D1
+~
+~
+Z 0 6816
+D3
+~
+~
+Z 0 6814
+S
+#6816
+@eng East Main Street~
+~
+0 0 inside
+D1
+~
+~
+Z 0 6817
+D3
+~
+~
+Z 0 6815
+S
+#6817
+@eng Intersection of Main Street and 4th Ave~
+~
+0 0 inside
+D0
+~
+~
+Z 0 6830
+D1
+~
+~
+Z 0 6869
+D2
+~
+~
+Z 0 6871
+D3
+~
+~
+Z 0 6816
+S
+#6818
+@eng 2nd Street and 2nd Ave~
+~
+0 0 inside
+D0
+~
+~
+Z 0 6889
+D3
+~
+~
+Z 0 6819
+S
+#6819
+@eng 2nd Street~
+~
+0 0 inside
+D1
+~
+~
+Z 0 6818
+D3
+~
+~
+Z 0 6856
+S
+#6820
+@eng North Central~
+~
+0 0 inside
+D0
+~
+~
+Z 0 6821
+D2
+~
+~
+Z 0 6804
+S
+#6821
+@eng North Central~
+~
+0 0 inside
+D0
+~
+~
+Z 0 6822
+D2
+~
+~
+Z 0 6820
+S
+#6822
+@eng North Central~
+~
+0 0 inside
+D0
+~
+~
+Z 0 6823
+D2
+~
+~
+Z 0 6821
+S
+#6823
+@eng Intersection of 1st Street and Central~
+~
+0 0 inside
+D0
+~
+~
+Z 0 6850
+D1
+~
+~
+Z 0 6875
+D2
+~
+~
+Z 0 6822
+D3
+~
+~
+Z 0 6851
+S
+#6824
+@eng South Central~
+~
+0 0 inside
+D0
+~
+~
+Z 0 6804
+D2
+~
+~
+Z 0 6825
+S
+#6825
+@eng South Central~
+~
+0 0 inside
+D0
+~
+~
+Z 0 6824
+D2
+~
+~
+Z 0 6826
+S
+#6826
+@eng South Central~
+~
+0 0 inside
+D0
+~
+~
+Z 0 6825
+D2
+~
+~
+Z 0 6827
+S
+#6827
+@eng Intersection of 4th Street and Central~
+~
+0 0 inside
+D0
+~
+~
+Z 0 6826
+D1
+~
+~
+Z 0 6864
+D2
+~
+~
+Z 0 6863
+D3
+~
+~
+Z 0 6862
+S
+#6830
+@eng North 4th Ave~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the south
+is Main Street, east you see one of the Guard Stations, and north
+continues 4th Ave.
+~
+0 0 inside
+D0
+~
+~
+Z 0 6831
+D1
+~
+~
+Z 0 6840
+D2
+~
+~
+Z 0 6817
+S
+#6831
+@eng North 4th Ave~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the north
+and south continues 4th Ave, west is 2nd Street.
+~
+0 0 inside
+D0
+~
+~
+Z 0 6832
+D2
+~
+~
+Z 0 6830
+D3
+~
+~
+Z 0 6888
+S
+#6832
+@eng North 4th Ave~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the north
+and south continues 4th Ave.
+~
+0 0 inside
+D0
+~
+~
+Z 0 6872
+D2
+~
+~
+Z 0 6831
+S
+#6833
+@eng South 1st Ave~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the north
+is Main Street, west you see one of the Guard Stations, and south
+continues along 1st Ave.
+~
+0 0 inside
+D0
+~
+~
+Z 0 6813
+D2
+~
+~
+Z 0 6834
+D3
+~
+~
+Z 0 6836
+S
+#6834
+@eng South 1st Ave~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the north
+and south continues 1st Ave, east is 3rd Street.
+~
+0 0 inside
+D0
+~
+~
+Z 0 6833
+D1
+~
+~
+Z 0 6880
+D2
+~
+~
+Z 0 6835
+S
+#6835
+South 1st Ave~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the north
+and south continues 1st Ave.
+~
+0 0 inside
+D0
+~
+~
+Z 0 6834
+D2
+~
+~
+Z 0 6859
+S
+#6836
+@eng South of West Guard Station~
+~
+0 0 inside
+D1
+~
+door~
+Z 0 6833
+S
+#6837
+@eng North of West Guard Station~
+~
+0 0 inside
+D1
+~
+~
+Z 0 6858
+S
+#6838
+@eng West of North Guard Station~
+~
+0 0 inside
+D2
+~
+~
+Z 0 6851
+S
+#6839
+@eng East of North Guard Station~
+~
+0 0 inside
+D2
+~
+~
+Z 0 6875
+S
+#6840
+@eng North of East Guard Station~
+~
+0 0 inside
+D3
+~
+~
+Z 0 6830
+S
+#6841
+@eng South of East Guard Station~
+~
+0 0 inside
+D3
+~
+~
+Z 0 6871
+S
+#6842
+@eng East of South Guard Station~
+~
+0 0 inside
+D0
+~
+~
+Z 0 6864
+S
+#6843
+@eng West of South Guard Station~
+~
+0 0 inside
+D0
+~
+~
+Z 0 6862
+S
+#6850
+@eng Inside the Northern Gate~
+~
+0 0 city
+D2
+~
+~
+Z 0 6823
+S
+#6851
+@eng West 1st Street~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the east
+is North Central, north you see one of the Guard Stations, and west
+continues along 1st Street.
+~
+0 0 city
+D0
+~
+~
+Z 0 6838
+D1
+~
+~
+Z 0 6823
+D3
+~
+~
+Z 0 6852
+S
+#6852
+@eng West 1st Street~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the east
+and west continues 1st Street, south is 2nd Ave.
+~
+0 0 city
+D1
+~
+~
+Z 0 6851
+D2
+~
+~
+Z 0 6889
+D3
+~
+~
+Z 0 6853
+S
+#6853
+@eng West 1st Street~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the east
+and west continues 1st Street.
+~
+0 0 city
+D1
+~
+~
+Z 0 6852
+D3
+~
+~
+Z 0 6854
+S
+#6854
+@eng Corner of 1st Street and 1st Ave~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the east
+continues 1st Street, south is 1st Ave.
+~
+0 0 city
+D1
+~
+~
+Z 0 6853
+D2
+~
+~
+Z 0 6855
+S
+#6855
+@eng North 1st Ave~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the north
+and south continues 1st Ave.
+~
+0 0 city
+D0
+~
+~
+Z 0 6854
+D2
+~
+~
+Z 0 6856
+S
+#6856
+@eng North 1st Ave~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the north
+and south continues 1st Ave, east is 2nd Street.
+~
+0 0 city
+D0
+~
+~
+Z 0 6855
+D1
+~
+~
+Z 0 6819
+D2
+~
+~
+Z 0 6858
+S
+#6857
+@eng Inside the Western Gate~
+~
+0 0 city
+D1
+~
+~
+Z 0 6813
+S
+#6858
+@eng North 1st Ave~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the south
+is Main Street, west you see one of the Guard Stations, and north
+continues along 1st Ave.
+~
+0 0 inside
+D0
+~
+~
+Z 0 6856
+D2
+~
+~
+Z 0 6813
+D3
+~
+~
+Z 0 6837
+S
+#6859
+@eng Corner of 4th Street and 1st Ave~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the east
+continues 4th Street, and north is 1st Ave.
+~
+0 0 city
+D0
+~
+~
+Z 0 6835
+D1
+~
+~
+Z 0 6860
+S
+#6860
+@eng West 4th Street~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the east
+and west continues 4th Street.
+~
+0 0 city
+D1
+~
+~
+Z 0 6861
+D3
+~
+~
+Z 0 6859
+S
+#6861
+@eng West 4th Street~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the east
+and west continues 4th Street, north is 2nd Ave.
+~
+0 0 city
+D0
+~
+~
+Z 0 6882
+D1
+~
+~
+Z 0 6862
+D3
+~
+~
+Z 0 6860
+S
+#6862
+@eng West 4th Street~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the east
+is South Central, south you see one of the Guard Stations, and west
+continues along 4th Street.
+~
+0 0 city
+D1
+~
+~
+Z 0 6827
+D2
+~
+~
+Z 0 6843
+D3
+~
+~
+Z 0 6861
+S
+#6863
+@eng Inside the Southern Gate~
+~
+0 0 city
+D0
+~
+~
+Z 0 6827
+S
+#6864
+@eng East 4th Ave~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the west
+is South Central, south you see one of the Guard Stations, and east
+continues along 4th Street.
+~
+0 0 city
+D1
+~
+~
+Z 0 6865
+D2
+~
+~
+Z 0 6842
+D3
+~
+~
+Z 0 6827
+S
+#6865
+@eng East 4th Ave~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the east
+and west continues 4th Street, north is 3rd Ave.
+~
+0 0 city
+D0
+~
+~
+Z 0 6885
+D1
+~
+~
+Z 0 6866
+D3
+~
+~
+Z 0 6864
+S
+#6866
+@eng East 4th Ave~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the east
+and west continues 4th Street.
+~
+0 0 city
+D1
+~
+~
+Z 0 6867
+D3
+~
+~
+Z 0 6865
+S
+#6867
+@eng Corner of 4th Street and 4th Ave~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the west 
+continues 4th Street, north is 4th Ave.
+~
+0 0 city
+D0
+~
+~
+Z 0 6868
+D3
+~
+~
+Z 0 6866
+S
+#6868
+@eng South 4th Ave~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the north
+and south continues 4th Ave.
+~
+0 0 city
+D0
+~
+~
+Z 0 6870
+D2
+~
+~
+Z 0 6867
+S
+#6869
+@eng Inside the Eastern Gate~
+~
+0 0 city
+D3
+~
+~
+Z 0 6817
+S
+#6870
+@eng South 4th Ave~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the north
+and south continues 4th Ave, west is 3rd Street.
+~
+0 0 city
+D0
+~
+~
+Z 0 6871
+D2
+~
+~
+Z 0 6868
+D3
+~
+~
+Z 0 6883
+S
+#6871
+@eng South 4th Ave~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the north
+is Main Street, east you see one of the Guard Stations, and south
+continues 4th Ave.
+~
+0 0 city
+D0
+~
+~
+Z 0 6817
+D1
+~
+~
+Z 0 6841
+D2
+~
+~
+Z 0 6870
+S
+#6872
+@eng Corner of 1st Street and 4th Ave~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the west
+continues 1st Street, south is 4th Ave.
+~
+0 0 city
+D2
+~
+~
+Z 0 6832
+D3
+~
+~
+Z 0 6873
+S
+#6873
+@eng East 1st Street~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the west
+and east continues 1st Street.
+~
+0 0 city
+D1
+~
+~
+Z 0 6872
+D3
+~
+~
+Z 0 6874
+S
+#6874
+@eng East 1st Street~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the west
+and east continues 1st Street, south is 3rd Ave.
+~
+0 0 city
+D1
+~
+~
+Z 0 6873
+D2
+~
+~
+Z 0 6886
+D3
+~
+~
+Z 0 6875
+S
+#6875
+@eng East 1st Street~
+@eng You walk through the lesser used part of the Fort just inside the
+logs that seem to reach up to the sky. The poles must be two feet
+around, and look very capable of holding out any unwanted intruders.
+Despite the thick walls of the Fort, Fort Guards and Troops of some
+kind of army are regularly patrolling the muddy lane. The sky seems
+darker here and every thing is a rusty brown in colour. It is very
+quiet here and you can just barely hear the sounds of the people
+coming from the main roads that run through the Fort. To the west
+is North Central, north you see one of the Guard Stations, and east
+continues along 1st Street.
+~
+0 0 city
+D0
+~
+~
+Z 0 6839
+D1
+~
+~
+Z 0 6874
+D3
+~
+~
+Z 0 6823
+S
+#6880
+@eng 3rd Street~
+~
+0 0 inside
+D1
+~
+~
+Z 0 6881
+D3
+~
+~
+Z 0 6834
+S
+#6881
+@eng 3rd Street and 2nd Ave~
+~
+0 0 inside
+D2
+~
+~
+Z 0 6882
+D3
+~
+~
+Z 0 6880
+S
+#6882
+@eng 2nd Ave~
+~
+0 0 inside
+D0
+~
+~
+Z 0 6881
+D2
+~
+~
+Z 0 6861
+S
+#6883
+@eng 3rd Street~
+~
+0 0 inside
+D1
+~
+~
+Z 0 6870
+D3
+~
+~
+Z 0 6884
+S
+#6884
+@eng 3rd Street and 3rd Ave~
+~
+0 0 inside
+D1
+~
+~
+Z 0 6883
+D2
+~
+~
+Z 0 6885
+S
+#6885
+@eng 3rd Ave~
+~
+0 0 inside
+D0
+~
+~
+Z 0 6884
+D2
+~
+~
+Z 0 6865
+S
+#6886
+@eng 3rd Ave~
+~
+0 0 inside
+D0
+~
+~
+Z 0 6874
+D2
+~
+~
+Z 0 6887
+S
+#6887
+@eng 2nd Street and 3rd Ave~
+~
+0 0 inside
+D0
+~
+~
+Z 0 6886
+D1
+~
+~
+Z 0 6888
+S
+#6888
+@eng 2nd Street~
+~
+0 0 inside
+D1
+~
+~
+Z 0 6831
+D3
+~
+~
+Z 0 6887
+S
+#6889
+@eng 2nd Ave~
+~
+0 0 inside
+D0
+~
+~
+Z 0 6852
+D2
+~
+~
+Z 0 6818
+S
+#0
+
+#RESETS
+O 0 6803 0 6800	* The Strategy Bench (The Temple Of Daggworth)
+M 0 6830 20 6804 4	* fort guard (The Market Square)
+M 0 6830 20 6836 2	* fort guard (South of West Guard Station)
+M 0 6830 20 6837 2	* fort guard (North of West Guard Station)
+M 0 6830 20 6838 2	* fort guard (West of North Guard Station)
+M 0 6830 20 6839 2	* fort guard (East of North Guard Station)
+M 0 6830 20 6840 2	* fort guard (North of East Guard Station)
+M 0 6830 20 6841 2	* fort guard (South of East Guard Station)
+M 0 6830 20 6842 2	* fort guard (East of South Guard Station)
+M 0 6830 20 6843 2	* fort guard (West of South Guard Station)
+S
+
+#$

@@ -1,0 +1,421 @@
+#AREADATA
+Name Clan War Grounds~
+VNUMs 27000 27299
+Credits Anon~
+Security 9
+LevelRange 0 0
+Flags under_construction noquest~
+End
+
+#MOBILES
+#27000
+apprentice~
+The apprentice is in excellent condition~
+~
+~
+human~
+AFR 0 250 0
+10 3 10d10+5 10d20+0 3d4+0 scratch
+0 0 0 0
+0 0 0 0
+stand stand either 50
+0 0 medium unknown
+#0
+
+#ROOMS
+#27000
+The Waiting Room~
+~
+0 CHK inside
+S
+#27001
+Clan One's Starting Place~
+~
+0 0 field
+D0
+~
+~
+Z 0 27002
+S
+#27002
+A Dusty Path~
+~
+0 0 field
+D0
+~
+~
+Z 0 27003
+D2
+~
+~
+Z 0 27001
+S
+#27003
+A dusty path~
+~
+0 Z field
+D0
+~
+~
+Z 0 27005
+D2
+~
+~
+Z 0 27002
+S
+#27004
+A Wide Plain~
+~
+0 0 field
+D1
+~
+~
+Z 0 27005
+S
+#27005
+A Wide Plain~
+~
+0 0 field
+D0
+~
+~
+Z 0 27011
+D1
+~
+~
+Z 0 27006
+D2
+~
+~
+Z 0 27003
+D3
+~
+~
+Z 0 27004
+S
+#27006
+A Wide Plain~
+~
+0 0 field
+D1
+~
+~
+Z 0 27007
+D3
+~
+~
+Z 0 27005
+S
+#27007
+A Wide Plain~
+~
+0 0 field
+D1
+~
+~
+Z 0 27008
+D3
+~
+~
+Z 0 27006
+S
+#27008
+A Wide Plain~
+~
+0 0 field
+D1
+~
+~
+Z 0 27009
+D3
+~
+~
+Z 0 27007
+S
+#27009
+A Wide Plain~
+~
+0 0 field
+D1
+~
+~
+Z 0 27010
+D3
+~
+~
+Z 0 27008
+S
+#27010
+A Wide Plain~
+~
+0 0 field
+D3
+~
+~
+Z 0 27009
+S
+#27011
+A Wide Plain~
+~
+0 0 field
+D1
+~
+~
+Z 0 27012
+D2
+~
+~
+Z 0 27005
+S
+#27012
+A wide plain~
+~
+0 0 field
+D0
+~
+~
+Z 0 27016
+D1
+~
+~
+Z 0 27013
+D3
+~
+~
+Z 0 27011
+S
+#27013
+A Wide Plain~
+~
+0 0 field
+D1
+~
+~
+Z 0 27014
+D3
+~
+~
+Z 0 27012
+S
+#27014
+A Wide Plain~
+~
+0 0 field
+D1
+~
+~
+Z 0 27015
+D3
+~
+~
+Z 0 27013
+S
+#27015
+A Wide Plain~
+~
+0 0 field
+D3
+~
+~
+Z 0 27014
+S
+#27016
+A Wide Plain~
+~
+0 0 field
+D1
+~
+~
+Z 0 27017
+D2
+~
+~
+Z 0 27012
+S
+#27017
+A Wide Plain~
+~
+0 0 field
+D0
+~
+~
+Z 0 27019
+D1
+~
+~
+Z 0 27018
+D3
+~
+~
+Z 0 27016
+S
+#27018
+A Wide Plain~
+~
+0 0 field
+D3
+~
+~
+Z 0 27017
+S
+#27019
+End of A Wide Plain~
+~
+0 0 field
+D0
+~
+~
+Z 0 27021
+D2
+~
+~
+Z 0 27017
+S
+#27020
+The Deadly Intersection~
+~
+0 0 field
+D0
+~
+~
+Z 0 27023
+D3
+~
+~
+Z 0 27021
+S
+#27021
+The Deadly Intersection~
+~
+0 0 field
+D0
+~
+~
+Z 0 27024
+D1
+~
+~
+Z 0 27020
+D2
+~
+~
+Z 0 27019
+D3
+~
+~
+Z 0 27022
+S
+#27022
+The Deadly Intersection~
+~
+0 0 field
+D0
+~
+~
+Z 0 27025
+D1
+~
+~
+Z 0 27021
+S
+#27023
+The Deadly Intersection~
+~
+0 0 field
+D0
+~
+~
+Z 0 27026
+D2
+~
+~
+Z 0 27020
+D3
+~
+~
+Z 0 27024
+S
+#27024
+The Deadly Intersection~
+~
+0 0 field
+D0
+~
+~
+Z 0 27027
+D1
+~
+~
+Z 0 27023
+D2
+~
+~
+Z 0 27021
+D3
+~
+~
+Z 0 27025
+S
+#27025
+The Deadly Intersection~
+~
+0 0 field
+D0
+~
+~
+Z 0 27028
+D1
+~
+~
+Z 0 27024
+D2
+~
+~
+Z 0 27022
+S
+#27026
+The Deadly Intersection~
+~
+0 0 field
+D2
+~
+~
+Z 0 27023
+D3
+~
+~
+Z 0 27027
+S
+#27027
+The Deadly Intersection~
+~
+0 0 field
+D1
+~
+~
+Z 0 27026
+D2
+~
+~
+Z 0 27024
+D3
+~
+~
+Z 0 27028
+S
+#27028
+The Deadly Intersection~
+~
+0 0 field
+D1
+~
+~
+Z 0 27027
+D2
+~
+~
+Z 0 27025
+S
+#0
+
+#$

@@ -1,0 +1,114 @@
+#AREADATA
+Name New area~
+VNUMs 51000 51050
+Security 1
+LevelRange 0 0
+End
+
+#MOBILES
+#51001
+guardian spirit~
+a guardian spirit~
+{DA gu{wa{Wrd{wi{Dan{D sp{wir{Dit{W hovers above the ground here.
+~
+This is the guardian spirit of the continent, it guards
+the continent from unwanted intruders and may assist you in
+finding out about the several areas in this continent.
+ 
+{R[{CTo find out about the continent, say 'help'{R]{W
+~
+air elemental~
+ABG 0 1000 0
+1000 7 100d100+100 0d0+0 5d100+0 chill
+-40 -40 -40 -40
+0 0 0 0
+stand stand none 500
+0 0 medium unknown
+M speech 51001 help~
+#0
+
+#OBJECTS
+#51000
+shimmering portal~
+{wa {Ws{wh{Wi{wm{Wm{we{Wr{wi{Wn{wg{W p{wo{Wr{wt{Wa{wl{W~
+{wA {Ws{wh{Wi{wm{Wm{we{Wr{wi{Wn{wg{W p{wo{Wr{wt{Wa{wl{W rests here.~
+ethereal~
+portal B 0
+FINPQRS 0 0 51001 0
+1 0 0 P
+#51001
+bar plurasteel~
+{Da {wbar{D of {wplurasteel{W~
+a bar of plurasteel lies on the ground.~
+plurasteel~
+money 0 A
+100 0 0 0 0
+1 0 0 P
+#51005
+rainbow platemail~
+{Cr{Ba{Ri{Yn{Mb{Wo{Cw{D p{wl{Watema{wi{Dl{W~
+a suit of rainbow platemail lies here.~
+colors of the spectrum~
+armor AB AD
+25 25 10 20 0
+75 15 15000 P
+#0
+
+#ROOMS
+#51000
+Standing in a crop circle~
+You stand in a crop circle, the wheat grows high above your
+range of vision. In the center there is a small circle of rocks
+glowing with energy. Strange humming eminates from here.
+~
+0 0 inside
+S
+#51001
+{CMachalcia Map{W~
+You stand on a small island quite far off the coast of Machalcia.
+{B.....{W
+{B.....{W
+{B..{R@@{w]{B.{W
+{B.....{W
+{B.....{W
+~
+0 0 inside
+S
+#51002
+{CMachalcia Map{W~
+~
+0 0 inside
+S
+#51003
+An underground route to the continent~
+You stand in and underground route to the continent.
+{W--{D--{C]{W-{D--{W
+{W--{C[{R@@{W--{D--{W
+{W--{D--{W--{D--{W
+~
+0 0 inside
+S
+#0
+
+#RESETS
+O 0 51000 0 51000	* {wa {Ws{wh{Wi{wm{Wm{we{Wr{wi{Wn{wg{W p{wo{Wr{wt{Wa{wl{W (Standing in a crop circle)
+M 0 51001 1 51001 1	* a guardian spirit ({CMachalcia Map{W)
+G 0 51005 0		*	{Cr{Ba{Ri{Yn{Mb{Wo{Cw{D p{wl{Watema{wi{Dl{W
+S
+
+#MOBPROGS
+#51001
+say This continent contains:
+say A large city
+say A small village of ogres
+say A massive underground cavern connecting the lands
+say A drow city
+say A gnome city
+say A halfling city
+say An underwater dungeon
+emote waves to the ocean with his hands.
+say We have lost many to the underwater dungeon.
+~
+#0
+
+#$

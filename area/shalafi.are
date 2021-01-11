@@ -1,0 +1,353 @@
+#AREADATA
+Name Shalafi Clanhall~
+VNUMs 95300 95399
+Credits Asena~
+Security 9
+LevelRange 1 100
+Clan Shalafi~
+End
+
+#MOBILES
+#95300
+Seneschal~
+The Seneschal~
+The Seneschal of magic is here.
+~
+A ghostly figure floats above you, ready to unleash magical death on all
+that are against his lords. The creature is formed entirely of flames and
+some other magical materials. 
+~
+elf~
+ABJKRef DFHlmt 0 0
+92 30 2d500+25000 1d1+3999 10d25+90 slice
+-79 -79 -79 -40
+FIKN ABH C 0
+stand stand male 5000
+0 0 medium unknown
+F aff JP
+F res B
+M grall 95300 100~
+C Shalafi~
+#95301
+healer adept cabal shalafi~
+an adept~
+An adept and healer of the Arcane Arts is here.
+~
+He is an old, wise cleric blessing his old friends of the Maters of Five 
+Magic to destroy all undisciplined heros at Realms of Anatolia. He has
+beatiful long white hair and is wearing a white dress that reaches down to
+the floor. He has a nice smile on his face.
+~
+human~
+ABQVae DFH 1000 0
+90 10 1d1+28999 1d1+999 2d4+30 divine
+-75 -75 -75 -55
+FHIK ABC D 0
+stand stand male 1000
+0 0 medium unknown
+#95302
+fiery red demon~
+a fiery demon~
+A red, fiery demon is looking around very angry.
+~
+An aggressive looking fiery demon stands in the flame. It is quite angry
+to have been summoned. The demon has fiery flaming red skin, two heads,
+red scales, sharp teeth, 2 arms with long razorlike claws and two muscular
+legs. Narrow red eyes like burning coal in a small cave. Two muscular arms
+sprout from either side of the broad torso, ending in wickedly sharp black
+talons.
+~
+unique~
+AB JZ -1000 0
+40 0 1d1+2000 1d1+1 2d4+20 slash
+-15 -15 -15 -15
+FHI H 0 0
+stand stand male 0
+0 0 medium unknown
+#0
+
+#OBJECTS
+#95300
+spider altar~
+a huge violet altar carved as a spider~
+A hude spider shaped altar is standing at the center of room.~
+ivory~
+container AORY P
+10 ABCD 95302 15 100
+60 1 20 P
+#95301
+orb~
+Orb of Magic~
+Orb of magic is here.~
+ebony~
+staff A A
+0 0 0 '' 0
+60 1 100000 P
+#95302
+key~
+a spider shaped key~
+A spider shaped  key is on the ground.~
+steel~
+key ORY AO
+0 0 0 0 0
+40 4 0 P
+#95303
+white object portal~
+Magical White Portal~
+A magically created white object casts strange shadows across the clearing.
+~
+energy~
+portal AO 0
+0 0 D 9209 0
+0 0 0 P
+#95304
+black object portal~
+Magical Black Portal~
+A magically created black object casts strange shadows across the clearing.
+~
+energy~
+portal AO 0
+0 0 E 0 0
+0 0 0 P
+#95305
+focus adept shalafi symbol~
+{Yfocus of the adept{x~
+{YRaw energy crackles from this symbol as it pulses rythmically.{x~
+energy~
+armor ABCEGIMORTYZa AS
+25 25 25 25 0
+15 0 387306 P
+A
+20 -5
+A
+24 -5
+A
+23 -5
+A
+22 -5
+A
+21 -5
+A
+20 -5
+A
+6 2
+A
+4 3
+A
+3 10
+A
+19 3
+A
+18 3
+A
+13 10
+A
+12 150
+#0
+
+#ROOMS
+#95300
+Fifth Level~
+The fifth level of the tower hums with whole magical power of the
+universe. All around, you see many items which have been carried and
+transported from different lands. Probably they have been used to reached
+the secret of the magical worlds; the stones sing and glow magically.
+Before you is an altar shaped like a huge spider. Carved from diamond,
+it gives off a soft purple radiance.
+~
+0 DX inside
+D1
+~
+~
+Z -1 95307
+D3
+~
+~
+Z -1 95308
+D5
+~
+~
+Z -1 95301
+S
+#95301
+Fourth Level~
+The fourth level is much bigger than the others. All around you see the
+magic. There are many wands and staves which have been created by the
+the Arcane Arts magicians and used to destroy undisciplined heros at
+Realms of Anatolia. You see some red demons summoned and they are quite
+angry about to it.
+~
+0 DX inside
+D4
+~
+~
+Z -1 95300
+D5
+~
+~
+Z -1 95302
+S
+#95302
+Third Level~
+Now, you are in a mist that has been suddenly appeared. Swirling mist
+obscures your vision and cloud your mind. You start to wander about the
+eternity and power of the magic. The mist itself thickens to the up.  
+~
+0 DX inside
+D4
+~
+~
+Z -1 95301
+D5
+~
+~
+Z -1 95303
+S
+#95303
+Second Level~
+The second level of the tower of the Arcane Arts is much like the first.
+The walls are blackened and burnt by what you could only imagine to be
+magical fire. A large globe of magical energy floats overhead, providing
+light. A flight of stairs lead up and down.
+~
+0 DX inside
+D4
+~
+~
+Z -1 95302
+D5
+~
+~
+Z -1 95304
+S
+#95304
+Inside the Tower~
+You stand in the lowest level of the Tower of Arcane Arts. The magical
+walls all around you emit a faint magical glow which provides enough light 
+to see by. Perhaps in the upper levels lie the secrets of this tower and
+Arcane Arts.
+~
+0 DX inside
+D2
+~
+~
+Z -1 95305
+D4
+~
+~
+Z -1 95303
+S
+#95305
+Outside the Tower~
+You are in a long way leading north and south. The magical walls emit a
+faint magical glow which provides enough light to see by. Additionally a
+large globe of magical energy floats overhead, providing light. The tower
+is created by pure magic and you feel that the whole magical power of the
+universe has been used to create this tower.
+~
+0 DX inside
+D0
+~
+~
+Z -1 95304
+D2
+~
+~
+DZ -1 95306
+S
+#95306
+The Mystical Path~
+You start to feel the power of magic. Magical beings from every known
+plane walk amongst you. The path, like everything here, is magically
+created and seems perfect. Up ahead you see the Tower of the Arcane
+Arts.
+~
+0 DX inside
+D0
+~
+~
+DZ -1 95305
+D2
+~
+~
+AGZ 0 1480
+S
+#95307
+The Mystical Room~
+This room is looks like the third level of the tower. You are in a mist
+that has been suddenly appeared. Swirling mist obscures your vision and
+cloud your mind. You start to wander about the eternity and power of the
+magic. The mist itself thickens to the up. You see a portal that may help
+you to find some materials to create powerful wands and staves.  
+~
+0 DX inside
+D3
+~
+~
+Z -1 95300
+S
+#95308
+The Mystical Room~
+This room is looks like the third level of the tower. You are in a mist
+that has been suddenly appeared. Swirling mist obscures your vision and
+cloud your mind. You start to wander about the eternity and power of the
+magic. The mist itself thickens to the up. You see a portal that may help
+you to find some materials to create powerful wands and staves.  
+~
+0 DX inside
+D1
+~
+~
+Z -1 95300
+S
+#0
+
+#SPECIALS
+M 95300 spec_cast_seneschal	* The Seneschal
+M 95302 spec_cast_mage	* a fiery demon
+S
+
+#RESETS
+M 0 95301 1 95300 1	* an adept (Fifth Level)
+O 0 95300 0 95300	* a huge violet altar carved as a spider (Fifth Level)
+P 0 95301 1 95300 1	* a huge violet altar carved as a spider: Orb of Magic
+M 0 95300 1 95306 1	* The Seneschal (The Mystical Path)
+E 0 95302 0 17		*	a spider shaped key: held in the hands
+O 0 95303 0 95307	* Magical White Portal (The Mystical Room)
+O 0 95304 0 95308	* Magical Black Portal (The Mystical Room)
+S
+
+#MOBPROGS
+#95300
+if clan $n Shalafi
+'Welcome, mysterious one. 
+end
+endif
+if isimmort $n 
+bow $n
+end
+endif
+if level $n < 10
+mob transfer $n 1480 
+end
+endif
+if ischarm $n 
+say Charmies are not allowed in this place!
+mob transfer $n 1480 
+end
+endif
+if isghost $n
+say Ghosts are not allowed in this place!
+mob slay $n
+end
+endif
+clan We are attacked by $n !
+mob attack $n
+~
+#0
+
+#PRACTICERS
+M 95300 clan~	* The Seneschal
+S
+
+#$

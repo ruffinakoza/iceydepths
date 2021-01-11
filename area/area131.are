@@ -1,0 +1,58 @@
+#AREADATA
+Name New area~
+Builders miette~
+VNUMs 500 599
+Security 1
+LevelRange 0 0
+End
+
+#ROOMS
+#500
+A Wooded Pathway~
+Darkness shrouds this path, seeming almost inpenetrable by light.  The
+path seems to have been worn into the ground by many a footstep, leaving a
+thin ribbon of dirt for you to follow.  Gnarled, ancient-looking trees line
+either side of the pathway.  A cacophony of sounds can be heard in the
+distance, and you wonder if it's your imagination, or if something is at the
+end of this path.  
+~
+0 ACDW forest
+D0
+~
+~
+Z 0 501
+S
+#501
+A Wooded Pathway~
+ Continuing along the path, the darkness grows darker still.  The once
+smooth path is now filled with rocks and pits, that make walking almost
+torturous.  A chill breeze sweeps through the forest, bringing with it the
+sickly, sweet odor of decay.  
+~
+0 ADNW forest
+D0
+~
+~
+Z 0 502
+D2
+~
+~
+Z 0 500
+S
+#502
+A Wooded Pathway~
+ Trees still line this pathway.  With the dancing of your light in the
+breeze, the trees look almost like bent, misshapen old men.  You try to
+hurry along your way, but the jagged road beneath you cuts through the soles
+of your boots, nearly piercing the flesh on your feet.  The scent of decay
+still violates your senses, making you almost sick to your stomach.  
+~
+0 CDNW inside
+D2
+~
+~
+Z 0 501
+S
+#0
+
+#$

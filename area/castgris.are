@@ -1,0 +1,416 @@
+#AREADATA
+Name Castle Griswold~
+Builders momo~
+VNUMs 120000 120100
+Credits Momo~
+Security 9
+LevelRange 0 0
+End
+
+#MOBILES
+#120000
+leoric~
+King Leoric~
+King Leoric sits sits here watching over the ballroom.
+~
+A very tall man who looks like he could take on 10 men by himself.  He
+wears a crown and wields a sword with likes youve never seen.  
+~
+human~
+AB DFHVt 1000 0
+37 20 10d71+416 0d0+0 5d6+15 slash
+-12 -12 -12 -1
+0 0 N 0
+sit sit male 2000
+0 0 medium unknown
+#120001
+guard~
+The Kings Bodygaurd~
+One of the Kings Royal Bodyguards stands here protecting his king.
+~
+~
+death knight~
+ABGe DVlt 250 0
+20 5 7d50+250 0d0+0 4d5+10 thrust
+-2 -2 -2 4
+0 0 N 0
+stand stand male 200
+0 0 medium unknown
+#120002
+elite guard~
+an elite guard~
+An elite guard attempts to prevent you proceeding further.
+~
+This fellow is clad in full body spiked black plate mail just like his lord,
+and carries a HUGE spiked morning star, which he swings casually like it was
+but a wooden stick. He cries out upon spotting you, and prepares for combat.
+~
+human~
+ABF J -1000 0
+50 0 50d10+4250 5d5+5000 5d8+19 pound
+-20 -20 -20 0
+CDEFIJKQ 0 0 0
+stand stand male 1000
+0 0 medium unknown
+#120003
+oldstyle wizard speaker mage~
+a wizard~
+A old wizard sits here waiting for customers
+~
+~
+human~
+ABGHR D 400 0
+18 0 3d9+258 18d9+100 2d6+3 none
+-3 -3 -3 4
+FU 0 0 0
+stand stand male 50000
+0 0 medium unknown
+#0
+
+#OBJECTS
+#120000
+Marble Statue~
+Statue of Ikari~
+A huge marble statue of the great Ikari Sits here.~
+unknown~
+trash ABOR P
+0 0 0 0 0
+0 2000 0 P
+#120001
+sword excalibur~
+excalibur~
+A beautiful dragon hilted sword lies here!~
+admantite~
+weapon BKL AN
+sword 5 8 slice D
+38 4 4500 P
+A
+18 5
+A
+19 5
+A
+1 3
+A
+13 20
+E
+sword excalibur~
+You run your fingers over the blue green steel of Excalibur, and you feel 
+a tingling sensation. Your vison blurs until all you see is a blinding 
+white light. A warm sensation fills your limbs, and a sense of relaxed 
+comfort permeates you. A deep fatherlike voice says "Now that Arthur is 
+dead, it is up to you to right what he wrought. Seek out and destroy Mordred 
+and Morgan Le Fey. They are destroying Camelot." The voice and the light 
+gradually fade leaving you with only a lingering warm feeling.
+~
+#120002
+sword long two two-hand two-handed~
+a long two-handed sword~
+A long two-handed sword has been left here.~
+iron~
+weapon AG AN
+sword 4 6 slash DF
+20 50 7900 G
+A
+18 2
+A
+19 5
+A
+4 -2
+A
+5 -2
+#120003
+candle~
+a {BB{bl{Bu{be{x Candle~
+A {Mm{ma{Mg{mi{Mc{ma{Ml {BB{bl{Bu{be{B {RC{Ya{Rn{Yd{Rl{Ye {Rf{rl{Ra{rm{Re{rs{x on command!~
+iron~
+light A O
+0 0 540 0 0
+0 10 20 P
+E
+candle~
+This candle is an exceptional one, flaming on command as it does. It used to
+be a LOT cheaper, but since the Long Dark Night candlewax prices have 
+soared...
+~
+#0
+
+#ROOMS
+#120000
+Road to the Castle~
+A road thru the plains that leads towards a shadow which resembles a castle.
+~
+0 0 inside
+D0
+~
+~
+Z 0 120001
+S
+#120001
+Road to the castle~
+A road thru the plains that leads towards a shadow which resembles a castle.
+~
+0 0 inside
+D0
+~
+~
+Z 0 120002
+D2
+~
+~
+Z 0 120000
+S
+#120002
+Road near the castle~
+To the north is a breath taking castle that gleams in the sunlight,
+shadowing everything near it.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 120003
+D2
+~
+~
+Z 0 120001
+S
+#120003
+Before the Castle Gates~
+You are at the gates of "The Castle of Griswold".  You see giant marble
+pillars and flowers growing from some cracks in the wall.  There are some
+guards and commoners passing through for daily commerce.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 120004
+D2
+~
+~
+Z 0 120002
+S
+#120004
+Inside the Castle Gates~
+You are under the pearly gates of what seems to be a well built castle. 
+There are a few guards messin round in the corner talking about woman and
+money.  North leads into the castle.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 120005
+D2
+~
+~
+Z 0 120003
+S
+#120005
+A Hallway~
+The hallway is full of marble.  The floors gleam like they are brand new,
+you can see yourself in every wall.  There are candles highlighting the room
+in such a way it glows.  To the east and west there are passageways, to the
+north is the main ball room and south is back where you came.  
+~
+0 D inside
+D0
+~
+~
+Z 0 120008
+D1
+~
+~
+Z 0 120006
+D2
+~
+~
+Z 0 120004
+D3
+~
+~
+Z 0 120007
+S
+#120006
+A lit passageawy~
+A narrow hallway leading to what seem to be private rooms.  Maybe for the
+servants or guests of the king.  
+~
+0 D inside
+D0
+~
+~
+Z 0 120013
+D2
+~
+~
+Z 0 120014
+D3
+~
+~
+Z 0 120005
+S
+#120007
+A lit passageawy~
+A narrow hallway leading to what seem to be private rooms.  Maybe for the
+servants or guests of the king. 
+~
+0 D inside
+D1
+~
+~
+Z 0 120005
+S
+#120008
+The Grand Ball Room~
+A hugh room lined in velvet and diamonds.  There are rubys on the wall
+next to the golden candle holders.  On one of the walls there is an engraved
+Emblem, The Crest of Leoric.  Its very bold and make you feel honored to be
+in its presence.  
+~
+0 D inside
+D0
+~
+~
+Z 0 120009
+D1
+~
+~
+Z 0 120010
+D2
+~
+~
+Z 0 120005
+D3
+~
+~
+Z 0 120011
+S
+#120009
+Approaching the Throne~
+You are very near the great throne to the king.  There are several royal
+bodyguards near the king to protect him and his lady.  In a holder there is
+a sword with the words "Zedifrato Maxus Lemori".  In english that means
+Protector from sin.  
+~
+0 D inside
+D0
+~
+~
+Z 0 120012
+D2
+~
+~
+Z 0 120008
+S
+#120010
+South-East section of the Ballroom~
+~
+0 D inside
+D3
+~
+~
+Z 0 120008
+S
+#120011
+South-West Corner~
+~
+0 D inside
+D1
+~
+~
+Z 0 120008
+S
+#120012
+The Throne~
+You are at the throne where the king and the queen sits.  The thrones are
+made of the purest pf gold and encrusted in diamonds.  It must be worth a
+fortune.  There are two bodyguards, they look to be very large and strong
+men with a gleam in there eye that shows there loyalty to the King and his
+Queen.  
+~
+0 D inside
+D2
+~
+~
+Z 0 120009
+S
+#120013
+Wizard's Shop~
+A wooden shop with gizmos and gadets on the wall that seem to do various
+things.  There are empty bottles lieing around and the shopkeeper doesnt
+seem to be very tidy.  The counter is made of wood which seem to be very
+rickety and was made by a amateur craftsmen.  
+~
+0 D inside
+D0
+~
+~
+Z 0 120006
+D2
+~
+~
+Z 0 120006
+S
+#120014
+Momo's Quarters~
+A quaint little room, just enuff for a person or two to live in.  There
+are a few pictures on the wall of various family members and his past loves
+and such.  There a little cot thats neatly made with some dull blue sheets,
+they look very old.  Some junk and clutter scatter the floor as you walk
+around.  
+To the North is the way back to the Hallway, and to the east is another room.
+~
+0 0 inside
+D0
+~
+~
+Z 0 120006
+D1
+~
+~
+Z 0 120015
+S
+#120015
+Momo's Shrine of Miette~
+A dimly lit room with pictures of Miette all over the wall, on the center
+wall there is a huge poster of her with a huge amount of candles around it. 
+In the air is an aroma of vanilla, seems to be incense.  By the way things
+look either the guy is a sicko or cares for this "Miette" person very much. 
+
+~
+0 D inside
+D3
+~
+~
+Z 0 120014
+S
+#0
+
+#SPECIALS
+M 120001 spec_guard	* The Kings Bodygaurd
+M 120002 spec_guard	* an elite guard
+M 120003 spec_cast_mage	* a wizard
+S
+
+#RESETS
+M 0 120002 10 120004 5	* an elite guard (Inside the Castle Gates)
+O 0 120000 0 120005	* Statue of Ikari (A Hallway)
+M 0 120000 1 120012 1	* King Leoric (The Throne)
+E 0 120001 0 16		*	excalibur: wielded
+M 0 120001 2 120012 2	* The Kings Bodygaurd (The Throne)
+E 0 120002 0 16		*	a long two-handed sword: wielded
+E 0 120002 0 16		*	a long two-handed sword: wielded
+M 0 120003 1 120013 1	* a wizard (Wizard's Shop)
+O 0 120003 0 120015	* a {BB{bl{Bu{be{x Candle (Momo's Shrine of Miette)
+S
+
+#SHOPS
+120003 2 3 4 0 10 75 125 0 23
+0
+
+#OLIMITS
+O 120000 1	* Statue of Ikari
+S
+
+#$

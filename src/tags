@@ -1,0 +1,2878 @@
+A	const.h	355
+ACT_AGGRESSIVE	merc.h	411
+ACT_CHANGER	merc.h	432
+ACT_CLAN_GUARD	merc.h	434
+ACT_CLERIC	merc.h	419
+ACT_GAIN	merc.h	430
+ACT_HEALER	merc.h	429
+ACT_HUNTER	merc.h	417
+ACT_INDOORS	merc.h	427
+ACT_MAGE	merc.h	420
+ACT_NOALIGN	merc.h	423
+ACT_NODEAF	comm_act.h	43
+ACT_NOLF	comm_act.h	47
+ACT_NOMORTAL	comm_act.h	45
+ACT_NOPURGE	merc.h	424
+ACT_NOTRACK	merc.h	433
+ACT_NOTRIG	comm_act.h	40
+ACT_NOTWIT	comm_act.h	41
+ACT_NPC	merc.h	408
+ACT_OUTDOORS	merc.h	425
+ACT_PET	merc.h	414
+ACT_PRACTICE	merc.h	416
+ACT_QUESTOR	merc.h	426
+ACT_RIDEABLE	merc.h	428
+ACT_SCAVENGER	merc.h	410
+ACT_SENTINEL	merc.h	409
+ACT_STAY_AREA	merc.h	412
+ACT_STRANS	comm_act.h	44
+ACT_THIEF	merc.h	421
+ACT_TOBUF	comm_act.h	39
+ACT_TRAIN	merc.h	415
+ACT_TRANS	comm_act.h	42
+ACT_UNDEAD	merc.h	418
+ACT_UPDATE_ALWAYS	merc.h	431
+ACT_VERBOSE	comm_act.h	46
+ACT_WARRIOR	merc.h	422
+ACT_WIMPY	merc.h	413
+AC_BASH	merc.h	707
+AC_EXOTIC	merc.h	709
+AC_PIERCE	merc.h	706
+AC_SLASH	merc.h	708
+AFFECT_DATA	typedef.h	48
+AFF_ACUTE_VISION	merc.h	676
+AFF_BERSERK	merc.h	655
+AFF_BLIND	merc.h	629
+AFF_BLOODTHIRST	merc.h	664
+AFF_CALM	merc.h	651
+AFF_CAMOUFLAGE	merc.h	659
+AFF_CHARM	merc.h	647
+AFF_CORRUPTION	merc.h	640
+AFF_CURSE	merc.h	639
+AFF_DARK_VISION	merc.h	654
+AFF_DETECT_EVIL	merc.h	631
+AFF_DETECT_FADE	merc.h	669
+AFF_DETECT_FEAR	merc.h	671
+AFF_DETECT_FORM_GRASS	merc.h	673
+AFF_DETECT_FORM_TREE	merc.h	672
+AFF_DETECT_GOOD	merc.h	635
+AFF_DETECT_HIDDEN	merc.h	634
+AFF_DETECT_IMP_INVIS	merc.h	668
+AFF_DETECT_INVIS	merc.h	632
+AFF_DETECT_LIFE	merc.h	675
+AFF_DETECT_MAGIC	merc.h	633
+AFF_DETECT_UNDEAD	merc.h	670
+AFF_DETECT_WEB	merc.h	674
+AFF_FADE	merc.h	662
+AFF_FAERIE_FIRE	merc.h	637
+AFF_FLYING	merc.h	648
+AFF_HASTE	merc.h	650
+AFF_HIDE	merc.h	645
+AFF_IMP_INVIS	merc.h	661
+AFF_INFRARED	merc.h	638
+AFF_INVIS	merc.h	630
+AFF_PASS_DOOR	merc.h	649
+AFF_PLAGUE	merc.h	652
+AFF_POISON	merc.h	641
+AFF_PROTECT_EVIL	merc.h	642
+AFF_PROTECT_GOOD	merc.h	643
+AFF_REGENERATION	merc.h	657
+AFF_SANCTUARY	merc.h	636
+AFF_SCREAM	merc.h	663
+AFF_SLEEP	merc.h	646
+AFF_SLOW	merc.h	658
+AFF_SNEAK	merc.h	644
+AFF_STUN	merc.h	665
+AFF_SWIM	merc.h	656
+AFF_WEAKEN	merc.h	653
+AFF_WEAK_STUN	merc.h	666
+ALIGN_EVIL	merc.h	359
+ALIGN_GOOD	merc.h	357
+ALIGN_NEUTRAL	merc.h	358
+ALIGN_NONE	merc.h	356
+ANGEL	const.h	152
+AO	comm/comm.c	167
+APPLY_AC	merc.h	899
+APPLY_AGE	merc.h	891
+APPLY_CHA	merc.h	888
+APPLY_CLASS	merc.h	910
+APPLY_CON	merc.h	887
+APPLY_DAMROLL	merc.h	901
+APPLY_DEX	merc.h	884
+APPLY_EXP	merc.h	898
+APPLY_GOLD	merc.h	897
+APPLY_HEIGHT	merc.h	892
+APPLY_HIT	merc.h	895
+APPLY_HITROLL	merc.h	900
+APPLY_INT	merc.h	885
+APPLY_LEVEL	merc.h	890
+APPLY_MANA	merc.h	894
+APPLY_MOVE	merc.h	896
+APPLY_NONE	merc.h	882
+APPLY_RACE	merc.h	911
+APPLY_ROOM_HEAL	merc.h	336
+APPLY_ROOM_MANA	merc.h	337
+APPLY_ROOM_NONE	merc.h	335
+APPLY_SAVES	merc.h	902
+APPLY_SAVING_BREATH	merc.h	906
+APPLY_SAVING_PARA	merc.h	903
+APPLY_SAVING_PETRI	merc.h	905
+APPLY_SAVING_ROD	merc.h	904
+APPLY_SAVING_SPELL	merc.h	907
+APPLY_SEX	merc.h	889
+APPLY_SIZE	merc.h	909
+APPLY_SPELL_AFFECT	merc.h	908
+APPLY_STR	merc.h	883
+APPLY_WEIGHT	merc.h	893
+APPLY_WIS	merc.h	886
+AREASTAT_FILE	const.h	104
+AREA_CHANGED	merc.h	401
+AREA_DATA	typedef.h	49
+AREA_HOMETOWN	merc.h	397
+AREA_LIST	const.h	88
+AREA_NOQUEST	merc.h	400
+AREA_PATH	const.h	53
+AREA_UNDER_CONSTRUCTION	merc.h	398
+ASSIST_ALIGN	merc.h	479
+ASSIST_ALL	merc.h	478
+ASSIST_GUARD	merc.h	482
+ASSIST_PLAYERS	merc.h	481
+ASSIST_RACE	merc.h	480
+ASSIST_VNUM	merc.h	483
+AUCTION_DATA	auction.h	48
+AUTHOR	olc/olc.c	57
+AVATAR	const.h	153
+AYT	comm/comm.c	166
+B	const.h	356
+BAN_ALL	ban.h	52
+BAN_DATA	typedef.h	50
+BAN_FILE	const.h	102
+BAN_NEWBIES	ban.h	51
+BAN_PERMANENT	ban.h	54
+BAN_PERMIT	ban.h	53
+BAN_PLAYER	ban.h	55
+BAN_PREFIX	ban.h	50
+BAN_SUFFIX	ban.h	49
+BEGIN_BLOCK	mob_prog.c	895
+BREAK	comm/comm.c	169
+BUFFER	typedef.h	51
+BUFSZ	flag.c	169
+BUF_DEFAULT_SIZE	buffer.c	64
+BUF_LIST_MAX	buffer.c	63
+BUG_FILE	const.h	94
+C	const.h	357
+CAN_WEAR	merc.h	/^#define CAN_WEAR(obj, part)	(IS_SET((obj)->wear_fl/
+CHANGES_FILE	const.h	100
+CHAR_DATA	typedef.h	52
+CHECK_POS	merc.h	/^#define CHECK_POS(a, b, c)						\\$/
+CLAN	clan.h	/^#define CLAN(cn)		((CLAN_DATA*) VARR_GET(&clans, c/
+CLANS_PATH	const.h	52
+CLAN_CHANGED	clan.h	66
+CLAN_COMMONER	clan.h	41
+CLAN_DATA	typedef.h	79
+CLAN_HIDDEN	clan.h	65
+CLAN_LEADER	clan.h	39
+CLAN_LIST	const.h	89
+CLAN_NONE	clan.h	36
+CLAN_SECOND	clan.h	40
+CLAN_SKILL	typedef.h	77
+CLASS	class.h	/^#define CLASS(i)		((CLASS_DATA*) VARR_GET(&classes/
+CLASSES_PATH	const.h	51
+CLASS_DATA	typedef.h	81
+CLASS_LIST	const.h	90
+CLASS_MAGIC	class.h	69
+CLASS_SKILL	typedef.h	76
+CMD_CHARMED_OK	merc.h	85
+CMD_DATA	typedef.h	87
+CMD_DISABLED	merc.h	87
+CMD_HIDDEN	merc.h	86
+CMD_KEEP_HIDE	merc.h	83
+CMD_NOORDER	merc.h	84
+COMM_AFK	merc.h	1141
+COMM_BRIEF	merc.h	1127
+COMM_COLOR	merc.h	1133
+COMM_COMBINE	merc.h	1129
+COMM_COMPACT	merc.h	1126
+COMM_DEAF	merc.h	1115
+COMM_LONG	merc.h	1143
+COMM_NOAUCTION	merc.h	1117
+COMM_NOCHANNELS	merc.h	1139
+COMM_NOCLAN	merc.h	1122
+COMM_NOEMOTE	merc.h	1136
+COMM_NOGOSSIP	merc.h	1118
+COMM_NOGRATS	merc.h	1132
+COMM_NOIAC	merc.h	1145
+COMM_NOMUSIC	merc.h	1120
+COMM_NOQUESTION	merc.h	1119
+COMM_NOQUOTE	merc.h	1121
+COMM_NOSHOUT	merc.h	1137
+COMM_NOTELL	merc.h	1138
+COMM_NOTELNET	merc.h	1144
+COMM_NOVERBOSE	merc.h	1146
+COMM_NOWIZ	merc.h	1116
+COMM_PROMPT	merc.h	1128
+COMM_QUIET	merc.h	1114
+COMM_QUIET_EDITOR	merc.h	1125
+COMM_SHOWAFF	merc.h	1131
+COMM_SNOOP_PROOF	merc.h	1140
+COMM_TELNET_GA	merc.h	1130
+COND_AVERAGE	merc.h	823
+COND_BLOODLUST	merc.h	1038
+COND_DESIRE	merc.h	1039
+COND_DRUNK	merc.h	1034
+COND_EXCELLENT	merc.h	820
+COND_FINE	merc.h	821
+COND_FRAGILE	merc.h	825
+COND_FULL	merc.h	1035
+COND_GOOD	merc.h	822
+COND_HUNGER	merc.h	1037
+COND_POOR	merc.h	824
+COND_THIRST	merc.h	1036
+CONT_CLOSEABLE	merc.h	917
+CONT_CLOSED	merc.h	919
+CONT_LOCKED	merc.h	920
+CONT_PICKPROOF	merc.h	918
+CONT_PUT_ON	merc.h	921
+CONT_QUIVER	merc.h	922
+CON_ACCEPT_STATS	merc.h	142
+CON_BREAK_CONNECT	merc.h	140
+CON_CONFIRM_NEW_NAME	merc.h	128
+CON_CONFIRM_NEW_PASSWORD	merc.h	130
+CON_CREATE_DONE	merc.h	145
+CON_DEFAULT_CHOICE	merc.h	135
+CON_GEN_GROUPS	merc.h	136
+CON_GET_ALIGNMENT	merc.h	134
+CON_GET_CODEPAGE	merc.h	146
+CON_GET_ETHOS	merc.h	144
+CON_GET_NAME	merc.h	126
+CON_GET_NEW_CLASS	merc.h	133
+CON_GET_NEW_PASSWORD	merc.h	129
+CON_GET_NEW_RACE	merc.h	131
+CON_GET_NEW_SEX	merc.h	132
+CON_GET_OLD_PASSWORD	merc.h	127
+CON_PICK_HOMETOWN	merc.h	143
+CON_PICK_WEAPON	merc.h	137
+CON_PLAYING	merc.h	125
+CON_READ_IMOTD	merc.h	138
+CON_READ_MOTD	merc.h	139
+CON_RESOLV	merc.h	147
+CON_ROLL_STATS	merc.h	141
+CREATE_NAMED	db/db.c	173
+CREATE_NOCOUNT	db/db.c	172
+CREATOR	const.h	146
+CREDITS	olc/olc.c	67
+CR_EVIL	merc.h	365
+CR_GOOD	merc.h	363
+CR_NEUTRAL	merc.h	364
+CR_NONE	merc.h	362
+D	const.h	358
+DAMF_NONE	fight.h	69
+DAMF_SECOND	fight.h	71
+DAMF_SHOW	fight.h	70
+DAM_ACID	merc.h	444
+DAM_BASH	merc.h	438
+DAM_CHARM	merc.h	455
+DAM_COLD	merc.h	442
+DAM_DISEASE	merc.h	450
+DAM_DROWNING	merc.h	451
+DAM_ENERGY	merc.h	448
+DAM_FIRE	merc.h	441
+DAM_HARM	merc.h	454
+DAM_HOLY	merc.h	447
+DAM_HUNGER	merc.h	458
+DAM_LIGHT	merc.h	452
+DAM_LIGHTNING	merc.h	443
+DAM_LIGHT_V	merc.h	459
+DAM_MENTAL	merc.h	449
+DAM_NEGATIVE	merc.h	446
+DAM_NONE	merc.h	437
+DAM_OTHER	merc.h	453
+DAM_PIERCE	merc.h	439
+DAM_POISON	merc.h	445
+DAM_SLASH	merc.h	440
+DAM_SOUND	merc.h	456
+DAM_THIRST	merc.h	457
+DAM_TRAP_ROOM	merc.h	460
+DATE	olc/olc.c	64
+DAZE_STATE	merc.h	/^#define DAZE_STATE(ch, npulse)	((ch)->daze = UMAX(/
+DBFUN	db.h	86
+DBINIT_FUN	db/db_area.c	/^DBINIT_FUN(init_area)$/
+DBLOAD_FUN	db/db_area.c	/^DBLOAD_FUN(load_area)$/
+DECLARE_DBINIT_FUN	db.h	/^#define DECLARE_DBINIT_FUN(fun) DBINIT_FUN fun$/
+DECLARE_DBLOAD_FUN	db.h	/^#define DECLARE_DBLOAD_FUN(fun) DBLOAD_FUN fun$/
+DECLARE_DO_FUN	typedef.h	/^#define DECLARE_DO_FUN(fun)	DO_FUN	  fun$/
+DECLARE_OLC_FUN	olc.h	/^#define DECLARE_OLC_FUN(fun)		OLC_FUN		fun$/
+DECLARE_OPROG	obj_prog.c	/^#define DECLARE_OPROG(f) OPROG_FUN f$/
+DECLARE_OPROG_FUN	typedef.h	/^#define DECLARE_OPROG_FUN(fun)	OPROG_FUN fun$/
+DECLARE_SPEC_FUN	typedef.h	/^#define DECLARE_SPEC_FUN(fun) 	SPEC_FUN  fun$/
+DECLARE_SPELL_FUN	typedef.h	/^#define DECLARE_SPELL_FUN(fun)	SPELL_FUN fun$/
+DECLARE_VALIDATE_FUN	olc.h	/^#define DECLARE_VALIDATE_FUN(fun)	VALIDATE_FUN	fun/
+DEITY	const.h	148
+DEMI	const.h	151
+DESCRIPTOR_DATA	typedef.h	53
+DICE_BONUS	merc.h	714
+DICE_NUMBER	merc.h	712
+DICE_TYPE	merc.h	713
+DIF	olc/olc_save.c	/^#define DIF(a,b) (~((~a)|(b)))$/
+DIR_DOWN	merc.h	958
+DIR_EAST	merc.h	954
+DIR_NORTH	merc.h	953
+DIR_SOUTH	merc.h	955
+DIR_UP	merc.h	957
+DIR_WEST	merc.h	956
+DM	comm/comm.c	170
+DO	comm/comm.c	159
+DONT	comm/comm.c	158
+DO_FUN	act_comm.c	/^DO_FUN(do_twit)$/
+E	const.h	359
+EC	comm/comm.c	165
+EDIT_AREA	olc/olc_area.c	/^#define EDIT_AREA(ch, area)	(area = (AREA_DATA*) c/
+EDIT_CLAN	olc/olc_clan.c	/^#define EDIT_CLAN(ch, clan)	(clan = (CLAN_DATA*) c/
+EDIT_GETMSG	olc/olc_msg.c	/^#define EDIT_GETMSG(ch, mlp)	(mlp = (mlstring**) c/
+EDIT_HASH	olc/olc_word.c	/^#define EDIT_HASH(ch, l, hashp)						\\$/
+EDIT_HELP	olc/olc_help.c	/^#define EDIT_HELP(ch, help)	(help = (HELP_DATA*) c/
+EDIT_LANG	olc/olc_lang.c	/^#define EDIT_LANG(ch, l)	(l = (LANG_DATA*) (ch->de/
+EDIT_MOB	olc/olc_mob.c	/^#define EDIT_MOB(ch, mob)	(mob = (MOB_INDEX_DATA*)/
+EDIT_MPCODE	olc/olc_mpcode.c	/^#define EDIT_MPCODE(ch, mpcode)   (mpcode = (MPCOD/
+EDIT_OBJ	olc/olc_obj.c	/^#define EDIT_OBJ(ch, obj)	(obj = (OBJ_INDEX_DATA*)/
+EDIT_ROOM	olc/olc_room.c	/^#define EDIT_ROOM(ch, room)	(room = (ROOM_INDEX_DA/
+EDIT_WORD	olc/olc_word.c	/^#define EDIT_WORD(ch, w)	(w = (WORD_DATA*) ch->des/
+ED_DATA	typedef.h	55
+EL	comm/comm.c	164
+END_BLOCK	mob_prog.c	897
+ENTRE	typedef.h	/^#define ENTRE(min, num, max)	((min) < (num) && (nu/
+EOR	comm/comm.c	173
+ETC_PATH	const.h	49
+EVAL_EQ	mob_prog.c	125
+EVAL_GE	mob_prog.c	126
+EVAL_GT	mob_prog.c	128
+EVAL_LE	mob_prog.c	127
+EVAL_LT	mob_prog.c	129
+EVAL_NE	mob_prog.c	130
+EXIT_DATA	typedef.h	54
+EX_BITVAL	merc.h	975
+EX_CLOSED	merc.h	965
+EX_DATAERR	db/resource.c	90
+EX_EASY	merc.h	970
+EX_HARD	merc.h	971
+EX_INFURIATING	merc.h	972
+EX_ISDOOR	merc.h	964
+EX_LOCKED	merc.h	966
+EX_NOCLOSE	merc.h	973
+EX_NOFLEE	merc.h	967
+EX_NOINPUT	db/resource.c	91
+EX_NOLOCK	merc.h	974
+EX_NOPASS	merc.h	969
+EX_OSERR	db/resource.c	92
+EX_PICKPROOF	merc.h	968
+F	const.h	360
+FALSE	typedef.h	35
+FIGHT_DELAY_TIME	const.h	190
+FIX_SEX	db/resource.c	/^#define FIX_SEX(sex) ((sex) >= SEX_FEMALE  ? SEX_F/
+FLAG	typedef.h	75
+FLAG_SET	act_info.c	/^#define FLAG_SET(pos, c, exp) (FLAGS[pos] = (exp) /
+FNDELAY	comm/comm.c	683
+FOA_F_NOAFFECTS	merc.h	1974
+FOA_F_NODURATION	merc.h	1973
+FORMAT_DATA	comm/comm_colors.c	64
+FORM_AMPHIBIAN	merc.h	595
+FORM_ANIMAL	merc.h	575
+FORM_BIPED	merc.h	582
+FORM_BIRD	merc.h	591
+FORM_BLOB	merc.h	588
+FORM_CENTAUR	merc.h	583
+FORM_COLD_BLOOD	merc.h	597
+FORM_CONSTRUCT	merc.h	578
+FORM_CRUSTACEAN	merc.h	586
+FORM_DRAGON	merc.h	594
+FORM_EDIBLE	merc.h	568
+FORM_FISH	merc.h	596
+FORM_INSECT	merc.h	584
+FORM_INSTANT_DECAY	merc.h	571
+FORM_INTANGIBLE	merc.h	580
+FORM_MAGICAL	merc.h	570
+FORM_MAMMAL	merc.h	590
+FORM_MAX	word.h	32
+FORM_MIST	merc.h	579
+FORM_OTHER	merc.h	572
+FORM_POISON	merc.h	569
+FORM_REPTILE	merc.h	592
+FORM_SENTIENT	merc.h	576
+FORM_SNAKE	merc.h	593
+FORM_SPIDER	merc.h	585
+FORM_UNDEAD	merc.h	577
+FORM_WORM	merc.h	587
+G	const.h	361
+GA	comm/comm.c	163
+GATE_BUGGY	merc.h	857
+GATE_GOWITH	merc.h	856
+GATE_NOCURSE	merc.h	855
+GATE_NORMAL_EXIT	merc.h	854
+GATE_RANDOM	merc.h	858
+GETMSG	db/msg.c	/^const char *GETMSG(const char *msg, int lang)$/
+GET_AC	merc.h	/^#define GET_AC(ch,type) 	((ch)->armor[type]			    /
+GET_AGE	merc.h	/^#define GET_AGE(ch)		((int) (17 + ((ch)->played \\$/
+GET_DAMROLL	merc.h	/^#define GET_DAMROLL(ch) \\$/
+GET_HITROLL	merc.h	/^#define GET_HITROLL(ch) \\$/
+GHOST_DELAY_TIME	const.h	191
+GOD	const.h	149
+GODS_PATH	const.h	46
+GO_OK	hunt.c	68
+GO_OK_SMARTER	hunt.c	69
+GROUP_ATTACK	merc.h	370
+GROUP_BEGUILING	merc.h	371
+GROUP_BENEDICTIONS	merc.h	372
+GROUP_CLAN	merc.h	390
+GROUP_COMBAT	merc.h	373
+GROUP_CREATION	merc.h	374
+GROUP_CURATIVE	merc.h	375
+GROUP_DEFENSIVE	merc.h	391
+GROUP_DETECTION	merc.h	376
+GROUP_DRACONIAN	merc.h	377
+GROUP_ENCHANTMENT	merc.h	378
+GROUP_ENHANCEMENT	merc.h	379
+GROUP_FIGHTMASTER	merc.h	387
+GROUP_HARMFUL	merc.h	380
+GROUP_HEALING	merc.h	381
+GROUP_ILLUSION	merc.h	382
+GROUP_MALADICTIONS	merc.h	383
+GROUP_MEDITATION	merc.h	389
+GROUP_NONE	merc.h	368
+GROUP_PROTECTIVE	merc.h	384
+GROUP_SUDDENDEATH	merc.h	388
+GROUP_TRANSPORTATION	merc.h	385
+GROUP_VNUM_OGRES	const.h	227
+GROUP_VNUM_TROLLS	const.h	226
+GROUP_WEAPONSMASTER	merc.h	369
+GROUP_WEATHER	merc.h	386
+GROUP_WIZARD	merc.h	392
+H	const.h	362
+HASHED_STRINGS	str.c	50
+HASH_KEY	hunt.c	/^#define	HASH_KEY(ht,key)((((unsigned int)(key))*17/
+HAS_SKILL	skills.h	/^#define HAS_SKILL(ch, sn)	(skill_level(ch, sn) < L/
+HAS_TRIGGER	merc.h	/^#define HAS_TRIGGER(ch,trig)	(IS_SET((ch)->pIndexD/
+HE	const.h	166
+HELP_DATA	typedef.h	56
+HERO	const.h	154
+HOMETOWN_DATA	typedef.h	73
+I	const.h	364
+IAC	comm/comm.c	157
+IAC_REPL	merc.h	1150
+IDEA_FILE	const.h	97
+IM	const.h	165
+IMMLOG_FILE	const.h	105
+IMMORTAL	const.h	150
+IMM_ACID	merc.h	502
+IMM_BASH	merc.h	496
+IMM_CHARM	merc.h	493
+IMM_COLD	merc.h	500
+IMM_DISEASE	merc.h	508
+IMM_DROWNING	merc.h	509
+IMM_ENERGY	merc.h	506
+IMM_FIRE	merc.h	499
+IMM_HOLY	merc.h	505
+IMM_IRON	merc.h	515
+IMM_LIGHT	merc.h	510
+IMM_LIGHTNING	merc.h	501
+IMM_MAGIC	merc.h	494
+IMM_MENTAL	merc.h	507
+IMM_NEGATIVE	merc.h	504
+IMM_PIERCE	merc.h	497
+IMM_POISON	merc.h	503
+IMM_SILVER	merc.h	514
+IMM_SLASH	merc.h	498
+IMM_SOUND	merc.h	511
+IMM_STEAL	merc.h	512
+IMM_SUMMON	merc.h	492
+IMM_WEAPON	merc.h	495
+IMM_WOOD	merc.h	513
+IMPLEMENTOR	const.h	145
+INFO_DESC	comm_info.h	32
+INVALIDATE	typedef.h	/^#define INVALIDATE(data)$/
+IN_BLOCK	mob_prog.c	896
+IN_RANGE	olc/olc_area.c	/^#define IN_RANGE(i, l, u) ((l) <= (i) && (i) <= (u/
+IP	comm/comm.c	168
+ISLOWER	typedef.h	/^#define ISLOWER(c)		(islower((unsigned char) (c)))/
+ISUPPER	typedef.h	/^#define ISUPPER(c)		(isupper((unsigned char) (c)))/
+IS_AFFECTED	merc.h	/^#define IS_AFFECTED(ch, bit)	(IS_SET((ch)->affecte/
+IS_AWAKE	merc.h	/^#define IS_AWAKE(ch)		(ch->position > POS_SLEEPING/
+IS_BUILDER	merc.h	/^#define IS_BUILDER(ch, Area)	(!IS_NPC(ch) && !IS_S/
+IS_CLAN_GUARD	merc.h	/^#define IS_CLAN_GUARD(ch) (IS_NPC(ch) && IS_SET(ch/
+IS_DIR	hunt.c	67
+IS_DRUNK	merc.h	/^#define IS_DRUNK(ch)	(IS_NPC(ch)  ? \\$/
+IS_EVIL	merc.h	/^#define IS_EVIL(ch)		(ch->alignment <= -350)$/
+IS_GOLEM	merc.h	/^#define IS_GOLEM(ch)		(IS_NPC(ch) &&\\$/
+IS_GOOD	merc.h	/^#define IS_GOOD(ch)		(ch->alignment >= 350)$/
+IS_HARA_KIRI	merc.h	/^#define IS_HARA_KIRI(ch) (IS_SET((ch)->plr_flags, /
+IS_HERO	merc.h	/^#define IS_HERO(ch)		(!IS_NPC(ch) && (ch)->level >/
+IS_IMMORTAL	merc.h	/^#define IS_IMMORTAL(ch) 	(!IS_NPC(ch) && (ch)->lev/
+IS_IMMUNE	merc.h	487
+IS_NEUTRAL	merc.h	/^#define IS_NEUTRAL(ch)		(!IS_GOOD(ch) && !IS_EVIL(/
+IS_NORMAL	merc.h	486
+IS_NPC	merc.h	/^#define IS_NPC(ch)		(IS_SET((ch)->plr_flags, ACT_N/
+IS_NULLSTR	typedef.h	/^#define IS_NULLSTR(str)		(!(str) || *(char*)(str) /
+IS_OBJ_STAT	merc.h	/^#define IS_OBJ_STAT(obj, stat)	(IS_SET((obj)->extr/
+IS_ON_QUEST	quest.h	/^#define IS_ON_QUEST(ch)	(ch->pcdata->questtime > 0/
+IS_OUTSIDE	merc.h	/^#define IS_OUTSIDE(ch)	(!IS_SET((ch)->in_room->roo/
+IS_PK	merc.h	/^#define IS_PK(ch, vt)		(!IS_NPC((ch)) & !IS_NPC((v/
+IS_PUMPED	merc.h	/^#define IS_PUMPED(ch) (IS_SET((ch)->plr_flags, PLR/
+IS_RAFFECTED	merc.h	/^#define IS_RAFFECTED(room, sn)	(IS_SET((room)->aff/
+IS_RESISTANT	merc.h	488
+IS_ROOM_AFFECTED	merc.h	/^#define IS_ROOM_AFFECTED(room, sn)	(IS_SET((room)-/
+IS_SET	typedef.h	/^#define IS_SET(flag, bit)	((flag) & (bit))$/
+IS_SWITCHED	merc.h	/^#define IS_SWITCHED( ch )       (ch->desc && ch->d/
+IS_TRUSTED	merc.h	/^#define IS_TRUSTED(ch, lev)	((IS_NPC(ch) ?				    /
+IS_VALID	typedef.h	/^#define IS_VALID(data)		((data))$/
+IS_VULNERABLE	merc.h	489
+IS_WATER	merc.h	/^#define IS_WATER(var) 	(((var)->sector_type == SEC/
+IS_WEAPON_STAT	merc.h	/^#define IS_WEAPON_STAT(obj,stat)(IS_SET((obj)->val/
+ITEM_ANTI_EVIL	merc.h	774
+ITEM_ANTI_GOOD	merc.h	773
+ITEM_ANTI_NEUTRAL	merc.h	775
+ITEM_ARMOR	merc.h	735
+ITEM_BLESS	merc.h	772
+ITEM_BOAT	merc.h	745
+ITEM_BURN_PROOF	merc.h	787
+ITEM_CLOTHING	merc.h	737
+ITEM_CONTAINER	merc.h	740
+ITEM_CORPSE_NPC	merc.h	746
+ITEM_CORPSE_PC	merc.h	747
+ITEM_DARK	merc.h	766
+ITEM_DRINK_CON	merc.h	741
+ITEM_ENCHANTED	merc.h	792
+ITEM_EVIL	merc.h	768
+ITEM_FOOD	merc.h	743
+ITEM_FOUNTAIN	merc.h	748
+ITEM_FURNITURE	merc.h	738
+ITEM_GEM	merc.h	755
+ITEM_GLOW	merc.h	764
+ITEM_HAD_TIMER	merc.h	785
+ITEM_HOLD	merc.h	813
+ITEM_HUM	merc.h	765
+ITEM_INVENTORY	merc.h	777
+ITEM_INVIS	merc.h	769
+ITEM_JEWELRY	merc.h	756
+ITEM_JUKEBOX	merc.h	757
+ITEM_KEY	merc.h	742
+ITEM_LIGHT	merc.h	729
+ITEM_LOCK	merc.h	767
+ITEM_MAGIC	merc.h	770
+ITEM_MAP	merc.h	751
+ITEM_MELT_DROP	merc.h	784
+ITEM_MONEY	merc.h	744
+ITEM_NODROP	merc.h	771
+ITEM_NOLOCATE	merc.h	783
+ITEM_NONMETAL	merc.h	782
+ITEM_NOPURGE	merc.h	778
+ITEM_NOREMOVE	merc.h	776
+ITEM_NOSAC	merc.h	781
+ITEM_NOSELL	merc.h	789
+ITEM_NOT_EDIBLE	merc.h	790
+ITEM_NOUNCURSE	merc.h	788
+ITEM_NO_SAC	merc.h	814
+ITEM_OLDSTYLE	merc.h	793
+ITEM_PILL	merc.h	749
+ITEM_PORTAL	merc.h	752
+ITEM_POTION	merc.h	736
+ITEM_PROTECT	merc.h	750
+ITEM_QUEST	merc.h	791
+ITEM_ROOM_KEY	merc.h	754
+ITEM_ROT_DEATH	merc.h	779
+ITEM_SCROLL	merc.h	730
+ITEM_SELL_EXTRACT	merc.h	786
+ITEM_STAFF	merc.h	732
+ITEM_TAKE	merc.h	799
+ITEM_TATTOO	merc.h	758
+ITEM_TRASH	merc.h	739
+ITEM_TREASURE	merc.h	734
+ITEM_VIS_DEATH	merc.h	780
+ITEM_WAND	merc.h	731
+ITEM_WARP_STONE	merc.h	753
+ITEM_WEAPON	merc.h	733
+ITEM_WEAR_ABOUT	merc.h	809
+ITEM_WEAR_ARMS	merc.h	807
+ITEM_WEAR_BODY	merc.h	802
+ITEM_WEAR_CLANMARK	merc.h	817
+ITEM_WEAR_FEET	merc.h	805
+ITEM_WEAR_FINGER	merc.h	800
+ITEM_WEAR_FLOAT	merc.h	815
+ITEM_WEAR_HANDS	merc.h	806
+ITEM_WEAR_HEAD	merc.h	803
+ITEM_WEAR_LEGS	merc.h	804
+ITEM_WEAR_NECK	merc.h	801
+ITEM_WEAR_SHIELD	merc.h	808
+ITEM_WEAR_TATTOO	merc.h	816
+ITEM_WEAR_WAIST	merc.h	810
+ITEM_WEAR_WRIST	merc.h	811
+ITEM_WIELD	merc.h	812
+J	const.h	365
+JUST_KILLED	merc.h	/^#define JUST_KILLED(ch)		(ch->last_death_time >= c/
+K	const.h	366
+KEY	db.h	/^#define KEY(literal, field, value)			\\$/
+KILL_DATA	typedef.h	57
+L	const.h	367
+L1	const.h	157
+L2	const.h	158
+L3	const.h	159
+L4	const.h	160
+L5	const.h	161
+L6	const.h	162
+L7	const.h	163
+L8	const.h	164
+LANG_CASES_CHANGED	lang.h	49
+LANG_CHANGED	lang.h	50
+LANG_CONF	const.h	85
+LANG_DATA	typedef.h	85
+LANG_GENDERS_CHANGED	lang.h	48
+LANG_HIDDEN	lang.h	47
+LANG_LIST	const.h	91
+LANG_PATH	const.h	54
+LEVEL_HERO	const.h	141
+LEVEL_IMMORTAL	const.h	142
+LEVEL_NEWBIE	const.h	143
+LIQ_WATER	merc.h	1394
+LOG_ALWAYS	interp.c	65
+LOG_NEVER	interp.c	66
+LOG_NORMAL	interp.c	64
+LOWER	typedef.h	/^#define LOWER(c)		(tolower((unsigned char) (c)))$/
+M	const.h	368
+MAXON_FILE	const.h	103
+MAX_ALIAS	const.h	137
+MAX_CALL_LEVEL	mob_prog.c	898
+MAX_CHARM	merc.h	/^#define MAX_CHARM(ch)	((get_curr_stat(ch,STAT_INT)/
+MAX_CHAR_NAME	const.h	120
+MAX_COND	const.h	135
+MAX_DAMAGE_MESSAGE	fight.c	2363
+MAX_DIR	const.h	136
+MAX_INPUT_LENGTH	const.h	116
+MAX_KEY_HASH	const.h	110
+MAX_LEVEL	const.h	139
+MAX_MOB	olc/olc_room.c	446
+MAX_MSG_HASH	const.h	112
+MAX_NEST	save.c	62
+MAX_NESTED_LEVEL	mob_prog.c	894
+MAX_NEWBIES	const.h	131
+MAX_OLDIES	const.h	132
+MAX_PROMPT_LENGTH	const.h	118
+MAX_QMOB_COUNT	quest.c	476
+MAX_RELIGION	const.h	129
+MAX_SOCIALS	const.h	128
+MAX_STATS	const.h	134
+MAX_STRING_HASH	const.h	113
+MAX_STRING_LENGTH	const.h	115
+MAX_TITLE_LENGTH	const.h	119
+MAX_TRADE	const.h	133
+MAX_WEAR	merc.h	1022
+MAX_WORD_HASH	const.h	111
+MIN_START_PRICE	auction.h	46
+ML	const.h	156
+MLSKEY	db.h	/^#define MLSKEY(string, field)				\\$/
+MOB_INDEX_DATA	typedef.h	58
+MOB_VNUM_ADAMANTITE_GOLEM	const.h	221
+MOB_VNUM_BEAR	const.h	207
+MOB_VNUM_CAT	const.h	199
+MOB_VNUM_CITYGUARD	const.h	197
+MOB_VNUM_DEMON	const.h	208
+MOB_VNUM_FIDO	const.h	200
+MOB_VNUM_HUNTER	const.h	223
+MOB_VNUM_IRON_GOLEM	const.h	220
+MOB_VNUM_LESSER_GOLEM	const.h	218
+MOB_VNUM_LION	const.h	214
+MOB_VNUM_MIRROR_IMAGE	const.h	212
+MOB_VNUM_NIGHTWALKER	const.h	209
+MOB_VNUM_PATROLMAN	const.h	225
+MOB_VNUM_SAGE	const.h	201
+MOB_VNUM_SHADOW	const.h	205
+MOB_VNUM_SPECIAL_GUARD	const.h	206
+MOB_VNUM_SQUIRE	const.h	211
+MOB_VNUM_STALKER	const.h	210
+MOB_VNUM_STONE_GOLEM	const.h	219
+MOB_VNUM_SUM_SHADOW	const.h	216
+MOB_VNUM_UNDEAD	const.h	213
+MOB_VNUM_VAGABOND	const.h	198
+MOB_VNUM_VAMPIRE	const.h	203
+MOB_VNUM_WOLF	const.h	215
+MOUNTED	merc.h	/^#define MOUNTED(ch)	((!IS_NPC(ch) && ch->mount && /
+MPCODE	typedef.h	70
+MPTRIG	typedef.h	69
+MSGDB_PATH	const.h	48
+MSGID_ALLOC_STEP	db/resource.c	109
+MSG_FILE	const.h	86
+Mcomm	comm/comm.c	/^int main(int argc, char **argv)$/
+N	const.h	369
+NAMEDP	typedef.h	84
+NBITS	db/db.c	2207
+NBUF	db/db.c	2206
+NBUFS	flag.c	168
+NCODEPAGES	comm/comm.c	144
+NEWS_FILE	const.h	99
+NE_F_ADD	handler.c	644
+NE_F_DELETE	handler.c	643
+NOCRYPT	merc.h	48
+NOP	comm/comm.c	171
+NOTES_PATH	const.h	47
+NOTE_CHANGES	note.c	62
+NOTE_DATA	typedef.h	59
+NOTE_FILE	const.h	96
+NOTE_IDEA	note.c	59
+NOTE_NEWS	note.c	61
+NOTE_NOTE	note.c	58
+NOTE_PENALTY	note.c	60
+NULL_FILE	const.h	59
+O	const.h	370
+OBJ_DATA	typedef.h	60
+OBJ_INDEX_DATA	typedef.h	61
+OBJ_VNUM_BATTLE_PONCHO	const.h	305
+OBJ_VNUM_BRAINS	const.h	246
+OBJ_VNUM_CHAOS_BLADE	const.h	297
+OBJ_VNUM_CHUNK_IRON	const.h	317
+OBJ_VNUM_COINS	const.h	237
+OBJ_VNUM_CORPSE_NPC	const.h	239
+OBJ_VNUM_CORPSE_PC	const.h	240
+OBJ_VNUM_DEPUTY_BADGE	const.h	290
+OBJ_VNUM_DISC	const.h	251
+OBJ_VNUM_DRAGONDAGGER	const.h	299
+OBJ_VNUM_DRAGONLANCE	const.h	303
+OBJ_VNUM_DRAGONMACE	const.h	300
+OBJ_VNUM_DRAGONSWORD	const.h	302
+OBJ_VNUM_DUMMY	const.h	253
+OBJ_VNUM_EYED_SWORD	const.h	312
+OBJ_VNUM_FIRE_SHIELD	const.h	313
+OBJ_VNUM_GOLD_ONE	const.h	234
+OBJ_VNUM_GOLD_SOME	const.h	235
+OBJ_VNUM_GUTS	const.h	245
+OBJ_VNUM_HAMMER	const.h	315
+OBJ_VNUM_KATANA_SWORD	const.h	310
+OBJ_VNUM_LIGHT_BALL	const.h	249
+OBJ_VNUM_MAGIC_JAR	const.h	314
+OBJ_VNUM_MAP	const.h	273
+OBJ_VNUM_MAP_NT	const.h	276
+OBJ_VNUM_MAP_OFCOL	const.h	277
+OBJ_VNUM_MAP_OLD	const.h	280
+OBJ_VNUM_MAP_SM	const.h	278
+OBJ_VNUM_MAP_TITAN	const.h	279
+OBJ_VNUM_MUSHROOM	const.h	248
+OBJ_VNUM_NMAP1	const.h	274
+OBJ_VNUM_NMAP2	const.h	275
+OBJ_VNUM_PIT	const.h	255
+OBJ_VNUM_PLATE	const.h	301
+OBJ_VNUM_PORTAL	const.h	252
+OBJ_VNUM_POTION_GOLDEN	const.h	308
+OBJ_VNUM_POTION_SILVER	const.h	307
+OBJ_VNUM_POTION_SWIRLING	const.h	309
+OBJ_VNUM_POTION_VIAL	const.h	284
+OBJ_VNUM_RANGER_ARROW	const.h	287
+OBJ_VNUM_RANGER_BOW	const.h	288
+OBJ_VNUM_RANGER_STAFF	const.h	286
+OBJ_VNUM_ROSE	const.h	254
+OBJ_VNUM_RULER_BADGE	const.h	291
+OBJ_VNUM_RULER_SHIELD1	const.h	292
+OBJ_VNUM_RULER_SHIELD2	const.h	293
+OBJ_VNUM_RULER_SHIELD3	const.h	294
+OBJ_VNUM_RULER_SHIELD4	const.h	295
+OBJ_VNUM_SCHOOL_AXE	const.h	262
+OBJ_VNUM_SCHOOL_BANNER	const.h	271
+OBJ_VNUM_SCHOOL_BOW	const.h	266
+OBJ_VNUM_SCHOOL_DAGGER	const.h	258
+OBJ_VNUM_SCHOOL_FLAIL	const.h	263
+OBJ_VNUM_SCHOOL_LANCE	const.h	267
+OBJ_VNUM_SCHOOL_MACE	const.h	257
+OBJ_VNUM_SCHOOL_POLEARM	const.h	265
+OBJ_VNUM_SCHOOL_SHIELD	const.h	270
+OBJ_VNUM_SCHOOL_SPEAR	const.h	260
+OBJ_VNUM_SCHOOL_STAFF	const.h	261
+OBJ_VNUM_SCHOOL_SWORD	const.h	259
+OBJ_VNUM_SCHOOL_VEST	const.h	269
+OBJ_VNUM_SCHOOL_WHIP	const.h	264
+OBJ_VNUM_SEVERED_HEAD	const.h	241
+OBJ_VNUM_SILVER_ONE	const.h	233
+OBJ_VNUM_SILVER_SOME	const.h	236
+OBJ_VNUM_SLICED_ARM	const.h	243
+OBJ_VNUM_SLICED_LEG	const.h	244
+OBJ_VNUM_SPRING	const.h	250
+OBJ_VNUM_STEAK	const.h	285
+OBJ_VNUM_TATTOO_AHURAMAZDA	const.h	324
+OBJ_VNUM_TATTOO_ARES	const.h	330
+OBJ_VNUM_TATTOO_ATUM_RA	const.h	320
+OBJ_VNUM_TATTOO_DEIMOS	const.h	326
+OBJ_VNUM_TATTOO_EHRUMEN	const.h	325
+OBJ_VNUM_TATTOO_ENKI	const.h	335
+OBJ_VNUM_TATTOO_EROS	const.h	336
+OBJ_VNUM_TATTOO_GOKTENGRI	const.h	331
+OBJ_VNUM_TATTOO_HERA	const.h	332
+OBJ_VNUM_TATTOO_ODIN	const.h	328
+OBJ_VNUM_TATTOO_PHOBOS	const.h	327
+OBJ_VNUM_TATTOO_SETH	const.h	334
+OBJ_VNUM_TATTOO_SHAMASH	const.h	323
+OBJ_VNUM_TATTOO_SIEBELE	const.h	322
+OBJ_VNUM_TATTOO_TESHUB	const.h	329
+OBJ_VNUM_TATTOO_VENUS	const.h	333
+OBJ_VNUM_TATTOO_ZEUS	const.h	321
+OBJ_VNUM_TORN_HEART	const.h	242
+OBJ_VNUM_WHISTLE	const.h	282
+OFF_AREA_ATTACK	merc.h	463
+OFF_BACKSTAB	merc.h	464
+OFF_BASH	merc.h	465
+OFF_BERSERK	merc.h	466
+OFF_CRUSH	merc.h	477
+OFF_DIRT_KICK	merc.h	472
+OFF_DISARM	merc.h	467
+OFF_DODGE	merc.h	468
+OFF_FADE	merc.h	469
+OFF_FAST	merc.h	470
+OFF_KICK	merc.h	471
+OFF_PARRY	merc.h	473
+OFF_RESCUE	merc.h	474
+OFF_TAIL	merc.h	475
+OFF_TRIP	merc.h	476
+OLCED_DATA	olc/olc.c	74
+OLC_CMD_DATA	olc.h	63
+OLC_FUN	olc/olc_area.c	/^OLC_FUN(areaed_create)$/
+OPROG_DATA	obj_prog.c	177
+OPROG_FUN	typedef.h	97
+ORG_RACE	merc.h	/^#define ORG_RACE(ch)		(IS_NPC(ch) ? ch->pIndexData/
+OUTPUT_FORMAT	comm_colors.h	/^#define OUTPUT_FORMAT(ch) (IS_SET(ch->comm, COMM_C/
+P	const.h	371
+PAGELEN	const.h	121
+PART_ARMS	merc.h	601
+PART_BRAINS	merc.h	604
+PART_CLAWS	merc.h	618
+PART_EAR	merc.h	609
+PART_EYE	merc.h	610
+PART_EYESTALKS	merc.h	612
+PART_FANGS	merc.h	619
+PART_FEET	merc.h	607
+PART_FINGERS	merc.h	608
+PART_FINS	merc.h	614
+PART_GUTS	merc.h	605
+PART_HANDS	merc.h	606
+PART_HEAD	merc.h	600
+PART_HEART	merc.h	603
+PART_HORNS	merc.h	620
+PART_LEGS	merc.h	602
+PART_LONG_TONGUE	merc.h	611
+PART_SCALES	merc.h	621
+PART_TAIL	merc.h	616
+PART_TENTACLES	merc.h	613
+PART_TUSKS	merc.h	622
+PART_WINGS	merc.h	615
+PATH_MAX	db.h	73
+PC_DATA	typedef.h	62
+PC_PRACTICER	skills.c	497
+PC_SKILL	typedef.h	78
+PENALTY_FILE	const.h	98
+PERCENT	merc.h	/^#define PERCENT(cur, max)	(max==0?0:((cur)*100)\/(m/
+PERS	handler.c	/^const char *PERS(CHAR_DATA *ch, CHAR_DATA *looker)/
+PK_MIN_LEVEL	const.h	130
+PLAYER_PATH	const.h	45
+PLR_AUTOASSIST	merc.h	1068
+PLR_AUTOEXIT	merc.h	1069
+PLR_AUTOGOLD	merc.h	1072
+PLR_AUTOLOOK	merc.h	1079
+PLR_AUTOLOOT	merc.h	1070
+PLR_AUTOSAC	merc.h	1071
+PLR_AUTOSPLIT	merc.h	1073
+PLR_BLINK	merc.h	1095
+PLR_BOUGHT_PET	merc.h	1065
+PLR_CANLOOT	merc.h	1081
+PLR_COLOR	merc.h	1074
+PLR_CONFIRM_DELETE	merc.h	1093
+PLR_DENY	merc.h	1090
+PLR_FREEZE	merc.h	1091
+PLR_GHOST	merc.h	1085
+PLR_HARA_KIRI	merc.h	1094
+PLR_HOLYLIGHT	merc.h	1080
+PLR_LOG	merc.h	1089
+PLR_NEW	merc.h	1096
+PLR_NOCANCEL	merc.h	1084
+PLR_NOEXP	merc.h	1078
+PLR_NOFOLLOW	merc.h	1083
+PLR_NOSUMMON	merc.h	1082
+PLR_NOTITLE	merc.h	1076
+PLR_NPC	merc.h	1064
+PLR_PERMIT	merc.h	1088
+PLR_PUMPED	merc.h	1092
+PLR_WANTED	merc.h	1075
+POSE_DATA	typedef.h	82
+POS_DEAD	merc.h	1044
+POS_FIGHTING	merc.h	1051
+POS_INCAP	merc.h	1046
+POS_MORTAL	merc.h	1045
+POS_RESTING	merc.h	1049
+POS_SITTING	merc.h	1050
+POS_SLEEPING	merc.h	1048
+POS_STANDING	merc.h	1052
+POS_STUNNED	merc.h	1047
+PULSE_AREA	const.h	187
+PULSE_AUCTION	const.h	188
+PULSE_MOBILE	const.h	179
+PULSE_MUSIC	const.h	181
+PULSE_PER_SCD	const.h	170
+PULSE_PER_SECOND	const.h	171
+PULSE_RAFFECT	const.h	186
+PULSE_TICK	const.h	183
+PULSE_TRACK	const.h	182
+PULSE_VIOLENCE	const.h	172
+PULSE_WATER_FLOAT	const.h	180
+PUT_AT	merc.h	873
+PUT_IN	merc.h	875
+PUT_INSIDE	merc.h	876
+PUT_ON	merc.h	874
+Q	const.h	373
+QCMD_DATA	quest.c	140
+QITEM_DATA	quest.c	86
+QTROUBLE_DATA	typedef.h	71
+QUEST_OBJ_FIRST	quest.h	35
+QUEST_OBJ_LAST	quest.h	36
+QUEST_VNUM_GIRTH	quest.c	50
+QUEST_VNUM_RING	quest.c	51
+QUEST_VNUM_RUG	quest.c	52
+QUEST_VNUM_SONG	quest.c	53
+R	const.h	374
+RACE	race.h	/^#define RACE(i)		((RACE_DATA*) VARR_GET(&races, i)/
+RACES_PATH	const.h	50
+RACE_CLASS_DATA	typedef.h	90
+RACE_DATA	typedef.h	88
+RACE_LIST	const.h	92
+RACE_PCDATA	typedef.h	89
+RACE_SKILL	typedef.h	91
+RAFF_CURSE	merc.h	686
+RAFF_ESPIRIT	merc.h	685
+RAFF_LSHIELD	merc.h	682
+RAFF_PLAGUE	merc.h	689
+RAFF_POISON	merc.h	687
+RAFF_RANDOMIZER	merc.h	684
+RAFF_SHOCKING	merc.h	681
+RAFF_SLEEP	merc.h	688
+RAFF_SLOW	merc.h	690
+RAFF_THIEF_TRAP	merc.h	683
+RATING_TABLE_SIZE	const.h	138
+RELIGION_AHURAMAZDA	religion.h	59
+RELIGION_ARES	religion.h	64
+RELIGION_ATUM_RA	religion.h	54
+RELIGION_DEIMOS	religion.h	60
+RELIGION_EHRUMEN	religion.h	58
+RELIGION_ENKI	religion.h	69
+RELIGION_EROS	religion.h	70
+RELIGION_GOKTENGRI	religion.h	65
+RELIGION_HERA	religion.h	66
+RELIGION_NONE	religion.h	53
+RELIGION_ODIN	religion.h	62
+RELIGION_PHOBOS	religion.h	61
+RELIGION_SETH	religion.h	68
+RELIGION_SHAMASH	religion.h	57
+RELIGION_SIEBELE	religion.h	56
+RELIGION_TESHUB	religion.h	63
+RELIGION_VENUS	religion.h	67
+RELIGION_ZEUS	religion.h	55
+REMOVE_BIT	typedef.h	/^#define REMOVE_BIT(var, bit)	((var) &= ~(bit))$/
+RESET_DATA	typedef.h	63
+RESET_FIGHT_TIME	merc.h	/^#define RESET_FIGHT_TIME(ch)					\\$/
+RESET_WAIT_STATE	merc.h	/^#define RESET_WAIT_STATE(ch)	((ch)->wait = 1)$/
+REST_AT	merc.h	867
+REST_IN	merc.h	869
+REST_ON	merc.h	868
+RES_ACID	merc.h	528
+RES_BASH	merc.h	522
+RES_CHARM	merc.h	519
+RES_COLD	merc.h	526
+RES_DISEASE	merc.h	534
+RES_DROWNING	merc.h	535
+RES_ENERGY	merc.h	532
+RES_FIRE	merc.h	525
+RES_HOLY	merc.h	531
+RES_IRON	merc.h	540
+RES_LIGHT	merc.h	536
+RES_LIGHTNING	merc.h	527
+RES_MAGIC	merc.h	520
+RES_MENTAL	merc.h	533
+RES_NEGATIVE	merc.h	530
+RES_PIERCE	merc.h	523
+RES_POISON	merc.h	529
+RES_SILVER	merc.h	539
+RES_SLASH	merc.h	524
+RES_SOUND	merc.h	537
+RES_SUMMON	merc.h	518
+RES_WEAPON	merc.h	521
+RES_WOOD	merc.h	538
+RIDDEN	merc.h	/^#define RIDDEN(ch)	((IS_NPC(ch) && ch->mount && ch/
+ROOM_BANK	merc.h	943
+ROOM_BATTLE_ARENA	merc.h	946
+ROOM_DARK	merc.h	928
+ROOM_GODS_ONLY	merc.h	938
+ROOM_HEROES_ONLY	merc.h	939
+ROOM_HISTORY_DATA	typedef.h	68
+ROOM_IMP_ONLY	merc.h	937
+ROOM_INDEX_DATA	typedef.h	64
+ROOM_INDOORS	merc.h	930
+ROOM_LAW	merc.h	941
+ROOM_NEWBIES_ONLY	merc.h	940
+ROOM_NOMAGIC	merc.h	944
+ROOM_NOMOB	merc.h	929
+ROOM_NORECALL	merc.h	936
+ROOM_NOSUMMON	merc.h	945
+ROOM_NOWHERE	merc.h	942
+ROOM_PEACE	merc.h	931
+ROOM_PET_SHOP	merc.h	935
+ROOM_PRIVATE	merc.h	932
+ROOM_REGISTRY	merc.h	947
+ROOM_SAFE	merc.h	933
+ROOM_SOLITARY	merc.h	934
+ROOM_VNUM_ALTAR	const.h	345
+ROOM_VNUM_BALANCE	const.h	347
+ROOM_VNUM_BATTLE	const.h	351
+ROOM_VNUM_CHAT	const.h	343
+ROOM_VNUM_CIRCLE	const.h	348
+ROOM_VNUM_DEMISE	const.h	349
+ROOM_VNUM_HONOR	const.h	350
+ROOM_VNUM_LIMBO	const.h	342
+ROOM_VNUM_SCHOOL	const.h	346
+ROOM_VNUM_TEMPLE	const.h	344
+S	const.h	375
+SB	comm/comm.c	162
+SCROLL_MAX	const.h	123
+SCROLL_MIN	const.h	122
+SE	comm/comm.c	172
+SECT_AIR	merc.h	990
+SECT_CITY	merc.h	982
+SECT_DESERT	merc.h	991
+SECT_FIELD	merc.h	983
+SECT_FOREST	merc.h	984
+SECT_HILLS	merc.h	985
+SECT_INSIDE	merc.h	981
+SECT_MAX	merc.h	992
+SECT_MOUNTAIN	merc.h	986
+SECT_UNUSED	merc.h	989
+SECT_WATER_NOSWIM	merc.h	988
+SECT_WATER_SWIM	merc.h	987
+SECURITY_AREA_CREATE	olc.h	142
+SECURITY_CLAN	olc.h	140
+SECURITY_HELP	olc.h	141
+SECURITY_MSGDB	olc.h	143
+SET_BIT	typedef.h	/^#define SET_BIT(var, bit)	((var) |= (bit))$/
+SET_FIGHT_TIME	merc.h	/^#define SET_FIGHT_TIME(ch)					\\$/
+SET_ORG_RACE	handler.c	/^void SET_ORG_RACE(CHAR_DATA *ch, int race)$/
+SEX	comm/comm_act.c	/^static int SEX(CHAR_DATA *ch, CHAR_DATA *looker)$/
+SHOP_DATA	typedef.h	65
+SHUTDOWN_FILE	const.h	101
+SIT_AT	merc.h	864
+SIT_IN	merc.h	866
+SIT_ON	merc.h	865
+SIZE_GARGANTUAN	merc.h	723
+SIZE_GIANT	merc.h	722
+SIZE_HUGE	merc.h	721
+SIZE_LARGE	merc.h	720
+SIZE_MEDIUM	merc.h	719
+SIZE_SMALL	merc.h	718
+SIZE_TINY	merc.h	717
+SKEY	db.h	/^#define SKEY(string, field)				\\$/
+SKILL	skills.h	/^#define SKILL(sn)		((SKILL_DATA*) VARR_GET(&skills/
+SKILLS_CONF	const.h	84
+SKILL_AREA_ATTACK	skills.h	38
+SKILL_CLAN	skills.h	36
+SKILL_DATA	typedef.h	83
+SKILL_RANGE	skills.h	37
+SKY_CLOUDLESS	merc.h	101
+SKY_CLOUDY	merc.h	102
+SKY_LIGHTNING	merc.h	104
+SKY_RAINING	merc.h	103
+SLANG_CAT	merc.h	274
+SLANG_COMMON	merc.h	267
+SLANG_DWARVISH	merc.h	270
+SLANG_ELVISH	merc.h	269
+SLANG_GIANT	merc.h	272
+SLANG_GNOMISH	merc.h	271
+SLANG_HUMAN	merc.h	268
+SLANG_MAX	merc.h	275
+SLANG_TROLLISH	merc.h	273
+SLEEP_AT	merc.h	870
+SLEEP_IN	merc.h	872
+SLEEP_ON	merc.h	871
+SLIST_ADD	db.h	/^#define SLIST_ADD(type, list, item)					\\$/
+SPEC_FUN	typedef.h	94
+SPELL_FUN	typedef.h	95
+STAND_AT	merc.h	861
+STAND_IN	merc.h	863
+STAND_ON	merc.h	862
+STAT_CHA	merc.h	248
+STAT_CON	merc.h	247
+STAT_DEX	merc.h	246
+STAT_INT	merc.h	244
+STAT_STR	merc.h	243
+STAT_WIS	merc.h	245
+SUN_DARK	merc.h	96
+SUN_LIGHT	merc.h	98
+SUN_RISE	merc.h	97
+SUN_SET	merc.h	99
+SUPREME	const.h	147
+SYNCH	comm/comm.c	174
+T	const.h	376
+TARGET_CHAR	merc.h	1666
+TARGET_NONE	merc.h	1669
+TARGET_OBJ	merc.h	1667
+TARGET_ROOM	merc.h	1668
+TAR_CHAR_DEFENSIVE	merc.h	1660
+TAR_CHAR_OFFENSIVE	merc.h	1659
+TAR_CHAR_SELF	merc.h	1661
+TAR_IGNORE	merc.h	1658
+TAR_OBJ_CHAR_DEF	merc.h	1663
+TAR_OBJ_CHAR_OFF	merc.h	1664
+TAR_OBJ_INV	merc.h	1662
+TELOPT_ECHO	comm/comm.c	176
+TIME_INFO_DATA	typedef.h	66
+TMP_FILE	const.h	56
+TMP_PATH	const.h	44
+TOGGLE_BIT	typedef.h	/^#define TOGGLE_BIT(var, bit)    ((var) ^= (bit))$/
+TO_AFFECTS	merc.h	313
+TO_ALL	comm_act.h	37
+TO_CHAR	comm_act.h	36
+TO_IMMUNE	merc.h	315
+TO_NOTVICT	comm_act.h	34
+TO_OBJECT	merc.h	314
+TO_RESIST	merc.h	316
+TO_ROOM	comm_act.h	33
+TO_ROOM_AFFECTS	merc.h	330
+TO_ROOM_CONST	merc.h	331
+TO_ROOM_FLAGS	merc.h	332
+TO_VICT	comm_act.h	35
+TO_VULN	merc.h	317
+TO_WEAPON	merc.h	318
+TRIG_ACT	merc.h	1608
+TRIG_BRIBE	merc.h	1609
+TRIG_CASEDEP	merc.h	1626
+TRIG_DEATH	merc.h	1610
+TRIG_DELAY	merc.h	1622
+TRIG_ENTRY	merc.h	1611
+TRIG_EXALL	merc.h	1621
+TRIG_EXIT	merc.h	1620
+TRIG_FIGHT	merc.h	1612
+TRIG_GIVE	merc.h	1613
+TRIG_GRALL	merc.h	1615
+TRIG_GREET	merc.h	1614
+TRIG_HPCNT	merc.h	1617
+TRIG_KILL	merc.h	1616
+TRIG_RANDOM	merc.h	1618
+TRIG_REGEXP	merc.h	1627
+TRIG_SPEECH	merc.h	1619
+TRIG_SURR	merc.h	1623
+TROUBLE_MAX	quest.c	56
+TRUE	typedef.h	39
+TSTACK_SZ	comm/comm_act.c	254
+TYPE_HIT	merc.h	1652
+TYPE_HUNGER	merc.h	1653
+TYPE_UNDEFINED	merc.h	1651
+TYPO_FILE	const.h	95
+U	const.h	377
+UMAX	typedef.h	/^#define UMAX(a, b)		((a) > (b) ? (a) : (b))$/
+UMIN	typedef.h	/^#define UMIN(a, b)		((a) < (b) ? (a) : (b))$/
+UPPER	typedef.h	/^#define UPPER(c)		(toupper((unsigned char) (c)))$/
+URANGE	typedef.h	/^#define URANGE(a, b, c) 	((b) < (a) ? (a) : ((b) >/
+V	const.h	378
+VALIDATE	typedef.h	/^#define VALIDATE(data)$/
+VALIDATE_FUN	olc/olc.c	/^VALIDATE_FUN(validate_filename)$/
+VARR_GET	varr.h	/^#define VARR_GET(v, i)	((void*) (((char*) (v)->p) /
+VERBOSE	olc/olc_save.c	45
+VERSION	olc/olc.c	55
+VNUM_CANTEEN	quest.c	54
+VULN_ACID	merc.h	553
+VULN_BASH	merc.h	547
+VULN_CHARM	merc.h	544
+VULN_COLD	merc.h	551
+VULN_DISEASE	merc.h	559
+VULN_DROWNING	merc.h	560
+VULN_ENERGY	merc.h	557
+VULN_FIRE	merc.h	550
+VULN_HOLY	merc.h	556
+VULN_IRON	merc.h	565
+VULN_LIGHT	merc.h	561
+VULN_LIGHTNING	merc.h	552
+VULN_MAGIC	merc.h	545
+VULN_MENTAL	merc.h	558
+VULN_NEGATIVE	merc.h	555
+VULN_PIERCE	merc.h	548
+VULN_POISON	merc.h	554
+VULN_SILVER	merc.h	564
+VULN_SLASH	merc.h	549
+VULN_SOUND	merc.h	562
+VULN_SUMMON	merc.h	543
+VULN_WEAPON	merc.h	546
+VULN_WOOD	merc.h	563
+W	const.h	379
+WAIT_STATE	merc.h	/^#define WAIT_STATE(ch, npulse)	((ch)->wait = IS_IM/
+WEAPON_ARROW	merc.h	838
+WEAPON_AXE	merc.h	833
+WEAPON_BOW	merc.h	837
+WEAPON_DAGGER	merc.h	830
+WEAPON_EXOTIC	merc.h	828
+WEAPON_FLAIL	merc.h	834
+WEAPON_FLAMING	merc.h	842
+WEAPON_FROST	merc.h	843
+WEAPON_HOLY	merc.h	850
+WEAPON_KATANA	merc.h	851
+WEAPON_LANCE	merc.h	839
+WEAPON_MACE	merc.h	832
+WEAPON_POISON	merc.h	849
+WEAPON_POLEARM	merc.h	836
+WEAPON_SHARP	merc.h	845
+WEAPON_SHOCKING	merc.h	848
+WEAPON_SPEAR	merc.h	831
+WEAPON_SWORD	merc.h	829
+WEAPON_TWO_HANDS	merc.h	847
+WEAPON_VAMPIRIC	merc.h	844
+WEAPON_VORPAL	merc.h	846
+WEAPON_WHIP	merc.h	835
+WEAR_ABOUT	merc.h	1011
+WEAR_ARMS	merc.h	1009
+WEAR_BODY	merc.h	1004
+WEAR_CLANMARK	merc.h	1020
+WEAR_FEET	merc.h	1007
+WEAR_FINGER_L	merc.h	1000
+WEAR_FINGER_R	merc.h	1001
+WEAR_FLOAT	merc.h	1017
+WEAR_HANDS	merc.h	1008
+WEAR_HEAD	merc.h	1005
+WEAR_HOLD	merc.h	1016
+WEAR_LEGS	merc.h	1006
+WEAR_LIGHT	merc.h	999
+WEAR_NECK_1	merc.h	1002
+WEAR_NECK_2	merc.h	1003
+WEAR_NONE	merc.h	998
+WEAR_SECOND_WIELD	merc.h	1019
+WEAR_SHIELD	merc.h	1010
+WEAR_STUCK_IN	merc.h	1021
+WEAR_TATTOO	merc.h	1018
+WEAR_WAIST	merc.h	1012
+WEAR_WIELD	merc.h	1015
+WEAR_WRIST_L	merc.h	1013
+WEAR_WRIST_R	merc.h	1014
+WEATHER_DATA	typedef.h	67
+WEIGHT_MULT	merc.h	/^#define WEIGHT_MULT(obj)	((obj)->pIndexData->item_/
+WHERE_DATA	typedef.h	80
+WHO_F_CLAN	act_info.c	1613
+WHO_F_IMM	act_info.c	1610
+WHO_F_PK	act_info.c	1611
+WHO_F_RCLAN	act_info.c	1614
+WHO_F_RCLASS	act_info.c	1616
+WHO_F_RRACE	act_info.c	1615
+WHO_F_TATTOO	act_info.c	1612
+WILL	comm/comm.c	161
+WIZ_DEATHS	merc.h	1158
+WIZ_FLAGS	merc.h	1161
+WIZ_LEVELS	merc.h	1164
+WIZ_LINKS	merc.h	1157
+WIZ_LOAD	merc.h	1169
+WIZ_LOGINS	merc.h	1155
+WIZ_MOBDEATHS	merc.h	1160
+WIZ_NEWBIE	merc.h	1170
+WIZ_ON	merc.h	1153
+WIZ_PENALTIES	merc.h	1162
+WIZ_PREFIX	merc.h	1171
+WIZ_RESETS	merc.h	1159
+WIZ_RESTORE	merc.h	1168
+WIZ_SACCING	merc.h	1163
+WIZ_SECURE	merc.h	1165
+WIZ_SITES	merc.h	1156
+WIZ_SNOOPS	merc.h	1167
+WIZ_SPAM	merc.h	1172
+WIZ_SWITCHES	merc.h	1166
+WIZ_TICKS	merc.h	1154
+WONT	comm/comm.c	160
+WORD_DATA	typedef.h	86
+WORLD_SIZE	hunt.c	44
+X	const.h	380
+X_F_NOCOUNT	merc.h	1922
+X_F_NORECURSE	merc.h	1923
+Y	const.h	382
+Z	const.h	383
+_AUCTION_H_	auction.h	44
+_BAN_H_	ban.h	44
+_BUFFER_H_	buffer.h	44
+_CHARSET_H_	charset.h	30
+_CLAN_H_	clan.h	30
+_CLASS_H_	class.h	30
+_CMD_H_	cmd.h	30
+_COMM_ACT_H_	comm_act.h	30
+_COMM_H_	comm.h	44
+_COMM_INFO_H_	comm_info.h	30
+_CONST_H_	const.h	30
+_DB_H_	db.h	30
+_FIGHT_H_	fight.h	44
+_FLAG_H_	flag.h	18
+_GSN_H_	gsn.h	30
+_HOMETOWN_H_	hometown.h	44
+_INTERP_H_	interp.h	44
+_LANG_H_	lang.h	30
+_LOG_H_	log.h	44
+_LOOKUP_H_	lookup.h	44
+_MAGIC_H_	magic.h	44
+_MERC_H_	merc.h	44
+_MLSTRING_H_	mlstring.h	30
+_MOB_CMDS_H_	mob_cmds.h	41
+_MOB_PROG_H_	mob_prog.h	41
+_MSG_H_	msg.h	30
+_NAMEDP_H_	namedp.h	30
+_OBJ_PROG_H_	obj_prog.h	44
+_OLC_H_	olc.h	24
+_QUEST_H_	quest.h	30
+_RACE_H_	race.h	30
+_RAFFECTS_H_	raffects.h	44
+_RATING_H_	rating.h	30
+_RELIGION_H_	religion.h	44
+_RESOLVER_H_	resolver.h	30
+_SKILLS_H_	skills.h	30
+_SPELLFN_H_	spellfn.h	30
+_STRING_EDIT_H_	string_edit.h	18
+_STR_H_	str.h	30
+_TABLES_H_	tables.h	30
+_TYPEDEF_H_	typedef.h	30
+_UPDATE_H_	update.h	44
+_UTIL_H_	util.h	30
+_VARR_H_	varr.h	30
+_WORD_H_	word.h	30
+__attribute	comm/comm.c	/^#define __attribute(x)$/
+_hash_enter	hunt.c	/^void _hash_enter(struct hash_header *ht,int key,vo/
+aa	const.h	384
+acid_effect	effects.c	/^void acid_effect(void *vo, int level, int dam, int/
+act	comm_act.h	/^#define act(format, ch, arg1, arg2, type) \\$/
+act_args	comm/comm_act.c	/^static CHAR_DATA *act_args(CHAR_DATA *ch, CHAR_DAT/
+act_mlputs	comm/comm_act.c	/^void act_mlputs(const mlstring *ml, CHAR_DATA *ch,/
+act_nprintf	comm/comm_act.c	/^void act_nprintf(CHAR_DATA *ch, const void *arg1, /
+act_nputs	comm_act.h	/^#define	act_nputs(msg_num, ch, arg1, arg2, type, m/
+act_printf	comm/comm_act.c	/^void act_printf(CHAR_DATA *ch, const void *arg1, c/
+act_puts	comm/comm_act.c	/^void act_puts(const char *format, CHAR_DATA *ch,$/
+act_raw	comm/comm_act.c	/^static void act_raw(CHAR_DATA *ch, CHAR_DATA *to,$/
+act_skip	comm/comm_act.c	/^static bool act_skip(CHAR_DATA *ch, CHAR_DATA *vch/
+add_follower	act_comm.c	/^void add_follower(CHAR_DATA *ch, CHAR_DATA *master/
+add_mind	handler.c	/^void add_mind(CHAR_DATA *ch, const char *str)$/
+add_reset	olc/olc_room.c	/^static void add_reset(ROOM_INDEX_DATA *room, RESET/
+advance	act_wiz.c	/^void advance(CHAR_DATA *victim, int level)$/
+advance_level	update.c	/^void advance_level(CHAR_DATA *ch)$/
+advatoi	auction.c	/^int advatoi (const char *s)$/
+aff_dup	recycle.c	/^AFFECT_DATA *aff_dup(const AFFECT_DATA *paf)$/
+aff_free	recycle.c	/^void aff_free(AFFECT_DATA *af)$/
+aff_new	recycle.c	/^AFFECT_DATA *aff_new(void)$/
+affect_bit_strip	handler.c	/^void affect_bit_strip(CHAR_DATA *ch, int where, fl/
+affect_check	handler.c	/^void affect_check(CHAR_DATA *ch, int where, flag_t/
+affect_check_list	handler.c	/^void affect_check_list(CHAR_DATA *ch, AFFECT_DATA /
+affect_check_room	raffects.c	/^void affect_check_room(ROOM_INDEX_DATA *room,int w/
+affect_enchant	handler.c	/^void affect_enchant(OBJ_DATA *obj)$/
+affect_find	handler.c	/^AFFECT_DATA  *affect_find(AFFECT_DATA *paf, int sn/
+affect_join	handler.c	/^void affect_join(CHAR_DATA *ch, AFFECT_DATA *paf)$/
+affect_join_room	raffects.c	/^void affect_join_room(ROOM_INDEX_DATA *room, AFFEC/
+affect_modify	handler.c	/^void affect_modify(CHAR_DATA *ch, AFFECT_DATA *paf/
+affect_modify_room	raffects.c	/^void affect_modify_room(ROOM_INDEX_DATA *room, AFF/
+affect_remove	handler.c	/^void affect_remove(CHAR_DATA *ch, AFFECT_DATA *paf/
+affect_remove_obj	handler.c	/^void affect_remove_obj(OBJ_DATA *obj, AFFECT_DATA /
+affect_remove_room	raffects.c	/^void affect_remove_room(ROOM_INDEX_DATA *room, AFF/
+affect_strip	handler.c	/^void affect_strip(CHAR_DATA *ch, int sn)$/
+affect_strip_room	raffects.c	/^void affect_strip_room(ROOM_INDEX_DATA *room, int /
+affect_to_char	handler.c	/^void affect_to_char(CHAR_DATA *ch, AFFECT_DATA *pa/
+affect_to_obj	handler.c	/^void affect_to_obj(OBJ_DATA *obj, AFFECT_DATA *paf/
+affect_to_room	raffects.c	/^void affect_to_room(ROOM_INDEX_DATA *room, AFFECT_/
+age_to_num	handler.c	/^int age_to_num(int age)$/
+aggr_update	update.c	/^void aggr_update(void)$/
+align_restrict	comm/comm.c	/^int align_restrict(CHAR_DATA *ch)$/
+alloc_mem	db/db.c	/^void *alloc_mem(int sMem)$/
+alloc_perm	db/db.c	/^void *alloc_perm(int sMem)$/
+allowed_other	magic.c	/^int allowed_other(CHAR_DATA *ch, int sn)$/
+append_file	db/db.c	/^void append_file(CHAR_DATA *ch, const char *file, /
+append_note	note.c	/^void append_note(NOTE_DATA *pnote)$/
+apply_ac	handler.c	/^int apply_ac(OBJ_DATA *obj, int iWear, int type)$/
+area_lookup	mem.c	/^AREA_DATA *area_lookup(int vnum)$/
+area_update	db/db.c	/^void area_update(void)$/
+area_vnum_lookup	mem.c	/^AREA_DATA *area_vnum_lookup(int vnum)$/
+args	typedef.h	/^#define args(a) a$/
+atomsg	olc/olc_msg.c	/^static const char *atomsg(const char *argument)$/
+attack_lookup	lookup.c	/^int attack_lookup(const char *name)$/
+auction_give_obj	auction.c	/^void auction_give_obj(CHAR_DATA* victim, OBJ_DATA /
+auction_update	auction.c	/^void auction_update (void)$/
+back_home	handler.c	/^void back_home(CHAR_DATA *ch)$/
+backstab	martial_art.c	/^void backstab(CHAR_DATA *ch, CHAR_DATA *victim, in/
+backstab_ok	martial_art.c	/^bool backstab_ok(CHAR_DATA *ch, CHAR_DATA *victim)/
+ban_site	comm/ban.c	/^void ban_site(CHAR_DATA *ch, const char *argument,/
+base_exp	skills.c	/^int base_exp(CHAR_DATA *ch)$/
+battle_prompt	comm/comm.c	/^void battle_prompt(CHAR_DATA *ch, CHAR_DATA *victi/
+bb	const.h	385
+bool	typedef.h	42
+boot_db	db/db.c	/^void boot_db(void)$/
+buf_add	buffer.c	/^bool buf_add(BUFFER *buffer, const char *string)$/
+buf_cat	buffer.c	/^static bool buf_cat(BUFFER *buffer, const char *st/
+buf_clear	buffer.c	/^void buf_clear(BUFFER *buffer)$/
+buf_free	buffer.c	/^void buf_free(BUFFER *buffer)$/
+buf_new	buffer.c	/^BUFFER *buf_new(int lang)$/
+buf_printf	buffer.c	/^bool buf_printf(BUFFER *buffer, const char *format/
+buf_string	buffer.c	/^char* buf_string(BUFFER *buffer)$/
+bug	log.c	/^void bug(const char *str, int param)$/
+bust_a_prompt	comm/comm.c	/^void bust_a_prompt(CHAR_DATA *ch)$/
+buy_death	quest.c	/^static bool buy_death(CHAR_DATA *ch, CHAR_DATA *qu/
+buy_gold	quest.c	/^static bool buy_gold(CHAR_DATA *ch, CHAR_DATA *que/
+buy_katana	quest.c	/^static bool buy_katana(CHAR_DATA *ch, CHAR_DATA *q/
+buy_prac	quest.c	/^static bool buy_prac(CHAR_DATA *ch, CHAR_DATA *que/
+buy_tattoo	quest.c	/^static bool buy_tattoo(CHAR_DATA *ch, CHAR_DATA *q/
+buy_vampire	quest.c	/^static bool buy_vampire(CHAR_DATA *ch, CHAR_DATA */
+can_carry_n	handler.c	/^int can_carry_n(CHAR_DATA *ch)$/
+can_carry_w	handler.c	/^int can_carry_w(CHAR_DATA *ch)$/
+can_drop_obj	handler.c	/^bool can_drop_obj(CHAR_DATA *ch, OBJ_DATA *obj)$/
+can_gate	handler.c	/^bool can_gate(CHAR_DATA *ch, CHAR_DATA *victim)$/
+can_loot	act_obj.c	/^bool can_loot(CHAR_DATA * ch, OBJ_DATA * obj)$/
+can_see	handler.c	/^bool can_see(CHAR_DATA *ch, CHAR_DATA *victim)$/
+can_see_obj	handler.c	/^bool can_see_obj(CHAR_DATA *ch, OBJ_DATA *obj)$/
+can_see_room	handler.c	/^bool can_see_room(CHAR_DATA *ch, ROOM_INDEX_DATA */
+cant_float	handler.c	/^bool cant_float(OBJ_DATA *obj)$/
+cant_kill	fight.c	/^bool cant_kill(CHAR_DATA *ch, CHAR_DATA *victim)$/
+capitalize	db/db.c	/^char *capitalize(const char *str)$/
+cat_name	handler.c	/^void cat_name(char *buf, const char *name, size_t /
+cc	const.h	386
+chance	merc.h	/^#define chance(num) (number_range(1, 100) <= num)$/
+char_from_room	handler.c	/^void char_from_room(CHAR_DATA *ch)$/
+char_mlputs	comm.h	/^#define char_mlputs(m, ch) char_puts(mlstr_cval(m,/
+char_nputs	comm.h	/^#define char_nputs(msgid, ch) char_puts(msg(msgid,/
+char_printf	comm/comm.c	/^void char_printf(CHAR_DATA *ch, const char *format/
+char_puts	comm/comm.c	/^void char_puts(const char *txt, CHAR_DATA *ch)$/
+char_sn_lookup	skills.c	/^int char_sn_lookup(CHAR_DATA *ch, const char *name/
+char_to_room	handler.c	/^void char_to_room(CHAR_DATA *ch, ROOM_INDEX_DATA */
+char_update	update.c	/^void char_update(void)$/
+check_assist	fight.c	/^void check_assist(CHAR_DATA *ch,CHAR_DATA *victim)/
+check_ban	comm/ban.c	/^bool check_ban(const char *site, int type)$/
+check_blind	handler.c	/^bool check_blind(CHAR_DATA *ch)$/
+check_blind_raw	handler.c	/^bool check_blind_raw(CHAR_DATA *ch)$/
+check_blink	fight.c	/^bool check_blink(CHAR_DATA *ch, CHAR_DATA *victim)/
+check_block	fight.c	/^bool check_block(CHAR_DATA *ch, CHAR_DATA *victim,/
+check_dispel	handler.c	/^bool check_dispel(int dis_level, CHAR_DATA *victim/
+check_dodge	fight.c	/^bool check_dodge(CHAR_DATA *ch, CHAR_DATA *victim)/
+check_eq_damage	repair.c	/^void check_eq_damage(CHAR_DATA *ch, CHAR_DATA *vic/
+check_exit	handler.c	/^int check_exit(char *arg)$/
+check_guard	martial_art.c	/^CHAR_DATA *check_guard(CHAR_DATA *ch, CHAR_DATA *m/
+check_immune	handler.c	/^int check_immune(CHAR_DATA *ch, int dam_type)$/
+check_improve	skills.c	/^void check_improve(CHAR_DATA *ch, int sn, bool suc/
+check_material	handler.c	/^bool check_material(OBJ_DATA *obj, char *material)/
+check_mob_progs	db/db.c	/^void check_mob_progs(void)$/
+check_obj_dodge	fight.c	/^bool check_obj_dodge(CHAR_DATA *ch, CHAR_DATA *vic/
+check_parry	fight.c	/^bool check_parry(CHAR_DATA *ch, CHAR_DATA *victim,/
+check_parse_name	comm/comm.c	/^bool check_parse_name(const char *name)$/
+check_place	magic2.c	/^ROOM_INDEX_DATA * check_place(CHAR_DATA *ch, const/
+check_playing	comm/comm.c	/^bool check_playing(DESCRIPTOR_DATA *d, const char /
+check_range	olc/olc_area.c	/^static AREA_DATA *check_range(AREA_DATA *this, int/
+check_reboot	update.c	/^void check_reboot(void)$/
+check_reconnect	comm/comm.c	/^bool check_reconnect(DESCRIPTOR_DATA *d, const cha/
+check_shield_damage	repair.c	/^void check_shield_damage(CHAR_DATA *ch, CHAR_DATA /
+check_social	interp.c	/^bool check_social(CHAR_DATA *ch, char *command, co/
+check_weapon_damage	repair.c	/^void check_weapon_damage(CHAR_DATA *ch, CHAR_DATA /
+check_yell	martial_art.c	/^bool check_yell(CHAR_DATA *ch, CHAR_DATA *victim, /
+clan_free	clan.c	/^void clan_free(CLAN_DATA *clan)$/
+clan_lookup	clan.h	/^#define clan_lookup(cn)		((CLAN_DATA*) varr_get(&c/
+clan_name	clan.c	/^const char *clan_name(int cn)$/
+clan_new	clan.c	/^CLAN_DATA *clan_new(void)$/
+clan_ok	class.c	/^bool clan_ok(CHAR_DATA *ch, int sn) $/
+clan_skill_lookup	clan.h	/^#define clan_skill_lookup(clan, sn) \\$/
+class_free	class.c	/^void class_free(CLASS_DATA *class)$/
+class_lookup	class.h	/^#define class_lookup(i)		((CLASS_DATA*) varr_get(&/
+class_name	class.c	/^const char *class_name(CHAR_DATA *ch)$/
+class_new	class.c	/^CLASS_DATA *class_new(void)$/
+class_ok	comm/comm.c	/^bool class_ok(CHAR_DATA *ch, int class)$/
+class_skill_lookup	class.h	/^#define class_skill_lookup(class, sn) \\$/
+class_who_name	class.c	/^const char *class_who_name(CHAR_DATA *ch)$/
+cleanup	comm/resolver.c	/^static void cleanup(int s)$/
+cln_lookup	class.c	/^int cln_lookup(const char *name)$/
+clone_mob	db/db.c	/^void clone_mob(CHAR_DATA *parent, CHAR_DATA *clone/
+clone_obj	db/db.c	/^void clone_obj(OBJ_DATA *parent, OBJ_DATA *clone)$/
+close_descriptor	comm/comm.c	/^void close_descriptor(DESCRIPTOR_DATA *dclose)$/
+cmd_eval	mob_prog.c	/^int cmd_eval(int vnum, const char *line, int check/
+cmd_lookup	db/cmd.c	/^CMD_DATA *cmd_lookup(const char *name)$/
+cmd_name_lookup	olc/olc.c	/^static OLC_CMD_DATA *cmd_name_lookup(OLC_CMD_DATA /
+cmpint	util.c	/^int cmpint(const void *p1, const void *p2)$/
+cmpmlstr	db/msg.c	/^static int cmpmlstr(const void* p1, const void* p2/
+cmpmsg	db/msg.c	/^static int cmpmsg(const void* p1, const void* p2)$/
+cmpstr	str.c	/^int cmpstr(const void *p1, const void *p2)$/
+cmpword	db/word.c	/^int cmpword(const void *p1, const void *p2)$/
+cn_lookup	clan.c	/^int cn_lookup(const char *name)$/
+cold_effect	effects.c	/^void cold_effect(void *vo, int level, int dam, int/
+color	comm/comm_colors.c	/^static const char* color(char type, int format)$/
+convert_mobile	db/db_area.c	/^void convert_mobile(MOB_INDEX_DATA *pMobIndex)$/
+convert_object	db/db.c	/^void convert_object(OBJ_INDEX_DATA *pObjIndex)$/
+convert_objects	db/db.c	/^void convert_objects(void)$/
+count_charmed	handler.c	/^int count_charmed(CHAR_DATA *ch)	$/
+count_obj_list	handler.c	/^int count_obj_list(OBJ_INDEX_DATA *pObjIndex, OBJ_/
+count_people_room	mob_prog.c	/^int count_people_room(CHAR_DATA *mob, int iFlag)$/
+count_spool	note.c	/^int count_spool(CHAR_DATA *ch, NOTE_DATA *spool)$/
+count_users	handler.c	/^int count_users(OBJ_DATA *obj)$/
+cp_print	comm/comm.c	/^static void cp_print(DESCRIPTOR_DATA* d)$/
+create_mob	db/db.c	/^CHAR_DATA *create_mob(MOB_INDEX_DATA *pMobIndex)$/
+create_mob_org	db/db.c	/^CHAR_DATA *create_mob_org(MOB_INDEX_DATA *pMobInde/
+create_money	handler.c	/^OBJ_DATA *create_money(int gold, int silver)$/
+create_named_mob	db/db.c	/^CHAR_DATA *create_named_mob(MOB_INDEX_DATA *pMobIn/
+create_named_obj	db/db.c	/^OBJ_DATA *create_named_obj(OBJ_INDEX_DATA *pObjInd/
+create_obj	db/db.c	/^OBJ_DATA *create_obj(OBJ_INDEX_DATA *pObjIndex, in/
+create_obj_nocount	db/db.c	/^OBJ_DATA *create_obj_nocount(OBJ_INDEX_DATA *pObjI/
+create_obj_org	db/db.c	/^OBJ_DATA *create_obj_org(OBJ_INDEX_DATA *pObjIndex/
+critical_strike	martial_art.c	/^int critical_strike(CHAR_DATA *ch, CHAR_DATA *vict/
+crypt	merc.h	/^#define crypt(s1, s2)	(s1)$/
+cstrfirst	util.c	/^const char *cstrfirst(const char *cstr)$/
+cstrlen	util.c	/^size_t cstrlen(const char *cstr)$/
+d2rename	util.c	/^int d2rename(const char *dir1, const char *file1,$/
+d_namlen	db/db.c	66
+dam_message	fight.c	/^void dam_message(CHAR_DATA *ch, CHAR_DATA *victim,/
+damage	fight.c	/^bool damage(CHAR_DATA *ch, CHAR_DATA *victim,$/
+damage_to_obj	repair.c	/^void damage_to_obj(CHAR_DATA *ch, OBJ_DATA *wield,/
+db_error	db/db.c	/^void db_error(const char* fn, const char* fmt,...)/
+db_load_file	db/db.c	/^void db_load_file(const char *path, const char *fi/
+db_load_list	db/db.c	/^void db_load_list(const char *path, const char *fi/
+db_parse_file	db/db.c	/^void db_parse_file(const char *path, const char *f/
+dbfun_qsort	db/db.c	/^int dbfun_qsort(DBFUN *dbfun_table)$/
+dbfuncmp	db/db.c	/^int dbfuncmp(const void *p1, const void *p2)$/
+dd	const.h	387
+death_cry	fight.c	/^void death_cry(CHAR_DATA *ch)$/
+death_cry_org	fight.c	/^void death_cry_org(CHAR_DATA *ch, int part)$/
+death_prog_chaos_blade	obj_prog.c	/^bool death_prog_chaos_blade(OBJ_DATA *obj, CHAR_DA/
+death_prog_excalibur	obj_prog.c	/^bool death_prog_excalibur(OBJ_DATA *obj, CHAR_DATA/
+death_prog_golden_weapon	obj_prog.c	/^bool death_prog_golden_weapon(OBJ_DATA *obj, CHAR_/
+death_prog_ranger_staff	obj_prog.c	/^bool death_prog_ranger_staff(OBJ_DATA *obj, CHAR_D/
+deduct_cost	handler.c	/^void deduct_cost(CHAR_DATA *ch, uint cost)$/
+delete_player	fight.c	/^void delete_player(CHAR_DATA *victim, char* msg)$/
+destroy_hash_table	hunt.c	/^void destroy_hash_table(struct hash_header *ht,voi/
+dfopen	util.c	/^FILE *dfopen(const char *dir, const char *file, co/
+dice	db/db.c	/^int dice(int number, int size)$/
+die_follower	act_comm.c	/^void die_follower(CHAR_DATA *ch)$/
+disarm	martial_art.c	/^void disarm(CHAR_DATA *ch, CHAR_DATA *victim, OBJ_/
+display_resets	olc/olc_room.c	/^void display_resets(CHAR_DATA *ch)$/
+do_advance	act_wiz.c	/^void do_advance(CHAR_DATA *ch, const char *argumen/
+do_affects	act_info.c	/^void do_affects(CHAR_DATA *ch, const char *argumen/
+do_affrooms	act_wiz.c	/^void do_affrooms(CHAR_DATA *ch, const char *argume/
+do_afk	act_comm.c	/^void do_afk(CHAR_DATA *ch, const char *argument)$/
+do_alia	interp.c	/^void do_alia(CHAR_DATA *ch, const char *argument)$/
+do_alias	interp.c	/^void do_alias(CHAR_DATA *ch, const char *argument)/
+do_alist	olc/olc.c	/^void do_alist(CHAR_DATA *ch, const char *argument)/
+do_allow	comm/ban.c	/^void do_allow(CHAR_DATA *ch, const char *argument)/
+do_ambush	martial_art.c	/^void do_ambush(CHAR_DATA *ch, const char *argument/
+do_areas	db/db.c	/^void do_areas(CHAR_DATA *ch, const char *argument)/
+do_asave	olc/olc_save.c	/^void do_asave(CHAR_DATA *ch, const char *argument)/
+do_asave_raw	olc/olc_save.c	/^void do_asave_raw(CHAR_DATA *ch, int flags)$/
+do_ashow	olc/olc.c	/^void do_ashow(CHAR_DATA *ch, const char *argument)/
+do_assassinate	martial_art.c	/^void do_assassinate(CHAR_DATA *ch, const char *arg/
+do_at	act_wiz.c	/^void do_at(CHAR_DATA *ch, const char *argument)$/
+do_auction	auction.c	/^void do_auction(CHAR_DATA *ch, const char *argumen/
+do_autoassist	act_info.c	/^void do_autoassist(CHAR_DATA *ch, const char *argu/
+do_autoexit	act_info.c	/^void do_autoexit(CHAR_DATA *ch, const char *argume/
+do_autogold	act_info.c	/^void do_autogold(CHAR_DATA *ch, const char *argume/
+do_autolist	act_info.c	/^void do_autolist(CHAR_DATA *ch, const char *argume/
+do_autoloot	act_info.c	/^void do_autoloot(CHAR_DATA *ch, const char *argume/
+do_autosac	act_info.c	/^void do_autosac(CHAR_DATA *ch, const char *argumen/
+do_autosplit	act_info.c	/^void do_autosplit(CHAR_DATA *ch, const char *argum/
+do_backstab	martial_art.c	/^void do_backstab(CHAR_DATA *ch, const char *argume/
+do_balance	act_obj.c	/^void do_balance(CHAR_DATA * ch, const char *argume/
+do_bamfin	act_wiz.c	/^void do_bamfin(CHAR_DATA *ch, const char *argument/
+do_bamfout	act_wiz.c	/^void do_bamfout(CHAR_DATA *ch, const char *argumen/
+do_ban	comm/ban.c	/^void do_ban(CHAR_DATA *ch, const char *argument)$/
+do_bandage	martial_art.c	/^void do_bandage(CHAR_DATA *ch, const char *argumen/
+do_bash	martial_art.c	/^void do_bash(CHAR_DATA *ch, const char *argument)$/
+do_bash_door	act_move.c	/^void do_bash_door(CHAR_DATA *ch, const char *argum/
+do_bear_call	act_info.c	/^void do_bear_call(CHAR_DATA *ch, const char *argum/
+do_berserk	martial_art.c	/^void do_berserk(CHAR_DATA *ch, const char *argumen/
+do_blackjack	martial_art.c	/^void do_blackjack(CHAR_DATA *ch, const char *argum/
+do_blindness_dust	martial_art.c	/^void do_blindness_dust(CHAR_DATA *ch, const char */
+do_blink	act_move.c	/^void do_blink(CHAR_DATA *ch, const char *argument)/
+do_bloodthirst	martial_art.c	/^void do_bloodthirst(CHAR_DATA *ch, const char *arg/
+do_brandish	act_obj.c	/^void do_brandish(CHAR_DATA * ch, const char *argum/
+do_bug	act_comm.c	/^void do_bug(CHAR_DATA *ch, const char *argument)$/
+do_butcher	act_obj.c	/^void do_butcher(CHAR_DATA * ch, const char *argume/
+do_buy	act_obj.c	/^void do_buy(CHAR_DATA * ch, const char *argument)$/
+do_buy_pet	act_obj.c	/^void do_buy_pet(CHAR_DATA * ch, const char *argume/
+do_caltrops	martial_art.c	/^void do_caltrops(CHAR_DATA *ch, const char *argume/
+do_camouflage	act_move.c	/^void do_camouflage(CHAR_DATA *ch, const char *argu/
+do_camp	act_info.c	/^void do_camp(CHAR_DATA *ch, const char *argument)$/
+do_cast	magic.c	/^void do_cast(CHAR_DATA *ch, const char *argument)$/
+do_changes	note.c	/^void do_changes(CHAR_DATA *ch,const char *argument/
+do_channels	act_comm.c	/^void do_channels(CHAR_DATA *ch, const char *argume/
+do_circle	martial_art.c	/^void do_circle(CHAR_DATA *ch, const char *argument/
+do_clan	act_comm.c	/^void do_clan(CHAR_DATA *ch, const char *argument)$/
+do_clanlist	clan.c	/^void do_clanlist(CHAR_DATA *ch, const char *argume/
+do_clear	act_info.c	/^void do_clear(CHAR_DATA *ch, const char *argument)/
+do_cleave	martial_art.c	/^void do_cleave(CHAR_DATA *ch, const char *argument/
+do_clone	act_wiz.c	/^void do_clone(CHAR_DATA *ch, const char *argument)/
+do_close	act_move.c	/^void do_close(CHAR_DATA *ch, const char *argument)/
+do_commands	interp.c	/^void do_commands(CHAR_DATA *ch, const char *argume/
+do_compare	act_info.c	/^void do_compare(CHAR_DATA *ch, const char *argumen/
+do_concentrate	martial_art.c	/^void do_concentrate(CHAR_DATA *ch, const char *arg/
+do_consider	act_info.c	/^void do_consider(CHAR_DATA *ch, const char *argume/
+do_control	act_info.c	/^void do_control(CHAR_DATA *ch, const char *argumen/
+do_count	act_info.c	/^void do_count(CHAR_DATA *ch, const char *argument)/
+do_create	olc/olc.c	/^void do_create(CHAR_DATA *ch, const char *argument/
+do_crecall	act_move.c	/^void do_crecall(CHAR_DATA *ch, const char *argumen/
+do_credits	act_info.c	/^void do_credits(CHAR_DATA *ch, const char *argumen/
+do_crush	martial_art.c	/^void do_crush(CHAR_DATA *ch, const char *argument)/
+do_deaf	act_comm.c	/^void do_deaf(CHAR_DATA *ch, const char *argument)$/
+do_delet	act_comm.c	/^void do_delet(CHAR_DATA *ch, const char *argument)/
+do_delete	act_comm.c	/^void do_delete(CHAR_DATA *ch, const char *argument/
+do_demand	act_info.c	/^void do_demand(CHAR_DATA *ch, const char *argument/
+do_deny	act_wiz.c	/^void do_deny(CHAR_DATA *ch, const char *argument)$/
+do_deposit	act_obj.c	/^void do_deposit(CHAR_DATA * ch, const char *argume/
+do_description	act_info.c	/^void do_description(CHAR_DATA *ch, const char *arg/
+do_desocket	act_wiz.c	/^void do_desocket(CHAR_DATA *ch, const char *argume/
+do_detect_hidden	act_info.c	/^void do_detect_hidden(CHAR_DATA *ch, const char *a/
+do_dirt	martial_art.c	/^void do_dirt(CHAR_DATA *ch, const char *argument)$/
+do_disarm	martial_art.c	/^void do_disarm(CHAR_DATA *ch, const char *argument/
+do_disconnect	act_wiz.c	/^void do_disconnect(CHAR_DATA *ch, const char *argu/
+do_dishonor	fight.c	/^void do_dishonor(CHAR_DATA *ch, const char *argume/
+do_dismount	act_move.c	/^void do_dismount(CHAR_DATA *ch, const char *argume/
+do_down	act_move.c	/^void do_down(CHAR_DATA *ch, const char *argument)$/
+do_drink	act_obj.c	/^void do_drink(CHAR_DATA * ch, const char *argument/
+do_drop	act_obj.c	/^void do_drop(CHAR_DATA * ch, const char *argument)/
+do_dump	db/db.c	/^void do_dump(CHAR_DATA *ch, const char *argument)$/
+do_east	act_move.c	/^void do_east(CHAR_DATA *ch, const char *argument)$/
+do_eat	act_obj.c	/^void do_eat(CHAR_DATA * ch, const char *argument)$/
+do_echo	act_wiz.c	/^void do_echo(CHAR_DATA *ch, const char *argument)$/
+do_edit	olc/olc.c	/^void do_edit(CHAR_DATA *ch, const char *argument)$/
+do_emote	act_comm.c	/^void do_emote(CHAR_DATA *ch, const char *argument)/
+do_enchant	act_obj.c	/^void do_enchant(CHAR_DATA * ch, const char *argume/
+do_endure	martial_art.c	/^void do_endure(CHAR_DATA *ch, const char *argument/
+do_enter	act_move.c	/^void do_enter(CHAR_DATA *ch, const char *argument)/
+do_envenom	act_obj.c	/^void do_envenom(CHAR_DATA * ch, const char *argume/
+do_equipment	act_info.c	/^void do_equipment(CHAR_DATA *ch, const char *argum/
+do_escape	act_move.c	/^void do_escape(CHAR_DATA *ch, const char *argument/
+do_estimate	repair.c	/^void do_estimate(CHAR_DATA *ch, const char *argume/
+do_examine	act_info.c	/^void do_examine(CHAR_DATA *ch, const char *argumen/
+do_exits	act_info.c	/^void do_exits(CHAR_DATA *ch, const char *argument)/
+do_explode	martial_art.c	/^void do_explode(CHAR_DATA *ch, const char *argumen/
+do_fade	act_move.c	/^void do_fade(CHAR_DATA *ch, const char *argument)$/
+do_fill	act_obj.c	/^void do_fill(CHAR_DATA * ch, const char *argument)/
+do_find	act_wiz.c	/^void do_find(CHAR_DATA *ch, const char *argument)$/
+do_flee	fight.c	/^void do_flee(CHAR_DATA *ch, const char *argument)$/
+do_fly	act_move.c	/^void do_fly(CHAR_DATA *ch, const char *argument)$/
+do_follow	act_comm.c	/^void do_follow(CHAR_DATA *ch, const char *argument/
+do_force	act_wiz.c	/^void do_force(CHAR_DATA *ch, const char *argument)/
+do_freeze	act_wiz.c	/^void do_freeze(CHAR_DATA *ch, const char *argument/
+do_gain	skills.c	/^void do_gain(CHAR_DATA *ch, const char *argument)$/
+do_get	act_obj.c	/^void do_get(CHAR_DATA * ch, const char *argument)$/
+do_give	act_obj.c	/^void do_give(CHAR_DATA * ch, const char *argument)/
+do_gossip	act_comm.c	/^void do_gossip(CHAR_DATA *ch, const char *argument/
+do_goto	act_wiz.c	/^void do_goto(CHAR_DATA *ch, const char *argument)$/
+do_group	act_comm.c	/^void do_group(CHAR_DATA *ch, const char *argument)/
+do_gtell	act_comm.c	/^void do_gtell(CHAR_DATA *ch, const char *argument)/
+do_guard	martial_art.c	/^void do_guard(CHAR_DATA *ch, const char *argument)/
+do_hara	martial_art.c	/^void do_hara(CHAR_DATA *ch, const char *argument)$/
+do_heal	healer.c	/^void do_heal(CHAR_DATA *ch, const char *argument)$/
+do_help	act_info.c	/^void do_help(CHAR_DATA *ch, const char *argument)$/
+do_herbs	act_obj.c	/^void do_herbs(CHAR_DATA * ch, const char *argument/
+do_hide	act_move.c	/^void do_hide(CHAR_DATA *ch, const char *argument)$/
+do_holylight	act_wiz.c	/^void do_holylight(CHAR_DATA *ch, const char *argum/
+do_hometown	act_info.c	/^void do_hometown(CHAR_DATA *ch, const char *argume/
+do_human	act_move.c	/^void do_human(CHAR_DATA *ch, const char *argument)/
+do_hunt	hunt.c	/^void do_hunt(CHAR_DATA *ch, const char *argument)$/
+do_idea	note.c	/^void do_idea(CHAR_DATA *ch,const char *argument)$/
+do_identify	act_info.c	/^void do_identify(CHAR_DATA *ch, const char *argume/
+do_immtalk	act_comm.c	/^void do_immtalk(CHAR_DATA *ch, const char *argumen/
+do_imotd	act_info.c	/^void do_imotd(CHAR_DATA *ch, const char *argument)/
+do_incognito	act_wiz.c	/^void do_incognito(CHAR_DATA *ch, const char *argum/
+do_inventory	act_info.c	/^void do_inventory(CHAR_DATA *ch, const char *argum/
+do_invis	act_wiz.c	/^void do_invis(CHAR_DATA *ch, const char *argument)/
+do_ititle	act_wiz.c	/^void do_ititle(CHAR_DATA *ch, const char *argument/
+do_katana	martial_art.c	/^void do_katana(CHAR_DATA *ch, const char *argument/
+do_kick	martial_art.c	/^void do_kick(CHAR_DATA *ch, const char *argument)$/
+do_kill	fight.c	/^void do_kill(CHAR_DATA *ch, const char *argument)$/
+do_label	act_obj.c	/^void do_label(CHAR_DATA* ch, const char *argument)/
+do_layhands	act_move.c	/^void do_layhands(CHAR_DATA *ch, const char *argume/
+do_learn	skills.c	/^void do_learn(CHAR_DATA *ch, const char *argument)/
+do_limited	act_wiz.c	/^void do_limited(CHAR_DATA *ch, const char *argumen/
+do_lion_call	act_info.c	/^void do_lion_call(CHAR_DATA *ch, const char *argum/
+do_list	act_obj.c	/^void do_list(CHAR_DATA * ch, const char *argument)/
+do_load	act_wiz.c	/^void do_load(CHAR_DATA *ch, const char *argument)$/
+do_lock	act_move.c	/^void do_lock(CHAR_DATA *ch, const char *argument)$/
+do_log	act_wiz.c	/^void do_log(CHAR_DATA *ch, const char *argument)$/
+do_look	act_info.c	/^void do_look(CHAR_DATA *ch, const char *argument)$/
+do_look_in	act_info.c	/^void do_look_in(CHAR_DATA* ch, const char *argumen/
+do_lore	act_obj.c	/^void do_lore(CHAR_DATA *ch, const char *argument)$/
+do_lore_raw	act_obj.c	/^void do_lore_raw(CHAR_DATA *ch, OBJ_DATA *obj, BUF/
+do_make	act_info.c	/^void do_make(CHAR_DATA *ch, const char *argument)$/
+do_make_arrow	act_info.c	/^void do_make_arrow(CHAR_DATA *ch, const char *argu/
+do_make_bow	act_info.c	/^void do_make_bow(CHAR_DATA *ch, const char *argume/
+do_memory	db/db.c	/^void do_memory(CHAR_DATA *ch, const char *argument/
+do_mfind	act_wiz.c	/^void do_mfind(CHAR_DATA *ch, const char *argument)/
+do_mload	act_wiz.c	/^void do_mload(CHAR_DATA *ch, const char *argument)/
+do_mob	mob_cmds.c	/^void do_mob(CHAR_DATA *ch, const char *argument)$/
+do_motd	act_info.c	/^void do_motd(CHAR_DATA *ch, const char *argument)$/
+do_mount	act_move.c	/^void do_mount(CHAR_DATA *ch, const char *argument)/
+do_mpasound	mob_cmds.c	/^void do_mpasound(CHAR_DATA *ch, const char *argume/
+do_mpassist	mob_cmds.c	/^void do_mpassist(CHAR_DATA *ch, const char *argume/
+do_mpat	mob_cmds.c	/^void do_mpat(CHAR_DATA *ch, const char *argument)$/
+do_mpattack	mob_cmds.c	/^void do_mpattack(CHAR_DATA *ch, const char *argume/
+do_mpcall	mob_cmds.c	/^void do_mpcall(CHAR_DATA *ch, const char *argument/
+do_mpcancel	mob_cmds.c	/^void do_mpcancel(CHAR_DATA *ch, const char *argume/
+do_mpdamage	mob_cmds.c	/^void do_mpdamage(CHAR_DATA *ch, const char *argume/
+do_mpdelay	mob_cmds.c	/^void do_mpdelay(CHAR_DATA *ch, const char *argumen/
+do_mpecho	mob_cmds.c	/^void do_mpecho(CHAR_DATA *ch, const char *argument/
+do_mpechoaround	mob_cmds.c	/^void do_mpechoaround(CHAR_DATA *ch, const char *ar/
+do_mpechoat	mob_cmds.c	/^void do_mpechoat(CHAR_DATA *ch, const char *argume/
+do_mpflee	mob_cmds.c	/^void do_mpflee(CHAR_DATA *ch, const char *argument/
+do_mpforce	mob_cmds.c	/^void do_mpforce(CHAR_DATA *ch, const char *argumen/
+do_mpforget	mob_cmds.c	/^void do_mpforget(CHAR_DATA *ch, const char *argume/
+do_mpgecho	mob_cmds.c	/^void do_mpgecho(CHAR_DATA *ch, const char *argumen/
+do_mpgforce	mob_cmds.c	/^void do_mpgforce(CHAR_DATA *ch, const char *argume/
+do_mpgoto	mob_cmds.c	/^void do_mpgoto(CHAR_DATA *ch, const char *argument/
+do_mpgtransfer	mob_cmds.c	/^void do_mpgtransfer(CHAR_DATA *ch, const char *arg/
+do_mpjunk	mob_cmds.c	/^void do_mpjunk(CHAR_DATA *ch, const char *argument/
+do_mpkill	mob_cmds.c	/^void do_mpkill(CHAR_DATA *ch, const char *argument/
+do_mpmload	mob_cmds.c	/^void do_mpmload(CHAR_DATA *ch, const char *argumen/
+do_mpoload	mob_cmds.c	/^void do_mpoload(CHAR_DATA *ch, const char *argumen/
+do_mpotransfer	mob_cmds.c	/^void do_mpotransfer(CHAR_DATA *ch, const char *arg/
+do_mppurge	mob_cmds.c	/^void do_mppurge(CHAR_DATA *ch, const char *argumen/
+do_mpreligion	mob_cmds.c	/^void do_mpreligion(CHAR_DATA *ch, const char *argu/
+do_mpremember	mob_cmds.c	/^void do_mpremember(CHAR_DATA *ch, const char *argu/
+do_mpremove	mob_cmds.c	/^void do_mpremove(CHAR_DATA *ch, const char *argume/
+do_mpstat	mob_cmds.c	/^void do_mpstat(CHAR_DATA *ch, const char *argument/
+do_mptransfer	mob_cmds.c	/^void do_mptransfer(CHAR_DATA *ch, const char *argu/
+do_mpvforce	mob_cmds.c	/^void do_mpvforce(CHAR_DATA *ch, const char *argume/
+do_mpzecho	mob_cmds.c	/^void do_mpzecho(CHAR_DATA *ch, const char *argumen/
+do_mset	act_wiz.c	/^void do_mset(CHAR_DATA *ch, const char *argument)$/
+do_mstat	act_wiz.c	/^void do_mstat(CHAR_DATA *ch, const char *argument)/
+do_murde	fight.c	/^void do_murde(CHAR_DATA *ch, const char *argument)/
+do_murder	fight.c	/^void do_murder(CHAR_DATA *ch, const char *argument/
+do_music	act_comm.c	/^void do_music(CHAR_DATA *ch, const char *argument)/
+do_mwhere	act_wiz.c	/^void do_mwhere(CHAR_DATA *ch, const char *argument/
+do_nerve	martial_art.c	/^void do_nerve(CHAR_DATA *ch, const char *argument)/
+do_newlock	act_wiz.c	/^void do_newlock(CHAR_DATA *ch, const char *argumen/
+do_news	note.c	/^void do_news(CHAR_DATA *ch,const char *argument)$/
+do_noaffect	act_wiz.c	/^void do_noaffect(CHAR_DATA *ch, const char *argume/
+do_nochannels	act_wiz.c	/^void do_nochannels(CHAR_DATA *ch, const char *argu/
+do_noemote	act_wiz.c	/^void do_noemote(CHAR_DATA *ch, const char *argumen/
+do_nofollow	act_info.c	/^void do_nofollow(CHAR_DATA *ch, const char *argume/
+do_north	act_move.c	/^void do_north(CHAR_DATA *ch, const char *argument)/
+do_noshout	act_wiz.c	/^void do_noshout(CHAR_DATA *ch, const char *argumen/
+do_nosummon	act_info.c	/^void do_nosummon(CHAR_DATA *ch, const char *argume/
+do_note	note.c	/^void do_note(CHAR_DATA *ch,const char *argument)$/
+do_notell	act_wiz.c	/^void do_notell(CHAR_DATA *ch, const char *argument/
+do_notitle	act_wiz.c	/^void do_notitle(CHAR_DATA *ch, const char *argumen/
+do_objlist	act_wiz.c	/^void do_objlist(CHAR_DATA *ch, const char *argumen/
+do_ofind	act_wiz.c	/^void do_ofind(CHAR_DATA *ch, const char *argument)/
+do_olc	olc/olc.c	/^static void do_olc(CHAR_DATA *ch, const char *argu/
+do_oload	act_wiz.c	/^void do_oload(CHAR_DATA *ch, const char *argument)/
+do_open	act_move.c	/^void do_open(CHAR_DATA *ch, const char *argument)$/
+do_order	act_comm.c	/^void do_order(CHAR_DATA *ch, const char *argument)/
+do_oset	act_wiz.c	/^void do_oset(CHAR_DATA *ch, const char *argument)$/
+do_ostat	act_wiz.c	/^void do_ostat(CHAR_DATA *ch, const char *argument)/
+do_outfit	act_wiz.c	/^void do_outfit(CHAR_DATA *ch, const char *argument/
+do_owhere	act_wiz.c	/^void do_owhere(CHAR_DATA *ch, const char *argument/
+do_password	act_info.c	/^void do_password(CHAR_DATA *ch, const char *argume/
+do_peace	act_wiz.c	/^void do_peace(CHAR_DATA *ch, const char *argument)/
+do_pecho	act_wiz.c	/^void do_pecho(CHAR_DATA *ch, const char *argument)/
+do_penalty	note.c	/^void do_penalty(CHAR_DATA *ch,const char *argument/
+do_permban	comm/ban.c	/^void do_permban(CHAR_DATA *ch, const char *argumen/
+do_petitio	clan.c	/^void do_petitio(CHAR_DATA *ch, const char *argumen/
+do_petition	clan.c	/^void do_petition(CHAR_DATA *ch, const char *argume/
+do_pick	act_move.c	/^void do_pick(CHAR_DATA *ch, const char *argument)$/
+do_pmote	act_comm.c	/^void do_pmote(CHAR_DATA *ch, const char *argument)/
+do_poison_smoke	martial_art.c	/^void do_poison_smoke(CHAR_DATA *ch, const char *ar/
+do_popularity	act_wiz.c	/^void do_popularity(CHAR_DATA *ch, const char *argu/
+do_pose	act_comm.c	/^void do_pose(CHAR_DATA *ch, const char *argument)$/
+do_pour	act_obj.c	/^void do_pour(CHAR_DATA * ch, const char *argument)/
+do_practice	act_info.c	/^void do_practice(CHAR_DATA *ch, const char *argume/
+do_pray	act_comm.c	/^void do_pray(CHAR_DATA *ch, const char *argument)$/
+do_print_sw	act_info.c	/^#define do_print_sw(ch, swname, sw) \\$/
+do_promote	clan.c	/^void do_promote(CHAR_DATA *ch, const char *argumen/
+do_prompt	act_info.c	/^void do_prompt(CHAR_DATA *ch, const char *argument/
+do_protect	act_wiz.c	/^void do_protect(CHAR_DATA *ch, const char *argumen/
+do_purge	act_wiz.c	/^void do_purge(CHAR_DATA *ch, const char *argument)/
+do_push	act_move.c	/^void do_push(CHAR_DATA *ch, const char *argument)$/
+do_put	act_obj.c	/^void do_put(CHAR_DATA * ch, const char *argument)$/
+do_quaff	act_obj.c	/^void do_quaff(CHAR_DATA * ch, const char *argument/
+do_quest	quest.c	/^void do_quest(CHAR_DATA *ch, const char *argument)/
+do_qui	act_comm.c	/^void do_qui(CHAR_DATA *ch, const char *argument)$/
+do_quiet	act_comm.c	/^void do_quiet(CHAR_DATA *ch, const char *argument)/
+do_quit	act_comm.c	/^void do_quit(CHAR_DATA *ch, const char *argument)$/
+do_quit_count	act_comm.c	/^void do_quit_count(CHAR_DATA *ch, const char *argu/
+do_quit_org	act_comm.c	/^void do_quit_org(CHAR_DATA *ch, const char *argume/
+do_raffects	raffects.c	/^void do_raffects(CHAR_DATA *ch, const char *argume/
+do_rating	rating.c	/^void do_rating(CHAR_DATA *ch, const char *argument/
+do_reboo	act_wiz.c	/^void do_reboo(CHAR_DATA *ch, const char *argument)/
+do_reboot	act_wiz.c	/^void do_reboot(CHAR_DATA *ch, const char *argument/
+do_recall	act_move.c	/^void do_recall(CHAR_DATA *ch, const char *argument/
+do_recho	act_wiz.c	/^void do_recho(CHAR_DATA *ch, const char *argument)/
+do_recite	act_obj.c	/^void do_recite(CHAR_DATA * ch, const char *argumen/
+do_remove	act_obj.c	/^void do_remove(CHAR_DATA * ch, const char *argumen/
+do_rename	act_wiz.c	/^void do_rename(CHAR_DATA* ch, const char *argument/
+do_rent	act_comm.c	/^void do_rent(CHAR_DATA *ch, const char *argument)$/
+do_repair	repair.c	/^void do_repair(CHAR_DATA *ch, const char *argument/
+do_replay	act_comm.c	/^void do_replay(CHAR_DATA *ch, const char *argument/
+do_reply	act_comm.c	/^void do_reply(CHAR_DATA *ch, const char *argument)/
+do_report	act_info.c	/^void do_report(CHAR_DATA *ch, const char *argument/
+do_request	act_info.c	/^void do_request(CHAR_DATA *ch, const char *argumen/
+do_rescue	martial_art.c	/^void do_rescue(CHAR_DATA *ch, const char *argument/
+do_resets	olc/olc_room.c	/^void do_resets(CHAR_DATA *ch, const char *argument/
+do_resistance	martial_art.c	/^void do_resistance(CHAR_DATA *ch, const char *argu/
+do_rest	act_move.c	/^void do_rest(CHAR_DATA *ch, const char *argument)$/
+do_restore	act_wiz.c	/^void do_restore(CHAR_DATA *ch, const char *argumen/
+do_restring	repair.c	/^void do_restring(CHAR_DATA *ch, const char *argume/
+do_return	act_wiz.c	/^void do_return(CHAR_DATA *ch, const char *argument/
+do_rset	act_wiz.c	/^void do_rset(CHAR_DATA *ch, const char *argument)$/
+do_rstat	act_wiz.c	/^void do_rstat(CHAR_DATA *ch, const char *argument)/
+do_rules	act_info.c	/^void do_rules(CHAR_DATA *ch, const char *argument)/
+do_sacrifice	act_obj.c	/^void do_sacrifice(CHAR_DATA * ch, const char *argu/
+do_save	act_comm.c	/^void do_save(CHAR_DATA *ch, const char *argument)$/
+do_say	act_comm.c	/^void do_say(CHAR_DATA *ch, const char *argument)$/
+do_scan	act_info.c	/^void do_scan(CHAR_DATA *ch, const char *argument)$/
+do_scan2	act_info.c	/^void do_scan2(CHAR_DATA *ch, const char *argument)/
+do_score	act_info.c	/^void do_score(CHAR_DATA *ch, const char *argument)/
+do_second_wield	act_obj.c	/^void do_second_wield(CHAR_DATA * ch, const char *a/
+do_sell	act_obj.c	/^void do_sell(CHAR_DATA * ch, const char *argument)/
+do_sense	martial_art.c	/^void do_sense(CHAR_DATA *ch, const char *argument)/
+do_set	act_wiz.c	/^void do_set(CHAR_DATA *ch, const char *argument)$/
+do_settraps	act_move.c	/^void do_settraps(CHAR_DATA *ch, const char *argume/
+do_shield	martial_art.c	/^void do_shield(CHAR_DATA *ch, const char *argument/
+do_shout	act_comm.c	/^void do_shout(CHAR_DATA *ch, const char *argument)/
+do_shutdow	act_wiz.c	/^void do_shutdow(CHAR_DATA *ch, const char *argumen/
+do_shutdown	act_wiz.c	/^void do_shutdown(CHAR_DATA *ch, const char *argume/
+do_sit	act_move.c	/^void do_sit(CHAR_DATA *ch, const char *argument)$/
+do_skills	skills.c	/^void do_skills(CHAR_DATA *ch, const char *argument/
+do_sla	fight.c	/^void do_sla(CHAR_DATA *ch, const char *argument)$/
+do_slay	fight.c	/^void do_slay(CHAR_DATA *ch, const char *argument)$/
+do_sleep	act_move.c	/^void do_sleep(CHAR_DATA *ch, const char *argument)/
+do_slook	skills.c	/^void do_slook(CHAR_DATA *ch, const char *argument)/
+do_smite	act_wiz.c	/^void do_smite(CHAR_DATA *ch, const char *argument)/
+do_smithing	repair.c	/^void do_smithing(CHAR_DATA *ch, const char *argume/
+do_smote	act_wiz.c	/^void do_smote(CHAR_DATA *ch, const char *argument)/
+do_sneak	act_move.c	/^void do_sneak(CHAR_DATA *ch, const char *argument)/
+do_snoop	act_wiz.c	/^void do_snoop(CHAR_DATA *ch, const char *argument)/
+do_socials	act_info.c	/^void do_socials(CHAR_DATA *ch, const char *argumen/
+do_sockets	act_wiz.c	/^void do_sockets(CHAR_DATA *ch, const char *argumen/
+do_south	act_move.c	/^void do_south(CHAR_DATA *ch, const char *argument)/
+do_speak	act_comm.c	/^void do_speak(CHAR_DATA *ch, const char *argument)/
+do_spellbane	martial_art.c	/^void do_spellbane(CHAR_DATA *ch, const char *argum/
+do_spells	skills.c	/^void do_spells(CHAR_DATA *ch, const char *argument/
+do_split	act_comm.c	/^void do_split(CHAR_DATA *ch, const char *argument)/
+do_sset	act_wiz.c	/^void do_sset(CHAR_DATA *ch, const char *argument)$/
+do_stand	act_move.c	/^void do_stand(CHAR_DATA *ch, const char *argument)/
+do_stat	act_wiz.c	/^void do_stat (CHAR_DATA *ch, const char *argument)/
+do_steal	act_obj.c	/^void do_steal(CHAR_DATA * ch, const char *argument/
+do_story	act_info.c	/^void do_story(CHAR_DATA *ch, const char *argument)/
+do_strangle	martial_art.c	/^void do_strangle(CHAR_DATA *ch, const char *argume/
+do_string	act_wiz.c	/^void do_string(CHAR_DATA *ch, const char *argument/
+do_surrender	fight.c	/^void do_surrender(CHAR_DATA *ch, const char *argum/
+do_switch	act_wiz.c	/^void do_switch(CHAR_DATA *ch, const char *argument/
+do_tail	martial_art.c	/^void do_tail(CHAR_DATA *ch, const char *argument)$/
+do_tame	martial_art.c	/^void do_tame(CHAR_DATA *ch, const char *argument)$/
+do_target	martial_art.c	/^void do_target(CHAR_DATA *ch, const char *argument/
+do_teach	skills.c	/^void do_teach(CHAR_DATA *ch, const char *argument)/
+do_tell	act_comm.c	/^void do_tell(CHAR_DATA *ch, const char *argument)$/
+do_tell_raw	act_comm.c	/^void do_tell_raw(CHAR_DATA *ch, CHAR_DATA *victim,/
+do_throw	martial_art.c	/^void do_throw(CHAR_DATA *ch, const char *argument)/
+do_throw_spear	act_move.c	/^void do_throw_spear(CHAR_DATA *ch, const char *arg/
+do_thumbling	act_move.c	/^void do_thumbling(CHAR_DATA *ch, const char *argum/
+do_tick	act_wiz.c	/^void do_tick(CHAR_DATA *ch, const char *argument)$/
+do_tiger	martial_art.c	/^void do_tiger(CHAR_DATA *ch, const char *argument)/
+do_time	act_info.c	/^void do_time(CHAR_DATA *ch, const char *argument)$/
+do_title	act_info.c	/^void do_title(CHAR_DATA *ch, const char *argument)/
+do_track	act_move.c	/^void do_track(CHAR_DATA *ch, const char *argument)/
+do_train	act_move.c	/^void do_train(CHAR_DATA *ch, const char *argument)/
+do_transfer	act_wiz.c	/^void do_transfer(CHAR_DATA *ch, const char *argume/
+do_trip	martial_art.c	/^void do_trip(CHAR_DATA *ch, const char *argument)$/
+do_trophy	martial_art.c	/^void do_trophy(CHAR_DATA *ch, const char *argument/
+do_truesight	martial_art.c	/^void do_truesight(CHAR_DATA *ch, const char *argum/
+do_typo	act_comm.c	/^void do_typo(CHAR_DATA *ch, const char *argument)$/
+do_unalias	interp.c	/^void do_unalias(CHAR_DATA *ch, const char *argumen/
+do_unlock	act_move.c	/^void do_unlock(CHAR_DATA *ch, const char *argument/
+do_unread	note.c	/^void do_unread(CHAR_DATA *ch, const char *argument/
+do_up	act_move.c	/^void do_up(CHAR_DATA *ch, const char *argument)$/
+do_value	act_obj.c	/^void do_value(CHAR_DATA * ch, const char *argument/
+do_vampire	act_move.c	/^void do_vampire(CHAR_DATA *ch, const char *argumen/
+do_vanish	act_move.c	/^void do_vanish(CHAR_DATA *ch, const char *argument/
+do_vbite	act_move.c	/^void do_vbite(CHAR_DATA *ch, const char *argument)/
+do_violate	act_wiz.c	/^void do_violate(CHAR_DATA *ch, const char *argumen/
+do_visible	act_move.c	/^void do_visible(CHAR_DATA *ch, const char *argumen/
+do_vnum	act_wiz.c	/^void do_vnum(CHAR_DATA *ch, const char *argument)$/
+do_vtouch	act_move.c	/^void do_vtouch(CHAR_DATA *ch, const char *argument/
+do_wake	act_move.c	/^void do_wake(CHAR_DATA *ch, const char *argument)$/
+do_warcry	martial_art.c	/^void do_warcry(CHAR_DATA *ch, const char *argument/
+do_weapon	martial_art.c	/^void do_weapon(CHAR_DATA *ch, const char *argument/
+do_wear	act_obj.c	/^void do_wear(CHAR_DATA * ch, const char *argument)/
+do_weather	act_info.c	/^void do_weather(CHAR_DATA *ch, const char *argumen/
+do_west	act_move.c	/^void do_west(CHAR_DATA *ch, const char *argument)$/
+do_where	act_info.c	/^void do_where(CHAR_DATA *ch, const char *argument)/
+do_who_raw	act_info.c	/^void do_who_raw(CHAR_DATA* ch, CHAR_DATA *wch, BUF/
+do_whois	act_info.c	/^void do_whois(CHAR_DATA *ch, const char *argument)/
+do_wimpy	act_info.c	/^void do_wimpy(CHAR_DATA *ch, const char *argument)/
+do_withdraw	act_obj.c	/^void do_withdraw(CHAR_DATA * ch, const char *argum/
+do_wizhelp	interp.c	/^void do_wizhelp(CHAR_DATA *ch, const char *argumen/
+do_wizlist	act_info.c	/^void do_wizlist(CHAR_DATA *ch, const char *argumen/
+do_wizlock	act_wiz.c	/^void do_wizlock(CHAR_DATA *ch, const char *argumen/
+do_wiznet	act_wiz.c	/^void do_wiznet(CHAR_DATA *ch, const char *argument/
+do_worth	act_info.c	/^void do_worth(CHAR_DATA *ch, const char *argument)/
+do_yell	act_comm.c	/^void do_yell(CHAR_DATA *ch, const char *argument)$/
+do_zap	act_obj.c	/^void do_zap(CHAR_DATA * ch, const char *argument)$/
+do_zecho	act_wiz.c	/^void do_zecho(CHAR_DATA *ch, const char *argument)/
+donothing	hunt.c	/^void donothing()$/
+doprintf	util.c	/^void doprintf(DO_FUN *fn, CHAR_DATA* ch, const cha/
+dragon	special.c	/^static bool dragon(CHAR_DATA *ch, const char *spel/
+drop_obj	act_obj.c	/^void drop_obj(CHAR_DATA *ch, OBJ_DATA *obj)$/
+dump_to_scr	comm/comm.c	/^void dump_to_scr(char *text)$/
+dunlink	util.c	/^int dunlink(const char *dir, const char *file)$/
+ed_dup	recycle.c	/^ED_DATA *ed_dup(const ED_DATA *ed)$/
+ed_fread	recycle.c	/^void ed_fread(FILE *fp, ED_DATA **edp)$/
+ed_free	recycle.c	/^void ed_free(ED_DATA *ed)$/
+ed_fwrite	recycle.c	/^void ed_fwrite(FILE *fp, ED_DATA *ed)$/
+ed_lookup	db/db.c	/^ED_DATA *ed_lookup(const char *name, ED_DATA *ed)$/
+ed_new	recycle.c	/^ED_DATA *ed_new(void)$/
+ed_new2	recycle.c	/^ED_DATA *ed_new2(const ED_DATA *ed, const char* na/
+edit_done	olc/olc.c	/^void edit_done(DESCRIPTOR_DATA *d)$/
+ee	const.h	388
+entry_prog_coconut	obj_prog.c	/^int entry_prog_coconut(OBJ_DATA *obj, CHAR_DATA *c/
+equip_char	handler.c	/^OBJ_DATA * equip_char(CHAR_DATA *ch, OBJ_DATA *obj/
+ethos_check	comm/comm.c	/^int ethos_check(CHAR_DATA *ch)$/
+exit_ok	hunt.c	/^int exit_ok(EXIT_DATA *pexit)$/
+exitcmp	olc/olc_save.c	/^static int exitcmp(const void *p1, const void *p2)/
+exp_for_level	skills.c	/^int exp_for_level(CHAR_DATA *ch, int level)$/
+exp_to_level	skills.c	/^int exp_to_level(CHAR_DATA *ch)$/
+expand_arg	mob_prog.c	/^void expand_arg(char *buf, $/
+extract_char	handler.c	/^void extract_char(CHAR_DATA *ch, bool fPull)$/
+extract_char_nocount	handler.c	/^void extract_char_nocount(CHAR_DATA *ch, bool fPul/
+extract_char_org	handler.c	/^void extract_char_org(CHAR_DATA *ch, bool fPull, b/
+extract_obj	merc.h	/^#define extract_obj(obj)		extract_obj_raw(obj, 0)$/
+extract_obj_nocount	merc.h	/^#define extract_obj_nocount(obj)	extract_obj_raw(o/
+extract_obj_raw	handler.c	/^void extract_obj_raw(OBJ_DATA *obj, int flags)$/
+ff	const.h	389
+fight_prog_armbands	obj_prog.c	/^int fight_prog_armbands(OBJ_DATA *obj, CHAR_DATA */
+fight_prog_chaos_blade	obj_prog.c	/^int fight_prog_chaos_blade(OBJ_DATA *obj, CHAR_DAT/
+fight_prog_demonfireshield	obj_prog.c	/^int fight_prog_demonfireshield(OBJ_DATA *obj, CHAR/
+fight_prog_firegauntlets	obj_prog.c	/^int fight_prog_firegauntlets(OBJ_DATA *obj, CHAR_D/
+fight_prog_golden_weapon	obj_prog.c	/^int fight_prog_golden_weapon(OBJ_DATA *obj, CHAR_D/
+fight_prog_lion_claw	obj_prog.c	/^int fight_prog_lion_claw(OBJ_DATA *obj, CHAR_DATA /
+fight_prog_ranger_staff	obj_prog.c	/^int fight_prog_ranger_staff(OBJ_DATA *obj, CHAR_DA/
+fight_prog_rose_shield	obj_prog.c	/^int fight_prog_rose_shield(OBJ_DATA *obj, CHAR_DAT/
+fight_prog_shockwave	obj_prog.c	/^int fight_prog_shockwave(OBJ_DATA *obj, CHAR_DATA /
+fight_prog_snake	obj_prog.c	/^int fight_prog_snake(OBJ_DATA *obj, CHAR_DATA *ch,/
+fight_prog_sub_weapon	obj_prog.c	/^int fight_prog_sub_weapon(OBJ_DATA *obj, CHAR_DATA/
+fight_prog_swordbreaker	obj_prog.c	/^int fight_prog_swordbreaker(OBJ_DATA *obj, CHAR_DA/
+fight_prog_tattoo_ahuramazda	obj_prog.c	/^int fight_prog_tattoo_ahuramazda(OBJ_DATA *obj, CH/
+fight_prog_tattoo_ares	obj_prog.c	/^int fight_prog_tattoo_ares(OBJ_DATA *obj, CHAR_DAT/
+fight_prog_tattoo_atum_ra	obj_prog.c	/^int fight_prog_tattoo_atum_ra(OBJ_DATA *obj, CHAR_/
+fight_prog_tattoo_deimos	obj_prog.c	/^int fight_prog_tattoo_deimos(OBJ_DATA *obj, CHAR_D/
+fight_prog_tattoo_ehrumen	obj_prog.c	/^int fight_prog_tattoo_ehrumen(OBJ_DATA *obj, CHAR_/
+fight_prog_tattoo_enki	obj_prog.c	/^int fight_prog_tattoo_enki(OBJ_DATA *obj, CHAR_DAT/
+fight_prog_tattoo_eros	obj_prog.c	/^int fight_prog_tattoo_eros(OBJ_DATA *obj, CHAR_DAT/
+fight_prog_tattoo_goktengri	obj_prog.c	/^int fight_prog_tattoo_goktengri(OBJ_DATA *obj, CHA/
+fight_prog_tattoo_hera	obj_prog.c	/^int fight_prog_tattoo_hera(OBJ_DATA *obj, CHAR_DAT/
+fight_prog_tattoo_odin	obj_prog.c	/^int fight_prog_tattoo_odin(OBJ_DATA *obj, CHAR_DAT/
+fight_prog_tattoo_phobos	obj_prog.c	/^int fight_prog_tattoo_phobos(OBJ_DATA *obj, CHAR_D/
+fight_prog_tattoo_seth	obj_prog.c	/^int fight_prog_tattoo_seth(OBJ_DATA *obj, CHAR_DAT/
+fight_prog_tattoo_shamash	obj_prog.c	/^int fight_prog_tattoo_shamash(OBJ_DATA *obj, CHAR_/
+fight_prog_tattoo_siebele	obj_prog.c	/^int fight_prog_tattoo_siebele(OBJ_DATA *obj, CHAR_/
+fight_prog_tattoo_teshub	obj_prog.c	/^int fight_prog_tattoo_teshub(OBJ_DATA *obj, CHAR_D/
+fight_prog_tattoo_venus	obj_prog.c	/^int fight_prog_tattoo_venus(OBJ_DATA *obj, CHAR_DA/
+fight_prog_tattoo_zeus	obj_prog.c	/^int fight_prog_tattoo_zeus(OBJ_DATA *obj, CHAR_DAT/
+fight_prog_vorpalblade	obj_prog.c	/^int fight_prog_vorpalblade(OBJ_DATA *obj, CHAR_DAT/
+find_arrow	act_move.c	/^static OBJ_DATA *find_arrow(CHAR_DATA *ch)$/
+find_char	handler.c	/^CHAR_DATA * find_char(CHAR_DATA *ch, const char *a/
+find_door	act_move.c	/^int find_door(CHAR_DATA *ch, char *arg)$/
+find_exit	act_move.c	/^int find_exit(CHAR_DATA *ch, char *arg)$/
+find_keeper	act_obj.c	/^CHAR_DATA * find_keeper(CHAR_DATA * ch)$/
+find_location	act_wiz.c	/^ROOM_INDEX_DATA *find_location(CHAR_DATA *ch, cons/
+find_path	hunt.c	/^int find_path(int in_room_vnum, int out_room_vnum,/
+find_way	act_move.c	/^char *find_way(CHAR_DATA *ch,ROOM_INDEX_DATA *rsta/
+fire_effect	effects.c	/^void fire_effect(void *vo, int level, int dam, int/
+first_arg	interp.c	/^const char *first_arg(const char *argument, char */
+fix_exits	db/db.c	/^void fix_exits(void)$/
+fix_mlstring	mlstring.c	/^static char *fix_mlstring(const char *s)$/
+fix_msg	db/resource.c	/^char *fix_msg(char* p)$/
+fix_string	db/db.c	/^char *fix_string(const char *s)$/
+flag_convert	db/db.c	/^flag_t flag_convert(char letter)$/
+flag_lookup	flag.c	/^const FLAG* flag_lookup(const FLAG *f, const char /
+flag_string	flag.c	/^char *flag_string(const FLAG *flag_table, flag_t b/
+flag_t	typedef.h	119
+flag_value	flag.c	/^flag_t flag_value(const FLAG *flag_table, const ch/
+floating_time	handler.c	/^int floating_time(OBJ_DATA *obj)$/
+format_flags	db/db.c	/^char *format_flags(flag_t flags)$/
+format_lookup	comm/comm_colors.c	/^int format_lookup(const char *name)$/
+format_obj	handler.c	/^void format_obj(BUFFER *output, OBJ_DATA *obj)$/
+format_obj_affects	handler.c	/^void format_obj_affects(BUFFER *output, AFFECT_DAT/
+format_obj_to_char	act_info.c	/^char *format_obj_to_char(OBJ_DATA *obj, CHAR_DATA /
+format_string	string_edit.c	/^const char *format_string(const char *oldstring \/*/
+fread_char	save.c	/^fread_char(CHAR_DATA * ch, FILE * fp)$/
+fread_clan	db/db.c	/^int fread_clan(FILE *fp)$/
+fread_flags	db/db.c	/^flag_t fread_flags(FILE *fp)$/
+fread_fstring	db/db.c	/^flag_t fread_fstring(const FLAG *table, FILE *fp)$/
+fread_fword	db/db.c	/^flag_t fread_fword(const FLAG *table, FILE *fp)$/
+fread_letter	db/db.c	/^char fread_letter(FILE *fp)$/
+fread_namedp	db/db.c	/^void *fread_namedp(NAMEDP *table, FILE *fp)$/
+fread_number	db/db.c	/^int fread_number(FILE *fp)$/
+fread_obj	save.c	/^fread_obj(CHAR_DATA * ch, FILE * fp)$/
+fread_pet	save.c	/^fread_pet(CHAR_DATA * ch, FILE * fp)$/
+fread_string	db/db.c	/^const char *fread_string(FILE *fp)$/
+fread_to_eol	db/db.c	/^void fread_to_eol(FILE *fp)$/
+fread_word	db/db.c	/^char *fread_word(FILE *fp)$/
+free_area	mem.c	/^void free_area(AREA_DATA *pArea)$/
+free_ban	comm/ban.c	/^void free_ban(BAN_DATA *ban)$/
+free_char	recycle.c	/^void free_char(CHAR_DATA *ch)$/
+free_descriptor	comm/comm.c	/^void free_descriptor(DESCRIPTOR_DATA *d)$/
+free_exit	mem.c	/^void free_exit(EXIT_DATA *pExit)$/
+free_mem	db/db.c	/^void free_mem(void *p, int sMem)$/
+free_mob_index	mem.c	/^void free_mob_index(MOB_INDEX_DATA *pMob)$/
+free_note	note.c	/^void free_note(NOTE_DATA *note)$/
+free_obj	recycle.c	/^void free_obj(OBJ_DATA *obj)$/
+free_obj_index	mem.c	/^void free_obj_index(OBJ_INDEX_DATA *pObj)$/
+free_pcdata	recycle.c	/^void free_pcdata(PC_DATA *pcdata)$/
+free_reset_data	mem.c	/^void free_reset_data(RESET_DATA *pReset)$/
+free_room_index	mem.c	/^void free_room_index(ROOM_INDEX_DATA *pRoom)$/
+free_shop	mem.c	/^void free_shop(SHOP_DATA *pShop)$/
+free_string	str.c	/^void free_string(const char *p)$/
+fwrite_affect	save.c	/^void fwrite_affect(AFFECT_DATA *paf, FILE *fp)$/
+fwrite_char	save.c	/^fwrite_char(CHAR_DATA * ch, FILE * fp, bool reboot/
+fwrite_note	note.c	/^void fwrite_note(FILE *fp, NOTE_DATA *pnote)$/
+fwrite_obj	save.c	/^fwrite_obj(CHAR_DATA * ch, OBJ_DATA * obj, FILE * /
+fwrite_pet	save.c	/^fwrite_pet(CHAR_DATA * pet, FILE * fp)$/
+fwrite_string	db/db.c	/^void fwrite_string(FILE *fp, const char *name, con/
+gain_condition	update.c	/^void gain_condition(CHAR_DATA *ch, int iCond, int /
+gain_exp	update.c	/^void gain_exp(CHAR_DATA *ch, int gain)$/
+game_loop_unix	comm/comm.c	/^void game_loop_unix(int control, int infofd)$/
+garble	act_comm.c	/^static const char *garble(CHAR_DATA *ch, const cha/
+get_age	handler.c	/^int get_age(CHAR_DATA *ch)$/
+get_carry_weight	merc.h	/^#define get_carry_weight(ch)	((ch)->carry_weight +/
+get_char_area	hunt.c	/^CHAR_DATA *get_char_area(CHAR_DATA *ch, const char/
+get_char_room	handler.c	/^CHAR_DATA *get_char_room(CHAR_DATA *ch, const char/
+get_char_room2	handler.c	/^CHAR_DATA *get_char_room2(CHAR_DATA *ch, ROOM_INDE/
+get_char_spell	handler.c	/^CHAR_DATA *get_char_spell(CHAR_DATA *ch, const cha/
+get_char_world	handler.c	/^CHAR_DATA *get_char_world(CHAR_DATA *ch, const cha/
+get_cond_alias	act_info.c	/^char *get_cond_alias(OBJ_DATA *obj)$/
+get_cost	act_obj.c	/^uint get_cost(CHAR_DATA * keeper, OBJ_DATA * obj, /
+get_curr_stat	class.c	/^int get_curr_stat(CHAR_DATA *ch, int stat)$/
+get_dam_type	fight.c	/^int get_dam_type(CHAR_DATA *ch, OBJ_DATA *wield, i/
+get_edited_area	olc/olc.c	/^AREA_DATA *get_edited_area(CHAR_DATA *ch)$/
+get_eq_char	handler.c	/^OBJ_DATA *get_eq_char(CHAR_DATA *ch, int iWear)$/
+get_filename	util.c	/^const char *get_filename(const char *name)$/
+get_gold_corpse	fight.c	/^void get_gold_corpse(CHAR_DATA *ch, OBJ_DATA *corp/
+get_max_train	class.c	/^int get_max_train(CHAR_DATA *ch, int stat)$/
+get_mob_id	recycle.c	/^long get_mob_id(void)$/
+get_mob_index	db/db.c	/^MOB_INDEX_DATA *get_mob_index(int vnum)$/
+get_mob_vnum_room	mob_prog.c	/^bool get_mob_vnum_room(CHAR_DATA *ch, int vnum)$/
+get_obj	act_obj.c	/^void get_obj(CHAR_DATA * ch, OBJ_DATA * obj, OBJ_D/
+get_obj_carry	handler.c	/^OBJ_DATA *get_obj_carry(CHAR_DATA *ch, const char /
+get_obj_here	handler.c	/^OBJ_DATA *get_obj_here(CHAR_DATA *ch, const char */
+get_obj_index	db/db.c	/^OBJ_INDEX_DATA *get_obj_index(int vnum)$/
+get_obj_keeper	act_obj.c	/^OBJ_DATA * get_obj_keeper(CHAR_DATA * ch, CHAR_DAT/
+get_obj_list	handler.c	/^OBJ_DATA *get_obj_list(CHAR_DATA *ch, const char */
+get_obj_number	handler.c	/^int get_obj_number(OBJ_DATA *obj)$/
+get_obj_realnumber	handler.c	/^int get_obj_realnumber(OBJ_DATA *obj)$/
+get_obj_room	handler.c	/^OBJ_DATA *get_obj_room(CHAR_DATA *ch, const char */
+get_obj_type	handler.c	/^OBJ_DATA *get_obj_type(OBJ_INDEX_DATA *pObjIndex)$/
+get_obj_vnum_room	mob_prog.c	/^bool get_obj_vnum_room(CHAR_DATA *ch, int vnum)$/
+get_obj_wear	handler.c	/^OBJ_DATA *get_obj_wear(CHAR_DATA *ch, const char */
+get_obj_weight	handler.c	/^int get_obj_weight(OBJ_DATA *obj)$/
+get_obj_world	handler.c	/^OBJ_DATA *get_obj_world(CHAR_DATA *ch, const char /
+get_order	mob_prog.c	/^int get_order(CHAR_DATA *ch)$/
+get_pc_id	recycle.c	/^long get_pc_id(void)$/
+get_prog_coconut	obj_prog.c	/^int get_prog_coconut(OBJ_DATA *obj, CHAR_DATA *ch,/
+get_prog_heart	obj_prog.c	/^int get_prog_heart(OBJ_DATA *obj, CHAR_DATA *ch, c/
+get_prog_quest_obj	obj_prog.c	/^int get_prog_quest_obj(OBJ_DATA *obj, CHAR_DATA *c/
+get_prog_quest_reward	obj_prog.c	/^int get_prog_quest_reward(OBJ_DATA *obj, CHAR_DATA/
+get_prog_snake	obj_prog.c	/^int get_prog_snake(OBJ_DATA *obj, CHAR_DATA *ch, c/
+get_prog_spec_weapon	obj_prog.c	/^int get_prog_spec_weapon(OBJ_DATA *obj, CHAR_DATA /
+get_random_char	mob_prog.c	/^CHAR_DATA *get_random_char(CHAR_DATA *mob)$/
+get_random_room	act_move.c	/^ROOM_INDEX_DATA  *get_random_room(CHAR_DATA *ch)$/
+get_recall	hometown.c	/^int get_recall(CHAR_DATA *ch)$/
+get_room_index	db/db.c	/^ROOM_INDEX_DATA *get_room_index(int vnum)$/
+get_size	buffer.c	/^static int get_size (int val)$/
+get_skill	skills.c	/^int get_skill(CHAR_DATA *ch, int sn)$/
+get_stat_alias	comm/comm.c	/^char *get_stat_alias(CHAR_DATA *ch, int where)$/
+get_status_alias	clan.c	/^char *get_status_alias(int status)$/
+get_true_weight	handler.c	/^int get_true_weight(OBJ_DATA *obj)$/
+get_weapon_skill	skills.c	/^int get_weapon_skill(CHAR_DATA *ch, int sn)$/
+get_weapon_sn	skills.c	/^int get_weapon_sn(OBJ_DATA *wield)$/
+get_wear_level	handler.c	/^int get_wear_level(CHAR_DATA *ch, OBJ_DATA *obj)$/
+getline	string_edit.c	/^const char *getline(const char *str, char *buf)$/
+gettimeofday	comm/comm.c	/^void gettimeofday (struct timeval *tp, void *tzp)$/
+gg	const.h	391
+greet_prog_coconut	obj_prog.c	/^int greet_prog_coconut(OBJ_DATA *obj, CHAR_DATA *c/
+group_gain	fight.c	/^void group_gain(CHAR_DATA *ch, CHAR_DATA *victim)$/
+guild_check	class.c	/^int guild_check(CHAR_DATA *ch, ROOM_INDEX_DATA *ro/
+handle_death	fight.c	/^void handle_death(CHAR_DATA *ch, CHAR_DATA *victim/
+has_item	mob_prog.c	/^bool has_item(CHAR_DATA *ch, int vnum, int item_ty/
+has_key	act_move.c	/^bool has_key(CHAR_DATA *ch, int key)$/
+has_key_ground	act_move.c	/^bool has_key_ground(CHAR_DATA *ch, int key)$/
+has_obj_affect	handler.c	/^bool has_obj_affect(CHAR_DATA *ch, int vector)$/
+hash_enter	hunt.c	/^int hash_enter(struct hash_header *ht,int key,void/
+hash_find	hunt.c	/^void *hash_find(struct hash_header *ht,int key)$/
+hash_find_or_create	hunt.c	/^void *hash_find_or_create(struct hash_header *ht,i/
+hash_iterate	hunt.c	/^void hash_iterate(struct hash_header *ht,void (*fu/
+hash_remove	hunt.c	/^void *hash_remove(struct hash_header *ht,int key)$/
+hashstr	str.c	/^hashstr(s, maxn, hashs)$/
+help_add	help.c	/^void help_add(AREA_DATA *pArea, HELP_DATA* pHelp)$/
+help_free	help.c	/^void help_free(HELP_DATA *pHelp)$/
+help_lookup	help.c	/^HELP_DATA *help_lookup(int num, const char *keywor/
+help_new	help.c	/^HELP_DATA * help_new(void)$/
+help_show	help.c	/^void help_show(CHAR_DATA *ch, BUFFER *output, cons/
+hh	const.h	392
+hide_note	note.c	/^bool hide_note(CHAR_DATA *ch, NOTE_DATA *pnote)$/
+hit_gain	update.c	/^int hit_gain(CHAR_DATA *ch)$/
+home_check_fn	hometown.h	46
+hometown_check	comm/comm.c	/^int hometown_check(CHAR_DATA *ch)$/
+hometown_ok	comm/comm.c	/^int hometown_ok(CHAR_DATA *ch, int home)$/
+hunt_victim	hunt.c	/^void hunt_victim(CHAR_DATA *ch)$/
+hunt_victim_attack	hunt.c	/^void hunt_victim_attack(CHAR_DATA* ch)$/
+ii	const.h	393
+in_PK	handler.c	/^bool in_PK(CHAR_DATA *ch, CHAR_DATA *victim)$/
+info_desc_free	comm/comm_info.c	/^static void info_desc_free(INFO_DESC *id)$/
+info_desc_new	comm/comm_info.c	/^static INFO_DESC *info_desc_new(int fd)$/
+info_newconn	comm/comm_info.c	/^void info_newconn(int infofd)$/
+info_process_cmd	comm/comm_info.c	/^void info_process_cmd(INFO_DESC *id)$/
+init_descriptor	comm/comm.c	/^void init_descriptor(int control)$/
+init_hash_table	hunt.c	/^void init_hash_table(struct hash_header	*ht,int re/
+init_mm	db/db.c	/^void init_mm()$/
+init_socket	comm/comm.c	/^int init_socket(int port)$/
+init_world	hunt.c	/^void init_world(ROOM_INDEX_DATA *room_db[])$/
+interpolate	db/db.c	/^int interpolate(int level, int value_00, int value/
+interpret	interp.c	/^void interpret(CHAR_DATA *ch, const char *argument/
+interpret_raw	interp.c	/^void interpret_raw(CHAR_DATA *ch, const char *argu/
+is_affected	handler.c	/^bool is_affected(CHAR_DATA *ch, int sn)$/
+is_affected_room	raffects.c	/^bool is_affected_room(ROOM_INDEX_DATA *room, int s/
+is_bit_affected	handler.c	/^bool is_bit_affected(CHAR_DATA *ch, int where, fla/
+is_friend	handler.c	/^bool is_friend(CHAR_DATA *ch, CHAR_DATA *victim)$/
+is_metal	handler.c	/^bool is_metal(OBJ_DATA *obj)$/
+is_name	handler.c	/^bool is_name(const char *str, const char *namelist/
+is_name_raw	handler.c	/^bool is_name_raw(const char *str, const char *name/
+is_note_to	note.c	/^bool is_note_to(CHAR_DATA *ch, NOTE_DATA *pnote)$/
+is_number	interp.c	/^bool is_number(const char *argument)$/
+is_room_owner	handler.c	/^bool is_room_owner(CHAR_DATA *ch, ROOM_INDEX_DATA /
+is_safe	fight.c	/^bool is_safe(CHAR_DATA *ch, CHAR_DATA *victim)$/
+is_safe_nomessage	fight.c	/^bool is_safe_nomessage(CHAR_DATA *ch, CHAR_DATA *v/
+is_safe_rspell	raffects.c	/^bool is_safe_rspell(int level, CHAR_DATA *victim)$/
+is_safe_rspell_nom	raffects.c	/^bool is_safe_rspell_nom(int level, CHAR_DATA *vict/
+is_safe_spell	fight.c	/^bool is_safe_spell(CHAR_DATA *ch, CHAR_DATA *victi/
+is_same_group	merc.h	/^#define	is_same_group(ach, bch) (leader_lookup(ach/
+is_stat	flag.c	/^int is_stat(const FLAG *flag_table)$/
+isn_dark_safe	handler.c	/^int isn_dark_safe(CHAR_DATA *ch)$/
+item_lookup	lookup.c	/^int item_lookup(const char *name)$/
+jj	const.h	394
+keyword_lookup	mob_prog.c	/^int keyword_lookup(const char **table, char *keywo/
+kk	const.h	395
+lang_lookup	db/lang.c	/^int lang_lookup(const char *name)$/
+lang_new	db/lang.c	/^LANG_DATA *lang_new(void)$/
+lang_nlookup	db/lang.c	/^int lang_nlookup(const char *name, size_t len)$/
+leader_lookup	act_comm.c	/^CHAR_DATA* leader_lookup(CHAR_DATA* ch)$/
+light_update	update.c	/^void light_update(void)$/
+liq_lookup	lookup.c	/^int liq_lookup(const char *name)$/
+ll	const.h	396
+load_bans	comm/ban.c	/^void load_bans(void)$/
+load_char_obj	save.c	/^void load_char_obj(DESCRIPTOR_DATA * d, const char/
+load_hash	db/db_lang.c	/^void load_hash(const char *file, varr **p)$/
+load_langfile	db/resource.c	/^load_langfile(int lang, char* fname)$/
+load_limited_objects	db/db.c	/^void load_limited_objects()$/
+load_msgdb	db/msg.c	/^void load_msgdb(void)$/
+load_notes	note.c	/^void load_notes(void)$/
+load_oldmsgdb	db/resource.c	/^void load_oldmsgdb(void)$/
+load_thread	note.c	/^void load_thread(char *name, NOTE_DATA **list, int/
+log	log.h	/^#define log(str) log_printf(str)$/
+log_area_popularity	comm/comm.c	/^int log_area_popularity(void)$/
+log_printf	log.c	/^void log_printf(const char *format, ...)$/
+lookup_religion_leader	mob_cmds.c	/^int lookup_religion_leader (const char *name)$/
+make_corpse	fight.c	/^void make_corpse(CHAR_DATA *ch)$/
+mana_cost	skills.c	/^int mana_cost(CHAR_DATA *ch, int sn)$/
+mana_gain	update.c	/^int mana_gain(CHAR_DATA *ch)$/
+material_lookup	lookup.c	/^int material_lookup(const char *name)$/
+may_float	handler.c	/^bool may_float(OBJ_DATA *obj)$/
+mlstr_append	mlstring.c	/^bool mlstr_append(CHAR_DATA *ch, mlstring **mlp, c/
+mlstr_cmp	mlstring.c	/^int mlstr_cmp(const mlstring *ml1, const mlstring /
+mlstr_convert	mlstring.c	/^const char** mlstr_convert(mlstring **mlp, int new/
+mlstr_cval	mlstring.h	/^#define		mlstr_cval(ml, ch)	mlstr_val(ml, ch->lang/
+mlstr_dump	mlstring.c	/^void mlstr_dump(BUFFER *buf, const char *name, con/
+mlstr_dup	mlstring.c	/^mlstring *mlstr_dup(mlstring *ml)$/
+mlstr_edit	mlstring.c	/^bool mlstr_edit(mlstring **mlp, const char *argume/
+mlstr_editnl	mlstring.c	/^bool mlstr_editnl(mlstring **mlp, const char *argu/
+mlstr_format	mlstring.c	/^void mlstr_format(mlstring **mlp)$/
+mlstr_fread	mlstring.c	/^mlstring *mlstr_fread(FILE *fp)$/
+mlstr_free	mlstring.c	/^void mlstr_free(mlstring *ml)$/
+mlstr_fwrite	mlstring.c	/^void mlstr_fwrite(FILE *fp, const char* name, cons/
+mlstr_mval	mlstring.h	/^#define		mlstr_mval(ml)		mlstr_val(ml, 0)$/
+mlstr_new	mlstring.c	/^mlstring *mlstr_new(const char *name)$/
+mlstr_nlang	mlstring.c	/^int mlstr_nlang(const mlstring *ml)$/
+mlstr_null	mlstring.c	/^bool mlstr_null(const mlstring *ml)$/
+mlstr_printf	mlstring.c	/^mlstring *mlstr_printf(mlstring *ml,...)$/
+mlstr_split	mlstring.c	/^static mlstring *mlstr_split(mlstring *ml)$/
+mlstr_val	mlstring.c	/^const char * mlstr_val(const mlstring *ml, int lan/
+mlstring	typedef.h	72
+mm	const.h	397
+mob_check	act_wiz.c	/^bool mob_check(CHAR_DATA *ch, CHAR_DATA *mob)$/
+mob_hit	fight.c	/^void mob_hit(CHAR_DATA *ch, CHAR_DATA *victim, int/
+mob_interpret	mob_cmds.c	/^void mob_interpret(CHAR_DATA *ch, const char *argu/
+mobile_update	update.c	/^void mobile_update(void)$/
+mount_success	act_move.c	/^int mount_success(CHAR_DATA *ch, CHAR_DATA *mount,/
+move_char	act_move.c	/^void move_char(CHAR_DATA *ch, int door, bool follo/
+move_gain	update.c	/^int move_gain(CHAR_DATA *ch)$/
+mp_act_trigger	mob_prog.c	/^void mp_act_trigger(const char *argument, CHAR_DAT/
+mp_bribe_trigger	mob_prog.c	/^void mp_bribe_trigger(CHAR_DATA *mob, CHAR_DATA *c/
+mp_exit_trigger	mob_prog.c	/^bool mp_exit_trigger(CHAR_DATA *ch, int dir)$/
+mp_give_trigger	mob_prog.c	/^void mp_give_trigger(CHAR_DATA *mob, CHAR_DATA *ch/
+mp_greet_trigger	mob_prog.c	/^void mp_greet_trigger(CHAR_DATA *ch)$/
+mp_hprct_trigger	mob_prog.c	/^void mp_hprct_trigger(CHAR_DATA *mob, CHAR_DATA *c/
+mp_percent_trigger	mob_prog.c	/^bool mp_percent_trigger($/
+mpcode_add	mem.c	/^void mpcode_add(MPCODE *mpcode)$/
+mpcode_free	mem.c	/^void mpcode_free(MPCODE *mpcode)$/
+mpcode_lookup	mem.c	/^MPCODE *mpcode_lookup(int vnum)$/
+mpcode_new	mem.c	/^MPCODE *mpcode_new(void)$/
+mptrig_add	recycle.c	/^void mptrig_add(MOB_INDEX_DATA *mob, MPTRIG *mptri/
+mptrig_fix	recycle.c	/^void mptrig_fix(MOB_INDEX_DATA *mob)$/
+mptrig_free	recycle.c	/^void mptrig_free(MPTRIG *mp)$/
+mptrig_new	recycle.c	/^MPTRIG *mptrig_new(int type, const char *phrase, i/
+msg_add	db/msg.c	/^mlstring **msg_add(mlstring *ml)$/
+msg_del	db/msg.c	/^mlstring *msg_del(const char *name)$/
+msg_dump	olc/olc_msg.c	/^static void msg_dump(BUFFER *buf, mlstring *ml)$/
+msg_lookup	db/msg.c	/^mlstring **msg_lookup(const char *name)$/
+msg_search	olc/olc_msg.c	/^static mlstring **msg_search(const char *argument)/
+msghash	db/msg.c	/^#define msghash(s) hashstr(s, 32, MAX_MSG_HASH)$/
+msgid_add	db/resource.c	/^msgid_add(char* name, int msgid)$/
+msgid_cmp	db/resource.c	/^msgid_cmp(const void* p1, const void* p2)$/
+msgid_lookup	db/resource.c	/^msgid_lookup(char* name)$/
+msgid_name_lookup	db/resource.c	/^msgid_name_lookup(int msgid)$/
+msgtoa	olc/olc_msg.c	/^static const char* msgtoa(const char *argument)$/
+mult_argument	interp.c	/^uint mult_argument(const char *argument, char arg[/
+multi_hit	fight.c	/^void multi_hit(CHAR_DATA *ch, CHAR_DATA *victim, i/
+name_add	handler.c	/^void name_add(CHAR_DATA *ch, const char *name,$/
+name_delete	handler.c	/^void name_delete(CHAR_DATA *ch, const char *name,$/
+name_edit	handler.c	/^void name_edit(CHAR_DATA *ch, const char *name,$/
+name_toggle	handler.c	/^void name_toggle(CHAR_DATA *ch, const char *name,$/
+namedp_check	namedp.c	/^void namedp_check(const NAMEDP *np)$/
+namedp_lookup	namedp.c	/^NAMEDP *namedp_lookup(NAMEDP *table, const char *n/
+namedp_name	namedp.c	/^const char *namedp_name(const NAMEDP *table, void /
+nanny	comm/comm.c	/^void nanny(DESCRIPTOR_DATA *d, const char *argumen/
+new_area	mem.c	/^AREA_DATA *new_area(void)$/
+new_ban	comm/ban.c	/^BAN_DATA *new_ban(void)$/
+new_char	recycle.c	/^CHAR_DATA *new_char (void)$/
+new_descriptor	comm/comm.c	/^DESCRIPTOR_DATA *new_descriptor(void)$/
+new_exit	mem.c	/^EXIT_DATA *new_exit(void)$/
+new_mob_index	mem.c	/^MOB_INDEX_DATA *new_mob_index(void)$/
+new_note	note.c	/^NOTE_DATA *new_note()$/
+new_obj	recycle.c	/^OBJ_DATA *new_obj(void)$/
+new_obj_index	mem.c	/^OBJ_INDEX_DATA *new_obj_index(void)$/
+new_pcdata	recycle.c	/^PC_DATA *new_pcdata(void)$/
+new_reset	db/db.c	/^void new_reset(ROOM_INDEX_DATA *pR, RESET_DATA *pR/
+new_reset_data	mem.c	/^RESET_DATA *new_reset_data(void)$/
+new_room_index	mem.c	/^ROOM_INDEX_DATA *new_room_index(void)$/
+new_shop	mem.c	/^SHOP_DATA *new_shop(void)$/
+nn	const.h	398
+note_attach	note.c	/^void note_attach(CHAR_DATA *ch, int type)$/
+note_remove	note.c	/^void note_remove(CHAR_DATA *ch, NOTE_DATA *pnote, /
+nuke_pets	act_comm.c	/^void nuke_pets(CHAR_DATA *ch)$/
+num_eval	mob_prog.c	/^int num_eval(int lval, int oper, int rval)$/
+number_argument	interp.c	/^uint number_argument(const char *argument, char ar/
+number_bits	db/db.c	/^int number_bits(int width)$/
+number_door	db/db.c	/^int number_door(void)$/
+number_fuzzy	db/db.c	/^int number_fuzzy(int number)$/
+number_mm	db/db.c	/^long number_mm(void)$/
+number_percent	db/db.c	/^int number_percent(void)$/
+number_range	db/db.c	/^int number_range(int from, int to)$/
+numlines	string_edit.c	/^char *numlines(const char *string)$/
+obj_cast_spell	magic.c	/^void obj_cast_spell(int sn, int level,$/
+obj_check	act_wiz.c	/^bool obj_check(CHAR_DATA *ch, OBJ_DATA *obj)$/
+obj_from_char	handler.c	/^void obj_from_char(OBJ_DATA *obj)$/
+obj_from_obj	handler.c	/^void obj_from_obj(OBJ_DATA *obj)$/
+obj_from_room	handler.c	/^void obj_from_room(OBJ_DATA *obj)$/
+obj_is_pit	handler.c	/^bool obj_is_pit(OBJ_DATA *obj)$/
+obj_name	act_info.c	/^char *obj_name(OBJ_DATA *obj, CHAR_DATA *ch)$/
+obj_to_char	handler.c	/^void obj_to_char(OBJ_DATA *obj, CHAR_DATA *ch)$/
+obj_to_keeper	act_obj.c	/^void obj_to_keeper(OBJ_DATA * obj, CHAR_DATA * ch)/
+obj_to_obj	handler.c	/^void obj_to_obj(OBJ_DATA *obj, OBJ_DATA *obj_to)$/
+obj_to_room	handler.c	/^void obj_to_room(OBJ_DATA *obj, ROOM_INDEX_DATA *p/
+obj_update	update.c	/^void obj_update(void)$/
+obj_update_list	update.c	/^void obj_update_list(OBJ_DATA *obj)$/
+objed_values	olc/olc_obj.c	/^bool objed_values(CHAR_DATA *ch, const char *argum/
+olc_cmd_lookup	olc/olc.c	/^OLC_CMD_DATA *olc_cmd_lookup(CHAR_DATA *ch, OLC_FU/
+olc_ed_name	olc/olc.c	/^const char *olc_ed_name(CHAR_DATA *ch)$/
+olced_clan	olc/olc.c	/^bool olced_clan(CHAR_DATA *ch, const char *argumen/
+olced_dice	olc/olc.c	/^bool olced_dice(CHAR_DATA *ch, const char *argumen/
+olced_exd	olc/olc.c	/^bool olced_exd(CHAR_DATA *ch, const char* argument/
+olced_exit	olc/olc_room.c	/^static bool olced_exit(CHAR_DATA *ch, const char */
+olced_flag	olc/olc.c	/^bool olced_flag(CHAR_DATA *ch, const char *argumen/
+olced_lookup	olc/olc.c	/^static OLCED_DATA *olced_lookup(const char * id)$/
+olced_mlstr	olc/olc.c	/^bool olced_mlstr(CHAR_DATA *ch, const char *argume/
+olced_mlstr_text	olc/olc.c	/^bool olced_mlstr_text(CHAR_DATA *ch, const char *a/
+olced_mlstrnl	olc/olc.c	/^bool olced_mlstrnl(CHAR_DATA *ch, const char *argu/
+olced_number	olc/olc.c	/^bool olced_number(CHAR_DATA *ch, const char *argum/
+olced_str	olc/olc.c	/^bool olced_str(CHAR_DATA *ch, const char *argument/
+olced_str_text	olc/olc.c	/^bool olced_str_text(CHAR_DATA *ch, const char *arg/
+one_argument	interp.c	/^const char *one_argument(const char *argument, cha/
+one_hit	fight.c	/^void one_hit(CHAR_DATA *ch, CHAR_DATA *victim, int/
+oo	const.h	400
+opposite_door	handler.c	/^int opposite_door(int door)$/
+oprog_call	obj_prog.c	/^int oprog_call(int optype, OBJ_DATA *obj, CHAR_DAT/
+oprog_lookup	obj_prog.c	/^OPROG_DATA *oprog_lookup(const char *name)$/
+oprog_name_lookup	obj_prog.c	/^char *oprog_name_lookup(OPROG_FUN *fn)$/
+oprog_set	obj_prog.c	/^void oprog_set(OBJ_INDEX_DATA *pObjIndex,const cha/
+optype_lookup	obj_prog.c	/^int optype_lookup(const char *name)$/
+page_to_char	comm/comm.c	/^void page_to_char(const char *txt, CHAR_DATA *ch)$/
+parse_colors	comm/comm_colors.c	/^void parse_colors(const char *i, char *o, size_t l/
+parse_note	note.c	/^void parse_note(CHAR_DATA *ch, const char *argumen/
+parsebet	auction.c	/^int parsebet (const int currentbet, const char *ar/
+path_to_track	handler.c	/^void path_to_track(CHAR_DATA *ch, CHAR_DATA *victi/
+pc_skill_lookup	merc.h	/^#define pc_skill_lookup(ch, sn) \\$/
+percent_hp	comm/comm.c	/^void percent_hp(CHAR_DATA *ch, char buf[MAX_STRING/
+pk_range	handler.c	/^int pk_range(int level)$/
+poison_effect	effects.c	/^void poison_effect(void *vo,int level, int dam, in/
+position_lookup	lookup.c	/^int position_lookup(const char *name)$/
+potion_arm_level	update.c	/^int potion_arm_level(OBJ_DATA *potion)$/
+potion_cure_blind	update.c	/^bool potion_cure_blind(OBJ_DATA *potion)$/
+potion_cure_disease	update.c	/^bool potion_cure_disease(OBJ_DATA *potion)$/
+potion_cure_level	update.c	/^int potion_cure_level(OBJ_DATA *potion)$/
+potion_cure_poison	update.c	/^bool potion_cure_poison(OBJ_DATA *potion)$/
+pp	const.h	401
+print_resetmsg	db/db.c	/^void print_resetmsg(AREA_DATA *pArea)$/
+process_output	comm/comm.c	/^bool process_output(DESCRIPTOR_DATA *d, bool fProm/
+program_flow	mob_prog.c	/^void program_flow(int pvnum, CHAR_DATA *mob, CHAR_/
+put_obj	act_obj.c	/^bool put_obj(CHAR_DATA *ch, OBJ_DATA *container, O/
+qq	const.h	402
+qtrouble_lookup	quest.c	/^QTROUBLE_DATA *qtrouble_lookup(CHAR_DATA *ch, int /
+qtrouble_set	quest.c	/^void qtrouble_set(CHAR_DATA *ch, int vnum, int cou/
+quaff_obj	act_obj.c	/^void quaff_obj(CHAR_DATA *ch, OBJ_DATA *obj)$/
+quest_buy	quest.c	/^static void quest_buy(CHAR_DATA *ch, char *arg)$/
+quest_cancel	quest.c	/^void quest_cancel(CHAR_DATA *ch)$/
+quest_complete	quest.c	/^static void quest_complete(CHAR_DATA *ch, char *ar/
+quest_give_item	quest.c	/^static bool quest_give_item(CHAR_DATA *ch, CHAR_DA/
+quest_handle_death	quest.c	/^void quest_handle_death(CHAR_DATA *ch, CHAR_DATA */
+quest_info	quest.c	/^static void quest_info(CHAR_DATA *ch, char* arg)$/
+quest_list	quest.c	/^static void quest_list(CHAR_DATA *ch, char *arg)$/
+quest_points	quest.c	/^static void quest_points(CHAR_DATA *ch, char* arg)/
+quest_request	quest.c	/^static void quest_request(CHAR_DATA *ch, char *arg/
+quest_tell	quest.c	/^static void quest_tell(CHAR_DATA *ch, CHAR_DATA *q/
+quest_time	quest.c	/^static void quest_time(CHAR_DATA *ch, char* arg)$/
+quest_trouble	quest.c	/^static void quest_trouble(CHAR_DATA *ch, char *arg/
+quest_update	quest.c	/^void quest_update(void)$/
+questor_lookup	quest.c	/^static CHAR_DATA* questor_lookup(CHAR_DATA *ch)$/
+race_class_lookup	race.h	/^#define race_class_lookup(race, name) \\$/
+race_free	race.c	/^void race_free(RACE_DATA *r)$/
+race_lookup	race.h	/^#define race_lookup(i)	((RACE_DATA*) varr_get(&rac/
+race_name	race.c	/^const char *race_name(int i)$/
+race_new	race.c	/^RACE_DATA *race_new(void)$/
+race_pcdata_free	race.c	/^void race_pcdata_free(RACE_PCDATA *pcr)$/
+race_pcdata_new	race.c	/^RACE_PCDATA *race_pcdata_new(void)$/
+race_skill_lookup	race.h	/^#define race_skill_lookup(race, sn) \\$/
+raffect_back_char	raffects.c	/^void raffect_back_char(ROOM_INDEX_DATA *room, CHAR/
+raffect_to_char	raffects.c	/^void raffect_to_char(ROOM_INDEX_DATA *room, CHAR_D/
+random	db/db.c	/^#	define random()		rand()$/
+rating_add	rating.c	/^void rating_add(const char* name, int pc_killed)$/
+rating_data_cmp	rating.c	/^rating_data_cmp(const void *a, const void *b)$/
+rating_update	rating.c	/^void rating_update(CHAR_DATA *ch, CHAR_DATA *victi/
+raw_kill	fight.h	/^#define raw_kill(ch, victim) raw_kill_org(ch, vict/
+raw_kill_org	fight.c	/^void raw_kill_org(CHAR_DATA *ch, CHAR_DATA *victim/
+read_from_buffer	comm/comm.c	/^void read_from_buffer(DESCRIPTOR_DATA *d)$/
+read_from_descriptor	comm/comm.c	/^bool read_from_descriptor(DESCRIPTOR_DATA *d)$/
+reboot_muddy	act_wiz.c	/^void reboot_muddy(void)$/
+recursive_clone	act_wiz.c	/^void recursive_clone(CHAR_DATA *ch, OBJ_DATA *obj,/
+religion_name	religion.c	/^char *religion_name(int religion)$/
+remove_mind	handler.c	/^void remove_mind(CHAR_DATA *ch, const char *str)$/
+remove_obj	act_obj.c	/^bool remove_obj(CHAR_DATA * ch, int iWear, bool fR/
+remove_prog_arm_hercules	obj_prog.c	/^int remove_prog_arm_hercules(OBJ_DATA *obj, CHAR_D/
+remove_prog_armbands	obj_prog.c	/^int remove_prog_armbands(OBJ_DATA *obj, CHAR_DATA /
+remove_prog_boots_flying	obj_prog.c	/^int remove_prog_boots_flying(OBJ_DATA *obj, CHAR_D/
+remove_prog_bracer	obj_prog.c	/^int remove_prog_bracer(OBJ_DATA *obj, CHAR_DATA *c/
+remove_prog_breastplate_strength	obj_prog.c	/^int remove_prog_breastplate_strength(OBJ_DATA *obj/
+remove_prog_coconut	obj_prog.c	/^int remove_prog_coconut(OBJ_DATA *obj, CHAR_DATA */
+remove_prog_demonfireshield	obj_prog.c	/^int remove_prog_demonfireshield(OBJ_DATA *obj, CHA/
+remove_prog_excalibur	obj_prog.c	/^int remove_prog_excalibur(OBJ_DATA *obj, CHAR_DATA/
+remove_prog_fire_shield	obj_prog.c	/^int remove_prog_fire_shield(OBJ_DATA *obj, CHAR_DA/
+remove_prog_firegauntlets	obj_prog.c	/^int remove_prog_firegauntlets(OBJ_DATA *obj, CHAR_/
+remove_prog_girdle_giant	obj_prog.c	/^int remove_prog_girdle_giant(OBJ_DATA *obj, CHAR_D/
+remove_prog_snake	obj_prog.c	/^int remove_prog_snake(OBJ_DATA *obj, CHAR_DATA *ch/
+remove_prog_wind_boots	obj_prog.c	/^int remove_prog_wind_boots(OBJ_DATA *obj, CHAR_DAT/
+reset_area	db/db.c	/^void reset_area(AREA_DATA *pArea)$/
+reset_char	handler.c	/^void reset_char(CHAR_DATA *ch)$/
+reset_obj_affects	handler.c	/^void reset_obj_affects(CHAR_DATA *ch, OBJ_DATA *ob/
+reset_room	db/db.c	/^void reset_room(ROOM_INDEX_DATA *pRoom)$/
+resolv_done	comm/comm.c	/^void resolv_done()$/
+resolver_done	comm/resolver.c	/^void resolver_done(void)$/
+resolver_init	comm/resolver.c	/^void resolver_init(void)$/
+resolver_loop	comm/resolver.c	/^static void resolver_loop(void)$/
+restrict_none	hometown.c	/^restrict_none(CHAR_DATA* ch)$/
+restrict_ofcol	hometown.c	/^restrict_ofcol(CHAR_DATA* ch)$/
+restrict_old_midgaard	hometown.c	/^restrict_old_midgaard(CHAR_DATA* ch)$/
+rn_lookup	race.c	/^int rn_lookup(const char *name)$/
+room_affect_update	update.c	/^void room_affect_update(void)$/
+room_dark	handler.c	/^bool room_dark(ROOM_INDEX_DATA *pRoomIndex)$/
+room_enter	hunt.c	/^int room_enter(ROOM_INDEX_DATA *rb[],int key,ROOM_/
+room_find	hunt.c	/^ROOM_INDEX_DATA *room_find(ROOM_INDEX_DATA *room_d/
+room_find_or_create	hunt.c	/^ROOM_INDEX_DATA *room_find_or_create(ROOM_INDEX_DA/
+room_is_dark	handler.c	/^bool room_is_dark(CHAR_DATA *ch)$/
+room_is_private	handler.c	/^bool room_is_private(ROOM_INDEX_DATA *pRoomIndex)$/
+room_iterate	hunt.c	/^void room_iterate(ROOM_INDEX_DATA *rb[],void (*fun/
+room_record	handler.c	/^void room_record(const char *name,ROOM_INDEX_DATA /
+room_remove	hunt.c	/^int room_remove(ROOM_INDEX_DATA *rb[],int key)$/
+room_update	update.c	/^void room_update(void)$/
+rr	const.h	403
+run_olc_editor	olc/olc.c	/^bool run_olc_editor(DESCRIPTOR_DATA *d)$/
+sac_obj	act_obj.c	/^void sac_obj(CHAR_DATA * ch, OBJ_DATA *obj)$/
+sac_prog_excalibur	obj_prog.c	/^bool sac_prog_excalibur(OBJ_DATA *obj, CHAR_DATA */
+sand_effect	effects.c	/^void sand_effect(void *vo, int level, int dam, int/
+save_area	olc/olc_save.c	/^void save_area(AREA_DATA *pArea)$/
+save_area_list	olc/olc_save.c	/^void save_area_list()$/
+save_bans	comm/ban.c	/^void save_bans(void)$/
+save_char_obj	save.c	/^void save_char_obj(CHAR_DATA * ch, bool reboot)$/
+save_clan	olc/olc_save.c	/^void save_clan(CHAR_DATA *ch, CLAN_DATA *clan)$/
+save_clans	olc/olc_save.c	/^void save_clans(CHAR_DATA *ch)$/
+save_door_reset	olc/olc_save.c	/^void save_door_reset(FILE *fp, ROOM_INDEX_DATA *pR/
+save_helps	olc/olc_save.c	/^void save_helps(FILE *fp, AREA_DATA *pArea)$/
+save_lang	olc/olc_save.c	/^bool save_lang(CHAR_DATA *ch, LANG_DATA *l)$/
+save_langs	olc/olc_save.c	/^void save_langs(CHAR_DATA *ch)$/
+save_mobile	olc/olc_save.c	/^void save_mobile(FILE *fp, MOB_INDEX_DATA *pMobInd/
+save_mobiles	olc/olc_save.c	/^void save_mobiles(FILE *fp, AREA_DATA *pArea)$/
+save_mobprogs	olc/olc_save.c	/^void save_mobprogs(FILE *fp, AREA_DATA *pArea)$/
+save_msgdb	olc/olc_save.c	/^void save_msgdb(CHAR_DATA *ch)$/
+save_notes	note.c	/^void save_notes(int type)$/
+save_object	olc/olc_save.c	/^void save_object(FILE *fp, OBJ_INDEX_DATA *pObjInd/
+save_objects	olc/olc_save.c	/^void save_objects(FILE *fp, AREA_DATA *pArea)$/
+save_olimits	olc/olc_save.c	/^void save_olimits(FILE *fp, AREA_DATA *pArea)$/
+save_omprog	olc/olc_save.c	/^void save_omprog(FILE *fp, OBJ_INDEX_DATA *pObjInd/
+save_omprogs	olc/olc_save.c	/^void save_omprogs(FILE *fp, AREA_DATA *pArea)$/
+save_practicers	olc/olc_save.c	/^void save_practicers(FILE *fp, AREA_DATA *pArea)$/
+save_print	olc/olc_save.c	/^static void save_print(CHAR_DATA *ch, const char */
+save_reset	olc/olc_save.c	/^void save_reset(FILE *fp, AREA_DATA *pArea,$/
+save_resets	olc/olc_save.c	/^void save_resets(FILE *fp, AREA_DATA *pArea)$/
+save_room	olc/olc_save.c	/^void save_room(FILE *fp, ROOM_INDEX_DATA *pRoomInd/
+save_rooms	olc/olc_save.c	/^void save_rooms(FILE *fp, AREA_DATA *pArea)$/
+save_shop	olc/olc_save.c	/^void save_shop(FILE *fp, MOB_INDEX_DATA *pMobIndex/
+save_shops	olc/olc_save.c	/^void save_shops(FILE *fp, AREA_DATA *pArea)$/
+save_skills	olc/olc_save.c	/^void save_skills()$/
+save_special	olc/olc_save.c	/^void save_special(FILE *fp, MOB_INDEX_DATA *pMobIn/
+save_specials	olc/olc_save.c	/^void save_specials(FILE *fp, AREA_DATA *pArea)$/
+save_word	olc/olc_save.c	/^void save_word(FILE *fp, WORD_DATA *w)$/
+save_words	olc/olc_save.c	/^bool save_words(CHAR_DATA *ch, const char *filenam/
+saves_dispel	handler.c	/^bool saves_dispel(int dis_level, int spell_level, /
+saves_spell	handler.c	/^bool saves_spell(int level, CHAR_DATA *victim, int/
+say_spell	skills.c	/^void say_spell(CHAR_DATA *ch, int sn)$/
+scan_list	act_info.c	/^void scan_list(ROOM_INDEX_DATA *scan_room, CHAR_DA/
+scream_effect	effects.c	/^void scream_effect(void *vo, int level, int dam, i/
+search_sockets	comm/comm.c	/^int search_sockets(DESCRIPTOR_DATA *inp)$/
+send_arrow	act_move.c	/^int send_arrow(CHAR_DATA *ch, CHAR_DATA *victim,OB/
+send_to_char	comm/comm.c	/^void send_to_char(const char *txt, CHAR_DATA *ch)$/
+set_fighting	fight.c	/^void set_fighting(CHAR_DATA *ch, CHAR_DATA *victim/
+set_obj_values	olc/olc_obj.c	/^int set_obj_values(BUFFER *output, OBJ_INDEX_DATA /
+set_skill	skills.c	/^void set_skill(CHAR_DATA *ch, int sn, int percent)/
+set_skill_raw	skills.c	/^void set_skill_raw(CHAR_DATA *ch, int sn, int perc/
+set_title	act_info.c	/^void set_title(CHAR_DATA *ch, const char *title)$/
+sflag_t	typedef.h	120
+shock_effect	effects.c	/^void shock_effect(void *vo,int level, int dam, int/
+show_affects	handler.c	/^void show_affects(CHAR_DATA *ch, BUFFER *output)$/
+show_attack_types	lookup.c	/^void show_attack_types(BUFFER *output)$/
+show_bit_affect	handler.c	/^void show_bit_affect(BUFFER *output, AFFECT_DATA */
+show_char_to_char	act_info.c	/^void show_char_to_char(CHAR_DATA *list, CHAR_DATA /
+show_char_to_char_0	act_info.c	/^void show_char_to_char_0(CHAR_DATA *victim, CHAR_D/
+show_char_to_char_1	act_info.c	/^void show_char_to_char_1(CHAR_DATA *victim, CHAR_D/
+show_commands	olc/olc.c	/^bool show_commands(CHAR_DATA *ch, const char *argu/
+show_duration	handler.c	/^void show_duration(BUFFER *output, AFFECT_DATA *pa/
+show_flags	flag.c	/^void show_flags(CHAR_DATA *ch, const FLAG *flag_ta/
+show_flags_buf	flag.c	/^void show_flags_buf(BUFFER *output, const FLAG *fl/
+show_liq_types	lookup.c	/^void show_liq_types(BUFFER *output)$/
+show_liqlist	olc/olc_obj.c	/^void show_liqlist(CHAR_DATA *ch)$/
+show_list_to_char	act_info.c	/^void show_list_to_char(OBJ_DATA *list, CHAR_DATA */
+show_loc_affect	handler.c	/^void show_loc_affect(CHAR_DATA *ch, BUFFER *output/
+show_name	handler.c	/^void show_name(CHAR_DATA *ch, BUFFER *output,$/
+show_obj_affects	handler.c	/^void show_obj_affects(CHAR_DATA *ch, BUFFER *outpu/
+show_obj_to_char	act_info.c	/^void show_obj_to_char(CHAR_DATA *ch, OBJ_DATA *obj/
+show_obj_values	olc/olc_obj.c	/^void show_obj_values(BUFFER *output, OBJ_INDEX_DAT/
+show_spec_cmds	olc/olc_mob.c	/^static void show_spec_cmds(CHAR_DATA *ch)$/
+show_spells	olc/olc_obj.c	/^static void show_spells(BUFFER *output, int tar)$/
+show_string	comm/comm.c	/^void show_string(struct descriptor_data *d, char */
+show_version	olc/olc.c	/^bool show_version(CHAR_DATA *ch, const char *argum/
+size_lookup	lookup.c	/^int size_lookup(const char *name)$/
+skill_level	skills.c	/^int skill_level(CHAR_DATA *ch, int sn)$/
+skill_lookup	skills.h	/^#define skill_lookup(sn)	((SKILL_DATA*) varr_get(&/
+skill_name	skills.c	/^const char *skill_name(int sn)$/
+skill_vlookup	skills.c	/^void *skill_vlookup(varr *v, const char *name)$/
+slot_lookup	db/db_area.c	/^static int slot_lookup(int slot)$/
+smash_a	mlstring.c	/^static const char *smash_a(const char *s, int len)/
+sn_lookup	skills.c	/^int sn_lookup(const char *name)$/
+snprintf	typedef.h	113
+spec_assassinater	special.c	/^bool spec_assassinater(CHAR_DATA *ch)$/
+spec_breath_acid	special.c	/^bool spec_breath_acid(CHAR_DATA *ch)$/
+spec_breath_any	special.c	/^bool spec_breath_any(CHAR_DATA *ch)$/
+spec_breath_fire	special.c	/^bool spec_breath_fire(CHAR_DATA *ch)$/
+spec_breath_frost	special.c	/^bool spec_breath_frost(CHAR_DATA *ch)$/
+spec_breath_gas	special.c	/^bool spec_breath_gas(CHAR_DATA *ch)$/
+spec_breath_lightning	special.c	/^bool spec_breath_lightning(CHAR_DATA *ch)$/
+spec_captain	special.c	/^bool spec_captain(CHAR_DATA *ch)$/
+spec_cast	special.c	/^static void spec_cast(CHAR_DATA *ch, const char *s/
+spec_cast_adept	special.c	/^bool spec_cast_adept(CHAR_DATA *ch)$/
+spec_cast_beholder	special.c	/^bool spec_cast_beholder(CHAR_DATA *ch)$/
+spec_cast_clan	special.c	/^bool spec_cast_clan(CHAR_DATA *ch)$/
+spec_cast_cleric	special.c	/^bool spec_cast_cleric(CHAR_DATA *ch)$/
+spec_cast_judge	special.c	/^bool spec_cast_judge(CHAR_DATA *ch)$/
+spec_cast_mage	special.c	/^bool spec_cast_mage(CHAR_DATA *ch)$/
+spec_cast_seneschal	special.c	/^bool spec_cast_seneschal(CHAR_DATA *ch)$/
+spec_cast_undead	special.c	/^bool spec_cast_undead(CHAR_DATA *ch)$/
+spec_executioner	special.c	/^bool spec_executioner(CHAR_DATA *ch)$/
+spec_fido	special.c	/^bool spec_fido(CHAR_DATA *ch)$/
+spec_guard	special.c	/^bool spec_guard(CHAR_DATA *ch)$/
+spec_headlamia	special.c	/^bool spec_headlamia(CHAR_DATA *ch)$/
+spec_janitor	special.c	/^bool spec_janitor(CHAR_DATA *ch)$/
+spec_lookup	special.c	/^SPEC_FUN *spec_lookup(const char *name)$/
+spec_mayor	special.c	/^bool spec_mayor(CHAR_DATA *ch)$/
+spec_name	special.c	/^char *spec_name(SPEC_FUN *function)$/
+spec_nasty	special.c	/^bool spec_nasty(CHAR_DATA *ch)$/
+spec_ogre_member	special.c	/^bool spec_ogre_member(CHAR_DATA *ch)$/
+spec_patrolman	special.c	/^bool spec_patrolman(CHAR_DATA *ch)$/
+spec_poison	special.c	/^bool spec_poison(CHAR_DATA *ch)$/
+spec_special_guard	special.c	/^bool spec_special_guard(CHAR_DATA *ch)$/
+spec_thief	special.c	/^bool spec_thief(CHAR_DATA *ch)$/
+spec_troll_member	special.c	/^bool spec_troll_member(CHAR_DATA *ch)$/
+speech_prog_excalibur	obj_prog.c	/^int speech_prog_excalibur(OBJ_DATA *obj, CHAR_DATA/
+speech_prog_kassandra	obj_prog.c	/^int speech_prog_kassandra(OBJ_DATA *obj, CHAR_DATA/
+speech_prog_ring_ra	obj_prog.c	/^int speech_prog_ring_ra(OBJ_DATA *obj, CHAR_DATA */
+spell_acetum_primus	magic.c	/^void spell_acetum_primus(int sn, int level, CHAR_D/
+spell_acid_arrow	magic.c	/^void spell_acid_arrow(int sn, int level, CHAR_DATA/
+spell_acid_blast	magic.c	/^void spell_acid_blast(int sn, int level, CHAR_DATA/
+spell_acid_breath	magic.c	/^void spell_acid_breath(int sn, int level, CHAR_DAT/
+spell_acute_vision	magic2.c	/^void spell_acute_vision(int sn, int level, CHAR_DA/
+spell_adamantite_golem	magic2.c	/^void spell_adamantite_golem(int sn, int level, CHA/
+spell_aid	magic2.c	/^void spell_aid(int sn, int level, CHAR_DATA *ch, v/
+spell_amnesia	magic2.c	/^void spell_amnesia(int sn, int level, CHAR_DATA *c/
+spell_animate_dead	magic2.c	/^void spell_animate_dead(int sn,int level, CHAR_DAT/
+spell_armor	magic.c	/^void spell_armor(int sn, int level, CHAR_DATA *ch,/
+spell_assist	magic2.c	/^void spell_assist(int sn, int level, CHAR_DATA *ch/
+spell_astral_walk	magic.c	/^void spell_astral_walk(int sn, int level, CHAR_DAT/
+spell_attract_other	magic2.c	/^void spell_attract_other(int sn, int level, CHAR_D/
+spell_bamf	magic.c	/^void spell_bamf(int sn, int level, CHAR_DATA *ch, /
+spell_bark_skin	magic2.c	/^void spell_bark_skin(int sn, int level, CHAR_DATA /
+spell_black_death	magic2.c	/^void spell_black_death(int sn, int level, CHAR_DAT/
+spell_black_shroud	magic.c	/^void spell_black_shroud (int sn, int level, CHAR_D/
+spell_blade_barrier	magic2.c	/^void spell_blade_barrier(int sn,int level,CHAR_DAT/
+spell_bless	magic.c	/^void spell_bless(int sn, int level, CHAR_DATA *ch,/
+spell_bless_weapon	magic2.c	/^void spell_bless_weapon(int sn,int level,CHAR_DATA/
+spell_blindness	magic.c	/^void spell_blindness(int sn, int level, CHAR_DATA /
+spell_bluefire	magic.c	/^void spell_bluefire(int sn, int level, CHAR_DATA */
+spell_brew	magic2.c	/^void spell_brew(int sn, int level, CHAR_DATA *ch, /
+spell_burning_hands	magic.c	/^void spell_burning_hands(int sn,int level, CHAR_DA/
+spell_call_lightning	magic.c	/^void spell_call_lightning(int sn, int level,CHAR_D/
+spell_calm	magic.c	/^void spell_calm(int sn, int level, CHAR_DATA *ch, /
+spell_cancellation	magic.c	/^void spell_cancellation(int sn, int level, CHAR_DA/
+spell_cause_critical	magic.c	/^void spell_cause_critical(int sn,int level,CHAR_DA/
+spell_cause_light	magic.c	/^void spell_cause_light(int sn, int level, CHAR_DAT/
+spell_cause_serious	magic.c	/^void spell_cause_serious(int sn,int level,CHAR_DAT/
+spell_caustic_font	magic.c	/^void spell_caustic_font(int sn, int level, CHAR_DA/
+spell_chain_lightning	magic.c	/^void spell_chain_lightning(int sn,int level,CHAR_D/
+spell_chaos_blade	magic2.c	/^void spell_chaos_blade(int sn, int level, CHAR_DAT/
+spell_charm_person	magic.c	/^void spell_charm_person(int sn, int level, CHAR_DA/
+spell_chill_touch	magic.c	/^void spell_chill_touch(int sn, int level, CHAR_DAT/
+spell_colour_spray	magic.c	/^void spell_colour_spray(int sn, int level, CHAR_DA/
+spell_confuse	magic2.c	/^void spell_confuse(int sn, int level, CHAR_DATA *c/
+spell_continual_light	magic.c	/^void spell_continual_light(int sn,int level,CHAR_D/
+spell_control_undead	magic2.c	/^void spell_control_undead(int sn, int level, CHAR_/
+spell_control_weather	magic.c	/^void spell_control_weather(int sn,int level,CHAR_D/
+spell_corruption	magic.c	/^void spell_corruption(int sn, int level, CHAR_DATA/
+spell_create_food	magic.c	/^void spell_create_food(int sn, int level, CHAR_DAT/
+spell_create_rose	magic.c	/^void spell_create_rose(int sn, int level, CHAR_DAT/
+spell_create_spring	magic.c	/^void spell_create_spring(int sn,int level,CHAR_DAT/
+spell_create_water	magic.c	/^void spell_create_water(int sn, int level, CHAR_DA/
+spell_cure_blindness	magic.c	/^void spell_cure_blindness(int sn,int level,CHAR_DA/
+spell_cure_critical	magic.c	/^void spell_cure_critical(int sn, int level, CHAR_D/
+spell_cure_disease	magic.c	/^void spell_cure_disease(int sn, int level, CHAR_DA/
+spell_cure_light	magic.c	/^void spell_cure_light(int sn, int level, CHAR_DATA/
+spell_cure_poison	magic.c	/^void spell_cure_poison(int sn, int level, CHAR_DAT/
+spell_cure_serious	magic.c	/^void spell_cure_serious(int sn, int level, CHAR_DA/
+spell_curse	magic.c	/^void spell_curse(int sn, int level, CHAR_DATA *ch,/
+spell_cursed_lands	magic2.c	/^void spell_cursed_lands(int sn, int level, CHAR_DA/
+spell_deadly_venom	magic2.c	/^void spell_deadly_venom(int sn, int level, CHAR_DA/
+spell_deafen	magic2.c	/^void spell_deafen(int sn, int level, CHAR_DATA *ch/
+spell_demon_summon	magic2.c	/^void spell_demon_summon(int sn, int level, CHAR_DA/
+spell_demonfire	magic.c	/^void spell_demonfire(int sn, int level, CHAR_DATA /
+spell_desert_fist	magic2.c	/^void spell_desert_fist(int sn, int level, CHAR_DAT/
+spell_detect_evil	magic.c	/^void spell_detect_evil(int sn, int level, CHAR_DAT/
+spell_detect_fade	magic.c	/^void spell_detect_fade(int sn, int level, CHAR_DAT/
+spell_detect_good	magic.c	/^void spell_detect_good(int sn, int level, CHAR_DAT/
+spell_detect_hidden	magic.c	/^void spell_detect_hidden(int sn, int level, CHAR_D/
+spell_detect_invis	magic.c	/^void spell_detect_invis(int sn, int level, CHAR_DA/
+spell_detect_magic	magic.c	/^void spell_detect_magic(int sn, int level, CHAR_DA/
+spell_detect_poison	magic.c	/^void spell_detect_poison(int sn, int level, CHAR_D/
+spell_detect_undead	magic.c	/^void spell_detect_undead(int sn, int level, CHAR_D/
+spell_disgrace	magic2.c	/^void spell_disgrace(int sn, int level, CHAR_DATA */
+spell_disintegrate	magic2.c	/^void spell_disintegrate(int sn, int level, CHAR_DA/
+spell_dispel_evil	magic.c	/^void spell_dispel_evil(int sn, int level, CHAR_DAT/
+spell_dispel_good	magic.c	/^void spell_dispel_good(int sn, int level, CHAR_DAT/
+spell_dispel_magic	magic.c	/^void spell_dispel_magic(int sn, int level, CHAR_DA/
+spell_disperse	magic2.c	/^void spell_disperse(int sn, int level, CHAR_DATA */
+spell_disruption	magic.c	/^void spell_disruption(int sn, int level, CHAR_DATA/
+spell_doppelganger	magic2.c	/^void spell_doppelganger(int sn, int level, CHAR_DA/
+spell_dragon_breath	magic2.c	/^void spell_dragon_breath(int sn, int level, CHAR_D/
+spell_dragon_skin	magic2.c	/^void spell_dragon_skin(int sn, int level, CHAR_DAT/
+spell_dragon_strength	magic2.c	/^void spell_dragon_strength(int sn, int level, CHAR/
+spell_dragonplate	magic2.c	/^void spell_dragonplate(int sn, int level, CHAR_DAT/
+spell_dragons_breath	magic2.c	/^void spell_dragons_breath(int sn,int level,CHAR_DA/
+spell_dragonsword	magic2.c	/^void spell_dragonsword(int sn, int level, CHAR_DAT/
+spell_earthquake	magic.c	/^void spell_earthquake(int sn, int level, CHAR_DATA/
+spell_enchant_armor	magic.c	/^void spell_enchant_armor(int sn, int level, CHAR_D/
+spell_enchant_weapon	magic.c	/^void spell_enchant_weapon(int sn,int level,CHAR_DA/
+spell_energy_drain	magic.c	/^void spell_energy_drain(int sn, int level, CHAR_DA/
+spell_enhanced_armor	magic2.c	/^void spell_enhanced_armor(int sn, int level, CHAR_/
+spell_entangle	magic2.c	/^void spell_entangle(int sn, int level, CHAR_DATA */
+spell_etheral_fist	magic.c	/^void spell_etheral_fist(int sn, int level, CHAR_DA/
+spell_evil_spirit	magic2.c	/^void spell_evil_spirit(int sn, int level, CHAR_DAT/
+spell_eyed_sword	magic2.c	/^void spell_eyed_sword(int sn, int level, CHAR_DATA/
+spell_eyes_of_intrigue	magic2.c	/^void spell_eyes_of_intrigue(int sn, int level, CHA/
+spell_faerie_fire	magic.c	/^void spell_faerie_fire(int sn, int level, CHAR_DAT/
+spell_faerie_fog	magic.c	/^void spell_faerie_fog(int sn, int level, CHAR_DATA/
+spell_farsight	magic2.c	/^void spell_farsight(int sn, int level, CHAR_DATA */
+spell_fear	magic2.c	/^void spell_fear (int sn, int level, CHAR_DATA *ch,/
+spell_find_object	magic.c	/^void spell_find_object(int sn, int level, CHAR_DAT/
+spell_fire_breath	magic.c	/^void spell_fire_breath(int sn, int level, CHAR_DAT/
+spell_fire_shield	magic2.c	/^void spell_fire_shield (int sn, int level, CHAR_DA/
+spell_fireball	magic.c	/^void spell_fireball(int sn, int level, CHAR_DATA */
+spell_fireproof	magic.c	/^void spell_fireproof(int sn, int level, CHAR_DATA /
+spell_flamestrike	magic.c	/^void spell_flamestrike(int sn, int level, CHAR_DAT/
+spell_floating_disc	magic.c	/^void spell_floating_disc(int sn, int level,CHAR_DA/
+spell_fly	magic.c	/^void spell_fly(int sn, int level, CHAR_DATA *ch, v/
+spell_frenzy	magic.c	/^void spell_frenzy(int sn, int level, CHAR_DATA *ch/
+spell_frost_breath	magic.c	/^void spell_frost_breath(int sn, int level, CHAR_DA/
+spell_galvanic_whip	magic.c	/^void spell_galvanic_whip(int sn, int level, CHAR_D/
+spell_garble	magic2.c	/^void spell_garble(int sn, int level, CHAR_DATA *ch/
+spell_gas_breath	magic.c	/^void spell_gas_breath(int sn, int level, CHAR_DATA/
+spell_gate	magic.c	/^void spell_gate(int sn, int level, CHAR_DATA *ch, /
+spell_general_purpose	magic.c	/^void spell_general_purpose(int sn,int level,CHAR_D/
+spell_giant_strength	magic.c	/^void spell_giant_strength(int sn,int level,CHAR_DA/
+spell_golden_aura	magic2.c	/^void spell_golden_aura(int sn, int level, CHAR_DAT/
+spell_group_defense	magic2.c	/^void spell_group_defense(int sn, int level, CHAR_D/
+spell_group_heal	magic2.c	/^void spell_group_heal(int sn, int level, CHAR_DATA/
+spell_guard_call	magic2.c	/^void spell_guard_call(int sn, int level, CHAR_DATA/
+spell_hallucination	magic2.c	/^void spell_hallucination (int sn, int level, CHAR_/
+spell_hand_of_undead	magic.c	/^void spell_hand_of_undead(int sn, int level, CHAR_/
+spell_harm	magic.c	/^void spell_harm(int sn, int level, CHAR_DATA *ch, /
+spell_haste	magic.c	/^void spell_haste(int sn, int level, CHAR_DATA *ch,/
+spell_heal	magic.c	/^void spell_heal(int sn, int level, CHAR_DATA *ch, /
+spell_healing_light	magic.c	/^void spell_healing_light(int sn, int level, CHAR_D/
+spell_heat_metal	magic.c	/^void spell_heat_metal(int sn, int level, CHAR_DATA/
+spell_helical_flow	magic.c	/^void spell_helical_flow(int sn, int level, CHAR_DA/
+spell_hellfire	magic.c	/^void spell_hellfire(int sn, int level, CHAR_DATA */
+spell_high_explosive	magic.c	/^void spell_high_explosive(int sn,int level,CHAR_DA/
+spell_holy_armor	magic2.c	/^void spell_holy_armor(int sn, int level, CHAR_DATA/
+spell_holy_word	magic.c	/^void spell_holy_word(int sn, int level, CHAR_DATA /
+spell_honor_shield	magic2.c	/^void spell_honor_shield(int sn, int level, CHAR_DA/
+spell_hunger_weapon	magic2.c	/^void spell_hunger_weapon(int sn,int level,CHAR_DAT/
+spell_hurricane	magic.c	/^void spell_hurricane(int sn,int level,CHAR_DATA *c/
+spell_iceball	magic.c	/^void spell_iceball(int sn, int level, CHAR_DATA *c/
+spell_identify	magic.c	/^void spell_identify(int sn, int level, CHAR_DATA */
+spell_improved_detect	magic2.c	/^void spell_improved_detect(int sn, int level, CHAR/
+spell_improved_invis	magic2.c	/^void spell_improved_invis(int sn, int level, CHAR_/
+spell_infravision	magic.c	/^void spell_infravision(int sn, int level, CHAR_DAT/
+spell_insanity	magic2.c	/^void spell_insanity (int sn, int level, CHAR_DATA /
+spell_inspire	magic2.c	/^void spell_inspire(int sn, int level, CHAR_DATA *c/
+spell_invisibility	magic.c	/^void spell_invisibility(int sn, int level, CHAR_DA/
+spell_iron_golem	magic2.c	/^void spell_iron_golem(int sn, int level, CHAR_DATA/
+spell_kassandra	magic2.c	/^void spell_kassandra(int sn, int level, CHAR_DATA /
+spell_knock	magic2.c	/^void spell_knock (int sn, int level, CHAR_DATA *ch/
+spell_know_alignment	magic.c	/^void spell_know_alignment(int sn,int level,CHAR_DA/
+spell_lesser_golem	magic2.c	/^void spell_lesser_golem(int sn, int level, CHAR_DA/
+spell_lethargic_mist	magic2.c	/^void spell_lethargic_mist(int sn, int level, CHAR_/
+spell_lightning_bolt	magic.c	/^void spell_lightning_bolt(int sn,int level,CHAR_DA/
+spell_lightning_breath	magic.c	/^void spell_lightning_breath(int sn,int level,CHAR_/
+spell_lightning_shield	magic.c	/^void spell_lightning_shield(int sn, int level, CHA/
+spell_link	magic2.c	/^void spell_link(int sn, int level, CHAR_DATA *ch, /
+spell_lion_help	magic2.c	/^void spell_lion_help(int sn, int level, CHAR_DATA /
+spell_locate_object	magic.c	/^void spell_locate_object(int sn, int level, CHAR_D/
+spell_love_potion	magic2.c	/^void spell_love_potion(int sn, int level, CHAR_DAT/
+spell_magic_jar	magic2.c	/^void spell_magic_jar(int sn, int level, CHAR_DATA /
+spell_magic_missile	magic.c	/^void spell_magic_missile(int sn, int level, CHAR_D/
+spell_magic_resistance	magic2.c	/^void spell_magic_resistance (int sn, int level, CH/
+spell_magnetic_trust	magic.c	/^void spell_magnetic_trust(int sn, int level, CHAR_/
+spell_mana_transfer	magic2.c	/^void spell_mana_transfer(int sn, int level, CHAR_D/
+spell_manacles	magic2.c	/^void spell_manacles(int sn, int level, CHAR_DATA */
+spell_mass_healing	magic.c	/^void spell_mass_healing(int sn, int level, CHAR_DA/
+spell_mass_invis	magic.c	/^void spell_mass_invis(int sn, int level, CHAR_DATA/
+spell_mass_sanctuary	magic2.c	/^void spell_mass_sanctuary(int sn, int level, CHAR_/
+spell_master_healing	magic2.c	/^void spell_master_healing(int sn, int level, CHAR_/
+spell_matandra	magic2.c	/^void spell_matandra(int sn, int level, CHAR_DATA */
+spell_meld_into_stone	magic2.c	/^void spell_meld_into_stone(int sn, int level, CHAR/
+spell_mend	magic2.c	/^void spell_mend(int sn, int level, CHAR_DATA *ch, /
+spell_mental_knife	magic2.c	/^void spell_mental_knife(int sn, int level, CHAR_DA/
+spell_mind_light	magic2.c	/^void spell_mind_light(int sn, int level, CHAR_DATA/
+spell_mind_wrack	magic.c	/^void spell_mind_wrack(int sn, int level, CHAR_DATA/
+spell_mind_wrench	magic.c	/^void spell_mind_wrench(int sn, int level, CHAR_DAT/
+spell_mirror	magic2.c	/^void spell_mirror(int sn, int level, CHAR_DATA *ch/
+spell_mist_walk	magic.c	/^void spell_mist_walk(int sn, int level, CHAR_DATA /
+spell_mysterious_dream	magic2.c	/^void spell_mysterious_dream(int sn, int level, CHA/
+spell_nexus	magic2.c	/^void spell_nexus(int sn, int level, CHAR_DATA *ch,/
+spell_nightfall	magic2.c	/^void spell_nightfall(int sn, int level, CHAR_DATA /
+spell_nightwalker	magic2.c	/^void spell_nightwalker(int sn, int level, CHAR_DAT/
+spell_pass_door	magic.c	/^void spell_pass_door(int sn, int level, CHAR_DATA /
+spell_plague	magic.c	/^void spell_plague(int sn, int level, CHAR_DATA *ch/
+spell_plant_form	magic2.c	/^void spell_plant_form(int sn, int level, CHAR_DATA/
+spell_poison	magic.c	/^void spell_poison(int sn, int level, CHAR_DATA *ch/
+spell_polymorph	magic2.c	/^void spell_polymorph(int sn, int level, CHAR_DATA /
+spell_portal	magic2.c	/^void spell_portal(int sn, int level, CHAR_DATA *ch/
+spell_power_stun	magic2.c	/^void spell_power_stun (int sn, int level, CHAR_DAT/
+spell_power_word_kill	magic2.c	/^void spell_power_word_kill(int sn, int level, CHAR/
+spell_protection_cold	magic2.c	/^void spell_protection_cold (int sn, int level, CHA/
+spell_protection_evil	magic.c	/^void spell_protection_evil(int sn,int level,CHAR_D/
+spell_protection_good	magic.c	/^void spell_protection_good(int sn,int level,CHAR_D/
+spell_protection_heat	magic2.c	/^void spell_protection_heat (int sn, int level, CHA/
+spell_protection_negative	magic2.c	/^void spell_protection_negative (int sn, int level,/
+spell_protective_shield	magic2.c	/^void spell_protective_shield(int sn, int level, CH/
+spell_quantum_spike	magic.c	/^void spell_quantum_spike(int sn, int level, CHAR_D/
+spell_randomizer	magic2.c	/^void spell_randomizer(int sn, int level, CHAR_DATA/
+spell_ranger_staff	magic2.c	/^void spell_ranger_staff(int sn, int level, CHAR_DA/
+spell_ray_of_truth	magic.c	/^void spell_ray_of_truth (int sn, int level, CHAR_D/
+spell_recharge	magic.c	/^void spell_recharge(int sn, int level, CHAR_DATA */
+spell_refresh	magic.c	/^void spell_refresh(int sn, int level, CHAR_DATA *c/
+spell_remove_badge	magic2.c	/^void spell_remove_badge(int sn, int level, CHAR_DA/
+spell_remove_curse	magic.c	/^void spell_remove_curse(int sn, int level, CHAR_DA/
+spell_remove_fear	magic2.c	/^void spell_remove_fear(int sn, int level, CHAR_DAT/
+spell_remove_tattoo	magic2.c	/^void spell_remove_tattoo(int sn, int level, CHAR_D/
+spell_resilience	magic2.c	/^void spell_resilience(int sn, int level, CHAR_DATA/
+spell_restoring_light	magic2.c	/^void spell_restoring_light(int sn, int level, CHAR/
+spell_ruler_aura	magic2.c	/^void spell_ruler_aura(int sn, int level, CHAR_DATA/
+spell_ruler_badge	magic2.c	/^void spell_ruler_badge(int sn, int level, CHAR_DAT/
+spell_sanctify_lands	magic2.c	/^void spell_sanctify_lands(int sn, int level, CHAR_/
+spell_sanctuary	magic.c	/^void spell_sanctuary(int sn, int level, CHAR_DATA /
+spell_sand_storm	magic2.c	/^void spell_sand_storm(int sn, int level, CHAR_DATA/
+spell_scourge	magic2.c	/^void spell_scourge(int sn, int level, CHAR_DATA *c/
+spell_scream	magic2.c	/^void spell_scream(int sn, int level, CHAR_DATA *ch/
+spell_sebat	magic2.c	/^void spell_sebat(int sn, int level, CHAR_DATA *ch,/
+spell_severity_force	magic2.c	/^void spell_severity_force(int sn, int level, CHAR_/
+spell_shadow_cloak	magic2.c	/^void spell_shadow_cloak(int sn, int level, CHAR_DA/
+spell_shadowlife	magic2.c	/^void spell_shadowlife(int sn, int level, CHAR_DATA/
+spell_shield	magic.c	/^void spell_shield(int sn, int level, CHAR_DATA *ch/
+spell_shield_of_ruler	magic2.c	/^void spell_shield_of_ruler(int sn, int level,$/
+spell_shield_ruler	magic2.c	/^void spell_shield_ruler(int sn,int level,CHAR_DATA/
+spell_shielding	magic2.c	/^void spell_shielding(int sn, int level, CHAR_DATA /
+spell_shocking_grasp	magic.c	/^void spell_shocking_grasp(int sn,int level,CHAR_DA/
+spell_shocking_trap	magic.c	/^void spell_shocking_trap(int sn, int level, CHAR_D/
+spell_sleep	magic.c	/^void spell_sleep(int sn, int level, CHAR_DATA *ch,/
+spell_slow	magic.c	/^void spell_slow(int sn, int level, CHAR_DATA *ch, /
+spell_solar_flight	magic.c	/^void spell_solar_flight(int sn, int level, CHAR_DA/
+spell_sonic_resonance	magic.c	/^void spell_sonic_resonance(int sn, int level, CHAR/
+spell_spectral_furor	magic.c	/^void spell_spectral_furor(int sn, int level, CHAR_/
+spell_squire	magic2.c	/^void spell_squire(int sn, int level, CHAR_DATA *ch/
+spell_stalker	magic2.c	/^void spell_stalker(int sn, int level, CHAR_DATA *c/
+spell_stone_golem	magic2.c	/^void spell_stone_golem(int sn, int level, CHAR_DAT/
+spell_stone_skin	magic.c	/^void spell_stone_skin(int sn, int level, CHAR_DATA/
+spell_sulfurus_spray	magic.c	/^void spell_sulfurus_spray(int sn, int level, CHAR_/
+spell_summon	magic.c	/^void spell_summon(int sn, int level, CHAR_DATA *ch/
+spell_summon_shadow	magic2.c	/^void spell_summon_shadow(int sn, int level, CHAR_D/
+spell_superior_heal	magic2.c	/^void spell_superior_heal(int sn, int level, CHAR_D/
+spell_take_revenge	magic.c	/^void spell_take_revenge(int sn, int level, CHAR_DA/
+spell_tattoo	magic2.c	/^void spell_tattoo(int sn, int level, CHAR_DATA *ch/
+spell_teleport	magic.c	/^void spell_teleport(int sn, int level, CHAR_DATA */
+spell_terangreal	magic2.c	/^void spell_terangreal(int sn, int level, CHAR_DATA/
+spell_tesseract	magic2.c	/^void spell_tesseract(int sn, int level, CHAR_DATA /
+spell_transform	magic2.c	/^void spell_transform(int sn, int level, CHAR_DATA /
+spell_turn	magic2.c	/^void spell_turn(int sn, int level, CHAR_DATA *ch, /
+spell_vampiric_blast	magic2.c	/^void spell_vampiric_blast(int sn, int level, CHAR_/
+spell_ventriloquate	magic.c	/^void spell_ventriloquate(int sn, int level, CHAR_D/
+spell_weaken	magic.c	/^void spell_weaken(int sn, int level, CHAR_DATA *ch/
+spell_web	magic2.c	/^void spell_web(int sn, int level, CHAR_DATA *ch, v/
+spell_witch_curse	magic2.c	/^void spell_witch_curse(int sn, int level, CHAR_DAT/
+spell_wolf	magic2.c	/^void spell_wolf(int sn, int level, CHAR_DATA *ch, /
+spell_word_of_recall	magic.c	/^void spell_word_of_recall(int sn, int level, CHAR_/
+spell_wrath	magic2.c	/^void spell_wrath(int sn, int level, CHAR_DATA *ch,/
+srandom	db/db.c	/^#	define srandom( x ) srand( x )$/
+ss	const.h	404
+stop_fighting	fight.c	/^void stop_fighting(CHAR_DATA *ch, bool fBoth)$/
+stop_follower	act_comm.c	/^void stop_follower(CHAR_DATA *ch)$/
+stop_idling	comm/comm.c	/^void stop_idling(CHAR_DATA *ch)$/
+str	str.c	55
+str_add	str.c	/^const char *str_add(const char *pstr,...)$/
+str_alloc	str.c	/^static str *str_alloc(const char *p, int hash)$/
+str_cmp	str.c	/^int str_cmp(const char *astr, const char *bstr)$/
+str_dup	str.c	/^const char *str_dup(const char *p)$/
+str_infix	str.c	/^bool str_infix(const char *astr, const char *bstr)/
+str_lookup	str.c	/^static str *str_lookup(const char *p, int *hash)$/
+str_ncmp	str.c	/^int str_ncmp(const char *astr, const char *bstr, s/
+str_prefix	str.c	/^bool str_prefix(const char *astr, const char *bstr/
+str_printf	str.c	/^const char *str_printf(const char* format,...)$/
+str_suffix	str.c	/^bool str_suffix(const char *astr, const char *bstr/
+strend	act_info.c	/^#define strend(s) (strchr(s, '\\0'))$/
+strhash	str.c	/^#define strhash(s)	(hashstr(s, 64, MAX_STRING_HASH/
+string_add	string_edit.c	/^void string_add(CHAR_DATA *ch, const char *argumen/
+string_append	string_edit.c	/^void string_append(CHAR_DATA *ch, const char **pSt/
+string_edit	string_edit.c	/^void string_edit(CHAR_DATA *ch, const char **pStri/
+string_lineadd	string_edit.c	/^const char *string_lineadd(const char *string, cha/
+string_linedel	string_edit.c	/^const char *string_linedel(const char *string, int/
+string_replace	string_edit.c	/^const char * string_replace(const char * orig, cha/
+strip_obj_affects	handler.c	/^void strip_obj_affects(CHAR_DATA *ch, OBJ_DATA *ob/
+strlwr	str.c	/^char *strlwr(const char *s)$/
+strnzcat	str.c	/^char *strnzcat(char *dest, const char *src, size_t/
+strnzcpy	str.c	/^char *strnzcpy(char *dest, const char *src, size_t/
+strnzncat	str.c	/^char *strnzncat(char *dest, const char *src, size_/
+strtime	util.c	/^char *strtime(time_t time)$/
+substitute_alias	interp.c	/^void substitute_alias(DESCRIPTOR_DATA *d, const ch/
+tail_chain	db/db.c	/^void tail_chain(void)$/
+talk_auction	auction.c	/^void talk_auction(const char *fmt, ...)$/
+title_lookup	class.c	/^const char *title_lookup(CHAR_DATA *ch)$/
+toggle_bits	act_comm.c	/^static sflag_t* toggle_bits(CHAR_DATA *ch, toggle_/
+toggle_lookup	act_comm.c	/^static toggle_t *toggle_lookup(const char *name)$/
+toggle_print	act_comm.c	/^static void toggle_print(CHAR_DATA *ch, toggle_t */
+toggle_t	act_comm.c	1849
+touch_area	olc/olc.c	/^bool touch_area(AREA_DATA *pArea)$/
+touch_clan	olc/olc_clan.c	/^static bool touch_clan(CLAN_DATA *clan)$/
+touch_vnum	olc/olc.c	/^bool touch_vnum(int vnum)$/
+track_update	update.c	/^void track_update(void)$/
+translate	comm/comm_act.c	/^static char *translate(CHAR_DATA *ch, CHAR_DATA *v/
+tt	const.h	405
+turn_spell	magic2.c	/^void turn_spell(int sn, int level, CHAR_DATA *ch, /
+u_char	typedef.h	122
+u_int	typedef.h	121
+uint	typedef.h	45
+unequip_char	handler.c	/^void unequip_char(CHAR_DATA *ch, OBJ_DATA *obj)$/
+unlink	util.c	44
+update_glass_obj	update.c	/^bool update_glass_obj(OBJ_DATA *obj)$/
+update_handler	update.c	/^void update_handler(void)$/
+update_ice_obj	update.c	/^bool update_ice_obj(OBJ_DATA *obj)$/
+update_obj_affects	update.c	/^void update_obj_affects(OBJ_DATA *obj)$/
+update_one_obj	update.c	/^void update_one_obj(OBJ_DATA *obj)$/
+update_pit	update.c	/^void update_pit(OBJ_DATA *obj)$/
+update_pos	fight.c	/^void update_pos(CHAR_DATA *victim)$/
+update_read	note.c	/^void update_read(CHAR_DATA *ch, NOTE_DATA *pnote)$/
+update_skills	skills.c	/^void update_skills(CHAR_DATA *ch)$/
+uu	const.h	406
+varr	typedef.h	74
+varr_bsearch	varr.c	/^void *varr_bsearch(varr* v, const void *e,$/
+varr_enew	varr.h	/^#define varr_enew(v)	(varr_touch((v), (v)->nused))/
+varr_free	varr.c	/^void varr_free(varr *v)$/
+varr_get	varr.h	/^#define varr_get(v, i)	((i) < 0 || (i) >= (v)->nus/
+varr_new	varr.c	/^varr *varr_new(size_t size, size_t step)$/
+varr_qsort	varr.c	/^void varr_qsort(varr* v, int (*cmpfun)(const void*/
+varr_touch	varr.c	/^void *varr_touch(varr *v, size_t i)$/
+violence_update	fight.c	/^void violence_update(void)$/
+vmsg	db/resource.c	/^const char *vmsg(int msgid, CHAR_DATA *ch, CHAR_DA/
+vnum_check	db/db.c	/^void vnum_check(AREA_DATA *area, int vnum)$/
+vsnprintf	log.c	57
+vv	const.h	407
+water_float_update	update.c	/^void water_float_update(void)$/
+weapon_lookup	lookup.c	/^int weapon_lookup(const char *name)$/
+wear_bit	olc/olc_room.c	/^int wear_bit(int loc)$/
+wear_loc	olc/olc_room.c	/^int wear_loc(int bits, int count)$/
+wear_obj	act_obj.c	/^void wear_obj(CHAR_DATA * ch, OBJ_DATA * obj, bool/
+wear_prog_arm_hercules	obj_prog.c	/^int wear_prog_arm_hercules(OBJ_DATA *obj, CHAR_DAT/
+wear_prog_armbands	obj_prog.c	/^int wear_prog_armbands(OBJ_DATA *obj, CHAR_DATA *c/
+wear_prog_boots_flying	obj_prog.c	/^int wear_prog_boots_flying(OBJ_DATA *obj, CHAR_DAT/
+wear_prog_bracer	obj_prog.c	/^int wear_prog_bracer(OBJ_DATA *obj, CHAR_DATA *ch,/
+wear_prog_breastplate_strength	obj_prog.c	/^int wear_prog_breastplate_strength(OBJ_DATA *obj, /
+wear_prog_coconut	obj_prog.c	/^int wear_prog_coconut(OBJ_DATA *obj, CHAR_DATA *ch/
+wear_prog_demonfireshield	obj_prog.c	/^int wear_prog_demonfireshield(OBJ_DATA *obj, CHAR_/
+wear_prog_excalibur	obj_prog.c	/^int wear_prog_excalibur(OBJ_DATA *obj, CHAR_DATA */
+wear_prog_eyed_sword	obj_prog.c	/^int wear_prog_eyed_sword(OBJ_DATA *obj, CHAR_DATA /
+wear_prog_fire_shield	obj_prog.c	/^int wear_prog_fire_shield(OBJ_DATA *obj, CHAR_DATA/
+wear_prog_firegauntlets	obj_prog.c	/^int wear_prog_firegauntlets(OBJ_DATA *obj, CHAR_DA/
+wear_prog_girdle_giant	obj_prog.c	/^int wear_prog_girdle_giant(OBJ_DATA *obj, CHAR_DAT/
+wear_prog_katana_sword	obj_prog.c	/^int wear_prog_katana_sword(OBJ_DATA *obj, CHAR_DAT/
+wear_prog_quest_weapon	obj_prog.c	/^int wear_prog_quest_weapon(OBJ_DATA *obj, CHAR_DAT/
+wear_prog_ranger_staff	obj_prog.c	/^int wear_prog_ranger_staff(OBJ_DATA *obj, CHAR_DAT/
+wear_prog_ruler_shield	obj_prog.c	/^int wear_prog_ruler_shield(OBJ_DATA *obj, CHAR_DAT/
+wear_prog_snake	obj_prog.c	/^int wear_prog_snake(OBJ_DATA *obj, CHAR_DATA *ch, /
+wear_prog_wind_boots	obj_prog.c	/^int wear_prog_wind_boots(OBJ_DATA *obj, CHAR_DATA /
+weather_update	update.c	/^void weather_update(void)$/
+where_lookup	tables.c	/^WHERE_DATA *where_lookup(sflag_t where)$/
+wiznet	merc.h	/^#define wiznet(string, ch, obj, flag, flag_skip, m/
+wiznet_lookup	lookup.c	/^long wiznet_lookup(const char *name)$/
+wiznet_printf	act_wiz.c	/^void wiznet_printf(CHAR_DATA *ch, OBJ_DATA *obj,$/
+word_add	db/word.c	/^WORD_DATA *word_add(varr **hashp, WORD_DATA *w)$/
+word_case	db/word.c	/^const char *word_case(int lang, const char *word, /
+word_del	db/word.c	/^void word_del(varr **hashp, const char *name)$/
+word_form_add	db/word.c	/^void word_form_add(WORD_DATA* w, int fnum, const c/
+word_form_del	db/word.c	/^void word_form_del(WORD_DATA *w, int fnum)$/
+word_form_lookup	db/word.c	/^const char* word_form_lookup(varr **hashp, const c/
+word_free	db/word.c	/^void word_free(WORD_DATA *w)$/
+word_gender	db/word.c	/^const char *word_gender(int lang, const char *word/
+word_lookup	db/word.c	/^WORD_DATA *word_lookup(varr **hashp, const char *n/
+word_new	db/word.c	/^WORD_DATA *word_new(int lang)$/
+wordhash	db/word.c	/^#define wordhash(s) hashstr(s, 16, MAX_WORD_HASH)$/
+write_to_buffer	comm/comm.c	/^void write_to_buffer(DESCRIPTOR_DATA *d, const cha/
+write_to_descriptor	comm/comm.c	/^bool write_to_descriptor(int desc, char *txt, uint/
+ww	const.h	409
+x_argument	interp.c	/^static uint x_argument(const char *argument, char /
+xgetc	db/db.c	/^int xgetc(FILE *fp)$/
+xp_compute	fight.c	/^int xp_compute(CHAR_DATA *gch, CHAR_DATA *victim, /
+xungetc	db/db.c	/^void xungetc(int c, FILE *fp)$/
+xx	const.h	410
+yy	const.h	411
+zz	const.h	412

@@ -1,0 +1,1182 @@
+#AREADATA
+Name Warlock Tower~
+VNUMs 12400 12499
+Security 9
+LevelRange 0 0
+Flags under_construction~
+End
+
+#MOBILES
+#12401
+bard giacomo~
+@eng Giacomo~
+@eng Giacomo, The almighty {BBard{z.
+~
+~
+elf~
+ABGT HNOVgs 1000 0
+30 30 1d1+1500 1d1+3000 1d1+30 magic
+-10 -10 -10 -10
+0 0 0 0
+stand stand male 10000
+0 0 medium unknown
+#12402
+baal mythra~
+@eng Baal Mythra~
+@eng Baal Mythra, Warlock of the Snake.
+~
+~
+death knight~
+ABFR HV -1000 0
+25 25 1d1+500 0d0+0 1d1+30 flbite
+-6 -6 -6 -6
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+#12403
+enrique~
+@eng Enrique Dupuy De Lome~
+@eng Enrique Dupuy De Lome
+~
+~
+lich~
+ABG DUVZa 0 0
+40 0 1d1+800 1d1+1500 5d8+25 none
+0 0 0 0
+DK 0 0 0
+stand stand none 10000
+0 0 medium unknown
+#12404
+paladin wounded~
+@eng Paladin~
+@eng A dreadfully wounded paladin lies on the floor gasping weakly.
+~
+~
+cloud giant~
+ABGT 0 1000 0
+30 20 1d1+1000 25d25+2500 5d5+15 wrath
+0 0 0 0
+0 0 0 0
+rest rest male 2500
+0 0 gargantuan unknown
+#12497
+whore~
+@eng A Whore~
+@eng A slutty nasty whore with buck teef from sucki dick!
+~
+~
+dwarf~
+A It 0 0
+100 50 1d1+15000 0d0+0 15d15+100 kiss
+-100 -100 -100 -100
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+M speech 12496 you sucki sucki?~
+M give 12495 hair~
+#12498
+squirrel texas badass mofo~
+the Texan squirrel~
+The baddest squirrel in Texas stands here with his HUGE ass nutsac, don't poke him, don't look at him, cause he's DANGEROUS!
+~
+~
+human~
+ABGS J 1000 0
+899999 0 1d1+0 0d0+0 15d15+1000 peck
+-1000 -1000 -1000 -1000
+B 0 0 D
+stand stand male 0
+G UV medium unknown
+M act 12498 pokes you in the ribs.~
+M act 12499 looks at you.~
+#12499
+mortican warlock god~
+@eng Mortican~
+@eng Mortican, The Almighty {RWarlock{x GOD!
+~
+~
+lich~
+ABFGVe HJNTUVcglmnpqrst -1000 0
+100 30 1d1+30000 1d1+30000 15d15+30 drain
+-100 -100 -100 -100
+ACDEGK MOP 0 H
+stand stand male 100000
+0 0 gargantuan unknown
+F imm BIJLQ
+F res H
+F vul N
+#0
+
+#OBJECTS
+#12401
+shamsheer prismatic~
+@eng {RP{Gr{Ci{Ys{Mm{Ba{Rt{Yi{Gc{x Shamsheer~
+@eng A Prismatic Shamsheer~
+magic~
+weapon AB AN
+exotic 8 8 blast AE
+30 10 1000 P
+A
+18 3
+A
+19 3
+#12402
+dagger prismatic~
+@eng {GP{Yr{Ri{Bs{Mm{Ya{Ct{Gi{Rc{x Dagger~
+@eng A Prismatic Dagger~
+mithril platinum titanium electrum~
+weapon AB AN
+dagger 8 9 magic DG
+30 5 0 P
+#12403
+curly toed shoes~
+@eng {GCurly-toed{x Shoes~
+@eng Some elf shoes with curled toes.~
+leather wool~
+armor AB AG
+10 10 10 10 0
+30 5 0 P
+A
+18 5
+A
+19 4
+A
+12 30
+#12404
+jester cap~
+@eng {gJ{Ge{gs{Gt{ge{Gr{g'{Gs{x Cap~
+@eng desc a NEAT jester's cap is here, the bells are tinkling in the wind.~
+wool~
+armor AB AE
+10 10 10 10 0
+30 5 0 P
+A
+18 2
+A
+19 2
+A
+6 2
+#12405
+golden dagger brooch~
+@eng {YGolden{x Dagger Brooch~
+@eng here lies a tiny golden dagger on the ground.~
+gold~
+armor AB AC
+10 0 0 0 0
+31 1 1000 P
+A
+18 1
+A
+19 4
+A
+12 25
+A
+13 25
+#12406
+stone justicar~
+@eng The Stone of the Justicar~
+@eng The Stone of the Justicar~
+unknown~
+container AB P
+1000 ABCD 12407 1000 10
+1 0 0 P
+#12407
+golden sun justicar seal~
+@eng The {YGolden Sun{x of the Justicar.~
+@eng a small golden seal lies here in the dust.~
+unknown~
+key AB AO
+0 0 0 0 0
+1 0 0 P
+#12408
+key power~
+@eng Key of {MPower{x~
+@eng a humming key of power lies on the floor.~
+titanium~
+key ABI AC
+0 0 0 0 0
+40 1 0 P
+#12409
+infinite sample~
+@eng Infinite Sample~
+@eng someone has left a valuble ivory rod on the ground.~
+ivory~
+armor ABI AO
+2 0 2 15 0
+40 10 15000 P
+A
+12 100
+A
+4 2
+A
+3 2
+A
+20 8
+#12410
+bastard sword large~
+@eng A large bastard sword~
+@eng A long double edged blade lies here.~
+adamantium~
+weapon ABIKL AN
+sword 6 7 divine DI
+30 20 1500 P
+A
+19 5
+A
+18 5
+#12411
+paladin brassard~
+@eng Burnished Paladin Brassard~
+@eng here lies some gleaming armcovers.~
+adamantium~
+armor ABIKL AI
+10 10 10 10 0
+30 10 0 P
+A
+18 2
+A
+2 -1
+A
+19 3
+#12412
+paladin breastplate~
+@eng Burnished Paladin Breastplate~
+@eng a bunrished breastplate lies in the dust~
+adamantium~
+armor ABIKL AD
+10 10 10 10 0
+30 0 0 P
+A
+13 30
+A
+19 3
+#12413
+paladin gauntlets~
+@eng Burnished Paladin Gauntlets~
+@eng some burnished gauntlets lie here collecting dust.~
+adamantium~
+armor ABIKL AH
+10 10 10 10 0
+30 0 0 P
+A
+19 3
+A
+18 -1
+A
+2 -3
+#12414
+paladin epauliere~
+@eng Burnished Paladin Epauliere~
+@eng someone has left some strange neck and shoulder guards on the ground.~
+adamantium~
+armor ABIKL AC
+15 5 15 5 0
+30 5 0 P
+A
+18 1
+A
+19 1
+A
+4 2
+A
+13 25
+A
+18 3
+#12415
+paladin gorget~
+@eng Burnished Paladin Gorget~
+@eng someone has left a paladin neck guard here!~
+adamantium~
+armor ABIKL AC
+5 15 5 15 0
+30 5 1500 P
+A
+13 30
+A
+18 2
+A
+19 1
+#12416
+paladin jambeau~
+@eng Burnished Paladin Jambeau~
+@eng someone has left paladin shin guards in the dust!~
+adamantium~
+armor ABIKL AF
+10 10 10 10 0
+30 10 0 P
+A
+1 2
+A
+5 2
+A
+12 -50
+A
+18 5
+#12417
+paladin solleret~
+@eng Burnished Paladin Solleret~
+@eng someone has left some flexible adamantium shoes here!~
+adamantium~
+armor ABIKL AG
+5 20 5 5 0
+30 1 0 P
+A
+2 2
+A
+18 2
+A
+19 2
+#12418
+paladin bracer~
+@eng Burnished Paladin Bracer~
+@eng someone has left a paladin bracer here!~
+adamantium~
+armor ABIKL AM
+5 5 5 5 0
+30 10 10000 P
+A
+19 2
+A
+18 2
+#12419
+live cobra~
+@eng A Live Cobra~
+@eng someone has magically made a live cobra into a weapon for them what POWER!~
+flesh~
+weapon AB AN
+whip 8 8 chomp DH
+30 5 10000 P
+A
+18 5
+A
+19 5
+#12420
+small spiked cock ring~
+@eng A Small Spiked Cock Ring~
+@eng someone with a tiny dick left a cock ring here, you could probably wear it on your finger.~
+unknown~
+armor AB AB
+15 15 15 15 0
+1 0 0 P
+A
+2 -2
+A
+5 3
+A
+12 50
+A
+13 50
+A
+18 5
+A
+19 5
+#12477
+hair~
+@eng A {YGolden{x pubic hair~
+@eng a golden pubic hair lies shimmering on the ground!~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+1 0 0 P
+#12478
+scroll enchant weapon~
+@eng {RA{x {BBlue{x scroll labeled '{CGod Enchant Weapon{x'~
+@eng a beautiful rune carved scroll is lying here~
+unknown~
+scroll AB AN
+150 'protection evil' 'stone skin' 'frenzy' 'dragon strength'
+0 5 0 P
+A
+18 10
+A
+19 10
+#12479
+powder~
+@eng {BA BC Power{x~
+@eng a BC powder to make you feel better~
+unknown~
+pill ABGIY AO
+10000 'frenzy' 'haste' 'adamantite golem' 'bless'
+1 0 0 P
+#12480
+dagger kihnan~
+@eng The Runic Dagger of Kihnan~
+@eng a glowing runic dagger lies humming above the ground~
+power~
+weapon ABS AN
+dagger 1000 1000 charge DEG
+1 2 0 P
+A
+20 -50
+A
+17 -500
+A
+12 1000
+A
+13 1000
+A
+6 10
+A
+4 10
+A
+3 10
+A
+2 10
+A
+1 10
+A
+5 10
+A
+19 10000
+A
+18 10000
+#12481
+bag holding~
+@eng The Bag of Holding~
+@eng a bag!~
+unknown~
+container ABY A
+100000 A 0 10000 10
+91 0 0 P
+#12482
+helm balduran~
+@eng Helm of Balduran~
+@eng someone has left a horned helm here!~
+unknown~
+armor ABS AE
+25 25 25 25 0
+91 5 0 P
+A
+19 12
+A
+18 12
+A
+14 100
+A
+12 100
+A
+13 100
+#12483
+bracers war~
+@eng Bracers of War~
+@eng some spiked warbracers lie upon the ground~
+unknown~
+armor ABS AI
+35 35 35 35 0
+91 0 0 P
+A
+5 1
+A
+2 1
+A
+1 1
+A
+18 10
+A
+19 10
+A
+12 100
+A
+13 100
+#12484
+spiked wristguard~
+@eng A Spiked Wristguard~
+@eng a spiked wristguard has been left here!~
+unknown~
+armor ABS AM
+30 30 30 30 0
+91 0 0 P
+A
+18 10
+A
+19 10
+A
+13 200
+A
+12 200
+#12485
+adamantium legplates leg plates~
+@eng Adamantium Leg Plates~
+@eng some EXTREMELY pricey leg plates have been left here~
+adamantium~
+armor ABS AF
+30 30 30 30 0
+91 1 0 P
+A
+18 10
+A
+19 10
+A
+14 175
+A
+12 175
+A
+13 175
+#12486
+buckler shadow~
+@eng Buckler of the {DShadow{x~
+@eng a shield of shadows has been left behind.~
+unknown~
+armor ABS AJ
+35 35 35 35 0
+91 0 0 P
+A
+18 12
+A
+19 12
+A
+14 200
+A
+12 100
+A
+13 100
+#12487
+general cape war~
+@eng The General's Cape of War~
+@eng a beautiful fancloth cape lies here.~
+fancloth~
+armor ABS AK
+25 25 25 25 0
+91 5 0 P
+A
+20 -30
+#12488
+Boots sheer force~
+@eng The Boots of Sheer Force~
+@eng some boots emit a field of power around them, OUCH!~
+unknown~
+armor ABS AG
+30 30 30 30 0
+91 5 0 P
+A
+5 2
+A
+12 100
+A
+13 100
+A
+19 10
+A
+18 10
+#12489
+calm void~
+@eng {CCalm{x of the {BVoid{x~
+@eng pure calm floats here~
+unknown~
+armor ABS AQ
+25 25 25 25 0
+91 0 0 P
+A
+18 10
+A
+19 10
+A
+5 10
+A
+12 100
+A
+13 100
+#12490
+blurred belt~
+@eng {bB{Cl{bu{Cr{br{Ce{bd{x Belt~
+@eng a wide band of blur lies on the ground~
+unknown~
+armor ABS AL
+30 30 30 30 0
+91 5 0 P
+A
+12 75
+A
+13 75
+A
+18 10
+A
+19 10
+A
+2 1
+#12491
+golden symbol hunter~
+@eng A {YGolden{x Symbol of the Hunter~
+@eng someone left there knight symbol, better not take it unless your a knight!~
+unknown~
+armor ABHMSZ AS
+25 25 25 25 0
+91 5 0 P
+A
+19 15
+A
+18 15
+#12492
+torn leather gloves~
+@eng {DTorn{x {yLeather{x Gloves~
+@eng someone has left there gloves here there kind of torn up~
+leather~
+armor ABS AH
+15 15 15 15 0
+91 10 0 P
+A
+12 100
+A
+13 100
+A
+2 2
+A
+3 2
+A
+18 15
+A
+19 15
+#12493
+spidranox warhide~
+@eng A Spidranox Warhide~
+@eng someone has left there spidranox warhide here!~
+unknown~
+armor ABS AD
+30 30 30 30 0
+91 10 0 P
+A
+18 10
+A
+19 10
+A
+26 10
+A
+12 150
+A
+13 150
+#12494
+orb vision~
+@eng Orb of Vision~
+@eng someone left an orb of vision behind!~
+unknown~
+light ABS AO
+0 0 -1 0 0
+1 0 0 P
+A
+5 10
+A
+4 10
+A
+3 10
+A
+12 100
+A
+13 100
+A
+6 2
+A
+3 2
+A
+1 2
+A
+5 2
+A
+2 2
+A
+4 2
+A
+20 10
+A
+18 10
+A
+19 10
+#12495
+ring violence~
+@eng Ring of Violence~
+@eng someone has left a fantabulous ring on the ground here!~
+unknown~
+armor ABGIS AB
+25 25 25 25 0
+91 100 100000 P
+A
+12 200
+A
+13 200
+A
+18 15
+A
+19 15
+#12496
+nut sack nutsack squirrel huge~
+@eng A Huge Squirrel's Nut Sack~
+@eng a squirrel has lost his nutsack!~
+ivory~
+weapon ABIMS AN
+sword 10 10 thrust ABCDEGHI
+91 10 0 P
+A
+19 10000
+A
+18 12
+A
+19 12
+A
+2 1
+#12497
+chain length whip~
+@eng A length of chain~
+@eng someone has left a chain whip here~
+unknown~
+weapon S AC
+exotic 1 1 none 0
+75 0 0 P
+#12498
+pet rock~
+@eng A pet rock~
+@eng someone has abandoned there poor pet rock here!~
+unknown~
+armor ABS AO
+25 25 25 25 0
+91 1 0 P
+A
+12 100
+A
+13 100
+A
+18 10
+A
+19 10
+#12499
+altar meditation~
+@eng The Altar of Meditation~
+@eng The Altar of Meditation~
+unknown~
+furniture ABS A
+A DFGHIJ ADGJ EFIKMNO EFIKMNO
+91 10 0 P
+#0
+
+#ROOMS
+#12401
+@eng Outside an antique tower.~
+@eng The tower appears to be made of some strange marble like material.  It is
+black and emits an ineffable feeling of evil.  Screams can be heard from
+within the monsterous construction.  The black cobblestones have dried blood
+crusted on them and even older blood that has soaked into the very pores of
+the rock.  There is a sign here warding off all entry.  
+~
+0 0 desert
+D0
+~
+~
+Z 0 12402
+S
+#12402
+@eng The archway~
+@eng Standing right under the archway of this evil tower.  The moans are much
+louder now they seem to echo off the substance the tower is constructed
+from.  Lights dont seem to penetrate the blackness to the east and west. 
+Another sign trying to ward people off from entering this blasphemous tower
+is hanging upon the wall.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 12403
+D2
+~
+~
+Z 0 12401
+D3
+~
+~
+Z 0 12404
+D4
+~
+~
+Z 0 12405
+S
+#12403
+@eng Eastern guard post~
+@eng This seems to be a guard post of some kind.  The room reeks of rotting
+dead and fresh blood.  The smell is overpowering and handling it is almost
+impossible to the untrained nose.  
+~
+0 0 inside
+D3
+~
+~
+Z 0 12402
+S
+#12404
+@eng Western guard post~
+@eng This seems to be a guard post of some kind.  The room reeks of rotting
+dead and fresh blood.  The smell is overpowering and handling it is almost
+impossible to the untrained nose.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 12402
+S
+#12405
+@eng The first level of the tower.~
+@eng There are sticky pools of blood on the floor here.  The sight of all that
+blood makes the bile rise in the throat of people with the strongest
+stomachs.  A bloodstained sign hanging on the wall is illegible, not fromt
+he blood, it seems to be written in a runic language.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 12406
+D3
+~
+~
+Z 0 12407
+D4
+~
+~
+Z 0 12408
+D5
+~
+~
+Z 0 12402
+S
+#12406
+@eng Baal Mythra's private room.~
+@eng This is Baal Mythra's private study.  There are many ancient books on the
+ebony shelves.  Several books on the shelf stand out and others have strange
+runic language on the spines.  Its not a good idea to bother with this
+warlock's posessions.  
+~
+0 0 inside
+D3
+~
+~
+Z 0 12405
+S
+#12407
+@eng The sanctum of Baal Guuz.~
+@eng This is where Baal Guuz resides he is a warlock of terrible prowess
+leaning more towards battle than using his dreadful warlock spells, though
+he is known to cast spells if he is in need, or someone is stupidly
+attemping to threaten his life force.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 12405
+S
+#12408
+@eng The second level of the tower.~
+@eng There are sticky pools of blood on the floor here.  The sight of all that
+blood makes the bile rise in the throat of people with the strongest
+stomachs.  A bloodstained sign hanging on the wall is illegible, not from
+the blood, it seems to be written in a runic language.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 12419
+D3
+~
+~
+Z 0 12420
+D4
+~
+~
+Z 0 12409
+D5
+~
+~
+Z 0 12405
+S
+#12409
+@eng The third level of the tower~
+@eng There are sticky pools of blood on the floor here.  The sight of all that
+blood makes the bile rise in the throat of people with the strongest
+stomachs.  A bloodstained sign hanging on the wall is illegible, not from
+the blood, it seems to be written in a runic language.  
+~
+0 0 inside
+D4
+~
+~
+Z 0 12410
+D5
+~
+~
+Z 0 12408
+S
+#12410
+@eng The fourth level of the tower~
+@eng There are sticky pools of blood on the floor here.  The sight of all that
+blood makes the bile rise in the throat of people with the strongest
+stomachs.  A bloodstained sign hanging on the wall is illegible, not from
+the blood, it seems to be written in a runic language.  
+~
+0 0 inside
+D4
+~
+~
+Z 0 12411
+D5
+~
+~
+Z 0 12409
+S
+#12411
+@eng The fifth level of the tower~
+@eng There are sticky pools of blood on the floor here.  The sight of all that
+blood makes the bile rise in the throat of people with the strongest
+stomachs.  A bloodstained sign hanging on the wall is illegible, not from
+the blood, it seems to be written in a runic language.  
+~
+0 0 inside
+D4
+~
+~
+Z 0 12412
+D5
+~
+~
+Z 0 12410
+S
+#12412
+@eng The sixth level of the tower~
+@eng There are sticky pools of blood on the floor here.  The sight of all that
+blood makes the bile rise in the throat of people with the strongest
+stomachs.  A bloodstained sign hanging on the wall is illegible, not from
+the blood, it seems to be written in a runic language.  
+~
+0 0 inside
+D4
+~
+~
+Z 0 12413
+D5
+~
+~
+Z 0 12411
+S
+#12413
+@eng The seventh level of the tower~
+@eng There are sticky pools of blood on the floor here.  The sight of all that
+blood makes the bile rise in the throat of people with the strongest
+stomachs.  A bloodstained sign hanging on the wall is illegible, not from
+the blood, it seems to be written in a runic language.  
+~
+0 0 inside
+D4
+~
+~
+Z 0 12414
+D5
+~
+~
+Z 0 12412
+S
+#12414
+@eng The eighth level of the tower~
+@eng There are sticky pools of blood on the floor here.  The sight of all that
+blood makes the bile rise in the throat of people with the strongest
+stomachs.  A bloodstained sign hanging on the wall is illegible, not from
+the blood, it seems to be written in a runic language.  
+~
+0 0 inside
+D4
+~
+~
+Z 0 12415
+D5
+~
+~
+Z 0 12413
+S
+#12415
+@eng The ninth level of the tower~
+@eng There are sticky pools of blood on the floor here.  The sight of all that
+blood makes the bile rise in the throat of people with the strongest
+stomachs.  A bloodstained sign hanging on the wall is illegible, not from
+the blood, it seems to be written in a runic language.  
+~
+0 0 inside
+D4
+~
+~
+Z 0 12416
+D5
+~
+~
+Z 0 12414
+S
+#12416
+@eng The tenth level of the tower~
+@eng There are sticky pools of blood on the floor here.  The sight of all that
+blood makes the bile rise in the throat of people with the strongest
+stomachs.  A bloodstained sign hanging on the wall is illegible, not from
+the blood, it seems to be written in a runic language.  
+~
+0 0 inside
+D4
+~
+~
+Z 0 12417
+D5
+~
+~
+Z 0 12415
+S
+#12417
+@eng Outside the throne room of the fabled Warlock God.~
+@eng This is the room outside of The Ancient Warlock God.  He is the
+undisputed leader of the tower and possibly the most paramount warlock in
+existance, his deft skill is rumored to be that of extreme precision.  This
+is the place it is time to check oneself and ask thorougly if they are ready
+to proceed.  There is a sign here.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 12418
+D5
+~
+~
+Z 0 12416
+S
+#12418
+@eng Warlock God's Study~
+@eng This room is absolutely marvelous in appearance, the throne at the far
+north end of the room is guilded from gold and so encrusted with gems that
+it seems to be a giant jewel all in itself.  Many books stand on the
+bookshelves lining the walls and a bluish forcefield seems to cover the
+shelves warding off anyone that would attempt to foolishly steal one.  A
+huge ebony table is in the precise center of the room and it is covered with
+maps.  
+~
+0 0 inside
+D0
+~
+field~
+ABCFGJZ 12407 12421
+D2
+~
+~
+Z 0 12417
+S
+#12419
+~
+~
+0 0 inside
+D3
+~
+~
+Z 0 12408
+S
+#12420
+~
+~
+0 0 inside
+D1
+~
+~
+Z 0 12408
+S
+#12421
+@eng Titanium Vault~
+@eng This is a vault made of solid titanium, it must have cost a FORTUNE to
+buy all the titanium it took to make this room.  
+~
+0 0 inside
+D2
+@eng A magical field of force with a small magically shaped keyhole in the
+precise center of it.  
+~
+field~
+ABCFGJZ 12408 12418
+S
+#12499
+@eng The Silver Bowl~
+@eng Here, the evil vampire Moridin frolics with La Magra! and worships Eminem.
+~
+0 C inside
+S
+#0
+
+#SPECIALS
+M 12403 spec_breath_any	* Enrique Dupuy De Lome
+M 12404 spec_cast_cleric	* Paladin
+M 12499 spec_cast_mage	* Mortican
+S
+
+#RESETS
+D 0 12418 0 2	* Warlock God's Study: door to the north: closed and locked
+D 0 12421 2 2	* Titanium Vault: door to the south: closed and locked
+M 0 12401 1 12401 1	* Giacomo (Outside an antique tower.)
+E 0 12401 0 16		*	{RP{Gr{Ci{Ys{Mm{Ba{Rt{Yi{Gc{x Shamsheer: wielded
+E 0 12402 0 20		*	{GP{Yr{Ri{Bs{Mm{Ya{Ct{Gi{Rc{x Dagger: second wielded
+E 0 12403 0 8		*	{GCurly-toed{x Shoes: on the feet
+E 0 12404 0 6		*	{gJ{Ge{gs{Gt{ge{Gr{g'{Gs{x Cap: over the head
+E 0 12405 0 3		*	{YGolden{x Dagger Brooch: around the neck (1)
+M 0 12404 1 12405 1	* Paladin (The first level of the tower.)
+E 0 12410 0 16		*	A large bastard sword: wielded
+E 0 12411 0 10		*	Burnished Paladin Brassard: on the arms
+E 0 12412 0 5		*	Burnished Paladin Breastplate: on the body
+E 0 12413 0 9		*	Burnished Paladin Gauntlets: on the hands
+E 0 12414 0 3		*	Burnished Paladin Epauliere: around the neck (1)
+E 0 12415 0 4		*	Burnished Paladin Gorget: around the neck (2)
+E 0 12416 0 7		*	Burnished Paladin Jambeau: on the legs
+E 0 12417 0 8		*	Burnished Paladin Solleret: on the feet
+G 0 12418 0		*	Burnished Paladin Bracer
+M 0 12402 1 12406 1	* Baal Mythra (Baal Mythra's private room.)
+M 0 12499 1 12418 1	* Mortican (Warlock God's Study)
+O 0 12406 0 12421	* The Stone of the Justicar (Titanium Vault)
+P 0 12499 1 12406 1	* The Stone of the Justicar: The Altar of Meditation
+S
+
+#OLIMITS
+O 12419 5	* A Live Cobra
+O 12420 10	* A Small Spiked Cock Ring
+S
+
+#MOBPROGS
+#12401
+~
+#12495
+say Oh! Thank you, my bush just wasnt the same without it!
+pmote kisses $n her buck teeth slightly scrathing their lower lip.
+mob oload 12420
+mob junk hair
+give ring $n
+~
+#12496
+say Yes Baby! and since you know how to talk to me dirty i sucki fuh free!
+pmote kneels and professionally suckles $n's dick.
+~
+#12497
+say So, you think you have permission to look at the Almighty Warlock God do you?
+say Im afraid you are about to be disabused!
+emote waves his hands in the air and summons the great and magical Texan Squirrel to defend his virtue.
+mob mload 12498
+force squirrel kill $n
+~
+#12498
+emote dances wildly around the room, swinging his {MHUUUUUUUUGE{x nutsac.
+
+{R*#*#*Watch Out!!!*#*#*{x
+
+cackle
+pmote grabs $n and tosses $n over his shoulder. 
+emote exclaims {B"I'm the baddest damn squirrel in Texas, just try to mess with me!"{x
+flex
+pmote forces $n to suck his big hairy cock n balls!
+~
+#12499
+snarl
+say {GJust what the HELL are you looking at?!?!{x
+mob oload 12496
+wield nut
+murder $n
+backstab $i
+kill $i
+~
+#0
+
+#$

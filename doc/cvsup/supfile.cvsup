@@ -1,0 +1,5 @@
+*default host=iclub.nsu.ru
+*default base=.
+*default release=cvs tag=.
+*default delete use-rel-suffix compress
+muddy

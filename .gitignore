@@ -1,0 +1,17 @@
+muddy
+core.*
+src/o/
+src/.depend
+src/startup
+tmp/*
+log/*
+corefiles/*
+gods/*
+notes/*.not
+player/*
+area/*.txt
+area/*.not
+area/*.h
+area/muddy
+area/*.lang
+area/lang.lst

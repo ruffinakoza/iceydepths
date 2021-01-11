@@ -1,0 +1,7 @@
+#LANG
+Name rus
+GendersFile genders.rus~
+CasesFile cases.rus~
+End
+
+#$

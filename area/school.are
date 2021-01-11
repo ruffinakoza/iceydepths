@@ -1,0 +1,6092 @@
+#AREADATA
+Name Tzbrakas Training Academy~
+VNUMs 3700 3899
+Credits Erebus~
+Security 9
+LevelRange 1 10
+End
+
+#MOBILES
+#3700
+Tzbrakas master storm giant~
+Tzbrakas~
+The mighty storm giant, Tzbrakas, welcomes you to his academy.
+~
+Before you stands one of the largest giants that you have ever seen.
+Despite the scars covering his war-torn body, his features are soft, and his
+smile warm.  He beckons to you and bids you enter his training grounds that
+you might learn to fend for yourself in this strange new world.
+~
+storm giant~
+ABGTVYe DFHNOVlmnpqrst 1000 0
+275 378 54d5+45839 10d10+200 20d20+350 crush
+-100 -100 -100 -100
+ACDEFIJKNO P D 0
+stand stand male 100250
+0 0 giant unknown
+F vul P
+M grall 3700 100 has arrived.~
+#3701
+troll ravenous~
+a ravenous troll~
+A grossly fat troll is seated at an oaken table, feasting on a roasted chicken.
+~
+The troll is covered in a full suit of platemail that looks heavy and
+impenetrable.  His face is covered in grease and pieces of chicken.  He is
+too intent on devouring this chicken to even notice that you are walking up
+to him with a naked weapon.  You're pretty sure that if you can't kill him
+you'd be able to outrun him since he's so fat and will be slowed down by his
+heavy armor.  
+~
+troll~
+ABGe Cd -500 0
+5 -50 5d5+150 1d1+99 1d2+1 claw
+-30 -30 -30 -10
+A AB CD 0
+stand stand male 250
+S 0 huge unknown
+F for B
+M grall 3745 100 has arrived.~
+M act 3747 gets a roast chicken from an oak table.~
+M random 3746 8~
+#3702
+dog cooshee~
+a cooshee~
+A large spotted light brown dog watches you through intelligent eyes.
+~
+This cooshee belongs to the elven guard.  She is a highly intelligent
+animal and she knows who belongs inside the jail cells and who doesn't.  Her
+tail wags as you approach, though you doubt the prisoners inside the cells
+would recieve the same welcome.  
+~
+dog~
+ABe P 1000 0
+3 3 3d3+35 1d1+99 1d4+3 chomp
+5 5 5 10
+DFQ AB 0 C
+stand stand female 0
+M BQ medium unknown
+#3703
+guard tall elf~
+a tall elven guard~
+A tall elf stands guard, keen eyes missing nothing.
+~
+This elf was posted here as a guard to the guest quarters.  His eyes are
+very keen and he looks like a able fighter.  It would be a very bad idea to
+attack him.  
+~
+elf~
+ABTe DFVs 1000 0
+3 3 3d4+65 1d1+99 2d3+4 punch
+5 5 5 5
+EFKNQR AB 0 0
+stand stand male 55
+0 QU medium unknown
+M fight 3702 40~
+M grall 3709 100~
+M speech 3708 yes, please~
+M speech 3708 Yes, please~
+M speech 3708 yes, Please~
+M speech 3708 yes please~
+M speech 3708 Yes please~
+M speech 3708 Yes Please~
+#3704
+ogre foul~
+an ogre~
+A foul smelling ogre stares back at you through bloodshot eyes.
+~
+This filthy ogre has just woken up and he's in a foul mood.  He has been
+jailed for causing trouble with the other adventurers and he's looking for
+someone to take his frustration out on.  
+Look Out!!!
+~
+ogre~
+ABFe 0 -1000 0
+3 4 5d5+105 1d1+99 2d5+7 pound
+3 3 3 10
+CI AB 0 C
+stand stand male 95
+0 QU huge unknown
+#3705
+lizardman shifty~
+a shifty lizardman~
+A shifty lizard man eyes your valuables, looking for something to steal.
+~
+A shifty lizardman casts a beady eye over your belongings, drooling
+greedily.  Better take care of this guy right quick!!!  
+~
+lizard~
+ABSUe JPc -200 0
+3 6 3d4+65 1d1+99 1d6+4 claw
+1 1 1 10
+BFJK AB 0 0
+stand stand male 135
+BHMV BGIJU medium unknown
+#3706
+gargoyle stone~
+a stone gargoyle~
+A stone gargoyle stands here regarding you with an unmoving stare.
+~
+This gargoyle doesn't look overly worried when he notices you sizing him
+up.  You must kill him if you wish to face the final trial though, for he
+holds the only key that will allow you to enter.
+~
+gargoyle~
+ABUe JZc -150 0
+4 5 3d5+110 1d1+99 1d3+4 acbite
+-1 -1 -1 5
+CF AB K C
+stand stand none 85
+MV BJQU medium unknown
+F act F
+M grall 3706 100~
+#3707
+adept cleric~
+the cleric teacher~
+The teacher of clericism is here waiting to aid you.
+~
+This teacher stands here monitoring your progress as you attempt to slay
+the various mobs down here.  Every so often he nods and casts a healing or
+protective spell your way.  He looks pretty strong though.  It would be
+foolish to attack him.  
+~
+human~
+ABGQTVe CH 1000 0
+30 10 5d10+5000 1d1+999 5d10+50 wrath
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 1500
+0 0 medium unknown
+#3708
+spirit~
+a spirit of mercy~
+An ancient man hovers lightly off the ground, barely visible through the smoke.
+~
+A faceless spirit hovers lightly above the ground monitoring the progress
+of those who would do battle with the firedrake.  Every so often he turns to
+cast a healing spell on you, refreshing your soul.  
+~
+ghost~
+ABGQTVe CHU 1000 0
+85 10 5d5+10000 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 0
+0 0 medium unknown
+F res D
+#3709
+rabbit~
+the rabbit~
+A rabbit is bouncing around here.
+~
+The rabbit smiles at you. He's completely harmless!
+~
+rabbit~
+AGHU 0 100 0
+1 0 1d1+10 1d1+99 1d3+0 bite
+10 10 10 10
+0 0 0 0
+stand stand either 0
+0 0 tiny unknown
+#3710
+lizard~
+the lizard~
+A lizard slithers up to you.
+~
+A long forked tongue flicks out towards you. Yikes, it looks hungry!
+~
+lizard~
+AGU 0 -100 0
+2 0 2d2+20 1d1+99 1d4+1 bite
+8 8 8 10
+R 0 0 0
+stand stand either 0
+0 0 small unknown
+#3711
+boar~
+the boar~
+A boar tries to run you over.
+~
+The boar grunts at you and shakes his long sharp tusks in your direction.
+~
+pig~
+AGU 0 0 0
+3 1 3d3+30 1d1+99 1d6+1 charge
+7 7 7 9
+CDFR 0 0 0
+stand stand either 0
+0 0 medium unknown
+#3712
+fox~
+the fox~
+A fox watches you from the shadows.
+~
+Beady eyes stare down a long black muzzle at you, watching your every
+move.  Wow, look at that glossy coat, it might be worth money if you can
+catch him.  
+~
+fox~
+AGHU P 100 0
+1 1 1d1+12 1d1+99 1d3+1 bite
+8 8 8 10
+NR 0 0 0
+stand stand either 0
+0 0 small unknown
+#3713
+snail~
+the snail~
+A snail is trying desperately to get out of your way.
+~
+A long trail of slime leads off behind the snail as he hurries to get
+away from your big feet.  
+~
+unique~
+AGU 0 0 0
+0 0 1d1+0 1d1+99 1d1+0 digestion
+10 10 10 10
+0 0 0 0
+stand stand none 0
+AGQc AFHM tiny unknown
+#3714
+beast~
+the beast~
+A hungry beast snarls and lunges to attack.
+~
+This beast is very hungry, and he's chosen you for his next meal.
+~
+school monster~
+AFT JZ 0 0
+5 1 5d5+55 1d1+99 1d6+3 bite
+5 5 5 8
+EKM 0 HI 0
+stand stand none 50
+0 0 large unknown
+#3715
+bear~
+the bear~
+A large brown bear growls at you softly.
+~
+A warning growl rumbles deep in the throat of the bear when it sees you
+watching it.  Be careful, he looks pretty strong.  
+~
+bear~
+AGU J 0 0
+4 1 4d4+44 1d1+99 1d6+2 claw
+6 5 6 7
+CR 0 0 0
+stand stand male 0
+0 0 large unknown
+#3716
+wolf~
+the wolf~
+A wolf paces about searching for a way out of the pit.
+~
+This wolf hates being enclosed in small spaces and he is desperately
+searching for a way out.  
+~
+wolf~
+AGU J 0 0
+4 0 4d4+44 1d1+99 1d6+2 bite
+7 7 7 10
+NR 0 0 0
+stand stand either 0
+0 0 medium unknown
+#3717
+shopkeeper academy~
+the academy shopkeeper~
+The academy shopkeeper is here selling things that you might find useful.
+~
+The academy shopkeeper nods at you as you enter and displays his wares. 
+He looks pleased to see you.  He's an honest man, and will give you a fair
+bargain.  Better not attack him though, because he's pretty strong.  
+~
+human~
+ABCQTVe CH 1000 0
+30 10 10d5+5000 1d1+999 5d8+50 wrath
+-15 -15 -15 -15
+ACEFHIKN AB CD 0
+stand stand male 0
+0 0 medium unknown
+M grall 3717 100~
+#3718
+wraith shadow spectre trainer~
+A wraith~
+A high priest of Erebus' following hovers here, watching you expectantly.
+~
+One of Erebus' minions, a shadow wraith, has been sent from 
+the netherworld at his bidding.  This extradimensional being has 
+the power to grant you additional strength and knowledge.  He is
+bound to aid you, but do not test him, or he will gladly destroy you.
+~
+ghost~
+ABGJRVYbce DFHJNOUZclmnpqrst -1000 0
+250 200 100d50+30000 75d85+65000 10d10+150 wrath
+-38 -38 -38 -25
+EFHKN 0 C 0
+stand stand none 2500
+0 0 medium unknown
+#3719
+adept priest robed~
+An adept~
+A high priest of Momo's guild stands here, waiting to instruct you.
+~
+Shrouded in black robes, one of Momo's high priests waits here to teach 
+those who would learn.  Born not of this world, this extradimensional 
+being can not be harmed by any mortal weapons.  Noting your interest in
+him, he turns to you and nods imperceptably.  He will aid you in your
+training, but cross him not for he would destroy you in the blink of an eye.
+~
+ghost~
+ABKRVe DFHJNOlmnpqrst 1000 0
+250 200 100d50+30000 75d85+65000 10d10+150 wrath
+-38 -38 -38 -25
+EFHKN CD 0 0
+stand stand none 2500
+0 0 medium unknown
+#3720
+firedrake drake dragon~
+a firedrake~
+A huge glowing dragon stares balefully down at you from his rocky perch.
+~
+A powerful firedrake glares at you through the flames.  His translucent
+scales are glowing red and yellow as if they are on fire.  Noticing your
+gaze he snorts derisively, and a puff of smoke curls lazily from his left
+nostril.  
+~
+dragon~
+ABCUe DF -600 0
+8 5 5d5+180 5d5+500 2d2+4 claw
+0 0 0 10
+ACEFM ABH G J
+stand stand male 300
+BGMV B giant unknown
+F res BH
+F vul F
+M kill 3705 100~
+#3721
+kobold grinning~
+a grinning kobold~
+A tiny kobold stands here, a mischevious grin on his leathery face.
+~
+A grinning kobold stares back at you.  You wonder what is so funny to
+him.  He's advancing towards you now brandishing a sword.  
+Kobolds have a strange sense of humor...
+~
+kobold~
+A 0 -550 0
+3 1 2d2+25 1d1+99 1d2+1 bite
+10 10 10 10
+FR 0 0 0
+stand stand either 15
+0 0 small unknown
+#3722
+guardian ruby statue~
+{Rthe ruby guardian{x~
+{rA statue made of solid {Rruby{r stands here.{x
+~
+{rThe {Rruby guardian{r stares back at you impassively, daring you to
+attack it.  {x 
+~
+gargoyle~
+ABUe EUc -300 0
+3 2 3d4+60 1d1+99 1d2+1 slice
+5 5 5 5
+EN AB 0 C
+stand stand none 0
+0 0 large unknown
+F act F
+F aff T
+F vul HI
+#3723
+guardian emerald statue~
+{Gthe emerald guardian{x~
+{gA statue made of solid {Gemerald{g stands here.{x
+~
+{gThe{G emerald guardian{g stares back at you impassively, daring you to
+attack it.  {x 
+~
+gargoyle~
+ABUe EUc 300 0
+3 2 3d4+60 1d1+99 1d2+1 slice
+5 5 5 5
+EN AB 0 C
+stand stand none 0
+0 0 large unknown
+F act F
+F aff T
+F vul HI
+#3724
+guardian sapphire statue~
+{Bthe sapphire guardian{x~
+{bA statue made of solid {Bsapphire{b stands here.{x
+~
+{bThe{B sapphire guardian{b stares back at you impassively, daring you to
+attack it.  {x 
+~
+gargoyle~
+ABUe EUc 200 0
+3 2 3d4+60 1d1+99 1d2+1 slice
+5 5 5 5
+EN AB 0 C
+stand stand none 0
+0 0 large unknown
+F act F
+F aff T
+F vul HI
+#3725
+guardian citrine statue~
+{Ythe citrine guardian{x~
+{yA statue made of solid {Ycitrine{y stands here.{x
+~
+{yThe{Y citrine guardian{y stares back at you impassively, daring you to
+attack it.  {x 
+~
+gargoyle~
+ABUe EUc -200 0
+3 2 3d4+60 1d1+99 1d2+1 slice
+5 5 5 5
+EN AB 0 C
+stand stand male 0
+0 0 large unknown
+F act F
+F aff T
+F vul HI
+#3726
+guardian amethyst statue~
+{Mthe amethyst guardian{x~
+{mA statue made of solid{M amethyst{m stands here.{x
+~
+{mThe{M amethyst guardian{m stares back at you impassively, daring you to
+attack it.  {x 
+~
+gargoyle~
+ABUe EUc -100 0
+3 2 3d4+60 1d1+99 1d2+1 slice
+5 5 5 5
+EN AB 0 C
+stand stand none 0
+0 0 large unknown
+F act F
+F aff T
+F vul HI
+#3727
+guardian topaz statue~
+{Cthe topaz guardian{x~
+{cA statue made of solid {Ctopaz{c stands here.{x
+~
+{cThe{C topaz guardian{c stares back at you impassively, daring you to
+attack it.  {x 
+~
+gargoyle~
+ABUe EUc 100 0
+3 2 3d4+60 1d1+99 1d2+1 slice
+5 5 5 5
+EN AB 0 C
+stand stand none 0
+0 0 large unknown
+F act F
+F aff T
+F vul HI
+#3728
+Meldrake wizard aged~
+Meldrake~
+An aged wizard mutters to himself as he rummages through a pile of scrolls.
+~
+Meldrake mutters to himself as he rummages through a pile of
+scrolls.  He has lost something that he dearly wants back.  If you could
+help him find whatever he lost, I'm sure he'd reward you for it.  
+~
+human~
+ABRUVe HV 0 0
+30 30 10d10+5000 5d35+5000 7d10+80 magic
+-30 -30 -30 -30
+EFGK AB CD 0
+stand stand male 15300
+0 0 medium unknown
+M act 3720 What have you lost?~
+M act 3720 what have you lost?~
+M give 3721 3742~
+M random 3728 8~
+#3729
+Belarius wizard young apprentice~
+Belarius~
+A young wizard stands here excitedly poring over a magical tome.
+~
+Belarius is hiding from his uncle, Meldrake.  Apparently Belarius has
+"borrowed" his uncle's spellbook and is trying to learn one of the
+teleportation trap spells.  You're pretty sure he'll give it back if he
+realizes how angry Meldrake is over losing it.
+~
+human~
+ABRUVe HV 0 0
+30 30 10d10+5000 5d35+5000 7d10+80 magic
+-30 -30 -30 -30
+EFGK AB CD 0
+stand stand male 15300
+0 0 medium unknown
+M random 3722 5~
+M act 3723 Meldrake is pretty upset, Belarius~
+M act 3723 Meldrake is pretty upset Belarius~
+M act 3723 meldrake is pretty upset belarius~
+M act 3723 meldrake is pretty upset, belarius~
+#3730
+boy small~
+a small boy~
+A small boy stands here smiling at you.
+~
+This small boy is pretty friendly.  He runs up to you and gives you an
+apple and smiles at you.  
+~
+human~
+ABUVe V 1000 0
+30 20 5d5+5000 1d1+99 4d5+50 punch
+-30 -30 -30 -30
+EFJK 0 CD 0
+stand stand male 1500
+0 0 small unknown
+M grall 3730 100 has arrived.~
+#3731
+Leomund wizard robed~
+Leomund~
+A tall human wizard clad in {mrich purple robes{x watches you carefully.
+~
+The archwizard, Leomund, stands before you.  Tall and thin, he looks
+frail, but appearances can be deceiving.  He is clad in the {mrich purple
+robes{x of the order of arcanum, he is a master in wizardry and could
+destroy you instantly.  
+ 
+If you give him your {ygolden newbie token{x he will create something for you.
+~
+human~
+ABGRUVe HNPV 1000 0
+35 30 5d50+6500 5d35+8000 8d10+100 magic
+-40 -40 -40 -60
+FGKN AB CD 0
+stand stand male 15000
+0 0 medium unknown
+M give 3733 3741~
+M act 3731 gets a steel buckler from an ironbound chest.~
+M act 3732 gets a piece of rock candy.~
+M act 3732 sacrifices a piece of rock candy to gods.~
+#3732
+dwarf dwarven blacksmith~
+a dwarven blacksmith~
+A muscular, stocky dwarven blacksmith stands here forging weapons.
+~
+This stocky dwarf is skilled in the crafting of any imaginable kind of
+weapon.  Years spent working in a forge have hardened his muscles and he has
+become an expert with his hammer.  He could just as easily crush your skull
+with it as forge weapons or armor, so you had better not give him cause to
+crush yours.  
+~
+dwarf~
+ABGTUVe DVl 500 0
+50 50 25d25+6000 1d1+99 10d12+150 crush
+-50 -50 -50 -45
+CEFKPU 0 CD 0
+stand stand male 15050
+0 0 medium unknown
+M act 3734 gets a wooden mace from the weapons rack.~
+M act 3735 gets a tin dagger from the weapons rack.~
+M act 3736 gets a small bronze sword from the weapons rack.~
+M act 3737 gets a throwing spear from the weapons rack.~
+M act 3738 gets a knotted staff from the weapons rack.~
+M act 3739 gets a copper axe from the weapons rack.~
+M act 3740 gets a wooden handled flail from the weapons rack.~
+M act 3741 gets a leather whip from the weapons rack.~
+M act 3742 gets a steel tipped glaive from the weapons rack.~
+M act 3743 gets a short bow from the weapons rack.~
+M act 3744 gets a steel headed lance from the weapons rack.~
+#3733
+shadow~
+a spirit of mercy~
+~
+The shadow of a spirit...nothing more.
+~
+ghost~
+ABGQTVe CH 1000 0
+50 10 5d5+10000 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 0
+0 0 medium unknown
+F res D
+#3734
+guard elven crusaderelf~
+an elven guard~
+This elven guard has been summoned to deal with a violent offender.
+~
+His fine elven features are contorted in rage as he looks for the offender.
+It would be EXTREMELY foolish to attack this guard.
+~
+elf~
+AT 0 1000 0
+2 5 3d3+45 1d1+99 2d2+3 slash
+3 3 3 5
+FHKQRT 0 0 0
+stand stand male 0
+0 0 medium unknown
+M fight 3703 10~
+M act 3704 100 $n has fled!~
+#3735
+guard elven~
+an elven guard~
+This elven guard has been summoned to deal with a violent offender.
+~
+His fine elven features are contorted in rage and he looks prepared to fight.
+~
+elf~
+AT 0 1000 0
+1 5 2d2+20 1d1+99 2d2+3 slash
+3 3 3 3
+FKQRT 0 0 0
+stand stand male 0
+0 0 medium unknown
+M act 3703 A tall elven guard yells 'Guards, to arms!'~
+M act 3703 A tall elven guard yells ' Guards, to arms! '~
+#3736
+dummy practice cloth~
+a cloth practice dummy~
+A cloth practice dummy stands here.
+~
+Before you stands a magically animated cloth dummy.
+The tough cloth hide of this dummy is torn and scorched in places from
+the repeated blows and fireballs that have been cast upon it.  
+~
+school monster~
+ABHe I 0 0
+3 1 3d3+55 1d1+99 1d1+1 thwack
+8 8 8 10
+0 0 0 D
+stand stand none 10
+0 0 medium unknown
+F act U
+#3737
+dummy practice straw~
+a straw practice dummy~
+A straw practice dummy stands here.
+~
+Before you stands a magically animated straw dummy.
+The straw body of this dummy has been shredded and burned in places from
+the repeated attacks of the other beginners down here practicing with you.  
+~
+school monster~
+ABHe I 0 0
+2 0 3d3+40 1d1+99 1d1+0 thwack
+10 10 10 10
+J 0 0 D
+stand stand none 8
+0 0 medium unknown
+F act U
+#3738
+dummy practice leather~
+a leather practice dummy~
+A leather practice dummy stands here.
+~
+Before you stands a magically animated leather dummy.
+The leather skin of this dummy is scarred and burned in places from the
+many attacks of the other beginners.  
+~
+school monster~
+ABHe 0 -100 0
+4 2 4d4+65 1d1+99 1d2+1 thwack
+6 6 6 10
+FK 0 0 0
+stand stand none 20
+0 0 medium unknown
+F act U
+#3739
+bat vampire~
+a vampire bat~
+The rush of leathery wings fills your ears as a tiny bat flies past your head.
+~
+You had always thought that vampire bats were very large, but this one is
+rather small.  But what it lacks in size, it makes up for in ferocity as it
+flits about your head, biting relentlessly at your tender flesh.  
+~
+bat~
+ABFL J -300 0
+2 2 3d3+25 1d1+99 1d2+1 bite
+-5 -5 -5 -5
+0 0 0 E
+stand stand either 30
+D 0 tiny unknown
+#3740
+warrior gnome~
+a tired gnome~
+This tired young gnome has stopped by the guest quarters for some rest.
+~
+This young gnome has stopped by the guest quarters to rest her weary
+bones.  But though she is tired, she is an adventurer like yourself, and she
+looks pretty strong.  
+~
+gnome~
+A 0 300 0
+3 4 4d4+50 1d1+99 3d3+5 punch
+4 4 4 8
+0 0 0 0
+stand stand female 55
+0 0 medium unknown
+#3741
+satyr tired~
+a tired young satyr~
+A tired young satyr is trying to get some sleep.
+~
+This young satyr is exhausted.  His fights have worn him out and he's
+trying to get some sleep on one of the beds.  
+~
+satyr~
+AB 0 300 0
+3 4 4d4+50 1d1+99 2d2+4 punch
+6 6 6 9
+0 0 0 0
+sleep stand male 55
+0 0 medium unknown
+#3742
+guardian diamond statue~
+{wthe diamond statue{x~
+A statue made of solid {wdiamond{x stands here.
+~
+{wThe diamond guardian stares back at you impassively, daring you to attack it.{x
+~
+gargoyle~
+ABUe DEUc 0 0
+4 4 3d4+70 1d1+99 2d2+2 slice
+2 2 2 2
+CEG AB 0 0
+stand stand none 0
+0 0 large unknown
+F act F
+F aff T
+F vul HI
+#3743
+guard head elf~
+the head of the guard~
+The head of the guard is sitting here drinking wine.
+~
+This strikingly handsome blonde haired elf bears the office of head
+guard.  He has worked hard to earn the title and he is a powerful warrior,
+it would be unwise to engage him in combat.  
+~
+elf~
+ABLT 0 1000 0
+3 3 3d5+70 1d1+99 2d2+4 punch
+2 2 2 5
+EFKNQR A 0 0
+sit stand male 70
+0 0 medium unknown
+#3744
+guard elven crusaderelf~
+an elven guard~
+An elven guard is sitting here drinking wine.
+~
+Despite the wine he has consumed, his eyes are alert, and he looks prepared.
+~
+elf~
+ABTe 0 1000 0
+2 5 3d3+45 1d1+99 2d2+3 slash
+2 2 2 6
+FKQRT 0 0 0
+stand stand male 0
+0 0 medium unknown
+#3745
+dwarf adventurer~
+a young dwarven adventurer~
+This young dwarf is preparing to begins his career as an adventurer.
+~
+This young dwarf, a fellow adventurer, has come to train in the academy. 
+He looks rather inexperienced as yet, but he looks pretty tough and he seems
+pretty sure of himself.  
+~
+dwarf~
+ACL 0 300 0
+2 4 3d3+30 1d1+99 1d2+3 punch
+4 4 4 4
+CDKR 0 0 0
+stand stand male 55
+0 0 medium unknown
+#3746
+dwarf grumpy~
+a grumpy dwarf~
+A grumpy young dwarf is looking for a place to rest.
+~
+This young dwarf is rather tired and grumpy.  He's new to the rigorous
+training an adventurer must undergo to prepare himself, and it has worn him
+out.  He's rather cross now, better stay out of his way.  
+~
+dwarf~
+ACL 0 300 0
+3 4 4d4+50 1d1+99 3d3+5 punch
+5 5 5 8
+CDKR AB 0 0
+stand stand male 60
+0 0 medium unknown
+#3747
+satyr adventurer~
+a young satyr adventurer~
+A young satyr is here preparing to begin his career as and adventurer.
+~
+This young satyr, one of your fellow adventurers, has come to train in
+the academy also.  He looks rather inexperienced, but he looks full of
+energy and eager to explore.  
+~
+satyr~
+ACL 0 300 0
+2 4 3d3+27 1d1+99 1d2+2 punch
+6 6 6 8
+FKNR 0 0 0
+stand stand male 55
+0 0 medium unknown
+F res Q
+#3748
+gnome adventurer~
+a young gnome adventurer~
+A young gnome explores the hallway, in search of adventure.
+~
+This young gnome, a fellow adventurer, has come to the academy to train
+also.  He looks rather inexperienced, but his eyes are bright and
+intelligent.  
+~
+satyr~
+ACL 0 300 0
+2 6 3d3+25 1d1+99 1d2+1 punch
+5 5 5 7
+FKNR 0 0 E
+stand stand male 55
+0 0 medium unknown
+F res Q
+#3749
+janitor~
+a janitor~
+A janitor is walking through the hallways pushing a broom.
+~
+This janitor seems to be a rather happy fellow, and he whistles
+contentedly while he works.  
+~
+human~
+AC 0 900 0
+1 0 2d6+10 0d9+100 1d4+0 punch
+9 9 9 10
+EFNU AB 0 0
+stand stand male 25
+0 0 medium unknown
+M random 3710 5~
+#3750
+fido dog friendly~
+a friendly little fido~
+A friendly little dog runs around your ankles, barking at you playfully.
+~
+This little fellow is pretty friendly, he runs up to you with his tail
+wagging and barks, tongue lolling out of this side of his mouth.  Looks like
+he wants to play a game of fetch.  
+  Say to him: "go fetch" and maybe he'll play with you.
+~
+dog~
+A JP 200 0
+2 2 2d3+35 1d1+99 1d3+1 bite
+3 3 3 5
+F 0 0 0
+stand stand male 0
+0 0 small unknown
+M speech 3711 go fetch~
+#3751
+giant fire~
+an evil fire giant~
+An immense, powerful giant strides towards you, a murderous look in his eyes.
+~
+This fire giant was jailed for murdering some of the other adventurers,
+and the blood on his cloak is still fresh.  Grinning gleefully he advances
+on you to crush your skull.  
+~
+fire giant~
+ABFe J -1000 0
+3 0 5d6+125 1d1+99 2d5+8 crush
+4 4 4 10
+CI AB 0 C
+stand stand male 110
+0 QU giant unknown
+#0
+
+#OBJECTS
+#3700
+mace wooden~
+{ya wooden mace{x~
+{yYou see a small wooden mace lying here.{x~
+wood~
+weapon U AN
+mace 1 7 pound 0
+0 60 250 P
+A
+19 2
+A
+18 2
+E
+mace~
+A small wooden mace.  It looks perfect for a beginner such as yourself.
+~
+#3701
+dagger tin~
+{wa tin dagger{x~
+{wA small tin dagger is lying on the ground.{x~
+tin~
+weapon U AN
+dagger 2 3 pierce 0
+0 10 210 P
+A
+19 2
+A
+18 2
+E
+dagger~
+A small tin dagger.  It looks perfect for a beginner such as yourself.
+~
+#3702
+sword bronze~
+{ya small bronze sword{x~
+{yA small bronze sword is lying here.{x~
+bronze~
+weapon U AN
+sword 2 3 slash 0
+0 30 360 P
+A
+19 1
+A
+18 2
+E
+sword~
+A small bronze sword.  It looks perfect for a newbie such as yourself.
+~
+#3703
+vest leather~
+a polished leather vest~
+A highly polished leather vest is lying here.~
+leather~
+armor U AD
+2 2 2 1 0
+0 50 144 P
+A
+13 1
+A
+18 1
+A
+1 1
+E
+vest~
+A highly polished leather vest.  It looks pretty strong, and is fairly durable.
+~
+#3704
+buckler steel~
+{Wa steel buckler{x~
+{WA small steel buckler lies here awaiting an owner.{x~
+steel~
+armor U AJ
+2 2 2 1 0
+0 30 108 G
+A
+17 -2
+A
+20 -1
+A
+18 1
+E
+buckler steel~
+A steel buckler.  It's pretty small, but should protect you in a pinch.
+~
+#3705
+cloak bloodstained~
+{ra bloodstained cloak{x~
+{rA bloodstained cloak is lying here.{x~
+wool~
+armor U AC
+2 2 2 1 1
+0 40 72 P
+A
+13 3
+A
+19 1
+A
+6 -1
+A
+5 1
+A
+17 -1
+E
+cloak bloodstained~
+This grey woolen cloak is smeared with long streaks of {rdried blood{x. Ick!
+~
+#3706
+helmet steel~
+{Da steel helmet{x~
+{DA polished steel helmet is lying here.{x~
+steel~
+armor U AE
+2 2 2 1 0
+0 30 72 P
+A
+17 -1
+A
+4 1
+E
+helmet steel~
+It would be wise for you to wear this steel helmet to protect your head.
+~
+E
+helmet~
+A polished steel helmet.  It looks sturdy and should protect your head in battle.
+~
+#3707
+leggings studded~
+{Wstudded leather leggings{x~
+{WYou see a pair of studded leather leggings lying here.{x~
+leather~
+armor U AF
+2 2 2 1 0
+0 30 72 P
+A
+14 25
+A
+2 1
+E
+leather sandals~
+They look pretty comfortable, and will probably fit your feet nicely.
+~
+#3708
+sandals~
+{Wleather sandals{x~
+{WA pair of leather sandals is lying here.{x~
+leather~
+armor U AG
+2 2 2 1 0
+0 30 72 P
+A
+14 30
+A
+18 1
+E
+sandals~
+A pair of leather sandals.  They feel pretty comfortable, and the soles have been reinforced too.
+~
+#3709
+gloves black leather~
+{Wblack leather gloves{x~
+{WA pair of black leather gloves is lying here.{x~
+leather~
+armor U AH
+2 2 2 1 0
+0 10 72 P
+A
+13 3
+A
+19 1
+A
+1 1
+E
+gloves black leather~
+This tough pair of gloves is made from black alligator skin.
+~
+#3710
+vambraces steel~
+{Dsteel vambraces{x~
+{DA pair of steel vambraces is lying here.{x~
+steel~
+armor U AI
+2 2 2 1 0
+0 20 72 P
+A
+18 1
+A
+2 1
+A
+17 -1
+E
+vambraces steel~
+This pair of steel vambraces ought to protect your arms quite nicely.
+~
+#3711
+cape green~
+{ga forest-green cape{x~
+{gA green woolen cape is lying here.{x~
+wool~
+armor IU AK
+3 3 3 2 0
+0 20 72 P
+A
+12 2
+A
+13 1
+A
+17 -2
+E
+cape green~
+The silvery emblem of a longsword on an oak leaf adorns the back of this cape.
+~
+#3712
+belt wide leather~
+{ya wide leather belt{x~
+{yA wide leather belt lays here.{x~
+leather~
+armor U AL
+2 2 2 1 0
+0 10 72 P
+A
+17 -3
+A
+12 25
+E
+belt leather~
+This wide leather belt looks like it would hold your pants up nicely.
+~
+#3713
+bracer reinforced leather~
+{Wa reinforced leather bracer{x~
+{WA reinforced leather bracer is lying here.{x~
+leather~
+armor U AM
+2 2 2 1 0
+0 10 48 P
+A
+17 -1
+A
+20 -1
+A
+13 1
+E
+bracer reinforced leather~
+This reinforced leather bracer should protect your arms nicely in a swordfight.
+~
+#3714
+key skeleton~
+{Da skeleton key{x~
+{DYou see a very important key here!{x~
+steel~
+key P A
+0 0 0 0 0
+0 10 0 P
+E
+key skeleton~
+This grey skeleton key grants access to the final trail!
+~
+#3715
+insignia falcon crest~
+{Ga {gfalcon{G crest insignia{x~
+{gA falcon crest insignia, the symbol of courage, is lying here.{x~
+jewel~
+treasure GQY AO
+0 0 0 0 0
+1 10 1140 P
+A
+5 1
+A
+19 1
+A
+18 2
+A
+17 -5
+A
+12 5
+A
+13 3
+E
+insignia falcon crest~
+The jewelled eyes of the falcon's head sparkle in the light.
+~
+#3716
+banner war~
+{ba navy-blue war banner{x~
+{bA glowing blue war banner is lying on the floor here.{x~
+cloth~
+light AG A
+0 0 200 0 0
+0 20 380 P
+A
+17 -2
+A
+20 -2
+E
+banner~
+A soft magical glow diffuses from this navy blue war banner.
+~
+#3717
+spear wooden throwing~
+{ya throwing spear{x~
+{yA wooden handled throwing spear lies here.{x~
+wood~
+weapon U AN
+spear 3 2 thrust 0
+0 50 111 P
+A
+19 2
+A
+18 2
+E
+spear~
+A short wooden spear.  It looks perfect for a beginner such as yourself.
+~
+#3718
+staff knotted~
+{ya knotted staff{x~
+{yA knotted, wooden walking staff lies here.{x~
+wood~
+weapon U AN
+spear 2 2 pound F
+0 40 290 P
+A
+19 3
+A
+18 2
+E
+staff~
+A stout wooden staff.  It looks perfect for a beginner such as yourself.
+~
+#3719
+axe copper~
+{Ra {rc{Ro{rp{Rp{re{Rr {ra{Rx{re{x~
+{r A small {Rc{r{Ro{rp{Rp{re{Rr{r axe is lying here.{x~
+copper~
+weapon U AN
+axe 2 3 chop 0
+0 50 350 P
+A
+19 2
+A
+18 2
+E
+axe~
+A small copper axe.  It looks perfect for a beginner such as yourself.
+~
+#3720
+flail wooden~
+{ya wooden handled flail{x~
+{yA small wooden handled flail lies here.{x~
+wood~
+weapon U AN
+flail 2 3 crush 0
+0 50 310 P
+A
+18 4
+A
+19 2
+E
+flail~
+A small sturdy wooden flail.  It looks perfect for a beginner such as yourself.
+~
+#3721
+whip leather~
+{Wa leather whip{x~
+{WA short leather whip is lying here.{x~
+leather~
+weapon U AN
+whip 3 2 whip 0
+0 20 330 P
+A
+18 4
+A
+19 1
+E
+whip~
+A short leather whip.  It looks perfect for a beginner such as yourself.
+~
+#3722
+glaive steel~
+{Da steel tipped glaive{x~
+{DYou see a wooden handled glaive with a steel tip on it lying here.{x~
+wood~
+weapon U AN
+polearm 1 8 slash DF
+0 80 183 P
+A
+19 1
+A
+18 2
+E
+glaive~
+A wooden handled glaive.  It looks perfect for a beginner such as yourself.
+~
+#3723
+bow wooden~
+{ya short bow{x~
+{yA short wooden bow is lying here.{x~
+wood~
+weapon U AN
+bow 1 8 pierce DF
+0 80 183 P
+A
+19 1
+A
+18 3
+E
+bow~
+A short wooden bow.  It looks perfect for a beginner such as yourself.
+~
+#3724
+lance steel~
+{Da steel headed lance{x~
+{DA steel headed wooden lance is lying here.{x~
+wood~
+weapon U AN
+lance 2 2 thrust DF
+0 80 183 P
+A
+19 1
+A
+18 1
+E
+lance~
+A lance with a long wooden shaft.  It looks perfect for a beginner such as yourself.
+~
+#3725
+ring strange~
+a strange ring~
+A ring covered in strange symbols lies here.~
+mithril~
+armor BQ AB
+5 5 5 5 0
+1 10 254 P
+A
+2 5
+A
+17 -2
+A
+13 5
+A
+18 3
+E
+ring strange~
+Your fingers tingle as you reach for this mithril ring.
+~
+#3726
+portal glowing~
+{Ya glowing portal{x~
+{YA glowing portal stands here, leading to parts unknown.{x~
+energy~
+portal ABOR 0
+0 0 A 3792 0
+0 0 0 P
+E
+portal glowing~
+You can vaguely make out another figure on the other side of this portal.
+~
+#3727
+portal glowing~
+{Ya glowing portal{x~
+{YA glowing portal stands here, leading to parts unknown.{x~
+energy~
+portal ABOR 0
+0 0 A 3791 0
+0 0 0 P
+E
+portal glowing~
+You can vaguely make out another figure on the other side of this portal.
+~
+#3728
+backpack pack newbie leather~
+{ya leather {Rn{Ge{Yw{Bb{Mi{Ce {Rb{Ga{Yc{Bk{Mp{Ca{Rc{Gk{x~
+{yA leather {Rn{Ge{Yw{Bb{Mi{Ce {Rb{Ga{Yc{Bk{Mp{Ca{Rc{Gk{y is lying here.{x~
+leather~
+container GIY AK
+200 A 0 50 80
+1 150 15 P
+#3729
+ruby jewel stone~
+{Ra {rr{Ru{rb{Ry{x~
+A beautiful {rr{Ru{rb{Ry{x lies here sparkling in the light.~
+ruby~
+light JU AO
+0 0 -1 0 0
+0 20 1500 P
+A
+18 1
+A
+12 3
+A
+4 1
+E
+ruby~
+This beautiful red ruby sparkles with an inner light.
+~
+#3730
+emerald jewel stone~
+{Ga{gn {ge{Gm{ge{Gr{ga{Gl{gd{x~
+A beautiful {ge{Gm{ge{Gr{ga{Gl{gd{x lies here sparkling in the light.~
+emerald~
+light KU AO
+0 0 -1 0 0
+0 10 1050 P
+A
+18 1
+A
+12 3
+A
+3 1
+E
+emerald~
+This beautiful green emerald sparkles with an inner light.
+~
+#3731
+sapphire jewel stone~
+{Ba {bs{Ba{bp{Bp{bh{Bi{br{Be{x~
+A beautiful {bs{Ba{bp{Bp{bh{Bi{br{Be{x lies here sparkling in the light.~
+sapphire~
+light KU AO
+0 0 -1 0 0
+0 40 3500 P
+A
+18 1
+A
+13 1
+A
+5 1
+E
+sapphire~
+This beautiful blue sapphire sparkles with an inner light.
+~
+#3732
+citrine jewel stone~
+{Ya {yc{Yi{yt{Yr{yi{Yn{ye{x~
+A beautiful {yc{Yi{yt{Yr{yi{Yn{ye{x lies here sparkling in the light.~
+citrine~
+light JU AO
+0 0 -1 0 0
+0 10 2405 P
+A
+18 1
+A
+13 1
+A
+1 1
+E
+citrine~
+This beautiful yellow citrine sparkles with an inner light.
+~
+#3733
+amethyst jewel stone~
+{Ma{mn {Ma{mm{Me{mt{Mh{my{Ms{mt{x~
+A beautiful {Ma{mm{Me{mt{Mh{my{Ms{mt{x lies here sparkling in the light.~
+amethyst~
+light JU AO
+0 0 -1 0 0
+0 34 4500 P
+A
+18 1
+A
+13 1
+A
+2 1
+E
+amethyst~
+This beautiful purple amethyst sparkles with an inner light.
+~
+#3734
+topaz jewel stone~
+{Ca {ct{Co{cp{Ca{cz{x~
+A beautiful {ct{Co{cp{Ca{cz{x lies here sparkling in the light.~
+topaz~
+light KU AO
+0 0 -1 0 0
+0 25 3605 P
+A
+18 1
+A
+12 3
+A
+6 1
+E
+topaz~
+This beautiful sky-blue topaz sparkles with an inner light.
+~
+#3735
+ring dragon golden~
+{Ya {Rd{gr{Ra{gg{Ro{gn{Y crested ring{x~
+{YA marvellous {Rd{gr{Ra{gg{Ro{gn{Y crested ring lies here.{x~
+gold~
+treasure AGITY AB
+0 0 0 0 0
+1 15 15035 P
+A
+19 1
+A
+18 1
+A
+1 1
+A
+23 -2
+A
+17 -3
+A
+13 3
+E
+ring dragon~
+The jaws of a dragon's maw gape at you from the setting in this golden ring.
+~
+#3736
+floor crack cracks~
+a crack in the floor~
+~
+air~
+container OR 0
+20 0 0 1 0
+100 0 0 P
+E
+floor crack cracks~
+A golden sparkle catches your eyes from one of the cracks in the floor.
+~
+#3737
+fountain stone~
+a water fountain~
+A stone drinking fountain stands here.~
+stone~
+fountain GIOR 0
+0 0 'water' 0 0
+0 1500 13529 P
+E
+fountain stone drinking~
+An unremarkable grey stone fountain spews forth a steady stream of clear water.
+~
+#3738
+apple green~
+{Ga green apple{x~
+{GA delicious looking green apple is lying here.{x~
+apple~
+food IUa A
+AC AC 0 0 0
+0 50 15 P
+E
+apple green~
+This large ripe apple looks like a granny smith. MMMMM, delicious!
+~
+#3739
+chest ironbound~
+an ironbound chest~
+An ironbound chest is sitting here.~
+wood~
+container OR 0
+50 0 0 5 100
+100 0 0 P
+E
+chest ironbound~
+A large and heavy ironbound chest lies open.
+~
+#3740
+candy rock~
+{Ba {bp{Bi{be{Bc{be {Bo{bf {Br{bo{Bc{bk {Bc{ba{Bn{bd{By{x~
+{bA piece of sticky rock candy is lying here.{x~
+sugar~
+pill GIOR AO
+5 'refresh' 'reserved' 'reserved' 'reserved'
+0 100 5 P
+E
+candy rock~
+You see a sticky lump of hard sugar with swirls of blue running through it.
+~
+#3741
+token golden newbie~
+{Ya golden newbie token{x~
+{YA golden newbie token is lying here!{x~
+gold~
+gem AGIa A
+0 0 0 0 0
+0 10 15000 P
+E
+token golden newbie~
+Give this token to Leomund and he'll give you something in exchange.
+~
+#3742
+spellbook tome magic rune meldrakes~
+{CMeldrake's Tome of Magic{x~
+{cA rune covered spellbook is lying here.{x~
+paper~
+scroll ABGIRVa A
+65 'teleport' 'teleport' 'teleport' 'teleport'
+0 50 13870 P
+E
+spellbook tome~
+Return Meldrake's Tome to him and he'll be sure to show his gratitude.
+~
+#3743
+guidance flame~
+the {Yf{Rl{Ya{Rm{Ye{x of guidance~
+A magical flame licks at the ground without burning.~
+fire~
+treasure ABGUYa AQ
+0 0 0 0 0
+1 5 500 P
+A
+13 3
+A
+6 1
+A
+4 1
+A
+3 1
+E
+flame guidance~
+A magical red and yellow flame flickers in the air before you.
+~
+#3744
+rack~
+the weapons rack~
+A long steel weapons rack stands here.~
+steel~
+container OR 0
+1000 0 0 12 100
+100 1439 239 P
+E
+rack~
+This long steel rack holds a diverse assortment of weapons.
+~
+#3745
+shield round metal~
+{Wa round metal shield{x~
+{WA round metal shield is lying here.{x~
+steel~
+armor U AJ
+3 3 3 2 0
+0 30 108 P
+A
+17 -2
+A
+20 -1
+A
+18 2
+E
+shield~
+This round metal shield ought to protect your vitals quite nicely.
+~
+#3746
+hammer heavy iron~
+a heavy iron hammer~
+A heavy iron hammer is lying on the floor in here.~
+iron~
+trash TY AO
+0 0 0 0 0
+60 355 3451 P
+A
+19 5
+A
+2 -2
+A
+18 -15
+E
+hammer iron~
+A heavy iron blacksmith's hammer lies here.
+~
+#3747
+chisel wood~
+a wood chisel~
+A wide-bladed chisel lies here, it looks perfect for shaping wood.~
+iron~
+trash 0 AO
+0 0 0 0 0
+30 3 28 P
+E
+chisel~
+A razor sharp chisel with a wide blade lies here.
+~
+#3748
+bench park wooden~
+{wa park bench{x~
+{wA wooden park bench is sitting here, it looks large enough for you to sleep on.{x~
+wood~
+furniture OR 0
+B EIJKN BEHKN ADE ADE
+50 0 0 P
+E
+bench park~
+A short wooden park bench sits here.  Have a seat and relax.
+~
+#3749
+table oaken~
+an oak table~
+A solid oak table sits here, a few chairs scattered around it.~
+wood~
+container OR 0
+10000 E 0 10000 50
+50 10000 150 P
+E
+table~
+Grease and small pieces of chicken cover the surface of the table.
+~
+#3750
+chicken roasted~
+{ya {rr{yo{ra{ys{rt {yc{rh{yi{rc{yk{re{yn{x~
+The mouthwatering aroma of {rr{yo{ra{ys{rt {yc{rh{yi{rc{yk{re{yn{x wafts up to your nostrils.~
+chicken~
+food 0 AO
+BCDE BCDE 0 0 0
+1 50 35 P
+E
+chicken roast~
+A plump, delicious roasted chicken seasoned with garlic and spices.
+~
+#3751
+longsword elven sword long~
+an elven longsword~
+A long shiny blade lies on the ground.~
+steel~
+weapon G AN
+sword 2 3 slash 0
+7 30 670 P
+A
+2 1
+A
+19 1
+A
+18 4
+E
+longsword sword blade~
+A sturdy, keenly-edged elven longsword gleams in the light.
+~
+#3752
+bed fourposter~
+a large fourposter bed~
+A large, comfortable looking four-poster bed sits at the back of the room.~
+wood~
+furniture O AP
+C CFGHIJLOR BEHKN ABF BCG
+25 35000 35821 P
+E
+bed fourposter~
+A huge four-poster bed with fluffy pillows.
+~
+#3753
+dresser drawers teak~
+teak dresser drawers~
+A beautiful set of teak dresser drawers stands here.~
+wood~
+container 0 P
+200 ACE 0 55 100
+25 4500 250 P
+E
+dresser drawers teak~
+A tall set of teak drawers stands beside the bed.
+~
+#3754
+beef dried~
+a strip of dried beef~
+A strip of dried beef lies here.~
+food~
+food 0 AO
+BCDE CE 0 0 0
+1 30 10 P
+E
+beef dried~
+It doesn't look to appetizing, but it'll sure keep for a long time.
+~
+#3755
+box~
+a box~
+A small box.~
+wood~
+container 0 A
+10 A 0 5 100
+0 10 30 G
+#3756
+flames trial fire testing~
+{Rt{Yh{Re {Yf{Rl{Ya{Rm{Ye{Rs {Yo{Rf {Yt{Re{Ys{Rt{Yi{Rn{Yg{x~
+{YThe heat from the flames causes the sweat to bead on your forehead.{x~
+fire~
+portal AORTY 0
+0 0 A 3721 0
+25 0 0 P
+E
+flames fire~
+You are vaguely able to make out shadowy forms dancing behind the flames.
+~
+#3757
+key steel shiny~
+a shiny steel key~
+A shiny steel key is lying here.~
+steel~
+key PUV AO
+0 0 0 0 0
+0 30 5 P
+E
+key shiny~
+This shiny steel key grants access to the hallway of heroes.
+~
+#3758
+smoke wall~
+a wall of smoke~
+You can faintly see daylight through this billowing {Dwall of smoke{x.~
+smoke~
+portal OPRY 0
+0 0 A 3001 0
+25 0 0 P
+E
+daylight~
+A shaft of daylight pierces through the dark {Dwall of smoke{x.
+~
+E
+wall smoke~
+A portal leading to other parts is mostly obscured by a wall of smoke.
+~
+#3759
+wings bat~
+{Wb{Da{Wt {Dw{Wi{Dn{Wg{Ds{x~
+{DA pair of small grey wings lie here flapping of their own accord.{x~
+leather~
+trash CGQU ADI
+0 0 0 0 0
+0 20 25 W
+F
+A 0 0 T
+A
+19 1
+A
+13 5
+A
+17 -2
+A
+18 2
+A
+2 1
+E
+wings bat~
+The severed, leathery wings of a bat lie here flapping.
+~
+#3760
+basin marble~
+a marble basin~
+~
+marble~
+drink R 0
+40 38 'water' 0 0
+25 1583 0 P
+E
+basin marble~
+This blue marble basin is full of clean water.
+~
+#3761
+diamond~
+{wa sparkling diamond{x~
+{wA beautiful diamond lies here sparkling in the light.{x~
+diamond~
+light AFU AO
+0 0 -1 0 0
+1 30 1135 P
+A
+19 1
+A
+20 -2
+A
+5 1
+A
+3 1
+A
+12 8
+A
+13 3
+E
+diamond~
+Light sparkles from the many facets of this nearly invisible diamond.
+~
+#3762
+key guest~
+the key to the guest hall~
+The key to the guest hall is lying here gathering dust.~
+steel~
+key 0 AO
+0 0 0 0 0
+0 30 14 P
+#3763
+longsword elven sword blade~
+an elven longsword~
+A long shiny blade lies on the ground.~
+steel~
+weapon G AN
+sword 2 3 slash D
+9 30 670 P
+A
+2 1
+A
+19 1
+A
+18 5
+E
+longsword sword blade~
+A long bloodgrove runs down the length of this sharp elven blade.
+~
+#3764
+keys ring~
+a ring of keys~
+A ring holding several keys is lying here.~
+unknown~
+key 0 AL
+0 0 0 0 0
+0 30 17 P
+E
+keys~
+A small clip on this large ring of keys allows you to attach it at your waist.
+~
+#3765
+broom pushbroom~
+a pushbroom~
+A sturdy pushbroom with worn bristles is lying here.~
+wood~
+weapon 0 AN
+exotic 1 3 thwack F
+0 105 25 P
+E
+broom pushbroom~
+The bristles on the head of this broom are almost worn off.
+~
+#0
+
+#ROOMS
+#3700
+Entrance to the Training Academy~
+You are standing in the entryway to the Training Academy.  Go north to
+enter the Academy, go east to explore the Museum, and south to do battle in
+the arena.  
+ 
+A large sign draws your attention:
+
+{RThose over level 5 will not be admitted to the Training Academy{x
+                                    {Bsigned{x
+                                  {B--Tzbrakas--{x
+~
+0 CDS inside
+D0
+@eng You see the doorway into the Mud School Building.
+@rus Ты видишь проход ведущий в МУД школу.
+~
+~
+Z 0 3757
+D1
+@eng You see the entrance to the museum.
+@rus Ты видишь вход в музей.
+~
+~
+Z -1 400
+D2
+@eng You see the one way door into the Arena of Mud School.
+@rus Ты видишь дверь в одну сторону на арену.
+~
+door~
+ABZ -1 3744
+D3
+~
+~
+Z 0 95800
+D5
+@eng You see the Temple of Midgaard.
+@rus Ты видишь храм Мидгарда.
+~
+~
+Z 0 3001
+S
+#3701
+Hallways of the Academy~
+You are walking the hallways of the academy proper.  To the east you notice a large open courtyard filled with dozens of practice dummies.
+The hallway continues to the north, and runs back to the south.
+ 
+You see a large sign here.
+~
+0 DRS inside
+E
+sign~
+EAST - The Sparring Grounds
+  NORTH - Hallways of the Academy
+  SOUTH - Hallways of the academy
+~
+D0
+~
+~
+Z 0 3707
+D1
+~
+~
+Z 0 3715
+D2
+~
+~
+Z 0 3826
+S
+#3702
+The Hallway of Heroes~
+You are standing in the hallway of heroes.  A memento to all the
+graduates of the academy who have gone on to do great things in their lives
+and have achieved the status of hero.  The expensive red carpet underfoot
+complements the lavish and ornate decorations on the walls.  Paintings of
+each hero honored cover them, the frames gilded with gold.  
+~
+0 CDRS inside
+D1
+~
+~
+Z 0 3705
+D3
+A heavy mahogany door with large burnished hinges bars the way.
+~
+door~
+ABCZ 3757 3703
+S
+#3703
+Hallways of the Academy~
+You are walking the hallways in the academy proper.  The white and grey
+tiled floor, though worn, is kept clean and free of dirt.  The ceiling
+overhead glows brightly, but you can't distinguish the exact source of the
+light.  The hallway of heroes lies to the east.  
+ 
+You see a large sign here.
+~
+0 DRS inside
+E
+sign~
+EAST - The Hallway of Heroes
+  NORTH - Hallways of the Academy
+  SOUTH - Hallways of the Academy
+~
+D0
+~
+~
+Z 0 3712
+D1
+A heavy mahogany door with large burnished hinges bars the way.
+~
+door~
+ABCZ 3757 3702
+D2
+~
+~
+Z 0 3704
+S
+#3704
+Hallways of the Academy~
+You are walking the hallways in the academy proper.  The white and grey
+tiled floor, though worn, is kept clean and free of dirt.  The ceiling
+overhead glows brightly, but you can't distinguish the exact source of the
+light.  
+~
+0 DRS inside
+D0
+~
+~
+Z 0 3703
+D2
+~
+~
+Z 0 3825
+S
+#3705
+The Hallway of Heroes~
+You are standing in the hallway of heroes.  A memento to all the
+graduates of the academy who have gone on to do great things in their lives
+and have achieved the status of hero.  The expensive red carpet underfoot
+complements the lavish and ornate decorations on the walls.  Paintings of
+each hero honored cover them, the frames gilded with gold.  
+~
+0 CDRS inside
+D1
+~
+~
+Z 0 3713
+D3
+~
+~
+Z 0 3702
+S
+#3706
+{RA Spare Room{x~
+You have arrived at an intersection in the hallway.  A closed and locked
+wooden door lies to the west, to the east you see the entrance to the guest
+quarters.  The hallway continues north and south of you.  
+ 
+You see a large sign here.
+~
+0 CDRS inside
+E
+sign~
+WEST - The Academy Store
+  NORTH Hallways of the Academy
+  SOUTH - Hallways of the Academy
+~
+S
+#3707
+Hallways of the Academy~
+You are walking the hallways in the academy proper.  The white and grey
+tiled floor, though worn, is kept clean and free of dirt.  The ceiling
+overhead glows brightly, but you can't distinguish the exact source of the
+light.  
+~
+0 DRS inside
+D1
+~
+~
+Z 0 3708
+D2
+~
+~
+Z 0 3701
+S
+#3708
+Hallways of the Academy~
+You are walking the hallways in the academy proper.  The white and grey
+tiled floor, though worn, is kept clean and free of dirt.  The ceiling
+overhead glows brightly, but you can't distinguish the exact source of the
+light.  
+~
+0 DRS inside
+D1
+~
+~
+Z 0 3711
+D3
+~
+~
+Z 0 3707
+S
+#3709
+The Gargoyle's Chamber~
+You are standing in a large open room brightly lit by dozens of glowing
+candelabras.  A huge steel-bound wooden door stands closed and locked at the
+far north end of the room.  A 12 foot tall stone gargoyle stands off to the
+left of the door, a grey skeleton key clutched in its claws.  
+~
+0 CDRS inside
+D0
+A huge oak door, bound to the wall on steel hinges bears a heavy lock.
+~
+door~
+ABCZ 3714 3717
+D5
+~
+~
+Z 0 3712
+S
+#3710
+The Dining Hall~
+You have entered a small, windowless room.
+A heavily armored troll is sitting in here eating a roast chicken.  He
+doesn't even look up as you approach him, being too consumed with the
+delicious meal he is eating to notice your arrival.  There are a number of
+{W*black marble tablets*{x near the doorway, with writing inscribed onto
+them.  
+ 
+To read the tablets:
+          {RCONSIDER{X
+             {RFLEE{x
+~
+0 CDRS inside
+E
+flee~
+Fleeing will cost you 10 experience points every time that you flee.  Be
+careful what you chose to attack, though, because many mobs have a good
+memory of who attacked them and will track you down to kill you.  Also take
+note, that combat will start your adrenaline pumping, and while your
+adrenaline is pumping, you will be unable to focus your thoughts enough to
+pray for {RRECALL{x.  You can set your character to automatically flee when
+it gets hurt too badly with the {RWIMPY{x command.  
+ 
+Try this now:
+          {RWIMPY{x
+ 
+Attack the troll now, but use the {RFLEE{x command after you attack him
+   because he is too strong for you:
+          {RFLEE{x (after you have attacked him)
+~
+E
+consider~
+Before you attack anything, you should always use the {RCONSIDER{x
+command first.  "Consider" will give you a rough idea of how strong your
+intended victim is compared to you.  Some mobs are stronger than they
+appear, so don't always assume that you can kill something because
+"consider" tells you it will be easy.  This is especially true for
+magic-using mobs, since they are capable of casting spells that will do
+large amounts of damage to you in a single hit.  {BALWAYS{x check for escape
+routes before you attack and plan your battles carefully.  
+ 
+Try it now:
+          {RCONSIDER TROLL{x
+~
+E
+sign~
+@eng Remember, don't fight the blob to the finish!  Just type 'KILL BLOB', then
+when you are fighting, type 'FLEE', until you flee and are out of here.
+@rus Помни, ты не должен убивать пузыря до смерти! Просто набери 'KILL BLOB',
+а потом набирай 'FLEE' до тех пор, пока не убежишь от него.
+~
+D3
+~
+~
+Z 0 3796
+S
+#3711
+Hallways of the Academy~
+You are walking the hallways in the academy proper.  The white and grey
+tiled floor, though worn, is kept clean and free of dirt.  The ceiling
+overhead glows brightly, but you can't distinguish the exact source of the
+light.  
+~
+0 DRS inside
+D0
+~
+~
+Z 0 3825
+D3
+~
+~
+Z 0 3708
+S
+#3712
+Hallways of the Academy~
+You are walking the hallways in the academy proper.  The white and grey
+tiled floor, though worn, is kept clean and free of dirt.  The ceiling
+overhead glows brightly, but you can't distinguish the exact source of the
+light.  You have reached the end of the hallway.  A flight of grey stone
+stairs leads up to an open room, where you will find the entrance to the
+final test.  
+~
+0 DRS inside
+D2
+~
+~
+Z 0 3703
+D4
+~
+~
+Z 0 3709
+S
+#3713
+The Hallway of Heroes~
+You have reached the end of the hallway of heroes.  The walls are covered
+with the paintings of academy graduates who have gone on to become heroes. 
+You wonder if your own portrait will find its way onto one of these walls
+someday.  A locked door lies to your east, and to the south you see what
+looks like some sort of guard room.  
+ 
+You see a large sign here.
+~
+0 CDRS inside
+E
+sign~
+EAST - The Spiral Staircase
+  SOUTH - A Guard Room
+  WEST - The Hallway of Heroes
+~
+D1
+A door made of pure {Wadmantite{x stands in your way.
+~
+door~
+ABCZ 3764 3747
+D2
+~
+~
+Z 0 3833
+D3
+~
+~
+Z 0 3705
+S
+#3714
+Outside the Cells~
+You are standing in the guard room outside the jail cells.  Closed wooden
+cell doors stand to the north, west, and south of you.  A heavy wooden
+trapdoor is set into the floor.  You hear the sounds of a dozen high pitched
+voices jabbering back and forth to each other as you near the trapdoor.  
+~
+0 ACDRS inside
+D0
+A heavily barred oak door stands to the north.
+~
+door~
+ABCZ 3764 3773
+D1
+~
+~
+Z 0 3833
+D2
+A heavily barred oak door stands to the south.
+~
+door~
+ABCZ 3764 3775
+D3
+A heavily barred oak door stands to the west.
+~
+door~
+ABCZ 3764 3774
+D5
+A large trapdoor is set into the floor.
+~
+trapdoor~
+ABZ 0 3761
+S
+#3715
+Entrance to the Sparring Grounds~
+You are standing in the vestibule that leads out into the sparring
+courtyard.  Double oak doors stand at the far eastern end, allowing it to be
+closed off from the rest of the academy.  In the courtyard, beyond the
+doors, you see dozens of cloth, leather, and straw dummies for you to
+practice your fighting skills on.  
+~
+0 CDRS inside
+D1
+A pair of double oak doors lead out into the sparring courtyard.
+~
+door~
+ABZ 0 3840
+D3
+~
+~
+Z 0 3701
+S
+#3716
+Entrance to the Guest Quarters~
+You are standing in front of the guest quarters.  The giant oak door to
+the east is locked, but if you ask the guard to let you in, he will probably
+open it for you.  
+~
+0 CDRS inside
+D1
+~
+~
+ABCZ 3762 3765
+D3
+~
+~
+Z 0 3760
+S
+#3717
+{RThe Final Trial{x~
+You have entered the hallway that leads to the final trial.  The air is
+warm and the faint smell of smoke hangs in the air.  The only direction to
+move is north, which will bring you closer to the final trial.  
+~
+0 DRS inside
+D0
+~
+~
+Z 0 3719
+S
+#3718
+The Academy Store~
+You have entered a cramped little shop.  Stacked neatly on shelves lining
+the walls are items and packages of all different sizes.  Light flouresces
+off the ceiling in soft white tones.
+
+There is a sign on the wall.
+~
+0 DRS inside
+E
+sign~
+The sign reads:
+ 
+
+   Buy <item> - Buy something from the shopkeeper.
+
+   List - Ask the shopkeeper what's for sale.
+
+   Value <item> - Ask the shopkeeper how much he will give you for
+      that item.
+
+   Sell <item> - Sell that item to the shopkeeper.
+~
+D1
+~
+~
+Z 0 3825
+S
+#3719
+{RThe Final Trial{x~
+The temperature has risen uncomfortably high in this section of the
+hallway.  The air is filled with thick black smoke, the acrid smell filling
+your nostrils and making your eyes water.  Your only options are to pray to
+the gods for transportation, or to continue onwards.  
+~
+0 CDRS inside
+D0
+~
+~
+Z 0 3720
+D2
+~
+~
+Z 0 3717
+S
+#3720
+{RBefore the Fires of Testing{x~
+You are standing before the fires of testing.  The flames lick at your
+clothing eagerly as you approach the fire and you begin to feel faint from
+the heat.  You are getting second thoughts about your decision to face this
+trial so soon, and wonder if you should pray to the gods for transportation
+to safety.
+To face this trial you must {RENTER FLAMES{x.
+  You see a bronze plaque on the wall.
+~
+0 ADRS inside
+E
+bronze plaque~
+{RThrough fire the strong are chosen,
+              and through trial the weak made strong.{x
+~
+D2
+~
+~
+Z 0 3719
+S
+#3721
+{RT{Yh{Re {YT{Rr{Yi{Ra{Yl {Ro{Yf {RC{Yo{Ru{Yr{Ra{Yg{Re{x~
+{RThe room is bathed in fire.  The smoke fills your nostrils, causing
+your eyes to water and your nose to run.  Through the smoke you see a large
+dragon-like creature perched on a rocky ledge.  It can obviously see you,
+but for some reason it does not attack.  {x 
+~
+0 CDNRSX inside
+S
+#3722
+@eng South Wall of Arena@rus Южная стена арены~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D0
+~
+~
+Z 0 3729
+D1
+~
+~
+Z 0 3725
+D3
+~
+~
+Z 0 3723
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3723
+@eng South Wall of Arena@rus Южная стена арены~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D0
+~
+~
+Z 0 3728
+D1
+~
+~
+Z 0 3722
+D3
+~
+~
+Z 0 3724
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3724
+@eng South West Corner of Arena@rus Юго-западный угол арены~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D0
+~
+~
+Z 0 3727
+D1
+~
+~
+Z 0 3723
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3725
+@eng South Wall of Arena@rus Южная стена арены~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D0
+~
+~
+Z 0 3730
+D1
+~
+~
+Z 0 3726
+D3
+~
+~
+Z 0 3722
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3726
+@eng South East Corner of Arena@rus Юго-восточный угол арены~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D0
+~
+~
+Z 0 3731
+D3
+~
+~
+Z 0 3725
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3727
+@eng West Wall of Arena@rus Западная стена арены~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D0
+~
+~
+Z 0 3732
+D1
+~
+~
+Z 0 3728
+D2
+~
+~
+Z 0 3724
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3728
+@eng Arena@rus Арена~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо. Чтоб ему тошно стало.
+~
+0 DS inside
+D0
+~
+~
+Z 0 3733
+D1
+~
+~
+Z 0 3729
+D2
+~
+~
+Z 0 3723
+D3
+~
+~
+Z 0 3727
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3729
+@eng Arena@rus Арена~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D0
+~
+~
+Z 0 3734
+D1
+~
+~
+Z 0 3730
+D2
+~
+~
+Z 0 3722
+D3
+~
+~
+Z 0 3728
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3730
+@eng Arena@rus Арена~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D0
+~
+~
+Z 0 3735
+D1
+~
+~
+Z 0 3731
+D2
+~
+~
+Z 0 3725
+D3
+~
+~
+Z 0 3729
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3731
+@eng East Wall of Arena@rus Восточная стена арены~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D0
+~
+~
+Z 0 3736
+D2
+~
+~
+Z 0 3726
+D3
+~
+~
+Z 0 3730
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3732
+@eng West Wall of Arena@rus Западная стена арены~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D0
+~
+~
+Z 0 3737
+D1
+~
+~
+Z 0 3733
+D2
+~
+~
+Z 0 3727
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3733
+@eng Arena@rus Арена~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D0
+~
+~
+Z 0 3738
+D1
+~
+~
+Z 0 3734
+D2
+~
+~
+Z 0 3728
+D3
+~
+~
+Z 0 3732
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3734
+@eng Center of Arena@rus Центр арены~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.  There is a BIG SIGN here.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+Ты видишь {MБОЛЬШОЙ ЗНАК (sign){x.
+~
+0 DS inside
+E
+sign~
+@eng Those with high bravery or low senses of cautiousness might wish to go below
+to the Dungeon.  However, know that there are aggressive monsters down there,
+and there is no quick escape back out of here when you are in the dungeon.
+@rus Те кто храбры и имеют плохое чувство самосохранения могут пожелать спуститься
+вниз, в подземелье. Тем не менее, знай, что там живут агрессивные монстры и там
+нет короткого пути к спасению.
+~
+D0
+~
+~
+Z 0 3739
+D1
+~
+~
+Z 0 3735
+D2
+~
+~
+Z 0 3729
+D3
+~
+~
+Z 0 3733
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+D5
+@eng You see a dark murky dungeon below.
+@rus Ты видишь темное и мрачное подземелье внизу.
+~
+grate~
+ABZ -1 3748
+S
+#3735
+@eng Arena@rus Арена~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D0
+~
+~
+Z 0 3740
+D1
+~
+~
+Z 0 3736
+D2
+~
+~
+Z 0 3730
+D3
+~
+~
+Z 0 3734
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3736
+@eng East Wall of Arena@rus Восточная стена арены~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D0
+~
+~
+Z 0 3741
+D2
+~
+~
+Z 0 3731
+D3
+~
+~
+Z 0 3735
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД (не надоело смотреть?)
+~
+~
+Z 0 3760
+S
+#3737
+@eng West Wall of Arena@rus Западная стена арены~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D0
+~
+~
+Z 0 3742
+D1
+~
+~
+Z 0 3738
+D2
+~
+~
+Z 0 3732
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3738
+@eng Arena@rus Арена~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D0
+~
+~
+Z 0 3743
+D1
+~
+~
+Z 0 3739
+D2
+~
+~
+Z 0 3733
+D3
+~
+~
+Z 0 3737
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3739
+@eng Arena@rus Арена~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D0
+~
+~
+Z 0 3744
+D1
+~
+~
+Z 0 3740
+D2
+~
+~
+Z 0 3734
+D3
+~
+~
+Z 0 3738
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3740
+@eng Arena@rus Арена~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D0
+~
+~
+Z 0 3745
+D1
+~
+~
+Z 0 3741
+D2
+~
+~
+Z 0 3735
+D3
+~
+~
+Z 0 3739
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3741
+@eng East Wall of Arena@rus Восточная стена арены~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D0
+~
+~
+Z 0 3746
+D2
+~
+~
+Z 0 3736
+D3
+~
+~
+Z 0 3740
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3742
+@eng North West Corner of Arena@rus Северо-западный угол арены~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D1
+~
+~
+Z 0 3743
+D2
+~
+~
+Z 0 3737
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3743
+@eng North Wall of Arena@rus Северная стена арены~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  You can barely see the ceiling.  You feel as if you are being watched
+by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D1
+~
+~
+Z 0 3744
+D2
+~
+~
+Z 0 3738
+D3
+~
+~
+Z 0 3742
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3744
+@eng North Wall of Arena@rus Северная стена арены~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D1
+~
+~
+Z 0 3745
+D2
+~
+~
+Z 0 3739
+D3
+~
+~
+Z 0 3743
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3745
+@eng North Wall of Arena@rus Северная стена арены~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D1
+~
+~
+Z 0 3746
+D2
+~
+~
+Z 0 3740
+D3
+~
+~
+Z 0 3744
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3746
+@eng North East Corner of Arena@rus Северо-восточный угол арены~
+@eng You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+@rus Ты на арене. Помни, что если ты захочешь отсюда выйти, просто пойди на
+верх (up). Потолок гигантской арены едва различим в высоте. Ты чувствуешь себя
+так, как будто за тобой наблюдает божественное существо.
+~
+0 DS inside
+D2
+~
+~
+Z 0 3741
+D3
+~
+~
+Z 0 3745
+D4
+@eng You see the EXIT.
+@rus Ты видишь ВЫХОД.
+~
+~
+Z 0 3760
+S
+#3747
+At the Top of the Spiral Staircase~
+You are standing on a spiral staircase which winds downwards in a
+counterclockwise fashion.  The plush maroon carpet underfoot deadens your
+footfalls, while the polished wooden banister to your left keeps you from
+falling down the stairwell.  Thick green candles burn dimly in sconces
+lining the stone walls.  
+~
+0 DRS inside
+D3
+A door made of pure {Wadmantite{x stands in your way.
+~
+door~
+ABCZ 3764 3713
+D5
+~
+~
+Z 0 3798
+S
+#3748
+@eng The Center of the Dungeon@rus Центр подземелья~
+@eng You are in the center of a large room.  A faint light from above shows that
+the floors are all covered with slime.  A feeling of dread comes over you as
+you notice that this is NOT a great place to go.  Exits go in all directions.
+Of special note is the one that brings you back up!!!
+@rus Ты в центре большой комнаты. Тусклый свет сверху позволяет разглядеть, что
+весь пол покрыт слизью. Тебя окутывает страх при мысле о том, что это не самое
+лучшее место для прогулок. Выходы ведут во все стороны, но стоит учесть, что
+выход которые тебя отсюда выведет - на верху (up).
+~
+0 DS inside
+D0
+@eng You see the north wall.
+@rus Ты видишь северную стену.
+~
+~
+Z 0 3750
+D1
+@eng You see the east wall.
+@rus Ты видишь восточную стену.
+~
+~
+Z 0 3753
+D2
+@eng You see the south wall.
+@rus Ты видишь южную стену.
+~
+~
+Z 0 3755
+D3
+@eng You see the west wall.
+@rus Ты видишь западную стену.
+~
+~
+Z 0 3752
+D4
+@eng You see safety!
+@rus Ты видишь СПАСЕНИЕ!
+~
+grate~
+ABZ -1 3734
+S
+#3749
+@eng The North West Corner of the Dungeon@rus Северо-западный угол подземелья~
+@eng You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+@rus Ты напротив стены подземелья. Здесь достаточно темно. Недостаток окон тут
+объясняет вонь, которая стоит вокруг.
+~
+0 ADS inside
+D1
+@eng You see the north wall.
+@rus Ты видишь северную стену.
+~
+~
+Z 0 3750
+D2
+@eng You see the south wall.
+@rus Ты видишь южную стену.
+~
+~
+Z 0 3752
+S
+#3750
+@eng The North Wall of the Dungeon@rus Северная стена подземелья~
+@eng You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+@rus Ты напротив стены подземелья. Здесь достаточно темно. Недостаток окон тут
+объясняет вонь, которая стоит вокруг.
+~
+0 ADS inside
+D1
+@eng You see the north east corner.
+@rus Ты видишь северо-восточный угол.
+~
+~
+Z 0 3751
+D2
+@eng You see the center of the dungeon.
+@rus Ты видишь центр подземелья.
+~
+~
+Z 0 3748
+D3
+@eng You see the north west corner.
+@rus Ты видишь северо-западный угол.
+~
+~
+Z 0 3749
+S
+#3751
+@eng The North East Corner of the Dungeon@rus Северо-восточный угол подземелья~
+@eng You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+@rus Ты напротив стены подземелья. Здесь достаточно темно. Недостаток окон тут
+объясняет вонь, которая стоит вокруг.
+~
+0 ADS inside
+D2
+@eng You see the east wall.
+@rus Ты видишь восточную стену.
+~
+~
+Z 0 3753
+D3
+@eng You see the north wall.
+@rus Ты видишь северную стену.
+~
+~
+Z 0 3750
+S
+#3752
+@eng The West Wall of the Dungeon@rus Западная стена подземелья~
+@eng You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+@rus Ты напротив стены подземелья. Здесь достаточно темно. Недостаток окон тут
+объясняет вонь, которая стоит вокруг.
+~
+0 ADS inside
+D0
+@eng You see the north west corner.
+@rus Ты видишь северо-западный угол.
+~
+~
+Z 0 3749
+D1
+@eng You see the center of the dungeon.
+@rus Ты видишь центр подземелья.
+~
+~
+Z 0 3748
+D2
+@eng You see the south west corner.
+@rus Ты видишь юго-западный угол.
+~
+~
+Z 0 3754
+S
+#3753
+@eng The East Wall of the Dungeon@rus Восточная стена подземелья~
+@eng You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+@rus Ты напротив стены подземелья. Здесь достаточно темно. Недостаток окон тут
+объясняет вонь, которая стоит вокруг.
+~
+0 ADS inside
+D0
+@eng You see the north east corner.
+@rus Ты видишь северо-восточный угол.
+~
+~
+Z 0 3751
+D2
+@eng You see the south east corner.
+@rus Ты видишь юго-восточный угол.
+~
+~
+Z 0 3756
+D3
+@eng You see the center of the dungeon.
+@rus Ты видишь цент подземелья.
+~
+~
+Z 0 3748
+S
+#3754
+@eng The South West Corner of the Dungeon@rus Юго-западный угол подземелья~
+@eng You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+@rus Ты напротив стены подземелья. Здесь достаточно темно. Недостаток окон тут
+объясняет вонь, которая стоит вокруг.
+~
+0 ADS inside
+D0
+@eng You see the north wall.
+@rus Ты видишь северную стену.
+~
+~
+Z 0 3752
+D1
+@eng You see the south wall.
+@rus Ты видишь южную стену.
+~
+~
+Z 0 3755
+S
+#3755
+@eng The South Wall of the Dungeon@rus Южная стена подземелья~
+@eng You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+@rus Ты напротив стены подземелья. Здесь достаточно темно. Недостаток окон тут
+объясняет вонь, которая стоит вокруг.
+~
+0 ADS inside
+D0
+@eng You see the center of the dungeon.
+@rus Ты видишь центр подземелья.
+~
+~
+Z 0 3748
+D1
+@eng You see the south east corner.
+@rus Ты видишь юго-восточный угол.
+~
+~
+Z 0 3756
+D3
+@eng You see the south-west corner.
+@rus Ты видишь юго-западный угол.
+~
+~
+Z 0 3754
+S
+#3756
+@eng The South East Corner of the Dungeon@rus Юго-восточный угол подземелья~
+@eng You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+@rus Ты напротив стены подземелья. Здесь достаточно темно. Недостаток окон тут
+объясняет вонь, которая стоит вокруг.
+~
+0 ADS inside
+D0
+@eng You see the east wall.
+@rus Ты видишь восточную стену.
+~
+~
+Z 0 3753
+D3
+@eng You see the south wall.
+@rus Ты видишь южную стену.
+~
+~
+Z 0 3755
+S
+#3757
+Tzbrakas' Training Academy~
+You have entered Tzbrakas' training academy.  Paintings of the academy's
+heroic graduates line the walls on either side of you.  The {Mplush velvet
+carpet{x underfoot is soft and springy, it must have cost a fortune to buy! 
+Old Tzbrakas earned a TON of {Ygold{x during his adventuring career, and has
+applied a large portion of it towards the construction and maintenance of
+this training academy.  
+~
+0 CDRS city
+D0
+~
+~
+Z 0 3789
+D2
+@eng You see the entrance to Mud School.
+@rus Ты видишь вход в школу.
+~
+~
+Z 0 3700
+S
+#3758
+Erebus' Training Room~
+You have entered a small room with a low ceiling.  A six foot wide circle
+is etched into the stone floor, ancient runes line the outer edge.  In the
+center of the circle you see a gaunt robed figure, floating lightly off the
+ground.  
+ 
+There is a sign on the wall.
+~
+0 CDRS city
+E
+sign~
+Welcome to Erebus' Training Room.  Here you can train your attributes.  To
+train an attribute, you need enough practices.  To find out how many practice
+sessions you have, type 'train' while you are in this room.  To train for a 
+specific attribute, type 'train <attr>' where attr is the first 3 letters of
+the attribute you want increased.  Type 'help train' for more information.
+~
+D1
+~
+~
+Z 0 3794
+S
+#3759
+Momo's Guild Room~
+You have entered a small room with a low ceiling.  Dozens of combat
+dummies stand at the back of the room, some slashed and stabbed, other burnt
+to a crisp.  The room is filled with the smell of incense and an aura of
+magic.  
+ 
+You notice a sign on the wall.
+~
+0 CDRS city
+E
+sign~
+Welcome to Momo's Guild Room.  Here you will learn your skills and spells.
+To find out what skills and spells you can practice and how many practice
+sessions you have, type 'practice'.  To practice the specific skill, type
+'practice <skill>', where 'skill' is the skill or spell you wish to practice.
+Practicing increases the amount you know of that skill or spell, up to a
+certain maximum.  When you have practiced all you wish to practice, go west.
+~
+D3
+~
+~
+Z 0 3794
+S
+#3760
+@eng A Safe Room@rus Безопасная комната~
+You are in a safe room, away from all the mean rabbits and snails of the
+Arena.  You can rest here, and go up to reach the Temple of Midgaard, or you
+can go east to enter the Guest Hall.  
+~
+0 CDKS inside
+D1
+~
+~
+Z 0 3716
+D4
+@eng You see the Temple of Midgaard.
+@rus Ты видишь храм Мидгарда.
+~
+~
+Z 0 3001
+S
+#3761
+The Entrance to the Kobold Pen~
+You have entered some kind of holding cell.  The room is dark, but as
+your eyes adjust to the darkness you notice dozens of tiny forms scampering
+about you.  Glowing eyes peer at you from the darkness and a high pitched
+giggling sound fills the air.  
+~
+0 ADR inside
+D1
+~
+~
+Z 0 3763
+D2
+~
+~
+Z 0 3764
+D3
+~
+~
+Z 0 3762
+D4
+A steel ladder leads up the side of the wall to a heavy wooden trapdoor.
+~
+trapdoor~
+ABZ 0 3714
+S
+#3762
+Kobolds!!!~
+You have entered some sort of holding cell that's filled with kobolds! 
+These annoying little bastards are running around you threatening you with
+their swords, drooling everywhere, pissing on your shoes, and farting all
+the time.  
+   *GROWL*
+Perhaps you'd better kill a few and set them straight, eh?
+~
+0 ADR inside
+D1
+~
+~
+Z 0 3761
+D2
+~
+~
+Z 0 3777
+S
+#3763
+Kobolds!!!~
+You have entered some sort of holding cell that's filled with kobolds! 
+These annoying little bastards are running around you threatening you with
+their swords, drooling everywhere, pissing on your shoes, and farting all
+the time.  
+   *GROWL*
+Perhaps you'd better kill a few and set them straight, eh?
+~
+0 ADR inside
+D2
+~
+~
+Z 0 3778
+D3
+~
+~
+Z 0 3761
+S
+#3764
+Kobolds!!!~
+You have entered some sort of holding cell that's filled with kobolds! 
+These annoying little bastards are running around you threatening you with
+their swords, drooling everywhere, pissing on your shoes, and farting all
+the time.  
+   *GROWL*
+Perhaps you'd better kill a few and set them straight, eh?
+~
+0 ADR inside
+D0
+~
+~
+Z 0 3761
+D1
+~
+~
+Z 0 3778
+D2
+~
+~
+Z 0 3780
+D3
+~
+~
+Z 0 3777
+S
+#3765
+Inside the Entrance to the Guest Quarters~
+You have entered the quarters, created by Tzbrakas, for his guests. 
+Those who are weary and in need of respite, come here to rest and relax. 
+The guard standing outside the door to your west looks strong and capable,
+and his presence gives you no small measure of reassurance.  Plain wooden
+doors line the hallway on either side of you.  
+~
+0 DRS inside
+D0
+~
+~
+Z 0 3766
+D1
+~
+~
+Z 0 3768
+D2
+~
+~
+Z 0 3767
+D3
+~
+~
+ABCZ 3762 3716
+S
+#3766
+A Guest Room~
+You are standing in a private guest room.  The room is richly furnished
+and decorated.  The beige carpet underfoot is made of pure wool, and is very
+comfortable to walk on in bare feet.  Soft pastel blue wallpaper covers the
+walls to the ceiling.  Antique oil paintings hang at various locations on
+the walls.  A blue marble basin filled with fresh water sits on top of the
+dresser.  
+~
+0 DRS inside
+D2
+~
+~
+Z 0 3765
+S
+#3767
+A Guest Room~
+You are standing in a private guest room.  The room is richly furnished
+and decorated.  The beige carpet underfoot is made of pure wool, and is very
+comfortable to walk on in bare feet.  Soft pastel blue wallpaper covers the
+walls to the ceiling.  Antique oil paintings hang at various locations on
+the walls.  A blue marble basin filled with fresh water sits on top of the
+dresser.  
+~
+0 DRS inside
+D0
+~
+~
+Z 0 3765
+S
+#3768
+A Hallway in the Guest Quarters~
+You are standing in the hallway that runs between the guest rooms.  Plain
+oak doors line the hallway on either side of you.  A dark blue carpet runs
+the length of the hallway.  
+~
+0 DRS inside
+D0
+~
+~
+Z 0 3829
+D1
+~
+~
+Z 0 3828
+D2
+~
+~
+Z 0 3830
+D3
+~
+~
+Z 3762 3765
+S
+#3769
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  The courtyard entrance lies directly to the south of
+you.  
+~
+0 RS inside
+D0
+~
+~
+Z 0 3771
+D2
+~
+~
+Z 0 3770
+D3
+~
+~
+Z 0 3772
+S
+#3770
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  
+~
+0 RS inside
+D0
+~
+~
+Z 0 3769
+D2
+~
+~
+Z 0 3834
+D3
+~
+~
+Z 0 3849
+S
+#3771
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  
+~
+0 RS inside
+D0
+~
+~
+Z 0 3835
+D2
+~
+~
+Z 0 3769
+D3
+~
+~
+Z 0 3847
+S
+#3772
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  
+~
+0 RS inside
+D0
+~
+~
+Z 0 3847
+D1
+~
+~
+Z 0 3769
+D2
+~
+~
+Z 0 3849
+D3
+~
+~
+Z 0 3846
+S
+#3773
+A Dark Jail Cell~
+You have entered a dank, smelly jail cell.  The floor is covered with
+refuse and litter.  In the corner you notice a tattered straw mattress.  
+~
+0 ADR inside
+D2
+A heavily barred oak door stands to the south.
+~
+door~
+ABCZ 3764 3714
+S
+#3774
+A Dark Jail Cell~
+You have entered a dank, smelly jail cell.  The floor is covered with
+refuse and litter.  In the corner you notice a tattered straw mattress.  
+~
+0 ADR inside
+D1
+A heavily barred oak door stands to the east.
+~
+door~
+ABCZ 3764 3714
+S
+#3775
+A Dark Jail Cell~
+You have entered a dank, smelly jail cell.  The floor is covered with
+refuse and litter.  In the corner you notice a tattered straw mattress.  
+~
+0 ADR inside
+D0
+A heavily barred oak door stands to the north.
+~
+door~
+ABCZ 3764 3714
+S
+#3776
+A Testing Room in the Academy~
+~
+0 CDPRS inside
+S
+#3777
+Kobolds!!!~
+You have entered some sort of holding cell that's filled with kobolds! 
+These annoying little bastards are running around you threatening you with
+their swords, drooling everywhere, pissing on your shoes, and farting all
+the time.  
+   *GROWL*
+Perhaps you'd better kill a few and set them straight, eh?
+~
+0 ADR inside
+D0
+~
+~
+Z 0 3762
+D1
+~
+~
+Z 0 3764
+D2
+~
+~
+Z 0 3779
+S
+#3778
+Kobolds!!!~
+You have entered some sort of holding cell that's filled with kobolds! 
+These annoying little bastards are running around you threatening you with
+their swords, drooling everywhere, pissing on your shoes, and farting all
+the time.  
+   *GROWL*
+Perhaps you'd better kill a few and set them straight, eh?
+~
+0 ADR inside
+D0
+~
+~
+Z 0 3763
+D2
+~
+~
+Z 0 3781
+D3
+~
+~
+Z 0 3764
+S
+#3779
+Kobolds!!!~
+You have entered some sort of holding cell that's filled with kobolds! 
+These annoying little bastards are running around you threatening you with
+their swords, drooling everywhere, pissing on your shoes, and farting all
+the time.  
+   *GROWL*
+Perhaps you'd better kill a few and set them straight, eh?
+~
+0 ADR inside
+D0
+~
+~
+Z 0 3777
+D1
+~
+~
+Z 0 3780
+S
+#3780
+Kobolds!!!~
+You have entered some sort of holding cell that's filled with kobolds! 
+These annoying little bastards are running around you threatening you with
+their swords, drooling everywhere, pissing on your shoes, and farting all
+the time.  
+   *GROWL*
+Perhaps you'd better kill a few and set them straight, eh?
+~
+0 ADR inside
+D0
+~
+~
+Z 0 3764
+D1
+~
+~
+Z 0 3781
+D3
+~
+~
+Z 0 3779
+S
+#3781
+Kobolds!!!~
+You have entered some sort of holding cell that's filled with kobolds! 
+These annoying little bastards are running around you threatening you with
+their swords, drooling everywhere, pissing on your shoes, and farting all
+the time.  
+   *GROWL*
+Perhaps you'd better kill a few and set them straight, eh?
+~
+0 ADR inside
+D0
+~
+~
+Z 0 3778
+D3
+~
+~
+Z 0 3780
+S
+#3782
+Entrance to the Academy Proper~
+You have entered the academy proper.  The white and grey tiles covering
+the floor, though worn, are kept spotlessly clean.  You hear the swishing of
+a broom, and the sound of someone whistling a catchy little ditty.  
+~
+0 DRS inside
+D1
+~
+~
+Z 0 3827
+S
+#3783
+The Hall of Learning~
+You are standing in the hallway of learning.  Here you can learn the
+basic information and commands that you will need in your travels.  There is
+a lush red carpet underfoot, the room is brightly lit and the air smells
+pleasantly fresh.  In the center of the hallway there are a number of
+{W*black marble tablets*{x with writing etched onto them.  
+
+To read the tablets in this room:
+
+          {RLOOK MOVEMENT{X
+             {RLOOK AUTOEXIT{X
+          {RLOOK SCAN{x
+~
+0 CDRS inside
+E
+scan~
+Scan is a default command which everyone receives at level 1, not a skill
+that you must practice.  Scanning will allow you to not only see the
+available exits, but also to see which mobiles/players are in the rooms next
+to you, and to see any exits with closed doors in front of them.  If you
+scan in one direction, you will be able to see more than one room in that
+direction provided that there is nothing blocking your view, such as a door
+or blank wall.  On the same note, you can look in any of the available
+directions to view the extended exit description for that direction, if
+there is one.  
+ 
+   Syntax:
+             {RSCAN{x
+          {RSCAN NORTH, SCAN SOUTH etc.{x
+             {RLOOK{x
+          {RLOOK NORTH, LOOK SOUTH etc.{x
+~
+E
+autoexits~
+You can decide whether or not you wish the room exits to appear below the
+room description or not.  Use the "autoexits" toggle to turn them on or off.
+
+ 
+   Syntax:
+          {RAUTOEXIT{x
+~
+E
+movement~
+There are 6 possible directions for you to move in; {BNorth, South, East,
+West, Up, Down{x.  You will not always be able to move in all 6 directions
+in every room, though.  To move from one room to the next, simply type in
+the direction you wish to move, you can abbreviate the direction by entering
+only the first letter of the direction, as follows:
+ 
+          {RN or NORTH{X
+          {RS or SOUTH{X
+          {RE or EAST{X
+          {RW or WEST{X
+          {RU or UP{X
+          {RD or DOWN{x
+ 
+Try moving in each direction from this room, then type the opposite
+direction to return and finish reading the other tablets.
+~
+D0
+~
+~
+Z 0 3784
+D1
+~
+~
+Z 0 3786
+D2
+~
+~
+Z 0 3789
+D3
+~
+~
+Z 0 3785
+D4
+~
+~
+Z 0 3787
+D5
+~
+~
+Z 0 3788
+S
+#3784
+The Hallway of Learning~
+You are standing in the hallway of learning.  Here you can learn the
+basic information and commands that you will need in your travels.  There is
+a lush red carpet underfoot, the room is brightly lit and the air smells
+pleasantly fresh.  In the center of the hallway there are a couple of
+{W*black marble tablets*{x with writing etched into them.
+ 
+To read the tablets:
+ 
+          {RLOOK FOOD{X
+            {RLOOK WATER{x
+ 
+When you have finished reading the tablets in this room, proceed north.
+~
+0 CDRS inside
+E
+water~
+You will also need to buy a drink container so that you will have
+something to drink when you become thirsty.  You can buy drink containers
+from grocers in any of the lawful towns.  You will also find drinking
+fountains in any of the cities.  Read the helpfile on "drinking" and try
+drinking from the water fountain in this room.  
+ 
+      {RHELP DRINKING{X
+      {RDRINK FOUNTAIN{x
+~
+E
+food~
+You will need to buy food before you travel anywhere for when you get
+hungry.  There is a bakery and a butcher's shop in Midgaard where you can
+buy things to eat.  All of the lawful towns will have at least one store
+where you can purchase food.  To eat food, you must first have it in your
+inventory, then you will be able to eat it.  Try eating the apple that the
+boy gave to you now.  
+ 
+      {REAT APPLE{x
+~
+D0
+~
+~
+Z 0 3790
+D2
+~
+~
+Z 0 3783
+S
+#3785
+A Plain Room~
+You have successfully gone west.
+You are in a room connected to the main hallway of learning.  To go back
+to the hallway go {REAST{x.  
+~
+0 CDRS inside
+D1
+~
+~
+Z 0 3783
+S
+#3786
+A Plain Room~
+You have successfully gone east.
+You are in a room connected to the main hallway of learning.  To go back
+to the hallway go {RWEST{x.  
+~
+0 CDRS inside
+D3
+~
+~
+Z 0 3783
+S
+#3787
+A Plain Room~
+You have successfully moved up.
+You are in a room connected to the main hallway of learning.  To go back
+to the hallway go {RDOWN{x.  
+~
+0 DRS inside
+D5
+~
+~
+Z 0 3783
+S
+#3788
+A Plain Room~
+You have successfully moved down.
+You are in a room connected to the main hallway of learning.  To go back
+to the hallway go {RUP{x.  
+~
+0 CDRS inside
+D4
+~
+~
+Z 0 3783
+S
+#3789
+The Hallway of Learning~
+You are standing in the hallway of learning.  Here you can learn the
+basic information and commands that you will need in your travels.  There is
+a lush red carpet underfoot, the room is brightly lit and the air smells
+pleasantly fresh.  In the center of the hallway there are a couple of
+{W*black marble tablets*{x with writing etched into them.
+ 
+To read the tablets:
+ 
+         {RLOOK COMMUNICATION{X
+             {RLOOK NOTES{x
+ 
+When you have finished reading the tablets in this room, proceed north.
+~
+0 CDRS inside
+E
+notes~
+There are 4 noteboards for you to post and read notes on: {RNOTE, IDEAS,
+NEWS, and CHANGES{x.  To read notes from any of these boards, simply type
+the name of the board and it will show you, one by one, the notes you
+haven't read yet.  
+ 
+          {RHELP NOTES{x
+~
+E
+communication~
+Every character has a several different ways of communicating with his
+fellow players.  You have several different {RCHANNELS{x that you can use. 
+The {RGOSSIP{x channel is the main public channel, but you won't be able to
+use this channel until level 3.  Until then use the {RNEWBIE{x channel to
+communicate with others.  Some of the other available channels are {RSAY,
+TELL, SHOUT, AND YELL{x.  For extended helpfiles on the use of these
+channels type in the commands below.  If someone sends you a message, you
+can respond to their message by using "reply".  This will send a message to
+the last person to send you a tell.  
+ 
+          {RCHANNELS{X
+          {RHELP TELL{X
+          {RHELP SHOUT{x
+~
+D0
+~
+~
+Z 0 3783
+D2
+~
+~
+Z 0 3757
+S
+#3790
+The Hallway of Learning~
+You are standing in the hallway of learning.  Here you can learn the
+basic information and commands that you will need in your travels.  There is
+a lush red carpet underfoot, the room is brightly lit and the air smells
+pleasantly fresh.  In the center of the hallway there are a number of
+{W*black marble tablets*{x with writing on them.  
+There is a closed wooden door to your west.
+ 
+To read the tablets in this room:
+
+          {RLOOK SCORE{X
+             {RLOOK INVENTORY{X
+          {RLOOK CONTAINERS{X
+             {RLOOK GET{X
+          {RLOOK GIVE{x
+ 
+When you have finished reading the tablets in this room, open the door and
+   head west.
+~
+0 CDRS inside
+E
+give~
+You can {RGIVE{x any of the items in your inventory to a player or mob
+that is standing in the same room as you.  
+Syntax: give <item> <target>
+Give Leomund your {Ygolden newbie token{x for a free pack!
+ 
+          {RGIVE TOKEN LEOMUND{x
+          {RGET ALL PACK{x
+~
+E
+get~
+To get an item use the {RGET{x command.  This will allow you to pick
+objects up from the ground or to get items from inside of containers.  
+Syntax: get <item>  /  get <item> <container>
+
+You can also drop items that are in your inventory with the {RDROP{x command.
+Syntax: drop <item>  /  drop all
+ 
+Try these now:
+
+     {RGET ROCK{X
+         {RGET BUCKLER CHEST{X
+      {RWEAR BUCKLER{x
+~
+E
+containers~
+Containers are useful for storing large quantities of items, since your
+inventory is only able to hold a few items.  The two main types of portable
+containers are packs and drink containers.  A pack can hold any type of
+object, provided that the object isn't too big and your pack isn't too full.
+A drink container is much smaller than a pack and will usually fit inside it
+quite easily.  A drink container will only hold drinkable liquids.  
+~
+E
+inventory~
+Every player has an inventory whether they are alive, dead, asleep, or
+wide awake.  Your inventory is a list of the items which you have readily
+available at your disposal.  The number of items that you can carry is
+directly related to your current dexterity.  Items held inside containers
+don't count towards the total number of items that you can carry in your
+inventory.  You can check "Items Carried" in your score, these are the
+current vs max number of items your inventory can hold.  
+ 
+Check it now:
+          {RINVENTORY{x
+~
+E
+score~
+{RSCORE{x will give you a detailed description of your character's
+current statistics.  The information that you see in score will change
+OFTEN, so learn to check your score on a frequent basis.  You can view your
+current experience, money carried, and kill count with the {RWORTH{x
+command.  
+ 
+Try them now:
+          {RWORTH{X
+          {RSCORE{x
+~
+D0
+~
+~
+Z 0 3794
+D2
+~
+~
+Z 0 3784
+D3
+To the west you see a large wooden door, you can open it using:
+
+       {ROPEN DOOR{x or {ROPEN WEST{x
+ 
+~
+door~
+ABZ 0 3791
+S
+#3791
+The Portal Room~
+You have entered a room with a glowing portal in it.  If you step through
+this portal you will be taken to a different location.  Certain mobs in the
+game will ask you to perform a task for them, in return for the favor, they
+will give you something.  
+ 
+   A large sign draws your attention.
+~
+0 CDRS inside
+E
+sign~
+To enter the portal {RENTER PORTAL{x.
+
+Make sure that you ask Meldrake what he is looking for before you do.
+    Say to him:
+        {RWhat have you lost?{x
+~
+D1
+To the east you see a large wooden door, you can open it using:
+ 
+       {ROPEN DOOR{x or {ROPEN EAST{x
+ 
+~
+door~
+ABZ 0 3790
+S
+#3792
+A Hidden Portal Room~
+Stepping through the portal, you realize that you have been transported
+to a different location.  As with all portals, two rooms are joined together
+by the portal which acts as a door between the two.  Some portals are only
+one way and will take you to a specific room, others are random and will
+take you to different location every time.  Some portals, like the one you
+have just passed through, are two-way and will transport you back and forth
+between the two rooms.  
+ 
+   A large sign draws your attention.
+~
+0 CDRS inside
+E
+sign~
+To return to the other room {RENTER PORTAL{x.
+
+Make sure you talk to Belarius before you leave.  Tell him:
+ 
+          {RMeldrake is pretty upset, Belarius{x
+~
+S
+#3793
+The Hallway of Learning~
+You are standing in the hallway of learning.  Here you can learn the
+basic information and commands that you will need in your travels.  There is
+a lush red carpet underfoot, the room is brightly lit and the air smells
+pleasantly fresh.  In the center of the hallway there are a number of
+{W*black marble tablets*{x with writing on them.  
+ 
+To read the tablets in this room:
+
+          {RLOOK EQUIPMENT{X
+             {RLOOK WEAR{X
+          {RLOOK OUTFIT{x
+ 
+When you have finished reading the tablets in this room, proceed north.
+~
+0 CDRS inside
+E
+outfit~
+Outfit is a command only for newbies (those who are level 5 or below). 
+Outfit will give you a free weapon, shield, vest, and light if you are not
+already wearing any of those items.  
+Try it now:
+          {ROUTFIT{x
+~
+E
+wear~
+To equip any armor that you have use the {RWEAR{x command.
+Syntax: wear <item>  /  wear all
+
+To wield any weapons that you have use the {RWIELD{x command.
+Syntax: wield <weapon>
+
+It is a good idea to wield only those weapons with which you are
+proficient, or you will do very little damage to your foes in battle. 
+Choose a weapon from the weapons rack and try wielding it.  If you see:
+{B"You don't even know which end is up..."  {x for the weapon you just
+wielded, remove, drop that one, and select a different one from the rack.  
+{R*{BREMEMBER{R*{x If the sword doesn't feel right in your hand, chose a DIFFERENT weapon from the rack and try that one instead.
+ 
+Try it now:
+          {RWEAR BUCKLER{X
+          {RWEAR ALL{X
+          {RGET SWORD RACK{X
+          {RWIELD SWORD{x
+ 
+{R*{BREMEMBER{R*{x If the sword doesn't feel right in your hand, choose a DIFFERENT
+      weapon instead.
+~
+E
+equipment~
+A good suit of equipment is important to any adventurer.  To check your
+current equipment, use the {REQUIPMENT{x command.  You must be in the awake
+position and not be blinded to see your list of equipment.  During battles
+your equipment will become damaged, so you should try to have it repaired
+once every so often.
+Try it now:
+          {REQ{x
+ 
+You will notice that your buckler is already damaged.  The dwarven
+blacksmith standing here can repair it for you.  First make sure that it is
+in your inventory, then enter:
+          {RESTIMATE BUCKLER{x
+ 
+This will show you how much he will charge you to repair it.  Now that you
+have your estimate have him repair it for you:
+          {RREPAIR SHIELD{x
+ 
+Once you have passed level 5 you will not be able to enter the newbie
+academy anymore, so you will have to go elsewhere to have armor and
+weapons repaired.  The weaponsmith and armorer in Midgaard can also
+repair armor and weapons for you.
+          {RHELP REPAIR{x
+~
+D0
+~
+~
+Z 0 3795
+D2
+~
+~
+Z 0 3794
+S
+#3794
+The Hallway of Learning~
+You are standing in the hallway of learning.  Here you can learn the
+basic information and commands that you will need in your travels.  There is
+a lush red carpet underfoot, the room is brightly lit and the air smells
+pleasantly fresh.  To your left stands a room with a sign {BMomo's Guild
+Room{x, where you can practice skills and spells.  To read the tablets in
+this room: To your right, a room with a sign {BErebus' Training Room{x ,
+where you can train your abilities.
+
+Proceed west to train your abilities.  After training, cross the hallway to
+   the room east where you can practice your skills and spells.
+~
+0 CDRS inside
+E
+stats~
+Your abilities can be viewed in your score.
+~
+D0
+~
+~
+Z 0 3793
+D1
+~
+~
+Z 0 3759
+D2
+~
+~
+Z 0 3790
+D3
+~
+~
+Z 0 3758
+S
+#3795
+The Hallway of Learning~
+You are standing in the hallway of learning.  Here you can learn the
+basic information and commands that you will need in your travels.  There is
+a lush red carpet underfoot, the room is brightly lit and the air smells
+pleasantly fresh.  In the center of the hallway there are a number of
+{W*black marble tablets*{x with writing on them.  
+ 
+To read the tablets in this room:
+ 
+          {RLOOK STATS{X
+             {RLOOK PROMPT{X
+          {RLOOK SLEEP{x
+~
+0 CDRS inside
+E
+stats~
+Your stats are displayed in the bar of information running across your
+screen and updated every time you hit the return key.  Your main stats are
+hitpoints, mana, and moves.  Your hitpoints decrease when you take damage
+from battle, from spells affecting you, or from hunger and thirst.  When
+your hitpoints reach -1 you will become unconscious and will slowly die if
+not aided by the time they reach -10.  Your mana is used when you cast all
+spells and with the use of certain skills.  Moves are used by travelling
+from one room to another, different amounts of movement are used depending
+on the type of terrain you are crossing.  All of your main stats will heal
+themselves as you regenerate.  
+~
+E
+sleep~
+You will lose hitpoints, mana and moves as you travel and engage in
+combat with others.  This is a temporary loss, however, and they will slowly
+increase as you regenerate.  You can speed up the process by resting or
+sleeping.  Sleeping will cause you to heal much more quickly than resting,
+but resting will allow you to see what is taking place in the room at the
+same time.  If you can find a piece of furniture, a chair, a bed or
+something to sleep on, you will heal even more quickly.  If you are hungry,
+thirsty, poisoned, or plagued you will regenerate much more slowly, and may
+lose your strength faster than you regain it.  
+ 
+Try sleeping and resting on this bench:
+          {RSLEEP BENCH{X
+          {RREST BENCH{X
+          {RSTAND{x
+~
+E
+prompt~
+Everyone has a prompt.  Your prompt is the bar of information that runs
+across your screen every time you hit the return key.  It is a good idea to
+carefully select the information to display in your prompt so that you can
+keep it as short as possible and make it easy to read during battle.  You
+should always include your current hitpoints in your prompt.  You can also
+include color in your prompt, but color will shorten the number of things
+that you can put in it, and may confuse you more than it will help.  
+ 
+Here is a sample prompt, the one I always use:
+          {R<%h/%Hhps %m/%Mman %v/%Vmvs %Xexp *%o*>{x
+ 
+For further information on creating prompts:
+           {RHELP PROMPT{x
+~
+D0
+~
+~
+Z 0 3796
+D2
+~
+~
+Z 0 3793
+S
+#3796
+The Hallway of Learning~
+You are standing in the hallway of learning.  Here you can learn the
+basic information and commands that you will need in your travels.  There is
+a lush red carpet underfoot, the room is brightly lit and the air smells
+pleasantly fresh.  In the center of the hallway there are a number of
+{W*black marble tablets*{x with writing on them.  
+ 
+To read the tablets in this room:
+ 
+          {RLOOK COMBAT{X
+             {RLOOK DEATH{X
+          {RLOOK MURDER{x
+ 
+When you have finished reading these tablets, go east for your first battle.
+~
+0 CDRS inside
+E
+murder~
+Playerkilling, or {RPK{x ,as it's often called, is an important part of
+the mud.  Whether you chose to engage in playerkilling yourself is entirely
+up to you.  However, you will be able to PK, or be PK'd when you reach level
+10.  To begin a PK fight, you can use the {RMURDER{x command, or you can use
+any attack spells or skills that you possess to begin the fight.  Keep in
+mind, PK here only to add to the realism of the mud, so if you are going to
+PK, there had better be a good reason for it.  Every PK fight should be
+roleplayed.  If you are a lawful good paladin, you are not going to be seen
+sneaking around murdering everyone.  
+ 
+For further information, read:
+          {RHELP PK{X
+~
+E
+death~
+When your hitpoints drop down too far, you will die.  When you die you
+will lose 2/3's of the experience that you had gained towards the next
+level.  In addition, every three deaths will result in the loss of 1
+constitution point, although you may train this back again.  Dying is a part
+of mudding.  So if you die, take it in stride, and learn from your mistakes
+in the battle that caused your death.  
+
++-+-+-+-+-+-+-+-+-
+
+When you die, all of your equipment is still on your corpse in the same room
+you died in.  To get it back, you must retrace your steps to the place
+that you were killed.  Make sure to grab a lightsource before you leave town,
+though, since you will probably have to travel through dark places to get
+back to the place that you died.
+~
+E
+combat~
+To begin a battle use either the {RKILL{x command or if you have spells,
+can cast an attack spell on your target to begin the fight.  Some mobs will
+initiate the fight themselves, though, aggressively attacking you as soon as
+you approach them.  You won't encounter many of these as a newbie, but as
+you increase in levels and begin to explore the higher level areas, you will
+find more aggressive mobs.  During combat there are certain spells and
+skills that you will be able to use, and others that you won't, you will
+have to experiment to see which do and which don't, so keep your eyes open,
+and try them all.  
+~
+D0
+~
+~
+Z 0 3797
+D1
+~
+~
+Z 0 3710
+D2
+~
+~
+Z 0 3795
+S
+#3797
+The End of the Hallway of Learning~
+You have reached the end of the hallway of learning.  By now you should
+have mastered the basic commands and have a passable understanding of how to
+manage your character.  If you are still not sure what to do, use the newbie
+channel to ask politely for help, otherwise, proceed down to the Academy
+Proper.
+
+  {R*{BREMEMBER{R*{x , keep your eyes open, and explore everything, you never know what you'll find if you look carefully.
+~
+0 CDRS inside
+D2
+~
+~
+Z 0 3796
+D5
+~
+~
+Z 0 3782
+S
+#3798
+On the Spiral Staircase~
+You are standing on a spiral staircase which winds downwards in a
+counterclockwise fashion.  The plush maroon carpet underfoot deadens your
+footfalls, while the polished wooden banister to your left keeps you from
+falling down the stairwell.  To your right stands a closed red door with
+archaic runes etched into the lintel.  
+~
+0 DRS inside
+D0
+~
+~
+Z 0 3801
+D1
+A large {Rr{re{Rd{x door swings on steel hinges to the east.
+~
+door~
+ABZ 0 3799
+D4
+~
+~
+Z 0 3747
+S
+#3799
+{RThe Red Room{x~
+{rAs you enter the room, you are forced to shield your eyes from the
+light for a second.  Every inch of the room {Rs{rh{Ri{rm{Rm{re{Rr{rs
+{Rr{ru{Rb{ry {Rr{re{Rd{r, and the brilliance dazzles your eyes.  The light
+seems to emanate from the unmoving statue in the middle of the room.  {x 
+~
+0 DRS inside
+D3
+A large {Rr{re{Rd{x door swings on steel hinges to the west.
+~
+door~
+ABZ 0 3798
+S
+#3800
+Floating Inside the Stairwell~
+You are floating in space inside the stairwell at its peak.  Your ability
+to fly keeps you from plummeting towards the ground, but it is very dark in
+here.  A harsh squeaking noise fills your ears and you hear a rush of wings
+as a several tiny bats swoop down from the ceiling towards your head.  
+~
+0 ADRS air
+D5
+~
+~
+Z 0 3805
+S
+#3801
+On the Spiral Staircase~
+You are standing on a spiral staircase which winds downwards in a
+counterclockwise fashion.  The plush maroon carpet underfoot deadens your
+footfalls, while the polished wooden banister to your left keeps you from
+falling down the stairwell.  Thick green candles burn dimly in sconces
+lining the stone walls.  
+~
+0 DRS inside
+D2
+~
+~
+Z 0 3798
+D5
+~
+~
+Z 0 3802
+S
+#3802
+On the Spiral Staircase~
+You are standing on a spiral staircase which winds downwards in a
+counterclockwise fashion.  The plush maroon carpet underfoot deadens your
+footfalls, while the polished wooden banister to your left keeps you from
+falling down the stairwell.  To your right stands a closed green door with
+archaic runes etched into the lintel.  
+~
+0 DRS inside
+D0
+A large {Gg{gr{Ge{ge{Gn{x door swings on steel hinges to the north.
+~
+door~
+ABZ 0 3804
+D3
+~
+~
+Z 0 3803
+D4
+~
+~
+Z 0 3801
+S
+#3803
+On the Spiral Staircase~
+You are standing on a spiral staircase which winds downwards in a
+counterclockwise fashion.  The plush maroon carpet underfoot deadens your
+footfalls, while the polished wooden banister to your left keeps you from
+falling down the stairwell.  Thick green candles burn dimly in sconces
+lining the stone walls.  
+~
+0 DRS inside
+D1
+~
+~
+Z 0 3802
+D5
+~
+~
+Z 0 3806
+S
+#3804
+{GThe Green Room{x~
+{gAs you enter the room, you are forced to shield your eyes from the
+light for a second.  Every inch of the room {Gs{gh{Gi{gm{Gm{ge{Gr{gs
+{Gl{gi{Gm{ge {Gg{gr{Ge{ge{Gn{g, and the brilliance dazzles your eyes.  The
+light seems to emanate from the unmoving statue in the middle of the room. 
+{x 
+~
+0 DRS inside
+D2
+A large {Gg{gr{Ge{ge{Gn{x door swings on steel hinges to the south.
+~
+door~
+ABZ 0 3802
+S
+#3805
+Floating Inside the Stairwell~
+You are floating in space inside the stairwell.  Your ability to fly
+keeps you from plummeting towards the ground, but it is very dark in here. 
+Only with great difficulty are you able to keep from crashing into the
+staircase that surrounds you.  A faint chirping sound comes from directly
+above you.  Perhaps a swallow has built a nest up there somewhere?  
+~
+0 ADRS air
+D4
+~
+~
+Z 0 3800
+D5
+~
+~
+Z 0 3807
+S
+#3806
+On the Spiral Staircase~
+You are standing on a spiral staircase which winds downwards in a
+counterclockwise fashion.  The plush maroon carpet underfoot deadens your
+footfalls, while the polished wooden banister to your left keeps you from
+falling down the stairwell.  To your right stands a closed yellow door with
+archaic runes etched into the lintel.  
+~
+0 DRS inside
+D2
+~
+~
+Z 0 3809
+D3
+A large {Yy{ye{Yl{yl{Yo{yw{x door swings on steel hinges to the west.
+~
+door~
+ABZ 0 3808
+D4
+~
+~
+Z 0 3803
+S
+#3807
+Floating Inside the Stairwell~
+You are floating in space inside the stairwell.  Your ability to fly
+keeps you from plummeting towards the ground, but it is very dark in here. 
+Only with great difficulty are you able to keep from crashing into the
+staircase that surrounds you.  
+~
+0 ADRS air
+D4
+~
+~
+Z 0 3805
+D5
+~
+~
+Z 0 3812
+S
+#3808
+{YThe Yellow Room{x~
+{yAs you enter the room, you are forced to shield your eyes from the
+light for a second.  Every inch of the room {Ys{yh{Yi{ym{Ym{ye{Yr{ys
+{Yh{yo{Yn{ye{Yy {yy{Ye{yl{Yl{yo{Yw{y, and the brilliance dazzles your eyes. 
+The light seems to emanate from the unmoving statue in the middle of the
+room.  {x 
+~
+0 DRS inside
+D1
+A large {Yy{ye{Yl{yl{Yo{yw{x door swings on steel hinges to the east.
+~
+door~
+ABZ 0 3806
+S
+#3809
+On the Spiral Staircase~
+You are standing on a spiral staircase which winds downwards in a
+counterclockwise fashion.  The plush maroon carpet underfoot deadens your
+footfalls, while the polished wooden banister to your left keeps you from
+falling down the stairwell.  Thick green candles burn dimly in sconces
+lining the stone walls.  
+~
+0 DRS inside
+D0
+~
+~
+Z 0 3806
+D5
+~
+~
+Z 0 3810
+S
+#3810
+On the Spiral Staircase~
+You are standing on a spiral staircase which winds downwards in a
+counterclockwise fashion.  The plush maroon carpet underfoot deadens your
+footfalls, while the polished wooden banister to your left keeps you from
+falling down the stairwell.  To your right stands a closed blue door with
+archaic runes etched into the lintel.  
+~
+0 DRS inside
+D1
+~
+~
+Z 0 3813
+D2
+A large {Bb{bl{Bu{be{x door swings on steel hinges to the south.
+~
+door~
+ABZ 0 3811
+D4
+~
+~
+Z 0 3809
+S
+#3811
+{BThe Blue Room{x~
+{bAs you enter the room, you are forced to shield your eyes from the
+light for a second.  Every inch of the room {Bs{bh{Bi{bm{Bm{be{Br{bs
+{Bd{be{Be{bp {Bb{bl{Bu{be{B, {band the brilliance dazzles your eyes.  The
+light seems to emanate from the unmoving statue in the middle of the room. 
+{x 
+~
+0 DRS inside
+D0
+A large {Bb{bl{Bu{be{x door swings on steel hinges to the north.
+~
+door~
+ABZ 0 3810
+S
+#3812
+Floating Inside the Stairwell~
+You are floating in space inside the stairwell.  Your ability to fly
+keeps you from plummeting towards the ground, but it is very dark in here. 
+Only with great difficulty are you able to keep from crashing into the
+staircase that surrounds you.  
+~
+0 ADRS air
+D4
+~
+~
+Z 0 3807
+D5
+~
+~
+Z 0 3815
+S
+#3813
+On the Spiral Staircase~
+You are standing on a spiral staircase which winds downwards in a
+counterclockwise fashion.  The plush maroon carpet underfoot deadens your
+footfalls, while the polished wooden banister to your left keeps you from
+falling down the stairwell.  Thick green candles burn dimly in sconces
+lining the stone walls.  
+~
+0 DRS inside
+D3
+~
+~
+Z 0 3810
+D5
+~
+~
+Z 0 3814
+S
+#3814
+On the Spiral Staircase~
+You are standing on a spiral staircase which winds downwards in a
+counterclockwise fashion.  The plush maroon carpet underfoot deadens your
+footfalls, while the polished wooden banister to your left keeps you from
+falling down the stairwell.  To your right stands a closed magenta door with
+archaic runes etched into the lintel.  
+~
+0 DRS inside
+D0
+~
+~
+Z 0 3817
+D1
+A large {Mm{ma{Mg{me{Mn{mt{Ma{x door swings on steel hinges to the east.
+~
+door~
+ABZ 0 3816
+D4
+~
+~
+Z 0 3813
+S
+#3815
+Floating Inside the Stairwell~
+You are floating in space inside the stairwell.  Your ability to fly
+keeps you from plummeting towards the ground, but it is very dark in here. 
+Only with great difficulty are you able to keep from crashing into the
+staircase that surrounds you.  
+~
+0 ADRS air
+D4
+~
+~
+Z 0 3812
+D5
+~
+~
+Z 0 3819
+S
+#3816
+{MThe Magenta Room{x~
+{mAs you enter the room, you are forced to shield your eyes from the
+light for a second.  Every inch of the room {Ms{mh{Mi{mm{Mm{me{Mr{ms
+{Md{ma{Mr{mk {Mp{mu{Mr{mp{Ml{me{M, {mand the brilliance dazzles your eyes. 
+The light seems to emanate from the unmoving statue in the middle of the
+room.  {x 
+~
+0 DRS inside
+D3
+A large {Mm{ma{Mg{me{Mn{mt{Ma{x door swings on steel hinges to the west.
+~
+door~
+ABZ 0 3814
+S
+#3817
+On the Spiral Staircase~
+You are standing on a spiral staircase which winds downwards in a
+counterclockwise fashion.  The plush maroon carpet underfoot deadens your
+footfalls, while the polished wooden banister to your left keeps you from
+falling down the stairwell.  Thick green candles burn dimly in sconces
+lining the stone walls.  
+~
+0 DRS inside
+D2
+~
+~
+Z 0 3814
+D5
+~
+~
+Z 0 3818
+S
+#3818
+On the Spiral Staircase~
+You are standing on a spiral staircase which winds downwards in a
+counterclockwise fashion.  The plush maroon carpet underfoot deadens your
+footfalls, while the polished wooden banister to your left keeps you from
+falling down the stairwell.  To your right stands a closed cyan door with
+archaic runes etched into the lintel.  
+~
+0 DRS inside
+D0
+A large {Cc{cy{Ca{cn{x door swings on steel hinges to the north.
+~
+door~
+ABZ 0 3820
+D3
+~
+~
+Z 0 3821
+D4
+~
+~
+Z 0 3817
+S
+#3819
+Floating Inside the Stairwell~
+You are floating in space inside the stairwell.  Your ability to fly
+keeps you from plummeting towards the ground, but it is very dark in here. 
+Only with great difficulty are you able to keep from crashing into the
+staircase that surrounds you.  
+~
+0 ADRS air
+D4
+~
+~
+Z 0 3815
+D5
+~
+~
+Z 0 3823
+S
+#3820
+{CThe Cyan Room{x~
+{cAs you enter the room, you are forced to shield your eyes from the
+light for a second.  Every inch of the room {Cs{ch{Ci{cm{Cm{ce{Cr{cs
+{Cs{ck{Cy {cb{Cl{cu{Ce{c, and the brilliance dazzles your eyes.  The light
+seems to emanate from the unmoving statue in the middle of the room.  {x 
+~
+0 DRS inside
+D2
+A large {Cc{cy{Ca{cn{x door swings on steel hinges to the south.
+~
+door~
+ABZ 0 3818
+S
+#3821
+On the Spiral Staircase~
+You are standing on a spiral staircase which winds downwards in a
+counterclockwise fashion.  The plush maroon carpet underfoot deadens your
+footfalls, while the polished wooden banister to your left keeps you from
+falling down the stairwell.  Thick green candles burn dimly in sconces
+lining the stone walls.  
+~
+0 DRS inside
+D1
+~
+~
+Z 0 3818
+D5
+~
+~
+Z 0 3822
+S
+#3822
+{wThe Diamond Room{x~
+You have reached the bottom of the staircase.  The room that you have
+entered is brilliantly lit by the light which seems to emanate from the
+statue in the middle of the room.  
+~
+0 DRS inside
+D3
+You see the faint outline of a secret door where the rail meets the wall.
+~
+secret~
+ABZ 0 3823
+D4
+~
+~
+Z 0 3821
+S
+#3823
+Beneath the Stairwell~
+You have reached the bottom of the stairwell, finally, and your feet are
+on solid ground.  It is very dark in here and you have difficulty in seeing
+anything, but as you turn your head, a glint of gold catches your eye from
+one of the cracks in the floor.  The secret door through which you entered
+lies back to your east.  
+~
+0 ADRS inside
+D1
+You see a large wooden door made to look like one of the panels on the wall.
+~
+secret~
+ABZ 0 3822
+D4
+~
+~
+Z 0 3819
+S
+#3824
+{RA Spare Room{x~
+You are walking the hallways in the academy proper.  The white and grey
+tiled floor, though worn, is kept clean and free of dirt.  To the east you
+notice a guarded doorway.  
+~
+0 CDRS inside
+S
+#3825
+Hallways of the Academy~
+You are walking the hallways in the academy proper.  The white and grey
+tiled floor, though worn, is kept spotlessly clean.  To the west you see a
+small room that looks like some kind of shop.  
+ 
+You see a large sign here.
+~
+0 DRS inside
+E
+sign~
+WEST - Academy Store
+     NORTH - Hallways of the Academy
+     SOUTH - Hallways of the Academy
+~
+D0
+~
+~
+Z 0 3704
+D2
+~
+~
+Z 0 3711
+D3
+~
+~
+Z 0 3718
+S
+#3826
+Hallways of the Academy~
+You are walking the hallways in the academy proper.  The white and grey
+tiled floor, though worn, is kept clean and free of dirt.  The ceiling
+overhead glows brightly, but you can't distinguish the exact source of the
+light.  
+~
+0 DRS inside
+D0
+~
+~
+Z 0 3701
+D3
+~
+~
+Z 0 3827
+S
+#3827
+Hallways of the Academy~
+You are walking the hallways in the academy proper.  The white and grey
+tiled floor, though worn, is kept clean and free of dirt.  The ceiling
+overhead glows brightly, but you can't distinguish the exact source of the
+light.  
+~
+0 DRS inside
+D1
+~
+~
+Z 0 3826
+D3
+~
+~
+Z 0 3782
+S
+#3828
+A Hallway in the Guest Quarters~
+Plain oak doors line the hallway on either side of you.  A dark blue
+carpet runs the length of the hallway.  
+~
+0 DRS inside
+D0
+~
+~
+Z 0 3831
+D2
+~
+~
+Z 0 3832
+D3
+~
+~
+Z 0 3768
+S
+#3829
+A Guest Room~
+You are standing in a private guest room.  The room is richly furnished
+and decorated.  The beige carpet underfoot is made of pure wool, and is very
+comfortable to walk on in bare feet.  Soft pastel blue wallpaper covers the
+walls to the ceiling.  Antique oil paintings hang at various locations on
+the walls.  A blue marble basin filled with fresh water sits on top of the
+dresser.  
+~
+0 DRS inside
+D2
+~
+~
+Z 0 3768
+S
+#3830
+A Guest Room~
+You are standing in a private guest room.  The room is richly furnished
+and decorated.  The beige carpet underfoot is made of pure wool, and is very
+comfortable to walk on in bare feet.  Soft pastel blue wallpaper covers the
+walls to the ceiling.  Antique oil paintings hang at various locations on
+the walls.  A blue marble basin filled with fresh water sits on top of the
+dresser.  
+~
+0 DRS inside
+D0
+~
+~
+Z 0 3768
+S
+#3831
+A Guest Room~
+You are standing in a private guest room.  The room is richly furnished
+and decorated.  The beige carpet underfoot is made of pure wool, and is very
+comfortable to walk on in bare feet.  Soft pastel blue wallpaper covers the
+walls to the ceiling.  Antique oil paintings hang at various locations on
+the walls.  A blue marble basin filled with fresh water sits on top of the
+dresser.  
+~
+0 DRS inside
+D2
+~
+~
+Z 0 3828
+S
+#3832
+A Guest Room~
+You are standing in a private guest room.  The room is richly furnished
+and decorated.  The beige carpet underfoot is made of pure wool, and is very
+comfortable to walk on in bare feet.  Soft pastel blue wallpaper covers the
+walls to the ceiling.  Antique oil paintings hang at various locations on
+the walls.  A blue marble basin filled with fresh water sits on top of the
+dresser.  
+~
+0 DRS inside
+D0
+~
+~
+Z 0 3828
+S
+#3833
+A Guard Room~
+You have entered the guard room.  The room is bare except for a oak table
+and a few chairs.  The head of the guard is sitting at the table drinking
+fine elven wine with one of his guards.
+~
+0 DRS inside
+D0
+~
+~
+Z 0 3713
+D3
+~
+~
+Z 0 3714
+S
+#3834
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  
+~
+0 RS inside
+D0
+~
+~
+Z 0 3770
+D3
+~
+~
+Z 0 3843
+S
+#3835
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  
+~
+0 RS inside
+D2
+~
+~
+Z 0 3771
+D3
+~
+~
+Z 0 3836
+S
+#3836
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  
+~
+0 RS inside
+D1
+~
+~
+Z 0 3835
+D2
+~
+~
+Z 0 3847
+D3
+~
+~
+Z 0 3837
+S
+#3837
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  
+~
+0 RS inside
+D1
+~
+~
+Z 0 3836
+D2
+~
+~
+Z 0 3848
+D3
+~
+~
+Z 0 3838
+S
+#3838
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  
+~
+0 RS inside
+D1
+~
+~
+Z 0 3837
+D2
+~
+~
+Z 0 3839
+S
+#3839
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  
+~
+0 RS inside
+D0
+~
+~
+Z 0 3838
+D1
+~
+~
+Z 0 3848
+D2
+~
+~
+Z 0 3840
+S
+#3840
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  
+ 
+A large sign points to the west.
+~
+0 RS inside
+E
+sign~
+WEST - Hallways of the Academy
+~
+D0
+~
+~
+Z 0 3839
+D1
+~
+~
+Z 0 3846
+D2
+~
+~
+Z 0 3842
+D3
+Past the double oak doors to the west lies the vestibule.
+~
+door~
+ABZ 0 3715
+S
+#3841
+~
+~
+0 C inside
+S
+#3842
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  
+~
+0 RS inside
+D0
+~
+~
+Z 0 3840
+D1
+~
+~
+Z 0 3850
+D2
+~
+~
+Z 0 3845
+S
+#3843
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  
+~
+0 RS inside
+D0
+~
+~
+Z 0 3849
+D1
+~
+~
+Z 0 3834
+D3
+~
+~
+Z 0 3844
+S
+#3844
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  
+~
+0 RS inside
+D0
+~
+~
+Z 0 3850
+D1
+~
+~
+Z 0 3843
+D3
+~
+~
+Z 0 3845
+S
+#3845
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  
+~
+0 RS inside
+D0
+~
+~
+Z 0 3842
+D1
+~
+~
+Z 0 3844
+S
+#3846
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  
+~
+0 RS inside
+D0
+~
+~
+Z 0 3848
+D1
+~
+~
+Z 0 3772
+D2
+~
+~
+Z 0 3850
+D3
+~
+~
+Z 0 3840
+S
+#3847
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  
+~
+0 RS inside
+D0
+~
+~
+Z 0 3836
+D1
+~
+~
+Z 0 3771
+D2
+~
+~
+Z 0 3772
+D3
+~
+~
+Z 0 3848
+S
+#3848
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  
+~
+0 RS inside
+D0
+~
+~
+Z 0 3837
+D1
+~
+~
+Z 0 3847
+D2
+~
+~
+Z 0 3846
+D3
+~
+~
+Z 0 3839
+S
+#3849
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  
+~
+0 RS inside
+D0
+~
+~
+Z 0 3772
+D1
+~
+~
+Z 0 3770
+D2
+~
+~
+Z 0 3843
+D3
+~
+~
+Z 0 3850
+S
+#3850
+The Sparring Courtyard~
+Large grey, white, and black flagstones pave the entire courtyard.  You
+feel like you are standing in a giant pit as you survey the cut stone walls
+rising some 120 feet overhead to meet the clear sky.  The last 15 feet form
+a walled enclosure at the ground level to prevent people from falling into
+the courtyard below.  
+~
+0 RS inside
+D0
+~
+~
+Z 0 3846
+D1
+~
+~
+Z 0 3849
+D2
+~
+~
+Z 0 3844
+D3
+~
+~
+Z 0 3842
+S
+#0
+
+#SPECIALS
+M 3705 spec_thief	* a shifty lizardman
+M 3707 spec_cast_adept	* the cleric teacher
+M 3708 spec_cast_adept	* a spirit of mercy
+M 3714 spec_fido	* the beast
+M 3718 spec_cast_adept	* A wraith
+M 3719 spec_cast_adept	* An adept
+M 3728 spec_cast_mage	* Meldrake
+M 3729 spec_cast_mage	* Belarius
+M 3731 spec_cast_mage	* Leomund
+M 3733 spec_cast_adept	* a spirit of mercy
+S
+
+#RESETS
+D 0 3700 2 1	* Entrance to the Training Academy: door to the south: closed
+D 0 3702 3 2	* The Hallway of Heroes: door to the west: closed and locked
+D 0 3703 1 2	* Hallways of the Academy: door to the east: closed and locked
+D 0 3709 0 2	* The Gargoyle's Chamber: door to the north: closed and locked
+D 0 3713 1 2	* The Hallway of Heroes: door to the east: closed and locked
+D 0 3714 0 2	* Outside the Cells: door to the north: closed and locked
+D 0 3714 2 2	* Outside the Cells: door to the south: closed and locked
+D 0 3714 3 2	* Outside the Cells: door to the west: closed and locked
+D 0 3714 5 1	* Outside the Cells: door to the down: closed
+D 0 3715 1 1	* Entrance to the Sparring Grounds: door to the east: closed
+D 0 3716 1 2	* Entrance to the Guest Quarters: door to the east: closed and locked
+D 0 3734 5 1	* Center of Arena: door to the down: closed
+D 0 3747 3 2	* At the Top of the Spiral Staircase: door to the west: closed and locked
+D 0 3748 4 1	* The Center of the Dungeon: door to the up: closed
+D 0 3761 4 1	* The Entrance to the Kobold Pen: door to the up: closed
+D 0 3765 3 2	* Inside the Entrance to the Guest Quarters: door to the west: closed and locked
+D 0 3773 2 2	* A Dark Jail Cell: door to the south: closed and locked
+D 0 3774 1 2	* A Dark Jail Cell: door to the east: closed and locked
+D 0 3775 0 2	* A Dark Jail Cell: door to the north: closed and locked
+D 0 3790 3 1	* The Hallway of Learning: door to the west: closed
+D 0 3791 1 1	* The Portal Room: door to the east: closed
+D 0 3798 1 1	* On the Spiral Staircase: door to the east: closed
+D 0 3799 3 1	* {RThe Red Room{x: door to the west: closed
+D 0 3802 0 1	* On the Spiral Staircase: door to the north: closed
+D 0 3804 2 1	* {GThe Green Room{x: door to the south: closed
+D 0 3806 3 1	* On the Spiral Staircase: door to the west: closed
+D 0 3808 1 1	* {YThe Yellow Room{x: door to the east: closed
+D 0 3810 2 1	* On the Spiral Staircase: door to the south: closed
+D 0 3811 0 1	* {BThe Blue Room{x: door to the north: closed
+D 0 3814 1 1	* On the Spiral Staircase: door to the east: closed
+D 0 3816 3 1	* {MThe Magenta Room{x: door to the west: closed
+D 0 3818 0 1	* On the Spiral Staircase: door to the north: closed
+D 0 3820 2 1	* {CThe Cyan Room{x: door to the south: closed
+D 0 3822 3 1	* {wThe Diamond Room{x: door to the west: closed
+D 0 3823 1 1	* Beneath the Stairwell: door to the east: closed
+D 0 3840 3 1	* The Sparring Courtyard: door to the west: closed
+M 0 3748 2 3701 1	* a young gnome adventurer (Hallways of the Academy)
+E 0 3708 0 8		*	{Wleather sandals{x: on the feet
+M 0 3750 1 3703 1	* a friendly little fido (Hallways of the Academy)
+M 0 3745 2 3708 1	* a young dwarven adventurer (Hallways of the Academy)
+E 0 3745 0 11		*	{Wa round metal shield{x: as a shield
+M 0 3706 1 3709 1	* a stone gargoyle (The Gargoyle's Chamber)
+E 0 3714 0 17		*	{Da skeleton key{x: held in the hands
+M 0 3701 1 3710 1	* a ravenous troll (The Dining Hall)
+G 0 3725 0		*	a strange ring
+O 0 3749 0 3710	* an oak table (The Dining Hall)
+M 0 3748 2 3712 1	* a young gnome adventurer (Hallways of the Academy)
+E 0 3703 0 5		*	a polished leather vest: on the body
+M 0 3745 2 3712 1	* a young dwarven adventurer (Hallways of the Academy)
+E 0 3706 0 6		*	{Da steel helmet{x: over the head
+M 0 3702 1 3714 1	* a cooshee (Outside the Cells)
+M 0 3703 2 3716 1	* a tall elven guard (Entrance to the Guest Quarters)
+G 0 3762 0		*	the key to the guest hall
+E 0 3751 0 16		*	an elven longsword: wielded
+M 0 3717 1 3718 1	* the academy shopkeeper (The Academy Store)
+G 0 3754 0		*	a strip of dried beef
+G 0 3138 0		*	a buffalo water skin
+G 0 3031 0		*	a hooded brass lantern
+O 0 3756 0 3720	* {Rt{Yh{Re {Yf{Rl{Ya{Rm{Ye{Rs {Yo{Rf {Yt{Re{Ys{Rt{Yi{Rn{Yg{x ({RBefore the Fires of Testing{x)
+M 0 3720 1 3721 1	* a firedrake ({RT{Yh{Re {YT{Rr{Yi{Ra{Yl {Ro{Yf {RC{Yo{Ru{Yr{Ra{Yg{Re{x)
+G 0 3715 0		*	{Ga {gfalcon{G crest insignia{x
+M 0 3708 1 3721 1	* a spirit of mercy ({RT{Yh{Re {YT{Rr{Yi{Ra{Yl {Ro{Yf {RC{Yo{Ru{Yr{Ra{Yg{Re{x)
+M 0 3733 1 3721 1	* a spirit of mercy ({RT{Yh{Re {YT{Rr{Yi{Ra{Yl {Ro{Yf {RC{Yo{Ru{Yr{Ra{Yg{Re{x)
+O 0 3758 0 3721	* a wall of smoke ({RT{Yh{Re {YT{Rr{Yi{Ra{Yl {Ro{Yf {RC{Yo{Ru{Yr{Ra{Yg{Re{x)
+M 0 3713 5 3724 5	* the snail (South West Corner of Arena)
+M 0 3712 3 3726 3	* the fox (South East Corner of Arena)
+M 0 3709 4 3734 4	* the rabbit (Center of Arena)
+M 0 3710 3 3742 3	* the lizard (North West Corner of Arena)
+M 0 3711 3 3746 3	* the boar (North East Corner of Arena)
+M 0 3714 1 3749 1	* the beast (The North West Corner of the Dungeon)
+M 0 3715 2 3751 2	* the bear (The North East Corner of the Dungeon)
+M 0 3716 2 3754 2	* the wolf (The South West Corner of the Dungeon)
+M 0 3700 1 3757 1	* Tzbrakas (Tzbrakas' Training Academy)
+M 0 3718 1 3758 1	* A wraith (Erebus' Training Room)
+M 0 3719 1 3759 1	* An adept (Momo's Guild Room)
+M 0 3721 27 3761 3	* a grinning kobold (The Entrance to the Kobold Pen)
+M 0 3721 27 3762 3	* a grinning kobold (Kobolds!!!)
+M 0 3721 27 3763 3	* a grinning kobold (Kobolds!!!)
+M 0 3721 27 3764 3	* a grinning kobold (Kobolds!!!)
+O 0 3760 0 3766	* a marble basin (A Guest Room)
+O 0 3753 0 3766	* teak dresser drawers (A Guest Room)
+O 0 3752 0 3766	* a large fourposter bed (A Guest Room)
+O 0 3760 0 3767	* a marble basin (A Guest Room)
+O 0 3753 0 3767	* teak dresser drawers (A Guest Room)
+O 0 3752 0 3767	* a large fourposter bed (A Guest Room)
+M 0 3746 1 3767 1	* a grumpy dwarf (A Guest Room)
+M 0 3736 30 3769 1	* a cloth practice dummy (The Sparring Courtyard)
+M 0 3737 30 3769 1	* a straw practice dummy (The Sparring Courtyard)
+M 0 3737 30 3770 1	* a straw practice dummy (The Sparring Courtyard)
+M 0 3736 30 3770 1	* a cloth practice dummy (The Sparring Courtyard)
+M 0 3736 30 3771 1	* a cloth practice dummy (The Sparring Courtyard)
+M 0 3737 30 3771 1	* a straw practice dummy (The Sparring Courtyard)
+M 0 3738 20 3772 2	* a leather practice dummy (The Sparring Courtyard)
+M 0 3704 6 3773 1	* an ogre (A Dark Jail Cell)
+E 0 3709 0 9		*	{Wblack leather gloves{x: on the hands
+M 0 3751 1 3774 1	* an evil fire giant (A Dark Jail Cell)
+E 0 3705 0 3		*	{ra bloodstained cloak{x: around the neck (1)
+M 0 3705 1 3775 1	* a shifty lizardman (A Dark Jail Cell)
+E 0 3710 0 10		*	{Dsteel vambraces{x: on the arms
+M 0 3721 27 3777 3	* a grinning kobold (Kobolds!!!)
+M 0 3721 27 3778 3	* a grinning kobold (Kobolds!!!)
+M 0 3721 27 3779 3	* a grinning kobold (Kobolds!!!)
+M 0 3721 27 3780 3	* a grinning kobold (Kobolds!!!)
+M 0 3721 27 3781 3	* a grinning kobold (Kobolds!!!)
+M 0 3749 1 3782 1	* a janitor (Entrance to the Academy Proper)
+E 0 3765 0 16		*	a pushbroom: wielded
+M 0 3730 1 3784 1	* a small boy (The Hallway of Learning)
+O 0 3737 0 3784	* a water fountain (The Hallway of Learning)
+O 0 3739 0 3790	* an ironbound chest (The Hallway of Learning)
+P 0 3704 1 3739 1	* an ironbound chest: {Wa steel buckler{x
+M 0 3731 1 3790 1	* Leomund (The Hallway of Learning)
+O 0 3740 0 3790	* {Ba {bp{Bi{be{Bc{be {Bo{bf {Br{bo{Bc{bk {Bc{ba{Bn{bd{By{x (The Hallway of Learning)
+M 0 3728 1 3791 1	* Meldrake (The Portal Room)
+O 0 3726 0 3791	* {Ya glowing portal{x (The Portal Room)
+M 0 3729 1 3792 1	* Belarius (A Hidden Portal Room)
+O 0 3727 0 3792	* {Ya glowing portal{x (A Hidden Portal Room)
+O 0 3744 0 3793	* the weapons rack (The Hallway of Learning)
+P 0 3700 1 3744 1	* the weapons rack: {ya wooden mace{x
+P 0 3701 1 3744 1	* the weapons rack: {wa tin dagger{x
+P 0 3702 1 3744 1	* the weapons rack: {ya small bronze sword{x
+P 0 3717 1 3744 1	* the weapons rack: {ya throwing spear{x
+P 0 3718 1 3744 1	* the weapons rack: {ya knotted staff{x
+P 0 3719 1 3744 1	* the weapons rack: {Ra {rc{Ro{rp{Rp{re{Rr {ra{Rx{re{x
+P 0 3720 1 3744 1	* the weapons rack: {ya wooden handled flail{x
+P 0 3721 1 3744 1	* the weapons rack: {Wa leather whip{x
+P 0 3722 1 3744 1	* the weapons rack: {Da steel tipped glaive{x
+P 0 3723 1 3744 1	* the weapons rack: {ya short bow{x
+P 0 3724 1 3744 1	* the weapons rack: {Da steel headed lance{x
+M 0 3732 1 3793 1	* a dwarven blacksmith (The Hallway of Learning)
+E 0 3746 0 16		*	a heavy iron hammer: wielded
+E 0 3747 0 17		*	a wood chisel: held in the hands
+O 0 3748 0 3795	* {wa park bench{x (The Hallway of Learning)
+M 0 3722 1 3799 1	* {Rthe ruby guardian{x ({RThe Red Room{x)
+E 0 3729 0 0		*	{Ra {rr{Ru{rb{Ry{x: as a light
+M 0 3739 3 3800 3	* a vampire bat (Floating Inside the Stairwell)
+E 0 3759 0 10		*	{Wb{Da{Wt {Dw{Wi{Dn{Wg{Ds{x: on the arms
+M 0 3723 1 3804 1	* {Gthe emerald guardian{x ({GThe Green Room{x)
+E 0 3730 0 0		*	{Ga{gn {ge{Gm{ge{Gr{ga{Gl{gd{x: as a light
+M 0 3725 1 3808 1	* {Ythe citrine guardian{x ({YThe Yellow Room{x)
+E 0 3732 0 0		*	{Ya {yc{Yi{yt{Yr{yi{Yn{ye{x: as a light
+M 0 3724 1 3811 1	* {Bthe sapphire guardian{x ({BThe Blue Room{x)
+E 0 3731 0 0		*	{Ba {bs{Ba{bp{Bp{bh{Bi{br{Be{x: as a light
+M 0 3726 1 3816 1	* {Mthe amethyst guardian{x ({MThe Magenta Room{x)
+E 0 3733 0 0		*	{Ma{mn {Ma{mm{Me{mt{Mh{my{Ms{mt{x: as a light
+M 0 3727 1 3820 1	* {Cthe topaz guardian{x ({CThe Cyan Room{x)
+E 0 3734 0 0		*	{Ca {ct{Co{cp{Ca{cz{x: as a light
+M 0 3742 1 3822 1	* {wthe diamond statue{x ({wThe Diamond Room{x)
+E 0 3761 0 0		*	{wa sparkling diamond{x: as a light
+O 0 3736 0 3823	* a crack in the floor (Beneath the Stairwell)
+P 0 3735 1 3736 1	* a crack in the floor: {Ya {Rd{gr{Ra{gg{Ro{gn{Y crested ring{x
+M 0 3747 2 3825 1	* a young satyr adventurer (Hallways of the Academy)
+E 0 3712 0 13		*	{ya wide leather belt{x: around the waist
+M 0 3747 2 3827 1	* a young satyr adventurer (Hallways of the Academy)
+E 0 3707 0 7		*	{Wstudded leather leggings{x: on the legs
+O 0 3760 0 3829	* a marble basin (A Guest Room)
+O 0 3753 0 3829	* teak dresser drawers (A Guest Room)
+O 0 3752 0 3829	* a large fourposter bed (A Guest Room)
+M 0 3741 2 3829 1	* a tired young satyr (A Guest Room)
+O 0 3760 0 3830	* a marble basin (A Guest Room)
+O 0 3753 0 3830	* teak dresser drawers (A Guest Room)
+O 0 3752 0 3830	* a large fourposter bed (A Guest Room)
+O 0 3760 0 3831	* a marble basin (A Guest Room)
+O 0 3753 0 3831	* teak dresser drawers (A Guest Room)
+O 0 3752 0 3831	* a large fourposter bed (A Guest Room)
+O 0 3760 0 3832	* a marble basin (A Guest Room)
+O 0 3753 0 3832	* teak dresser drawers (A Guest Room)
+O 0 3752 0 3832	* a large fourposter bed (A Guest Room)
+M 0 3740 1 3832 1	* a tired gnome (A Guest Room)
+M 0 3744 1 3833 1	* an elven guard (A Guard Room)
+E 0 3751 0 16		*	an elven longsword: wielded
+M 0 3743 1 3833 1	* the head of the guard (A Guard Room)
+E 0 3763 0 16		*	an elven longsword: wielded
+E 0 3711 0 12		*	{ga forest-green cape{x: about the shoulders
+E 0 3713 0 15		*	{Wa reinforced leather bracer{x: on the right wrist
+E 0 3764 0 13		*	a ring of keys: around the waist
+M 0 3738 8 3834 1	* a leather practice dummy (The Sparring Courtyard)
+M 0 3737 30 3835 2	* a straw practice dummy (The Sparring Courtyard)
+M 0 3736 30 3836 2	* a cloth practice dummy (The Sparring Courtyard)
+M 0 3737 30 3836 1	* a straw practice dummy (The Sparring Courtyard)
+M 0 3737 30 3837 2	* a straw practice dummy (The Sparring Courtyard)
+M 0 3738 20 3838 1	* a leather practice dummy (The Sparring Courtyard)
+M 0 3736 30 3839 2	* a cloth practice dummy (The Sparring Courtyard)
+M 0 3737 30 3840 1	* a straw practice dummy (The Sparring Courtyard)
+M 0 3736 30 3840 1	* a cloth practice dummy (The Sparring Courtyard)
+M 0 3737 30 3842 1	* a straw practice dummy (The Sparring Courtyard)
+M 0 3736 30 3842 1	* a cloth practice dummy (The Sparring Courtyard)
+M 0 3737 30 3843 2	* a straw practice dummy (The Sparring Courtyard)
+M 0 3736 30 3844 2	* a cloth practice dummy (The Sparring Courtyard)
+M 0 3737 30 3844 1	* a straw practice dummy (The Sparring Courtyard)
+M 0 3737 30 3845 2	* a straw practice dummy (The Sparring Courtyard)
+M 0 3738 20 3846 2	* a leather practice dummy (The Sparring Courtyard)
+M 0 3738 20 3847 1	* a leather practice dummy (The Sparring Courtyard)
+M 0 3737 30 3848 1	* a straw practice dummy (The Sparring Courtyard)
+M 0 3736 30 3848 1	* a cloth practice dummy (The Sparring Courtyard)
+M 0 3736 30 3849 2	* a cloth practice dummy (The Sparring Courtyard)
+M 0 3738 20 3850 1	* a leather practice dummy (The Sparring Courtyard)
+S
+
+#SHOPS
+3717 1 15 17 19 0 100 100 0 23
+0
+
+#MOBPROGS
+#3700
+pmote bows before $n with a flourish of his cape.
+say Welcome to my Academy, young one.  Train hard that you may learn to fend for yourself.
+emote turns to the north.
+say The Academy lies to the north, proceed within.
+~
+#3701
+~
+#3702
+if rand 90
+end
+endif
+yell I'm being attacked!
+if rand 10
+yell Guards, to Arms!
+mob mload 3734
+mob echoat $n An angry elven guard comes running.
+else
+if rand 70
+end
+endif
+yell Help!
+endif
+~
+#3703
+snarl
+if rand 20
+end
+endif
+yell To arms guards, $n is attacking us!
+mob echoat $n An angry elven guard comes running.
+mob mload 3734
+end
+~
+#3704
+bow tall
+mob goto 3833
+~
+#3705
+~
+#3706
+say {RIf you can not defeat me, then you stand no chance in overcoming the final trial.{x
+~
+#3707
+say {RIf you can not defeat me, then you will stand no chance in overcoming the final trial.{x
+~
+#3708
+unlock east
+open east
+emote gestures toward the east.
+say Welcome to the Guest Hall, enjoy your stay
+end
+ 
+~
+#3709
+say Greetings young one, if you wish to enter the Guest Hall say "yes, please"
+end
+~
+#3710
+whistle self
+emote sweeps the floor as he walks down the hallway.
+end
+~
+#3711
+if objexists 'key shiny'
+mob echo The fido waits expectantly for $n to throw something.
+else
+mob oload 3757 room
+mob echo Thinking that $n had thrown something, the fido runs off barking happily.
+mob echo The fido races back and drops something at $s feet.
+end
+~
+#3717
+pmote nods at $n in greeting.
+say Welcome to my humble store.
+say Take a look around and tell me if anything catches your interest.
+~
+#3720
+emote wails 'My spellbook, my precious spellbook, if you could help me find it I'd be MOST grateful!'
+pmote looks at $n hopefully.
+~
+#3721
+mob junk tome
+say You've found it!!!  My foolish nephew Belarius....
+mutter self
+say Thankyou.  Thankyou so much.  As a token of my gratitude, please take this.
+mob oload 3743
+give flame $n
+~
+#3722
+say Ahh, yes, excellant, that'll work...hmmm...that's interesting....
+if rand 45
+emote looks up, scratches his head, the resumes his perusal of the tome.
+end
+endif
+if rand 35
+say Really, amazing...fabulous...where does he learn these?
+shake
+end
+~
+#3723
+say Oh...hmm, that's not good, no, really not good, hurry back to him with this.
+cringe
+mob oload 3742
+give tome $n
+end
+~
+#3724
+say I believe you, now hurry back to him with that spellbook...Quickly!
+shiver
+end
+~
+#3725
+say Oh no, I can't take it back to him now, he'll kill me!
+say Enter the portal and give the Tome back to my uncle for me please?
+pmote whimpers pitifully to $n.
+give tome $n
+~
+#3728
+grumble
+if rand 45
+say I know it's here somewhere...
+if rand 38
+emote rummages through a large, untidy pile of scrolls.
+mutter self
+if rand 30
+emote exclaims #!%@!%*&% !!!!
+say Now where did I put it!?...
+end
+~
+#3730
+smile $n
+say You look hungry, here's an apple for you.
+mob oload 3738
+give apple $n
+~
+#3731
+emote with a snap of his fingers, Leomund creates {Wa steel buckler.{x
+mob oload 3704
+put buck che
+~
+#3732
+mob oload 3740
+drop rock
+~
+#3733
+mob junk token
+mob oload 3728
+emote creates {ya leather {Rn{Ge{Yw{Bb{Mi{Ce {Rb{Ga{Yc{Bk{Mp{Ca{Rc{Gk{x with a snap of his fingers.
+give pack $n
+~
+#3734
+emote quickly, and skillfully chisels a new mace.
+mob oload 3700
+put mace rack
+~
+#3735
+emote quickly, and skillfully forges a new dagger.
+mob oload 3701
+put dag rack
+~
+#3736
+emote quickly, and skillfully forges a new sword.
+mob oload 3702
+put swo rack
+~
+#3737
+emote quickly, and skillfully crafts a new spear.
+mob oload 3717
+put spear rack
+~
+#3738
+emote quickly, and skillfully crafts a new staff.
+mob oload 3718
+put staff rack
+~
+#3739
+emote quickly, and skillfully forges a new axe.
+mob oload 3719
+put axe rack
+~
+#3740
+emote quickly, and skillfully crafts a new flail.
+mob oload 3720
+put flail rack
+~
+#3741
+emote quickly, and skillfully crafts a new whip.
+mob oload 3721
+put whip rack
+~
+#3742
+emote quickly, and skillfully crafts a new glaive.
+mob oload 3722
+put glaive rack
+~
+#3743
+emote quickly, and skillfully crafts a new bow.
+mob oload 3723
+put bow rack
+~
+#3744
+emote quickly, and skillfully crafts a new lance.
+mob oload 3724
+put lance rack
+~
+#3745
+say Ouah, chucken, oi LOVES chucken!
+mob oload 3750
+put chicken table
+~
+#3746
+if rand 30
+echo Glarglhmf...MmmMmm....Sschlurpp!
+emote slurps noisily.
+if rand 50
+get chicken table
+emote greedily tears off a long strip of chicken and gobbles it down.
+eat chicken
+end
+endif
+if rand 50
+drool
+end
+~
+#3747
+yell Moin!!! That's moin $n! Give it ere now eh?!
+pmote lurches from his chair and lunges towards $n.
+murder $n
+~
+#0
+
+#PRACTICERS
+M 3719 weaponsmaster attack beguiling benedictions combat creation curative detection draconian enchantment enhancement harmful healing illusion maladictions protective transportation weather fightmaster suddendeath meditation defensive wizard~	* An adept
+S
+
+#OMPROGS
+O 3700 fight_prog fight_prog_sub_weapon	* `{ya wooden mace{x'
+O 3701 fight_prog fight_prog_sub_weapon	* `{wa tin dagger{x'
+O 3702 fight_prog fight_prog_sub_weapon	* `{ya small bronze sword{x'
+O 3717 fight_prog fight_prog_sub_weapon	* `{ya throwing spear{x'
+O 3718 fight_prog fight_prog_sub_weapon	* `{ya knotted staff{x'
+O 3719 fight_prog fight_prog_sub_weapon	* `{Ra {rc{Ro{rp{Rp{re{Rr {ra{Rx{re{x'
+O 3720 fight_prog fight_prog_sub_weapon	* `{ya wooden handled flail{x'
+O 3721 fight_prog fight_prog_sub_weapon	* `{Wa leather whip{x'
+O 3722 fight_prog fight_prog_sub_weapon	* `{Da steel tipped glaive{x'
+S
+
+#$

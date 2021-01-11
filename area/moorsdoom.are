@@ -1,0 +1,2888 @@
+#AREADATA
+Name Moors of Doom~
+Builders arquel~
+VNUMs 50000 50999
+Security 1
+LevelRange 1 90
+End
+
+#MOBILES
+#50000
+skeleton undead warrior~
+~
+~
+~
+undead~
+AOe 0 -1000 0
+5 0 1d20+45 0d0+0 2d2+6 claw
+1 9 7 3
+R F 0 E
+stand stand either 300
+0 0 medium unknown
+F aff U
+#50010
+werewolf wolf manwolf shapeshifter~
+A large wolf-like man.~
+A werewolf stands before you his fangs gleaming in the moonlight
+~
+~
+human~
+AFLTW DFHOVacis -500 0
+30 10 5d120+499 2d100+200 5d12+0 claw
+-10 -10 -10 2
+CDFH MQXZ EFG Y
+stand stand either 30000
+0 U large unknown
+F for AV
+#0
+
+#OBJECTS
+#50000
+corpse parchment~
+A {grotting corpse{x clutching a piece of {yparchment{x.~
+Moors of Doom created by Arquel for levels 1 to 90. Have a horror-filled stay...~
+rotting flesh~
+npc_corpse JKLOR P
+0 0 0 0 0
+99 0 0 P
+#0
+
+#ROOMS
+#50000
+Edge of the Woods~
+As you reach the edge of the forest a gloomy sight meets your gaze, for
+the land before you is dreary and fog shrouded.  Clouds seem to block all
+sunlight, allowing only a gloomy gray light through to ground level where
+the cold mists and fogs of this wretched land swallow it.  In the distance a
+dim light offers a beacon of hope, drawing your gaze to a town squeezed
+between the dark moors and an even darker castle beyond.  Before you the
+path approaches the village, behind you the wooded path that led you here
+seems more menacing by the moment.  A wasted corpse holds a small scrap of
+{yparchment{x and looks like he was trying to reach the forest.  Your only
+choices are north to the town, or south into the woods.  
+~
+0 A forest
+E
+parchment~
+The parchment reads: Moors of Doom created by Arquel for levels 1 to 90. 
+                      Have a horror-filled stay...  
+~
+D0
+A rough track curves down from the forest, heading in the direction of
+town.  On either side of the road are {Dblack{x iron fences with sharp points
+along the top which seem to seperate the road from a large graveyard.  
+~
+~
+Z 0 50001
+S
+#50001
+The Dark Path Begins~
+As you travel along this dark path, you get the feeling you are being
+watched.  Is it only the muffled echo of your steps or does one follow you,
+their steps slightly behind yours?  Eerie shadows dance in the graveyards to
+either side of the path, is something there or is the fog playing tricks on
+your eyes?  Try as you might you can't help but increase your pace, ahead
+just past the graveyard entrance is the path into town.  In the other
+direction the path climbs towards the forest's edge.  The choice is yours,
+do you go north to the graveyard's entrance, or south back into the eerie
+forest.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50002
+D2
+~
+~
+Z 0 50000
+S
+#50002
+Graveyard Gates~
+You stand before the gates to an old graveyard.  A pair of gray stone
+pillars enclose a pair of black iron gates held closed by a large rusted
+lock.  Fences out of the same iron of the gates encloses the graveyard, the
+sharp spikes along the top meant to discourage climbing.  Strange shapes
+move among the gravestones, or is it just the fog, regardless you feel like
+you are being watched.  Noises float through the fog-laden air, eerie creaks
+and groans that make you wonder why you are out here in the dark, instead of
+safe back at the inn in town.  The path runs north towards town, and south
+back to the forest, the only other exit are the gates to the east.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50003
+D2
+~
+~
+Z 0 50001
+S
+#50003
+The Dark Path Continues~
+As you walk along this path, you pause...  Was that just the echo of your
+steps or someone following you in the dense fog.  As you consider your
+options, movement within the graveyard catches you eyes, or is it just fog
+blowing between the cracked gravestones.  A chill runs down your spine, not
+entirely from cold as you decide to move on.  The rough track continues
+south to the graveyard's entrance or north towards a crossroads just before
+the dark town.  In the distance beyond the town is the looming silhouette of
+a large castle.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50004
+D2
+~
+~
+Z 0 50002
+S
+#50004
+The Crossroads~
+You have finally arrived at a deserted crossroads between the graveyard
+and the town.  Looking to the east you see a dark stone-paved path leading
+to a dark and dreary manor house.  Glancing down the path in the opposite
+direction you see the start of the moors from which this region takes its
+name.  Some music, slow and lonely drifts in from the north where you can
+see the feeble gleam of a campfire between you and the town.  The path south
+is unpaved and runs past the graveyard gates a short walk away.  Next to the
+intersection is a large tree barren of leaves or fruit, upon this stout tree
+is nailed a {yparchment{x.  A slight creak pulls your gaze to the empty
+hangman's noose on the branch above.  An eerie scream cut suddenly short,
+encourages you to move on along one of the four paths.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50006
+D1
+~
+~
+Z 0 50007
+D2
+~
+~
+Z 0 50003
+D3
+~
+~
+Z 0 50005
+S
+#50005
+Before the Moors~
+Before you is a fog-shrouded moor of dark and deadly reputation.  A full
+moon shines down upon the fog covered wasteland of brush and shallow swamps.
+The stone path vanishes into the moor, its last stones gleaming a dozen feet
+into the dismal landscape.  An eerie howl comes from somewhere upon the
+moor, making you hope that whatever caused it stays far away from you. 
+Nearby to the east is a crossroads which would lead to town, to the west is
+only the trackless wastes of the moor.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50004
+D3
+~
+~
+Z 0 50100
+S
+#50006
+The Bridged Brook~
+~
+0 0 inside
+D0
+~
+~
+Z 0 50008
+D2
+~
+~
+Z 0 50004
+S
+#50007
+Path to Manor~
+~
+0 0 inside
+D1
+~
+~
+Z 0 50009
+D3
+~
+~
+Z 0 50004
+S
+#50008
+Near the Gypsy Camp~
+~
+0 0 inside
+D0
+Stout wooden gates bound with iron bands block you progress.  
+~
+south gate~
+ABZ 0 50021
+D1
+~
+~
+Z 0 50012
+D2
+~
+~
+Z 0 50006
+S
+#50009
+Beside the Brook~
+~
+0 0 inside
+D1
+~
+~
+Z 0 50010
+D3
+~
+~
+Z 0 50007
+D5
+~
+~
+Z 0 50011
+S
+#50010
+Before the Old Manor~
+~
+0 0 inside
+D3
+~
+~
+Z 0 50009
+S
+#50011
+Hiding Place~
+~
+0 0 inside
+D4
+~
+~
+Z 0 50009
+S
+#50012
+Entrance to the Gypsy Camp~
+Before you is a small clearing in the lightly wooded area before the
+town's walls.  The fog here is nearly non-existent, almost as if the raging
+bonfire to your east has driven it away.  Wagon tracks mar the grassy ground
+with the marks of heavy loads and to the south you here a quiet whinny. 
+Beyond the bonfire you can just make about a couple of brightly colored
+wagons, shadows dance as a gypsy dancer whirls past the fire and the tempo
+of the music picks up as if to drive out the fear you've felt in this land. 
+
+~
+0 0 inside
+D1
+~
+~
+Z 0 50014
+D2
+~
+~
+Z 0 50013
+D3
+~
+~
+Z 0 50008
+S
+#50013
+By the Brook~
+Bubbling through this corner of the clearing is a small brook of clear
+water, the first clean water you have seen in this blighted land.  Looking
+around you see a set of wagon horses tethered within reach of the brook,
+piles of oats and hay are placed within easy reach as well.  Music comes
+from the nearby campfire almost as if to keep the dark at bay.  Shadows from
+the trees reach eerily for you as you consider moving on, you can go east to
+the nearest of the wagons or north to the entrance.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50012
+D1
+~
+~
+Z 0 50015
+S
+#50014
+Campfire~
+In the center of the clearing is a huge bonfire, that seems to be burning
+more wood than the surrounding woods could have yielded.  Various gypsies
+dance about the fire in wild abandon, watched by a small crowd of townsmen,
+who in turn are watched by a group of gypsy males who are fingering their
+knives.  Gypsy children run around with food and drink for the guests, and
+if a few guests end up paying more than they realize, that is to be expected
+from gypsies.  Wagons are parked to the south and east, and west leads back
+out of the clearing.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50016
+D2
+~
+~
+Z 0 50015
+D3
+~
+~
+Z 0 50012
+S
+#50015
+Near a Blue Wagon~
+In this southern section of the camp all is quiet, well as quiet as it
+can be with the music from the nearby bonfire.  Before you is a large gypsy
+wagon, with decorative woodwork and some shuttered windows.  The leaping
+firelight from behind you creates eerie shadows upon this sky-blue wagon
+with yellow trim.  A set of sturdy steps lead up to the door in the rear of
+the wagon, under which you see a glimmer of yellow light.  To the east you
+see a pale shape that is probably another wagon, while to the north the
+bonfire still burns and to the west you hear the sound of a brook and a
+quiet whinny.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50014
+D1
+~
+~
+Z 0 50017
+D3
+~
+~
+Z 0 50013
+S
+#50016
+Near a Red Wagon~
+You are on the eastern edge of the clearing, the light and noise from the
+bonfire at your back.  Before you is a large gypsy wagon, with decorative
+woodwork and some shuttered windows.  The leaping firelight from behind you
+creates eerie shadows upon this blood-red wagon, barely illuminating the
+steps leading up to the door in the rear of the wagon.  Near the wagon is a
+tree with a series a small gashes in it as if someone is using it as a
+target for a bladed weapon.  To the west is the campfire and the music,
+while to the south is another wagon.  
+~
+0 0 inside
+D2
+~
+~
+Z 0 50017
+D3
+~
+~
+Z 0 50014
+S
+#50017
+The White Wagon~
+~
+0 0 inside
+D0
+~
+~
+Z 0 50016
+D3
+~
+~
+Z 0 50015
+S
+#50021
+South Gate~
+You stand just inside the city's South Gate.  The wooden walls run off to
+the east and west, the ends of each log sharpened to a point and capped with
+what looks like a silver point.  The gates themselves are made of sturdy
+oak, reinforced with iron straps, and barred by a large beam made of the
+same oak as the gate.  A paved path leads off along the wall in both
+directions, and another wider street leads north into the town.  Above you
+in a sturdy gatehouse, a guardsman stares down, as if wondering when you'll
+move on.  The gatehouse is supported by four large stone pillars and seems
+to be designed to withstand any assault.  You can north along Main Street,
+east or west along the wall, or back out the gate to the south.  
+~
+0 0 city
+D0
+~
+~
+Z 0 50022
+D1
+~
+~
+Z 0 50048
+D2
+~
+~
+ABZ 0 50008
+D3
+~
+~
+Z 0 50049
+D4
+~
+~
+Z 0 50094
+S
+#50022
+South Main Street-Near the South Gate~
+You are on a paved street just north of the South Gate.  A medium-sized
+building to the east seems to be some kind of bookstore or library, though
+its hard to tell which since it seems deserted.  To your west is a {rsign
+of sword and shield{x with some writing under it.  As you walk along it is
+hard to avoid the depression that seems to float above this town, like the
+gray clouds that never clear.  To the north Main Street widens out into a
+small intersection.  You may go north further into town, south to the gates,
+or enter one of the buildings to the east and west.  
+~
+0 0 inside
+E
+sign~
+The words under the sign say 'Headquarters of the Town Watch'
+~
+D0
+~
+~
+Z 0 50023
+D1
+~
+~
+Z 0 50160
+D2
+~
+~
+Z 0 50021
+D3
+~
+~
+Z 0 50159
+S
+#50023
+South Main Street-Guild Square~
+Main Street widens out a little here as it intersects Guild Road.  In the
+distance to the east and west you can see the signs of the guildhalls. 
+Nearer to hand are the many people rushing to and from the guildhalls with a
+furtive glance over their shoulders every now and then.  To the north and
+south Main Street narrows down a little and heads towards the square to the
+north, or the gates to the south.  You may go down Guild Road to the east
+and west or along Main Street to the north and south.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50024
+D1
+~
+~
+Z 0 50085
+D2
+~
+~
+Z 0 50022
+D3
+~
+~
+Z 0 50084
+S
+#50024
+South Main Street-Near Town Square~
+Sandwiched between Guild Square and the Town Square, this small section
+of Main Street sees an unusually high amount of travelers.  Whether they are
+heading into the square to shop, or towards the guilds seeking work, the
+villagers all have one thing in common fear!  It shows in the furtive
+glances over their shoulders and the refusal to meet the eyes of both other
+villagers or the lounging Town Guards nearby.  You can travel north to the
+Town Square or south to the intersection of Guild Road and Main Street.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50025
+D2
+~
+~
+Z 0 50023
+S
+#50025
+Town Square-South~
+You are standing in the southernmost section of the Town Square.  Looking
+around quietly you notice the furtive movements of the townspeople as they
+try not to attract the attention of the lounging guardsmen.  Small stores
+line the square between a large house, an enormous temple, and a slightly
+smaller Inn which dominate the square.  To the north you see a large
+fountain shaped like an angel with a flaming sword held upright above the
+fountain.  You may leave the square to the south or go deeper into the
+square in another direction.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50026
+D1
+~
+~
+Z 0 50081
+D2
+~
+~
+Z 0 50024
+D3
+~
+~
+Z 0 50080
+S
+#50026
+Town Square~
+You are standing near the center of the Town Square.  In all directions
+the square extends out allowing you a good view of others within the square.
+Looking around quietly you notice the furtive movements of the townspeople
+as they try not to attract the attention of the lounging guardsmen.  Small
+stores line the square between a large house, an enormous temple, and a
+slightly smaller Inn which dominate the square.  Next to you is a large
+fountain shaped like an {rangel with a flaming sword{x held upright above
+the {gfountain{x.  You may leave the fountain in any direction.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50027
+D1
+~
+~
+Z 0 50077
+D2
+~
+~
+Z 0 50025
+D3
+~
+~
+Z 0 50076
+S
+#50027
+Town Square-North~
+You are standing in the northernmost section of the Town Square.  Looking
+around quietly you notice the furtive movements of the townspeople as they
+try not to attract the attention of the lounging guardsmen.  Small stores
+line the square between a large house, an enormous temple, and a slightly
+smaller Inn which dominate the square.  To the south you see a large
+fountain shaped like an angel with a flaming sword held upright above the
+fountain.  You may leave the square to the north or go deeper into the
+square in another direction.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50028
+D1
+~
+~
+Z 0 50073
+D2
+~
+~
+Z 0 50026
+D3
+~
+~
+Z 0 50072
+S
+#50028
+North Main Street-Near Square~
+You are walking along Main Street just north of the fearful bustle of the
+Town Square.  Guardsmen look at you as they pass but none seem inclined to
+challenge your presence here yet.  Fearful townsfolk scurry by trying to
+avoid attracting an type of notice, and as the guardsmen beat one that
+caught their notice you see why.  You are not surprised that no one seems
+likely to help the poor unfortunate.  You can wander south into the square
+or north along Main Street.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50029
+D2
+~
+~
+Z 0 50027
+S
+#50029
+North Main Street-Common Square~
+You are in a small square to the north of the Town Square.  Leading off
+this square is not only the Main Street to the north and south, but also the
+Commons to east and west.  Various houses and residences are in the distance
+along the dimly light Commons, with an occasional office or store.  People
+pass through the square quickly and in relative safety from the Town Guard,
+it seems even the guard doesn't want to deal with being between the mob of
+townsfolk and their homes.  You can leave the square in any direction along
+the two roads.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50030
+D1
+~
+~
+Z 0 50069
+D2
+~
+~
+Z 0 50028
+D3
+~
+~
+Z 0 50068
+S
+#50030
+North Main Street-Near Gate~
+You are walking along Main Street just south of the feared North Gate. 
+Far to the south is the bustle of the Common Square.  Guardsmen look at you
+as they pass and some even look back at you, but none seem inclined to
+challenge your presence here yet.  Fearful townsfolk scurry by trying to
+avoid attracting an type of notice, and as the guardsmen beat one that
+caught their notice you see why.  You are not surprised that no one seems
+likely to help the poor unfortunate.  To your east is a run-down building
+that claims to be a magic shop, and fittingly enough the beggar's hall is
+across the street to the west.  You can wander south into the square, enter
+the buildings to east and west, or go north to the North Gate.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50031
+D2
+~
+~
+Z 0 50029
+S
+#50031
+North Gate~
+You stand just inside the city's North Gate.  The wooden walls run off to
+the east and west, the ends of each log sharpened to a point and capped with
+what looks like a silver point.  The gates themselves are made of sturdy
+oak, reinforced with iron straps, and barred by a large beam made of the
+same oak as the gate.  A paved path leads off along the wall in both
+directions, and another wider street leads south into the town.  Above you
+in a sturdy gatehouse, a guardsman stares down, as if wondering when you'll
+move on.  The gatehouse is supported by four large stone pillars and seems
+to be designed to withstand any assault.  You can south along Main Street,
+east or west along the wall, or back out the gate to the north.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50032
+D2
+~
+~
+Z 0 50030
+D3
+~
+~
+Z 0 50065
+D4
+~
+~
+Z 0 50089
+S
+#50032
+Along the North Wall~
+You are walking along the city's north wall.  The wooden walls run off to
+the east and west, the ends of each log sharpened to a point and capped with
+what looks like a silver point.  From beyond the wall eerie noises assault
+you and your first thought is will the wall hold.  A paved path leads off
+along the wall in both directions eventually ending at the gates and towers
+built into the wall.  You can west or east along the wall.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50033
+D3
+~
+~
+Z 0 50031
+S
+#50033
+Along the North Wall~
+You are walking along the city's north wall.  The wooden walls run off to
+the east and west, the ends of each log sharpened to a point and capped with
+what looks like a silver point.  From beyond the wall eerie noises assault
+you and your first thought is will the wall hold.  A paved path leads off
+along the wall in both directions eventually ending at the gates and towers
+built into the wall.  You can west or east along the wall.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50034
+D3
+~
+~
+Z 0 50032
+S
+#50034
+Along the North Wall~
+You are walking along the city's north wall.  The wooden walls run off to
+the east and west, the ends of each log sharpened to a point and capped with
+what looks like a silver point.  From beyond the wall eerie noises assault
+you and your first thought is will the wall hold.  A paved path leads off
+along the wall in both directions eventually ending at the gates and towers
+built into the wall.  You can west or east along the wall.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50035
+D3
+~
+~
+Z 0 50033
+S
+#50035
+Northeast Tower~
+You are standing in the base of one of the city's many towers.  The tower
+climbs about 25 feet into the cloudy sky and seems to be made of gray
+granite.  This bottom level is empty, except for the stairs up to the door
+to the second level, and openings leading to the wall paths.  You may move
+out along one of the wall paths, or hope the guards upstairs don't mind you
+visiting them.  Rumors have the guards as a cruel and sadistic lot, so maybe
+the wall paths are a better choice.  
+~
+0 0 inside
+D2
+~
+~
+Z 0 50036
+D3
+~
+~
+Z 0 50034
+D4
+~
+~
+Z 0 50090
+S
+#50036
+Along the East Wall~
+You are walking along the city's east wall.  The wooden walls run off to
+the north and south, the ends of each log sharpened to a point and capped
+with what looks like a silver point.  From beyond the wall eerie noises
+assault you and your first thought is will the wall hold.  A paved path
+leads off along the wall in both directions eventually ending at the gates
+and towers built into the wall.  You can north or south along the wall.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50035
+D2
+~
+~
+Z 0 50037
+S
+#50037
+Along the East Wall~
+You are walking along the city's east wall.  The wooden walls run off to
+the north and south, the ends of each log sharpened to a point and capped
+with what looks like a silver point.  From beyond the wall eerie noises
+assault you and your first thought is will the wall hold.  A paved path
+leads off along the wall in both directions eventually ending at the gates
+and towers built into the wall.  You can north or south along the wall.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50036
+D2
+~
+~
+Z 0 50038
+S
+#50038
+Along the East Wall~
+You are walking along the city's east wall.  The wooden walls run off to
+the north and south, the ends of each log sharpened to a point and capped
+with what looks like a silver point.  From beyond the wall eerie noises
+assault you and your first thought is will the wall hold.  A paved path
+leads off along the wall in both directions eventually ending at the gates
+and towers built into the wall.  You can north or south along the wall.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50037
+D2
+~
+~
+Z 0 50039
+S
+#50039
+Along the East Wall~
+You are walking along the city's east wall.  The wooden walls run off to
+the north and south, the ends of each log sharpened to a point and capped
+with what looks like a silver point.  From beyond the wall eerie noises
+assault you and your first thought is will the wall hold.  A paved path
+leads off along the wall in both directions eventually ending at the gates
+and towers built into the wall.  You can north or south along the wall.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50038
+D2
+~
+~
+Z 0 50040
+S
+#50040
+East Gate~
+You stand just inside the city's East Gate.  The wooden walls run off to
+the north and south, the ends of each log sharpened to a point and capped
+with what looks like a silver point.  The gates themselves are made of
+sturdy oak, reinforced with iron straps, and barred by a large beam made of
+the same oak as the gate.  A paved path leads off along the wall in both
+directions, and another wider street leads north into the town.  Above you
+in a sturdy gatehouse, a guardsman stares down, as if wondering when you'll
+move on.  The gatehouse is supported by four large stone pillars and seems
+to be designed to withstand any assault.  You can west along Central Street,
+north or south along the wall, or back out the gate to the east.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50039
+D2
+~
+~
+Z 0 50041
+D3
+~
+~
+Z 0 50079
+D4
+~
+~
+Z 0 50092
+S
+#50041
+Along the East Wall~
+You are walking along the city's east wall.  The wooden walls run off to
+the north and south, the ends of each log sharpened to a point and capped
+with what looks like a silver point.  From beyond the wall eerie noises
+assault you and your first thought is will the wall hold.  A paved path
+leads off along the wall in both directions eventually ending at the gates
+and towers built into the wall.  You can north or south along the wall.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50040
+D2
+~
+~
+Z 0 50042
+S
+#50042
+Along the East Wall~
+You are walking along the city's east wall.  The wooden walls run off to
+the north and south, the ends of each log sharpened to a point and capped
+with what looks like a silver point.  From beyond the wall eerie noises
+assault you and your first thought is will the wall hold.  A paved path
+leads off along the wall in both directions eventually ending at the gates
+and towers built into the wall.  You can north or south along the wall.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50041
+D2
+~
+~
+Z 0 50043
+S
+#50043
+Along the East Wall~
+You are walking along the city's east wall.  The wooden walls run off to
+the north and south, the ends of each log sharpened to a point and capped
+with what looks like a silver point.  From beyond the wall eerie noises
+assault you and your first thought is will the wall hold.  A paved path
+leads off along the wall in both directions eventually ending at the gates
+and towers built into the wall.  You can north or south along the wall.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50042
+D2
+~
+~
+Z 0 50044
+S
+#50044
+Along the East Wall~
+You are walking along the city's east wall.  The wooden walls run off to
+the north and south, the ends of each log sharpened to a point and capped
+with what looks like a silver point.  From beyond the wall eerie noises
+assault you and your first thought is will the wall hold.  A paved path
+leads off along the wall in both directions eventually ending at the gates
+and towers built into the wall.  You can north or south along the wall.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50043
+D2
+~
+~
+Z 0 50045
+S
+#50045
+Southeast Tower~
+You are standing in the base of one of the city's many towers.  The tower
+climbs about 25 feet into the cloudy sky and seems to be made of gray
+granite.  This bottom level is empty, except for the stairs up to the door
+to the second level, and openings leading to the wall paths.  You may move
+out along one of the wall paths, or hope the guards upstairs don't mind you
+visiting them.  Rumors have the guards as a cruel and sadistic lot, so maybe
+the wall paths are a better choice.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50044
+D3
+~
+~
+Z 0 50046
+D4
+~
+~
+Z 0 50095
+S
+#50046
+Along the South Wall~
+You are walking along the city's south wall.  The wooden walls run off to
+the east and west, the ends of each log sharpened to a point and capped with
+what looks like a silver point.  From beyond the wall eerie noises assault
+you and your first thought is will the wall hold.  A paved path leads off
+along the wall in both directions eventually ending at the gates and towers
+built into the wall.  You can west or east along the wall.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50045
+D3
+~
+~
+Z 0 50047
+S
+#50047
+Along the South Wall~
+You are walking along the city's south wall.  The wooden walls run off to
+the east and west, the ends of each log sharpened to a point and capped with
+what looks like a silver point.  From beyond the wall eerie noises assault
+you and your first thought is will the wall hold.  A paved path leads off
+along the wall in both directions eventually ending at the gates and towers
+built into the wall.  You can west or east along the wall.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50046
+D3
+~
+~
+Z 0 50048
+S
+#50048
+Along the South Wall~
+You are walking along the city's south wall.  The wooden walls run off to
+the east and west, the ends of each log sharpened to a point and capped with
+what looks like a silver point.  From beyond the wall eerie noises assault
+you and your first thought is will the wall hold.  A paved path leads off
+along the wall in both directions eventually ending at the gates and towers
+built into the wall.  You can west or east along the wall.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50047
+D3
+~
+~
+Z 0 50021
+S
+#50049
+Along the South Wall~
+You are walking along the city's south wall.  The wooden walls run off to
+the east and west, the ends of each log sharpened to a point and capped with
+what looks like a silver point.  From beyond the wall eerie noises assault
+you and your first thought is will the wall hold.  A paved path leads off
+along the wall in both directions eventually ending at the gates and towers
+built into the wall.  You can west or east along the wall.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50021
+D3
+~
+~
+Z 0 50050
+S
+#50050
+Along the South Wall~
+You are walking along the city's south wall.  The wooden walls run off to
+the east and west, the ends of each log sharpened to a point and capped with
+what looks like a silver point.  From beyond the wall eerie noises assault
+you and your first thought is will the wall hold.  A paved path leads off
+along the wall in both directions eventually ending at the gates and towers
+built into the wall.  You can west or east along the wall.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50049
+D3
+~
+~
+Z 0 50051
+S
+#50051
+Along the South Wall~
+You are walking along the city's south wall.  The wooden walls run off to
+the east and west, the ends of each log sharpened to a point and capped with
+what looks like a silver point.  From beyond the wall eerie noises assault
+you and your first thought is will the wall hold.  A paved path leads off
+along the wall in both directions eventually ending at the gates and towers
+built into the wall.  You can west or east along the wall.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50050
+D3
+~
+~
+Z 0 50052
+S
+#50052
+Southwest Tower~
+You are standing in the base of one of the city's many towers.  The tower
+climbs about 25 feet into the cloudy sky and seems to be made of gray
+granite.  This bottom level is empty, except for the stairs up to the door
+to the second level, and openings leading to the wall paths.  You may move
+out along one of the wall paths, or hope the guards upstairs don't mind you
+visiting them.  Rumors have the guards as a cruel and sadistic lot, so maybe
+the wall paths are a better choice.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50053
+D1
+~
+~
+Z 0 50051
+D4
+~
+~
+Z 0 50093
+S
+#50053
+Along the West Wall~
+You are walking along the city's west wall.  The wooden walls run off to
+the north and south, the ends of each log sharpened to a point and capped
+with what looks like a silver point.  From beyond the wall eerie noises
+assault you and your first thought is will the wall hold.  A paved path
+leads off along the wall in both directions eventually ending at the gates
+and towers built into the wall.  You can north or south along the wall.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50054
+D2
+~
+~
+Z 0 50052
+S
+#50054
+Along the West Wall~
+You are walking along the city's west wall.  The wooden walls run off to
+the north and south, the ends of each log sharpened to a point and capped
+with what looks like a silver point.  From beyond the wall eerie noises
+assault you and your first thought is will the wall hold.  A paved path
+leads off along the wall in both directions eventually ending at the gates
+and towers built into the wall.  You can north or south along the wall.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50055
+D2
+~
+~
+Z 0 50053
+S
+#50055
+Along the West Wall~
+You are walking along the city's west wall.  The wooden walls run off to
+the north and south, the ends of each log sharpened to a point and capped
+with what looks like a silver point.  From beyond the wall eerie noises
+assault you and your first thought is will the wall hold.  A paved path
+leads off along the wall in both directions eventually ending at the gates
+and towers built into the wall.  You can north or south along the wall.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50056
+D2
+~
+~
+Z 0 50054
+S
+#50056
+Along the West Wall~
+You are walking along the city's west wall.  The wooden walls run off to
+the north and south, the ends of each log sharpened to a point and capped
+with what looks like a silver point.  From beyond the wall eerie noises
+assault you and your first thought is will the wall hold.  A paved path
+leads off along the wall in both directions eventually ending at the gates
+and towers built into the wall.  You can north or south along the wall.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50057
+D2
+~
+~
+Z 0 50055
+S
+#50057
+West Gate~
+You stand just inside the city's West Gate.  The wooden walls run off to
+the north and south, the ends of each log sharpened to a point and capped
+with what looks like a silver point.  The gates themselves are made of
+sturdy oak, reinforced with iron straps, and barred by a large beam made of
+the same oak as the gate.  A paved path leads off along the wall in both
+directions, and another wider street leads north into the town.  Above you
+in a sturdy gatehouse, a guardsman stares down, as if wondering when you'll
+move on.  The gatehouse is supported by four large stone pillars and seems
+to be designed to withstand any assault.  You can east along Central Street,
+north or south along the wall, or back out the gate to the west.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50058
+D1
+~
+~
+Z 0 50074
+D2
+~
+~
+Z 0 50056
+D4
+~
+~
+Z 0 50091
+S
+#50058
+Along the West Wall~
+You are walking along the city's west wall.  The wooden walls run off to
+the north and south, the ends of each log sharpened to a point and capped
+with what looks like a silver point.  From beyond the wall eerie noises
+assault you and your first thought is will the wall hold.  A paved path
+leads off along the wall in both directions eventually ending at the gates
+and towers built into the wall.  You can north or south along the wall.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50059
+D2
+~
+~
+Z 0 50057
+S
+#50059
+Along the West Wall~
+You are walking along the city's west wall.  The wooden walls run off to
+the north and south, the ends of each log sharpened to a point and capped
+with what looks like a silver point.  From beyond the wall eerie noises
+assault you and your first thought is will the wall hold.  A paved path
+leads off along the wall in both directions eventually ending at the gates
+and towers built into the wall.  You can north or south along the wall.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50060
+D2
+~
+~
+Z 0 50058
+S
+#50060
+Along the West Wall~
+You are walking along the city's west wall.  The wooden walls run off to
+the north and south, the ends of each log sharpened to a point and capped
+with what looks like a silver point.  From beyond the wall eerie noises
+assault you and your first thought is will the wall hold.  A paved path
+leads off along the wall in both directions eventually ending at the gates
+and towers built into the wall.  You can north or south along the wall.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50061
+D2
+~
+~
+Z 0 50059
+S
+#50061
+Along the West Wall~
+You are walking along the city's west wall.  The wooden walls run off to
+the north and south, the ends of each log sharpened to a point and capped
+with what looks like a silver point.  From beyond the wall eerie noises
+assault you and your first thought is will the wall hold.  A paved path
+leads off along the wall in both directions eventually ending at the gates
+and towers built into the wall.  You can north or south along the wall.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50062
+D2
+~
+~
+Z 0 50060
+S
+#50062
+Northwest Tower~
+You are standing in the base of one of the city's many towers.  The tower
+climbs about 25 feet into the cloudy sky and seems to be made of gray
+granite.  This bottom level is empty, except for the stairs up to the door
+to the second level, a trapdoor in the floor, and openings leading to the
+wall paths.  You may move out along one of the wall paths, or hope the
+guards don't mind you visiting them either upstairs or downstairs.  Rumors
+have the guards as a cruel and sadistic lot, so maybe the wall paths are a
+better choice.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50063
+D2
+~
+~
+Z 0 50061
+D4
+~
+~
+Z 0 50088
+S
+#50063
+Along the North Wall~
+You are walking along the city's north wall.  The wooden walls run off to
+the east and west, the ends of each log sharpened to a point and capped with
+what looks like a silver point.  From beyond the wall eerie noises assault
+you and your first thought is will the wall hold.  A paved path leads off
+along the wall in both directions eventually ending at the gates and towers
+built into the wall.  You can west or east along the wall.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50064
+D3
+~
+~
+Z 0 50062
+S
+#50064
+Along the North Wall~
+You are walking along the city's north wall.  The wooden walls run off to
+the east and west, the ends of each log sharpened to a point and capped with
+what looks like a silver point.  From beyond the wall eerie noises assault
+you and your first thought is will the wall hold.  A paved path leads off
+along the wall in both directions eventually ending at the gates and towers
+built into the wall.  You can west or east along the wall.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50065
+D3
+~
+~
+Z 0 50063
+S
+#50065
+Along the North Wall~
+You are walking along the city's north wall.  The wooden walls run off to
+the east and west, the ends of each log sharpened to a point and capped with
+what looks like a silver point.  From beyond the wall eerie noises assault
+you and your first thought is will the wall hold.  A paved path leads off
+along the wall in both directions eventually ending at the gates and towers
+built into the wall.  You can west or east along the wall.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50031
+D3
+~
+~
+Z 0 50064
+S
+#50066
+West Commons~
+This section of the commons is reassuring in its weird sounds, from the
+south comes music while to the north are sounds of pain and suffering. 
+Looking to the north is a large building that serves as a hospice for
+wounded adventures and townsfolk.  While to the south there is a modest but
+well-designed house, which seems to have a party going on.  The Commons ends
+its western journey here, while to the east is the remainder of the commons.
+You may go to the Hospice to the north, the house to the south, or follow
+the commons to the east.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50067
+S
+#50067
+West Commons~
+This section of the commons runs between a series of small houses.  The
+yards of these houses seem to be pitiful compared to the lush gardens
+elsewhere in town, but are quite nice compared to some of the neighboring
+yards.  Looking to the north is a small red house with not a light showing,
+almost as if it was abandoned.  While to the south there is a modest but
+slightly rundown house which seems to have lights everywhere.  The Commons
+continue to their end in the west, while to the east is the remainder of the
+commons.  You may go to the house to the north, the house to the south, or
+follow the commons to the east or west.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50068
+D3
+~
+~
+Z 0 50066
+S
+#50068
+West Commons~
+This section of the commons runs between a series of small houses.  None
+of the houses here seem to be of any interest, but there are more houses to
+the west.  The Commons continue off to the west, while to the east is the
+Common Square.  Townsfolk rush by you as if anxious to get inside their
+houses with locked doors keeping the fog at bay.  You may follow the commons
+to the west or enter the Common Square to the east 
+~
+0 0 inside
+D1
+~
+~
+Z 0 50029
+D3
+~
+~
+Z 0 50067
+S
+#50069
+East Commons~
+This section of the commons runs between a series of small houses.  None
+of the houses here seem to be of any interest, but there are more houses to
+the east.  The Commons continue off to the east, while to the west is the
+Common Square.  Townsfolk rush by you as if anxious to get inside their
+houses with locked doors keeping the fog at bay.  You may follow the commons
+to the east or enter the Common Square to the west.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50070
+D3
+~
+~
+Z 0 50029
+S
+#50070
+East Commons~
+You are in the East Commons between a pair of large houses, which seem to
+loom threateningly over the suddenly narrow common way.  Fewer and fewer
+townsfolk pass by as you pause here, the few that do seem more afraid of the
+houses than they are of the Town Guard, as a matter of fact where did all
+the guardsmen go.  You suddenly get the feeling maybe you should move on,
+you can enter one of the eerie houses or continue along the Commons. 
+
+~
+0 0 inside
+D1
+~
+~
+Z 0 50071
+D3
+~
+~
+Z 0 50069
+S
+#50071
+East Commons~
+To your north is a run-down building of medium size, and to the south is
+the Town Hall of Records.  As you stand on the road in-between these two
+structures you feel trapped like a fly in amber, only for a moment but a
+moment is enough to unnerve you.  Something is important about both these
+buildings but important to whom, and what it is a mystery to you.  You can
+explore the buildings or move down the commons to the west.  
+~
+0 0 inside
+D3
+~
+~
+Z 0 50070
+S
+#50072
+Town Square-Northwest~
+You are standing in the northwestern corner of the Town Square.  Looking
+around quietly you notice the furtive movements of the townspeople as they
+try not to attract the attention of the lounging guardsmen.  Small stores
+line the square between a large house, an enormous temple, and a slightly
+smaller inn which dominate the square.  To the southeast you see a large
+fountain shaped like an angel with a flaming sword held upright above the
+fountain.  Directly to your north is the temple building a structure of
+pillars and stairs made out of a whitish stone.  To your west is the town's
+General Store.  You may enter the temple to the north, the store to the west
+or move along the square to east or south.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50027
+D2
+~
+~
+Z 0 50076
+S
+#50073
+Town Square-Northeast~
+You are standing in the northeastern corner of the Town Square.  Looking
+around quietly you notice the furtive movements of the townspeople as they
+try not to attract the attention of the lounging guardsmen.  Small stores
+line the square between a large house, an enormous temple, and a slightly
+smaller inn, which dominate the square.  To the southwest you see a large
+fountain shaped like an angel with a flaming sword held upright above the
+fountain.  Directly to your north is the town's grocery, from which comes
+the delicious smell of baked goods.  To your east is the town's bank.  You
+may enter the store to the north, the bank to the east or move along the
+square to west or south.  
+~
+0 0 inside
+D2
+~
+~
+Z 0 50077
+D3
+~
+~
+Z 0 50027
+S
+#50074
+West Central Street-Near Gate~
+You are walking along Central Street just east of the West Gate.  Far to
+the east is the bustle of the Town Square.  Guardsmen look at you as they
+pass and some even look back at you, but none seem inclined to challenge
+your presence here yet.  Fearful townsfolk scurry by trying to avoid
+attracting an type of notice, and as the guardsmen beat one that caught
+their notice you see why.  You are not surprised that no one seems likely to
+help the poor unfortunate.  To the north is a well-made building with a sign
+depicting a compass over the entrance.  To the south is the bureaucracy of
+the Town Hall with the usual bodies swinging from the gallows beside the
+building.  You can wander east toward the square, enter the buildings to
+north and south, or go west to the West Gate.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50075
+D3
+~
+~
+Z 0 50057
+S
+#50075
+West Central Street-Near Square~
+You are walking along Central Street just west of the fearful bustle of
+the Town Square.  Guardsmen look at you as they pass but none seem inclined
+to challenge your presence here yet.  Fearful townsfolk scurry by trying to
+avoid attracting an type of notice, and as the guardsmen beat one that
+caught their notice you see why.  You are not surprised that no one seems
+likely to help the poor unfortunate.  You can wander east into the square or
+west along Central Street.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50076
+D3
+~
+~
+Z 0 50074
+S
+#50076
+Town Square-West~
+You are standing in the westernmost section of the Town Square.  Looking
+around quietly you notice the furtive movements of the townspeople as they
+try not to attract the attention of the lounging guardsmen.  Small stores
+line the square between a large house, an enormous temple, and a slightly
+smaller Inn which dominate the square.  To the east you see a large fountain
+shaped like an angel with a flaming sword held upright above the fountain. 
+You may leave the square to the west or go deeper into the square in another
+direction.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50072
+D1
+~
+~
+Z 0 50026
+D2
+~
+~
+Z 0 50080
+D3
+~
+~
+Z 0 50075
+S
+#50077
+Town Square-East~
+You are standing in the easternmost section of the Town Square.  Looking
+around quietly you notice the furtive movements of the townspeople as they
+try not to attract the attention of the lounging guardsmen.  Small stores
+line the square between a large house, an enormous temple, and a slightly
+smaller Inn which dominate the square.  To the west you see a large fountain
+shaped like an angel with a flaming sword held upright above the fountain. 
+You may leave the square to the east or go deeper into the square in another
+direction.  
+~
+0 0 inside
+D0
+~
+~
+Z 0 50073
+D1
+~
+~
+Z 0 50078
+D2
+~
+~
+Z 0 50081
+D3
+~
+~
+Z 0 50026
+S
+#50078
+East Central Street-Near Square~
+You are walking along Central Street just east of the fearful bustle of
+the Town Square.  Guardsmen look at you as they pass but none seem inclined
+to challenge your presence here yet.  Fearful townsfolk scurry by trying to
+avoid attracting an type of notice, and as the guardsmen beat one that
+caught their notice you see why.  You are not surprised that no one seems
+likely to help the poor unfortunate.  You can wander west into the square or
+east along Central Street.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50079
+D3
+~
+~
+Z 0 50077
+S
+#50079
+East Central Street-Near Gate~
+You are walking along Central Street just west of the East Gate.  Far to
+the west is the bustle of the Town Square.  Guardsmen look at you as they
+pass and some even look back at you, but none seem inclined to challenge
+your presence here yet.  Fearful townsfolk scurry by trying to avoid
+attracting an type of notice, and as the guardsmen beat one that caught
+their notice you see why.  You are not surprised that no one seems likely to
+help the poor unfortunate.  To the north is a well-made building with a sign
+depicting a shovel and coffin over the entrance.  To the south is a small
+weapons shop, with an occasional flash of steel as a customer tries out a
+new weapon.  You can wander west toward the square, enter the buildings to
+north and south, or go east to the East Gate.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50040
+D3
+~
+~
+Z 0 50078
+S
+#50080
+Town Square-Southwest~
+~
+0 0 inside
+D0
+~
+~
+Z 0 50076
+D1
+~
+~
+Z 0 50025
+S
+#50081
+~
+~
+0 0 inside
+D0
+~
+~
+Z 0 50077
+D3
+~
+~
+Z 0 50025
+S
+#50082
+West Guild Road~
+You are in an area devoted to the guilds that have headquarters or
+chapters in this desolate town.  People walk quietly to and from the various
+guilds, with you note less fear in their stride then evidenced in other
+parts of this town.  Small guild buildings are sandwiched between the
+buildings of larger more powerful guilds.  To your north is a building with
+no sign, a large house probably maintained by a guild for quarters for its
+members.  To the south is a long low building with a pair of dueling swords
+on its sign, and the sounds of combat.  You may continue down the road to
+your east or enter a building to the north or south.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50083
+S
+#50083
+West Guild Road~
+You are in an area devoted to the guilds that have headquarters or
+chapters in this desolate town.  People walk quietly to and from the various
+guilds, with you note less fear in their stride then evidenced in other
+parts of this town.  Small guild buildings are sandwiched between the
+buildings of larger more powerful guilds.  To your south is a building with
+no sign, a large run-down house probably maintained by a guild for quarters
+for its members.  To the north is a stone building with a shield and gold
+coin on its sign, the mark of the bodyguard guild.  You may continue down
+the road to your east or west or enter a building to the north or south. 
+
+~
+0 0 inside
+D1
+~
+~
+Z 0 50084
+D3
+~
+~
+Z 0 50082
+S
+#50084
+West Guild Road -Near Guild Square~
+You are in an area devoted to the guilds that have headquarters or
+chapters in this desolate town.  People walk quietly to and from the various
+guilds, with you note less fear in their stride then evidenced in other
+parts of this town.  Small guild buildings are sandwiched between the
+buildings of larger more powerful guilds.  You may continue down the road to
+your west, or enter the square to the east.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50023
+D3
+~
+~
+Z 0 50083
+S
+#50085
+East Guild Road - Near Guild Square~
+You are in an area devoted to the guilds that have headquarters or
+chapters in this desolate town.  People walk quietly to and from the various
+guilds, with you note less fear in their stride then evidenced in other
+parts of this town.  Small guild buildings are sandwiched between the
+buildings of larger more powerful guilds.  You may continue down the road to
+your east, or enter the square to the west.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50086
+D3
+~
+~
+Z 0 50023
+S
+#50086
+East Guild Road~
+You are in an area devoted to the guilds that have headquarters or
+chapters in this desolate town.  People walk quietly to and from the various
+guilds, with you note less fear in their stride then evidenced in other
+parts of this town.  Small guild buildings are sandwiched between the
+buildings of larger more powerful guilds.  To your south is a building with
+no sign, a large house probably maintained by a guild for quarters for its
+members, two dark men with clubs guard it's entrance.  To the north is a
+large building with a pen and wand on its sign.  You may continue down the
+road to your west or east, or enter a building to the north or south. 
+
+~
+0 0 inside
+D1
+~
+~
+Z 0 50087
+D3
+~
+~
+Z 0 50085
+S
+#50087
+East Guild Road~
+You are in an area devoted to the guilds that have headquarters or
+chapters in this desolate town.  People walk quietly to and from the various
+guilds, with you note less fear in their stride then evidenced in other
+parts of this town.  Small guild buildings are sandwiched between the
+buildings of larger more powerful guilds.  To your south is a building with
+no sign, a large house probably maintained by a guild for quarters for its
+members.  To the north is a long church-like building with no sign, and the
+sounds of chanting.  You may continue down the road to your west or enter a
+building to the north or south.  
+~
+0 0 inside
+D3
+~
+~
+Z 0 50086
+S
+#50088
+Northwest Tower-2nd floor~
+You are on the 2nd floor of a guard tower, and all around you guards
+scramble to meet your intrusion.  The walls of the room are reinforced stone
+with arrow slits cut at regular intervals.  In the section farthest from the
+arrow slits are a set of bunks a small table with the remains of a card game
+scattered across it.  A nearby rack contains the off-duty guard's weapons
+and armor, and a small chest contains their personal effects.  A trapdoor
+leads down out of this tower, and seems to be the only avenue of retreat
+from the angry guards.  
+~
+0 0 inside
+D5
+~
+~
+Z 0 50062
+S
+#50089
+North Gate-2nd floor~
+You are on the 2nd floor of a gatehouse, and all around you guards
+scramble to meet your intrusion.  The walls of the room are reinforced stone
+with arrow slits cut at regular intervals.  In the section farthest from the
+arrow slits are a set of bunks a small table with the remains of a card game
+scattered across it.  A nearby rack contains the off-duty guard's weapons
+and armor, and a small chest contains their personal effects.  A trapdoor
+leads down out of this tower, and several murderholes allow guards to fire
+down on invading troops.  The trapdoor seems to be the only avenue of
+retreat from the angry guards.  
+~
+0 0 inside
+D5
+~
+~
+Z 0 50031
+S
+#50090
+Northeast Tower-2nd floor~
+You are on the 2nd floor of a guard tower, and all around you guards
+scramble to meet your intrusion.  The walls of the room are reinforced stone
+with arrow slits cut at regular intervals.  In the section farthest from the
+arrow slits are a set of bunks a small table with the remains of a card game
+scattered across it.  A nearby rack contains the off-duty guard's weapons
+and armor, and a small chest contains their personal effects.  A trapdoor
+leads down out of this tower, and seems to be the only avenue of retreat
+from the angry guards.  
+~
+0 0 inside
+D5
+~
+~
+Z 0 50035
+S
+#50091
+West Gate-2nd floor~
+You are on the 2nd floor of a gatehouse, and all around you guards
+scramble to meet your intrusion.  The walls of the room are reinforced stone
+with arrow slits cut at regular intervals.  In the section farthest from the
+arrow slits are a set of bunks a small table with the remains of a card game
+scattered across it.  A nearby rack contains the off-duty guard's weapons
+and armor, and a small chest contains their personal effects.  A trapdoor
+leads down out of this tower, and several murderholes allow guards to fire
+down on invading troops.  The trapdoor seems to be the only avenue of
+retreat from the angry guards.  
+~
+0 0 inside
+D5
+~
+~
+Z 0 50057
+S
+#50092
+East Gate-2nd floor~
+You are on the 2nd floor of a gatehouse, and all around you guards
+scramble to meet your intrusion.  The walls of the room are reinforced stone
+with arrow slits cut at regular intervals.  In the section farthest from the
+arrow slits are a set of bunks a small table with the remains of a card game
+scattered across it.  A nearby rack contains the off-duty guard's weapons
+and armor, and a small chest contains their personal effects.  A trapdoor
+leads down out of this tower, and several murderholes allow guards to fire
+down on invading troops.  The trapdoor seems to be the only avenue of
+retreat from the angry guards.  
+~
+0 0 inside
+D5
+~
+~
+Z 0 50040
+S
+#50093
+Southwest Tower-2nd floor~
+You are on the 2nd floor of a guard tower, and all around you guards
+scramble to meet your intrusion.  The walls of the room are reinforced stone
+with arrow slits cut at regular intervals.  In the section farthest from the
+arrow slits are a set of bunks a small table with the remains of a card game
+scattered across it.  A nearby rack contains the off-duty guard's weapons
+and armor, and a small chest contains their personal effects.  A trapdoor
+leads down out of this tower, and seems to be the only avenue of retreat
+from the angry guards.  
+~
+0 0 inside
+D5
+~
+~
+Z 0 50052
+S
+#50094
+South Gate-2nd floor~
+You are on the 2nd floor of a gatehouse, and all around you guards
+scramble to meet your intrusion.  The walls of the room are reinforced stone
+with arrow slits cut at regular intervals.  In the section farthest from the
+arrow slits are a set of bunks a small table with the remains of a card game
+scattered across it.  A nearby rack contains the off-duty guard's weapons
+and armor, and a small chest contains their personal effects.  A trapdoor
+leads down out of this tower, and several murderholes allow guards to fire
+down on invading troops.  The trapdoor seems to be the only avenue of
+retreat from the angry guards.  
+~
+0 0 inside
+D5
+~
+~
+Z 0 50021
+S
+#50095
+Southeast Tower-2nd floor~
+You are on the 2nd floor of a guard tower, and all around you guards
+scramble to meet your intrusion.  The walls of the room are reinforced stone
+with arrow slits cut at regular intervals.  In the section farthest from the
+arrow slits are a set of bunks a small table with the remains of a card game
+scattered across it.  A nearby rack contains the off-duty guard's weapons
+and armor, and a small chest contains their personal effects.  A trapdoor
+leads down out of this tower, and seems to be the only avenue of retreat
+from the angry guards.  
+~
+0 0 inside
+D5
+~
+~
+Z 0 50045
+S
+#50100
+Deep in the Moors~
+As you stand here surrounded by a fog so thick that sight as a sense is
+nearly useless, you wonder why you are out in this desolate land.  What you
+can see in the brief moments when the fog thins out is a land of scrub brush
+and shallow marshes, devoid of any sign of life.  Well not quite devoid of
+life as a shiver goes down your spine as a howl rises into the night air. 
+Are the stories about missing travelers have a more sinister reason then an
+attempt to scare the naive?  You can go in any direction, though all you can
+see is more of this desolate moor.  
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50100
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50005
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50101
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50100
+S
+#50101
+Somewhere in the Moors~
+As the curtain of fog around you parts briefly you gaze out upon a
+desolate land of scrub brush and shallow swamps.  The chill you feel is not
+completely due to the dampness of the night air, you realize, as yet another
+eerie howl comes from somewhere in the distance.  As the fog closes back in
+around you, one thought causes you some worry, 'was the howling getting
+closer?  '.  Pondering what could be causing that forlorn sound you
+contemplate the path you should follow, in the end all directions seem the
+same in this dismal moor 
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50100
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50102
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50101
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50100
+S
+#50102
+Lost in the Moors~
+Splashing through yet another puddle, you pause to look about you and
+wonder how you came to be in such a dismal place.  Looking at the scrub
+brush and swampy ground when the fog thins enough to see it, you wish you
+were anywhere but in this damp and dark place.  Somewhere behind you a low
+and eerie howl salutes the full moon, barely visible through the dark
+brooding clouds.  Was the howl closer this time?  Not wanting to wait and
+see, you look about trying to pick a path away from the eerie howling, but
+all directions seem to lead to yet further stretches of this desolate moor. 
+
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50103
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50101
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50102
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50101
+S
+#50103
+Wandering the Moors~
+As you stand here surrounded by a fog so thick that sight as a sense is
+nearly useless, you wonder why you are out in this desolate land.  What you
+can see in the brief moments when the fog thins out is a land of scrub brush
+and shallow marshes, devoid of any sign of life.  Well not quite devoid of
+life as a shiver goes down your spine as a howl rises into the night air. 
+Are the stories about missing travelers have a more sinister reason then an
+attempt to scare the naive?  You can go in any direction, though all you can
+see is more of this desolate moor.  
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50102
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50102
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50103
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50104
+S
+#50104
+Another Moor~
+As the curtain of fog around you parts briefly you gaze out upon a
+desolate land of scrub brush and shallow swamps.  The chill you feel is not
+completely due to the dampness of the night air, you realize, as yet another
+eerie howl comes from somewhere in the distance.  As the fog closes back in
+around you, one thought causes you some worry, 'was the howling getting
+closer?  '.  Pondering what could be causing that forlorn sound you
+contemplate the path you should follow, in the end all directions seem the
+same in this dismal moor.  
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50104
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50104
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50103
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50105
+S
+#50105
+More Moors~
+Splashing through yet another puddle, you pause to look about you and
+wonder how you came to be in such a dismal place.  Looking at the scrub
+brush and swampy ground when the fog thins enough to see it, you wish you
+were anywhere but in this damp and dark place.  Somewhere behind you a low
+and eerie howl salutes the full moon, barely visible through the dark
+brooding clouds.  Was the howl closer this time?  Not wanting to wait and
+see, you look about trying to pick a path away from the eerie howling, but
+all directions seem to lead to yet further stretches of this desolate moor. 
+
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50104
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50106
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50100
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50104
+S
+#50106
+Yet another Moor~
+As you stand here surrounded by a fog so thick that sight as a sense is
+nearly useless, you wonder why you are out in this desolate land.  What you
+can see in the brief moments when the fog thins out is a land of scrub brush
+and shallow marshes, devoid of any sign of life.  Well not quite devoid of
+life as a shiver goes down your spine as a howl rises into the night air. 
+Are the stories about missing travelers have a more sinister reason then an
+attempt to scare the naive?  You can go in any direction, though all you can
+see is more of this desolate moor.  
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50107
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50101
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50106
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50105
+S
+#50107
+Lost in the Moors~
+As the curtain of fog around you parts briefly you gaze out upon a
+desolate land of scrub brush and shallow swamps.  The chill you feel is not
+completely due to the dampness of the night air, you realize, as yet another
+eerie howl comes from somewhere in the distance.  As the fog closes back in
+around you, one thought causes you some worry, 'was the howling getting
+closer?  '.  Pondering what could be causing that forlorn sound you
+contemplate the path you should follow, in the end all directions seem the
+same in this dismal moor.  
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50105
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50103
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50101
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50108
+S
+#50108
+deep in the Moors~
+As you stand here surrounded by a fog so thick that sight as a sense is
+nearly useless, you wonder why you are out in this desolate land.  What you
+can see in the brief moments when the fog thins out is a land of scrub brush
+and shallow marshes, devoid of any sign of life.  Well not quite devoid of
+life as a shiver goes down your spine as a howl rises into the night air. 
+Are the stories about missing travelers have a more sinister reason then an
+attempt to scare the naive?  You can go in any direction, though all you can
+see is more of this desolate moor.  
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50106
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50105
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50109
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50104
+S
+#50109
+Deep in the Moors~
+As the curtain of fog around you parts briefly you gaze out upon a
+desolate land of scrub brush and shallow swamps.  The chill you feel is not
+completely due to the dampness of the night air, you realize, as yet another
+eerie howl comes from somewhere in the distance.  As the fog closes back in
+around you, one thought causes you some worry, 'was the howling getting
+closer?  '.  Pondering what could be causing that forlorn sound you
+contemplate the path you should follow, in the end all directions seem the
+same in this dismal moor.  
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50107
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50110
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50107
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50103
+S
+#50110
+Deep in the Moors~
+Splashing through yet another puddle, you pause to look about you and
+wonder how you came to be in such a dismal place.  Looking at the scrub
+brush and swampy ground when the fog thins enough to see it, you wish you
+were anywhere but in this damp and dark place.  Somewhere behind you a low
+and eerie howl salutes the full moon, barely visible through the dark
+brooding clouds.  Was the howl closer this time?  Not wanting to wait and
+see, you look about trying to pick a path away from the eerie howling, but
+all directions seem to lead to yet further stretches of this desolate moor. 
+
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50111
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50107
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50102
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50112
+S
+#50111
+Deep in the Moors~
+As you stand here surrounded by a fog so thick that sight as a sense is
+nearly useless, you wonder why you are out in this desolate land.  What you
+can see in the brief moments when the fog thins out is a land of scrub brush
+and shallow marshes, devoid of any sign of life.  Well not quite devoid of
+life as a shiver goes down your spine as a howl rises into the night air. 
+Are the stories about missing travelers have a more sinister reason then an
+attempt to scare the naive?  You can go in any direction, though all you can
+see is more of this desolate moor.  
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50103
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50109
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50108
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50112
+S
+#50112
+Deep in the Moors~
+As the curtain of fog around you parts briefly you gaze out upon a
+desolate land of scrub brush and shallow swamps.  The chill you feel is not
+completely due to the dampness of the night air, you realize, as yet another
+eerie howl comes from somewhere in the distance.  As the fog closes back in
+around you, one thought causes you some worry, 'was the howling getting
+closer?  '.  Pondering what could be causing that forlorn sound you
+contemplate the path you should follow, in the end all directions seem the
+same in this dismal moor.  
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50104
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50111
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50113
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50111
+S
+#50113
+Deep in the Moors~
+Splashing through yet another puddle, you pause to look about you and
+wonder how you came to be in such a dismal place.  Looking at the scrub
+brush and swampy ground when the fog thins enough to see it, you wish you
+were anywhere but in this damp and dark place.  Somewhere behind you a low
+and eerie howl salutes the full moon, barely visible through the dark
+brooding clouds.  Was the howl closer this time?  Not wanting to wait and
+see, you look about trying to pick a path away from the eerie howling, but
+all directions seem to lead to yet further stretches of this desolate moor. 
+
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50106
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50114
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50103
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50110
+S
+#50114
+Deep in the Moors~
+Splashing through yet another puddle, you pause to look about you and
+wonder how you came to be in such a dismal place.  Looking at the scrub
+brush and swampy ground when the fog thins enough to see it, you wish you
+were anywhere but in this damp and dark place.  Somewhere behind you a low
+and eerie howl salutes the full moon, barely visible through the dark
+brooding clouds.  Was the howl closer this time?  Not wanting to wait and
+see, you look about trying to pick a path away from the eerie howling, but
+all directions seem to lead to yet further stretches of this desolate moor. 
+
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50115
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50113
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50109
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50114
+S
+#50115
+Deep in the Moors~
+As you stand here surrounded by a fog so thick that sight as a sense is
+nearly useless, you wonder why you are out in this desolate land.  What you
+can see in the brief moments when the fog thins out is a land of scrub brush
+and shallow marshes, devoid of any sign of life.  Well not quite devoid of
+life as a shiver goes down your spine as a howl rises into the night air. 
+Are the stories about missing travelers have a more sinister reason then an
+attempt to scare the naive?  You can go in any direction, though all you can
+see is more of this desolate moor.  
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50108
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50111
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50111
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50116
+S
+#50116
+Deep in the Moors~
+As the curtain of fog around you parts briefly you gaze out upon a
+desolate land of scrub brush and shallow swamps.  The chill you feel is not
+completely due to the dampness of the night air, you realize, as yet another
+eerie howl comes from somewhere in the distance.  As the fog closes back in
+around you, one thought causes you some worry, 'was the howling getting
+closer?  '.  Pondering what could be causing that forlorn sound you
+contemplate the path you should follow, in the end all directions seem the
+same in this dismal moor.  
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50110
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50109
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50117
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50115
+S
+#50117
+Deep in the Moors~
+Splashing through yet another puddle, you pause to look about you and
+wonder how you came to be in such a dismal place.  Looking at the scrub
+brush and swampy ground when the fog thins enough to see it, you wish you
+were anywhere but in this damp and dark place.  Somewhere behind you a low
+and eerie howl salutes the full moon, barely visible through the dark
+brooding clouds.  Was the howl closer this time?  Not wanting to wait and
+see, you look about trying to pick a path away from the eerie howling, but
+all directions seem to lead to yet further stretches of this desolate moor. 
+
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50112
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50118
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50115
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50116
+S
+#50118
+Deep in the Moors~
+Splashing through yet another puddle, you pause to look about you and
+wonder how you came to be in such a dismal place.  Looking at the scrub
+brush and swampy ground when the fog thins enough to see it, you wish you
+were anywhere but in this damp and dark place.  Somewhere behind you a low
+and eerie howl salutes the full moon, barely visible through the dark
+brooding clouds.  Was the howl closer this time?  Not wanting to wait and
+see, you look about trying to pick a path away from the eerie howling, but
+all directions seem to lead to yet further stretches of this desolate moor. 
+
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50114
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50111
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50119
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50117
+S
+#50119
+Deep in the Moors~
+As you stand here surrounded by a fog so thick that sight as a sense is
+nearly useless, you wonder why you are out in this desolate land.  What you
+can see in the brief moments when the fog thins out is a land of scrub brush
+and shallow marshes, devoid of any sign of life.  Well not quite devoid of
+life as a shiver goes down your spine as a howl rises into the night air. 
+Are the stories about missing travelers have a more sinister reason then an
+attempt to scare the naive?  You can go in any direction, though all you can
+see is more of this desolate moor.  
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50116
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50113
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50117
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50120
+S
+#50120
+Deep in the Moors~
+As the curtain of fog around you parts briefly you gaze out upon a
+desolate land of scrub brush and shallow swamps.  The chill you feel is not
+completely due to the dampness of the night air, you realize, as yet another
+eerie howl comes from somewhere in the distance.  As the fog closes back in
+around you, one thought causes you some worry, 'was the howling getting
+closer?  '.  Pondering what could be causing that forlorn sound you
+contemplate the path you should follow, in the end all directions seem the
+same in this dismal moor.  
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50121
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50117
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50119
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50118
+S
+#50121
+Deep in the Moors~
+As you stand here surrounded by a fog so thick that sight as a sense is
+nearly useless, you wonder why you are out in this desolate land.  What you
+can see in the brief moments when the fog thins out is a land of scrub brush
+and shallow marshes, devoid of any sign of life.  Well not quite devoid of
+life as a shiver goes down your spine as a howl rises into the night air. 
+Are the stories about missing travelers have a more sinister reason then an
+attempt to scare the naive?  You can go in any direction, though all you can
+see is more of this desolate moor.  
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50121
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50122
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50120
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50119
+S
+#50122
+Deep in the Moors~
+Splashing through yet another puddle, you pause to look about you and
+wonder how you came to be in such a dismal place.  Looking at the scrub
+brush and swampy ground when the fog thins enough to see it, you wish you
+were anywhere but in this damp and dark place.  Somewhere behind you a low
+and eerie howl salutes the full moon, barely visible through the dark
+brooding clouds.  Was the howl closer this time?  Not wanting to wait and
+see, you look about trying to pick a path away from the eerie howling, but
+all directions seem to lead to yet further stretches of this desolate moor. 
+
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50123
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50118
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50119
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50120
+S
+#50123
+Deep in the Moors~
+As the curtain of fog around you parts briefly you gaze out upon a
+desolate land of scrub brush and shallow swamps.  The chill you feel is not
+completely due to the dampness of the night air, you realize, as yet another
+eerie howl comes from somewhere in the distance.  As the fog closes back in
+around you, one thought causes you some worry, 'was the howling getting
+closer?  '.  Pondering what could be causing that forlorn sound you
+contemplate the path you should follow, in the end all directions seem the
+same in this dismal moor.  
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50115
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50116
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50117
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50124
+S
+#50124
+Deep in the Moors~
+As you stand here surrounded by a fog so thick that sight as a sense is
+nearly useless, you wonder why you are out in this desolate land.  What you
+can see in the brief moments when the fog thins out is a land of scrub brush
+and shallow marshes, devoid of any sign of life.  Well not quite devoid of
+life as a shiver goes down your spine as a howl rises into the night air. 
+Are the stories about missing travelers have a more sinister reason then an
+attempt to scare the naive?  You can go in any direction, though all you can
+see is more of this desolate moor.  
+~
+0 0 inside
+D0
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50112
+D1
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50113
+D2
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 50125
+D3
+Looking to the north you see yet more fog-shrouded moors.  
+~
+~
+Z 0 114
+S
+#50125
+The Lair~
+~
+0 A inside
+D0
+~
+~
+Z 0 50124
+S
+#50159
+Headquarters of the Town Guard~
+You are inside a large building whose purpose is quickly evident by the
+racks of weapons and armor stored about as well as by the off-duty guards
+lazing around.  On a closer look you realize that the guardsmen are
+uniformly cruel and the glances they send your way don't bode well for your
+continued health.  As you check your escape routes you notice only two, the
+door east to the street and a staircase going up to the second floor.  A
+large man in black and silver armor guards the stairwell, so maybe the
+street would be safer.  
+~
+0 0 inside
+D1
+~
+~
+Z 0 50022
+S
+#50160
+Town Library~
+You walk into a medium-sized building and notice books, shelves full of
+books.  All four walls are covered with books from floor to ceiling.  A
+small desk is in the center of the room with a {ysign{x upon it.  Dust coats the
+floor and the shelves and it seems to you that no one has been in here in a
+long time.  This seems to be the town library, unused and probably
+unappreciated.  Your only exit from this dusty room is back out the way you
+came.  
+~
+0 0 inside
+E
+sign~
+To whom it may concern,
+I QUIT!!! No one in this town reads anyway so why should I spend
+day after day in this dust room. 
+ 
+If you're here for a book help yourself the {yindex{x is in the desk.
+ 
+Jane Schultz
+~
+D3
+~
+~
+Z 0 50022
+S
+#0
+
+#RESETS
+D 0 50008 0 1	* Near the Gypsy Camp: door to the north: closed
+D 0 50021 2 1	* South Gate: door to the south: closed
+S
+
+#MOBPROGS
+#50000
+~
+#0
+
+#$
