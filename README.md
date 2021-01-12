@@ -1,4 +1,4 @@
-# Icey Dephs, or Icey Mud 0.9 by Momo and Erebus 
+# Icey Depths, or Icey Mud 0.9 by Momo and Erebus 
 
 This source code was found among [MudBytes archives](http://www.mudbytes.net/files/1634/) and published on GitHub for everyone to enjoy.
 
